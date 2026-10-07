@@ -1,13 +1,13 @@
 ---
 name: "buildTiff"
 type: "function"
-file: "tools/ui/tests/unit/jpeg-orientation.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/jpeg-orientation.test.ts"
 community: "tools"
 ---
 
 # buildTiff
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/jpeg-orientation.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/jpeg-orientation.test.ts`
 
 **Community:** [[communities/tools]]
 

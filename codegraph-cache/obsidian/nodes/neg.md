@@ -1,15 +1,15 @@
 ---
 name: "neg"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # neg
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -18,8 +18,6 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/sf]] _calls_
 - [[nodes/cos]] _calls_
 - [[nodes/sin]] _calls_
 - [[nodes/tan]] _calls_
-- [[nodes/ggml_compute_forward_tri]] _calls_

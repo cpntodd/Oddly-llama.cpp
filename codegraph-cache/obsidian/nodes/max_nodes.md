@@ -21,8 +21,6 @@ community: "src"
 - [[nodes/ggml_init]] _calls_
 - [[nodes/ggml_new_graph_custom]] _calls_
 - [[nodes/ggml_set_output]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/set_params]] _calls_
 - [[nodes/llm_graph_context]] _calls_
@@ -31,7 +29,7 @@ community: "src"
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/ggml_row_size]] _calls_
 - [[nodes/ggml_build_forward_expand]] _calls_
-- [[nodes/tanh]] _calls_
+- [[nodes/sigmoid]] _calls_
 - [[nodes/ggml_set_input]] _calls_
 - [[nodes/ggml_are_same_shape]] _calls_
 - [[nodes/ggml_are_same_stride]] _calls_
@@ -43,3 +41,5 @@ community: "src"
 - [[nodes/get_size]] _calls_
 - [[nodes/ggml_element_size]] _calls_
 - [[nodes/ggml_graph_n_nodes]] _calls_
+- [[nodes/ggml_graph_node]] _calls_
+- [[nodes/ggml_format_name]] _calls_

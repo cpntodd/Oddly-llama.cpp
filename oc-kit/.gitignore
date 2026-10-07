@@ -1,0 +1,5 @@
+/bin/
+/corpus.txt
+/results/
+/__pycache__/
+/.card*.lock

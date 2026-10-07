@@ -2,14 +2,14 @@
 name: "mtmd_cli_context"
 type: "class"
 file: "tools/mtmd/mtmd-cli.cpp"
-community: "src"
+community: "tools"
 ---
 
 # mtmd_cli_context
 
 **Type:** `class`  **File:** `tools/mtmd/mtmd-cli.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

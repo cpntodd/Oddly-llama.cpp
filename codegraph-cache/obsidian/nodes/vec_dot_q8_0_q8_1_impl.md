@@ -16,6 +16,8 @@ community: "ggml"
 - [[nodes/ggml_sycl_dp4a]] _calls_
 - [[nodes/dp4a]] _calls_
 - [[nodes/x]] _calls_
+- [[nodes/block]] _calls_
+- [[nodes/ggml_sycl_ptq1_0_trit]] _calls_
 - [[nodes/get_int_b1]] _calls_
 - [[nodes/ggml_sycl_e8m0_to_fp32]] _calls_
 - [[nodes/get_int_b4]] _calls_

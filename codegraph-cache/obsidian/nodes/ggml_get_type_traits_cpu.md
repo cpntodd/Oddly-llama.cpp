@@ -2,14 +2,14 @@
 name: "ggml_get_type_traits_cpu"
 type: "function"
 file: "ggml/src/ggml-cpu/ggml-cpu.c"
-community: "ggml"
+community: "pocs"
 ---
 
 # ggml_get_type_traits_cpu
 
 **Type:** `function`  **File:** `ggml/src/ggml-cpu/ggml-cpu.c`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/pocs]]
 
 ## Used By
 

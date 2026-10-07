@@ -15,5 +15,4 @@ community: "ggml"
 
 - [[nodes/write]] _calls_
 - [[nodes/data]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/parse]] _calls_

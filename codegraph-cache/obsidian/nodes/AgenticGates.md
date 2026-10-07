@@ -1,13 +1,13 @@
 ---
 name: "AgenticGates"
 type: "class"
-file: "tools/ui/src/lib/stores/agentic/gates.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/agentic/gates.svelte.ts"
 community: "tools"
 ---
 
 # AgenticGates
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/agentic/gates.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/agentic/gates.svelte.ts`
 
 **Community:** [[communities/tools]]
 
@@ -19,5 +19,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/createDefaultSession]] _imports_
 - [[nodes/toAgenticMessages]] _calls_

@@ -1,15 +1,15 @@
 ---
 name: "apiFetchWithParams"
 type: "function"
-file: "tools/ui/src/lib/utils/api-fetch.ts"
-community: "common"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/api-fetch.ts"
+community: "build-sycl-2025"
 ---
 
 # apiFetchWithParams
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/api-fetch.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/api-fetch.ts`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

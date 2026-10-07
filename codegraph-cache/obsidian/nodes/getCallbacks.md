@@ -1,15 +1,15 @@
 ---
 name: "getCallbacks"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-attachment-menu.svelte.ts"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-attachment-menu.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # getCallbacks
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-attachment-menu.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-attachment-menu.svelte.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

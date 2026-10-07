@@ -1,21 +1,20 @@
 ---
 name: "onPageHide"
 type: "function"
-file: "tools/ui/src/lib/services/chat.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/chat.service.ts"
+community: "build-sycl-2025"
 ---
 
 # onPageHide
 
-**Type:** `function`  **File:** `tools/ui/src/lib/services/chat.service.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/chat.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/isAbortError]] _calls_
+- [[nodes/warn]] _calls_
 - [[nodes/pop]] _calls_
 - [[nodes/slice]] _calls_
 - [[nodes/finalizeOpenToolCallBatch]] _calls_
 - [[nodes/processToolCallDelta]] _calls_
-- [[nodes/stringify]] _calls_

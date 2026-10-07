@@ -10,3 +10,8 @@ community: "ggml"
 **Type:** `file`  **File:** `ggml/src/ggml-sycl/fattn-onednn.hpp`
 
 **Community:** [[communities/ggml]]
+
+## Used By
+
+- [[nodes/ggml_sycl_flash_attn_ext_onednn_supported]] _imports_
+- [[nodes/ggml_sycl_flash_attn_ext_vec]] _imports_

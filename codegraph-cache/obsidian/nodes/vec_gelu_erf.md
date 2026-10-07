@@ -2,14 +2,14 @@
 name: "vec_gelu_erf"
 type: "function"
 file: "ggml/src/ggml-et/et-kernels/src/unary_f32.c"
-community: "tools"
+community: "ggml"
 ---
 
 # vec_gelu_erf
 
 **Type:** `function`  **File:** `ggml/src/ggml-et/et-kernels/src/unary_f32.c`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

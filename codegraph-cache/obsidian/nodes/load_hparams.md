@@ -24,7 +24,6 @@ community: "ggml"
 - [[nodes/get_bool]] _calls_
 - [[nodes/get_arr_f32]] _calls_
 - [[nodes/set_internvl_dhr_res_candidates]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/tokens]] _calls_
 - [[nodes/assign]] _calls_

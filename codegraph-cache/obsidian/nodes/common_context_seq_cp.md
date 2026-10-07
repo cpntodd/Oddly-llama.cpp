@@ -2,14 +2,14 @@
 name: "common_context_seq_cp"
 type: "function"
 file: "common/common.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_context_seq_cp
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

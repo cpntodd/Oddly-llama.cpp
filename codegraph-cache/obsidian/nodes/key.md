@@ -1,17 +1,12 @@
 ---
 name: "key"
 type: "function"
-file: "ggml/src/gguf.cpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-override-fallback.test.ts"
+community: "build-sycl-2025"
 ---
 
 # key
 
-**Type:** `function`  **File:** `ggml/src/gguf.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-override-fallback.test.ts`
 
-**Community:** [[communities/ggml]]
-
-## Depends On
-
-- [[nodes/empty]] _calls_
-- [[nodes/gguf_kv]] _calls_
+**Community:** [[communities/build-sycl-2025]]

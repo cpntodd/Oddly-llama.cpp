@@ -1,12 +1,12 @@
 ---
 name: "huggingface.ico"
 type: "file"
-file: "tools/ui/static/recommended-mcp/huggingface.ico"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/static/recommended-mcp/huggingface.ico"
+community: "build-sycl-2025"
 ---
 
 # huggingface.ico
 
-**Type:** `file`  **File:** `tools/ui/static/recommended-mcp/huggingface.ico`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/static/recommended-mcp/huggingface.ico`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

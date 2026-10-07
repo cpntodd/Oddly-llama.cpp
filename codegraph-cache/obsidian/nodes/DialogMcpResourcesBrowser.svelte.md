@@ -1,12 +1,12 @@
 ---
 name: "DialogMcpResourcesBrowser.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/dialogs/DialogMcpResourcesBrowser.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogMcpResourcesBrowser.svelte"
+community: "build-sycl-2025"
 ---
 
 # DialogMcpResourcesBrowser.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/dialogs/DialogMcpResourcesBrowser.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogMcpResourcesBrowser.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

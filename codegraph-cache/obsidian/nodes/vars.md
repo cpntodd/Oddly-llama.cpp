@@ -2,14 +2,14 @@
 name: "vars"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # vars
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

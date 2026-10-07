@@ -1,15 +1,15 @@
 ---
 name: "parseFileGlobSearchMeta"
 type: "function"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/file-glob-search.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/file-glob-search.ts"
+community: "build-sycl-2025"
 ---
 
 # parseFileGlobSearchMeta
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/file-glob-search.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/file-glob-search.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -17,8 +17,3 @@ community: "tools"
 - [[nodes/types]] _imports_
 - [[nodes/ServerResponse]] _imports_
 - [[nodes/parseToolArgs]] _calls_
-- [[nodes/splitSearchSummaryList]] _calls_
-
-## Used By
-
-- [[nodes/makeSection]] _imports_

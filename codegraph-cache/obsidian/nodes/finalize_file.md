@@ -2,18 +2,14 @@
 name: "finalize_file"
 type: "function"
 file: "common/hf-cache.cpp"
-community: "tests"
+community: "common"
 ---
 
 # finalize_file
 
 **Type:** `function`  **File:** `common/hf-cache.cpp`
 
-**Community:** [[communities/tests]]
-
-## Depends On
-
-- [[nodes/copy]] _calls_
+**Community:** [[communities/common]]
 
 ## Used By
 

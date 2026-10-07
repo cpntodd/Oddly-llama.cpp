@@ -14,4 +14,3 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/float]] _calls_
-- [[nodes/exp]] _calls_

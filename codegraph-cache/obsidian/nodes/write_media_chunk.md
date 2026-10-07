@@ -18,8 +18,6 @@ community: "tools"
 - [[nodes/data]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/write]] _calls_
-- [[nodes/take]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

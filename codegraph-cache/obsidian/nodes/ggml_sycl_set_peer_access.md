@@ -23,7 +23,6 @@ community: "ggml"
 - [[nodes/pool]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/ggml_nelements]] _calls_
-- [[nodes/exit]] _calls_
 
 ## Used By
 

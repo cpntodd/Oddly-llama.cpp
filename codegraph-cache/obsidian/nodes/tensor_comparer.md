@@ -2,14 +2,14 @@
 name: "tensor_comparer"
 type: "class"
 file: "tools/imatrix/imatrix.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # tensor_comparer
 
 **Type:** `class`  **File:** `tools/imatrix/imatrix.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

@@ -2,14 +2,14 @@
 name: "hparams"
 type: "function"
 file: "src/models/minimax-01.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # hparams
 
 **Type:** `function`  **File:** `src/models/minimax-01.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

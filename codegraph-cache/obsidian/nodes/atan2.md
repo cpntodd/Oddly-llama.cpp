@@ -1,15 +1,15 @@
 ---
 name: "atan2"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # atan2
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -25,4 +25,3 @@ community: "tools"
 ## Used By
 
 - [[nodes/truncate]] _calls_
-- [[nodes/if]] _calls_

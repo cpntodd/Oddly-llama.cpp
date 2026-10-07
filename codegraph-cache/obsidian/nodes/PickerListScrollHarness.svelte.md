@@ -1,12 +1,12 @@
 ---
 name: "PickerListScrollHarness.svelte"
 type: "file"
-file: "tools/ui/tests/client/components/PickerListScrollHarness.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/components/PickerListScrollHarness.svelte"
+community: "build-sycl-2025"
 ---
 
 # PickerListScrollHarness.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/client/components/PickerListScrollHarness.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/components/PickerListScrollHarness.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

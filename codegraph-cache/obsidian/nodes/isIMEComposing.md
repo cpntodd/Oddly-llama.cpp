@@ -1,12 +1,12 @@
 ---
 name: "isIMEComposing"
 type: "function"
-file: "tools/ui/src/lib/utils/is-ime-composing.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/is-ime-composing.ts"
+community: "build-sycl-2025"
 ---
 
 # isIMEComposing
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/is-ime-composing.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/is-ime-composing.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -1,16 +1,12 @@
 ---
 name: "special-characters.constants.ts"
 type: "file"
-file: "tools/ui/src/lib/constants/special-characters.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/special-characters.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # special-characters.constants.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/constants/special-characters.constants.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/special-characters.constants.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/generateSplashScreenLinks]] _imports_
+**Community:** [[communities/build-sycl-2025]]

@@ -1,15 +1,15 @@
 ---
 name: "parseWriteFileMeta"
 type: "function"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/write-file.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/write-file.ts"
+community: "build-sycl-2025"
 ---
 
 # parseWriteFileMeta
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/write-file.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/write-file.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -19,10 +19,3 @@ community: "tools"
 - [[nodes/ServerResponse]] _imports_
 - [[nodes/parseToolArgs]] _calls_
 - [[nodes/pop]] _calls_
-- [[nodes/getFileTypeByExtension]] _calls_
-- [[nodes/tryParseToolResultObject]] _calls_
-- [[nodes/isFinite]] _calls_
-
-## Used By
-
-- [[nodes/makeSection]] _imports_

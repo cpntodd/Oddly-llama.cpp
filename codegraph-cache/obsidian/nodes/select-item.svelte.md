@@ -1,12 +1,12 @@
 ---
 name: "select-item.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/select/select-item.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/select/select-item.svelte"
+community: "build-sycl-2025"
 ---
 
 # select-item.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/select/select-item.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/select/select-item.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

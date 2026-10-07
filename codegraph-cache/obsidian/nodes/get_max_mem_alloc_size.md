@@ -13,6 +13,6 @@ community: "ggml"
 
 ## Used By
 
+- [[nodes/get_mem_base_addr_align]] _calls_
 - [[nodes/ggml_backend_sycl_buffer_type_get_max_size]] _calls_
 - [[nodes/ggml_backend_sycl_host_buffer_type_get_max_size]] _calls_
-- [[nodes/get_mem_base_addr_align]] _calls_

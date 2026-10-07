@@ -2,14 +2,14 @@
 name: "common_sampler_reasoning_budget_force"
 type: "function"
 file: "common/sampling.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_sampler_reasoning_budget_force
 
 **Type:** `function`  **File:** `common/sampling.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

@@ -1,16 +1,12 @@
 ---
 name: "declarations"
 type: "class"
-file: "tools/ui/eslint.config.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/eslint.config.js"
+community: "build-sycl-2025"
 ---
 
 # declarations
 
-**Type:** `class`  **File:** `tools/ui/eslint.config.js`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/eslint.config.js`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/signal_handler]] _calls_
+**Community:** [[communities/build-sycl-2025]]

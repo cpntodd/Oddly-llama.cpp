@@ -1,15 +1,15 @@
 ---
 name: "MCPResourceStore"
 type: "class"
-file: "tools/ui/src/lib/stores/mcp/resources.svelte.ts"
-community: "conversion"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/mcp/resources.svelte.ts"
+community: "tools"
 ---
 
 # MCPResourceStore
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/mcp/resources.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/mcp/resources.svelte.ts`
 
-**Community:** [[communities/conversion]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

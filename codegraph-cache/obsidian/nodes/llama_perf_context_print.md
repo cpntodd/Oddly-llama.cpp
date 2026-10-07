@@ -2,14 +2,14 @@
 name: "llama_perf_context_print"
 type: "function"
 file: "src/llama-context.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_perf_context_print
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

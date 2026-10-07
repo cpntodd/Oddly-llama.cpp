@@ -2,14 +2,14 @@
 name: "mtmd_support_vision"
 type: "function"
 file: "tools/mtmd/mtmd.cpp"
-community: "common"
+community: "tools"
 ---
 
 # mtmd_support_vision
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

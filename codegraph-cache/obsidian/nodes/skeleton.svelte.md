@@ -1,12 +1,12 @@
 ---
 name: "skeleton.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/skeleton/skeleton.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/skeleton/skeleton.svelte"
+community: "build-sycl-2025"
 ---
 
 # skeleton.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/skeleton/skeleton.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/skeleton/skeleton.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

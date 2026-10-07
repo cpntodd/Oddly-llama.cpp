@@ -1,13 +1,13 @@
 ---
 name: "FixtureOpts"
 type: "class"
-file: "tools/ui/tests/client/agentic-stream.perf.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts"
 community: "tools"
 ---
 
 # FixtureOpts
 
-**Type:** `class`  **File:** `tools/ui/tests/client/agentic-stream.perf.svelte.test.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

@@ -1,13 +1,13 @@
 ---
 name: "badgeSourceLength"
 type: "function"
-file: "tools/ui/src/lib/utils/chat-form-input-rich-tokenizer.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/chat-form-input-rich-tokenizer.ts"
 community: "tools"
 ---
 
 # badgeSourceLength
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/chat-form-input-rich-tokenizer.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/chat-form-input-rich-tokenizer.ts`
 
 **Community:** [[communities/tools]]
 

@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/params]] _calls_
 - [[nodes/tensor_get_category]] _calls_
 - [[nodes/tensor_allows_quantization]] _calls_
-- [[nodes/eval_grad]] _calls_
 - [[nodes/serialize_graph]] _calls_
 - [[nodes/ggml_backend_rpc_get_device_memory]] _calls_
 - [[nodes/apir_serialize_graph]] _calls_
@@ -25,3 +24,4 @@ community: "ggml"
 - [[nodes/ggml_backend_et_device_supports_op]] _calls_
 - [[nodes/process_weight_tensor]] _calls_
 - [[nodes/ggml_hexagon_supported_repeat]] _calls_
+- [[nodes/eval_grad]] _calls_

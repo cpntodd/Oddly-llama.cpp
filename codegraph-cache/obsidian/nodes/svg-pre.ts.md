@@ -1,12 +1,12 @@
 ---
 name: "svg-pre.ts"
 type: "file"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/svg-pre.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/svg-pre.ts"
+community: "build-sycl-2025"
 ---
 
 # svg-pre.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/svg-pre.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/svg-pre.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

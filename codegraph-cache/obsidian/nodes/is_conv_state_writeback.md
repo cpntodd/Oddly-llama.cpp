@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/base]] _calls_
-
 ## Used By
 
 - [[nodes/get_tensor_ov_name]] _calls_

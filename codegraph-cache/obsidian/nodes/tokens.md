@@ -2,14 +2,14 @@
 name: "tokens"
 type: "function"
 file: "common/jinja/parser.cpp"
-community: "src"
+community: "common"
 ---
 
 # tokens
 
 **Type:** `function`  **File:** `common/jinja/parser.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -30,6 +30,8 @@ community: "src"
 - [[nodes/dispatchCommand]] _calls_
 - [[nodes/processes]] _calls_
 - [[nodes/load_hparams]] _calls_
+- [[nodes/dispatchCommand]] _calls_
+- [[nodes/processes]] _calls_
 - [[nodes/llama_sampler_dry_free]] _calls_
 - [[nodes/llama_model_saver_supports_arch]] _calls_
 - [[nodes/llama_set_param]] _calls_
@@ -45,4 +47,3 @@ community: "src"
 - [[nodes/test_backend_logit_bias_sampling]] _calls_
 - [[nodes/accept_prompt]] _calls_
 - [[nodes/test_backend_penalties_sampling]] _calls_
-- [[nodes/main]] _calls_

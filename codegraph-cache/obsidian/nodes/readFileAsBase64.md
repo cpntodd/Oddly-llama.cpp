@@ -1,13 +1,13 @@
 ---
 name: "readFileAsBase64"
 type: "function"
-file: "tools/ui/src/lib/utils/convert-files-to-extra.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/convert-files-to-extra.ts"
 community: "tools"
 ---
 
 # readFileAsBase64
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/convert-files-to-extra.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/convert-files-to-extra.ts`
 
 **Community:** [[communities/tools]]
 
@@ -24,5 +24,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/UseChatMessageEditContextOptions]] _imports_
 - [[nodes/parseFilesToMessageExtras]] _calls_

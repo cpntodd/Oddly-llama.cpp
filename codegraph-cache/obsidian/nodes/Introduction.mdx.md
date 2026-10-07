@@ -1,12 +1,12 @@
 ---
 name: "Introduction.mdx"
 type: "file"
-file: "tools/ui/tests/stories/Introduction.mdx"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/Introduction.mdx"
+community: "build-sycl-2025"
 ---
 
 # Introduction.mdx
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/Introduction.mdx`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/Introduction.mdx`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

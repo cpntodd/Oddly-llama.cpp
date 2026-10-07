@@ -1,19 +1,12 @@
 ---
 name: "on"
 type: "class"
-file: "tools/ui/src/lib/constants/context-gauge-popup.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/context-gauge-popup.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # on
 
-**Type:** `class`  **File:** `tools/ui/src/lib/constants/context-gauge-popup.constants.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/context-gauge-popup.constants.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/setup]] _calls_
-- [[nodes/initializeSocketIO]] _calls_
-- [[nodes/connect]] _calls_
-- [[nodes/params]] _calls_
+**Community:** [[communities/build-sycl-2025]]

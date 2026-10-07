@@ -14,3 +14,5 @@ community: "ggml"
 ## Used By
 
 - [[nodes/ggml_hash_map_free]] _calls_
+- [[nodes/constexpr]] _calls_
+- [[nodes/constexpr]] _calls_

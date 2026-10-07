@@ -15,6 +15,5 @@ community: "tools"
 
 - [[nodes/common_arg]] _imports_
 - [[nodes/KeyValuePair]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/llama_model_deleter]] _imports_
-- [[nodes/random]] _imports_

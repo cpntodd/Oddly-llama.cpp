@@ -2,14 +2,14 @@
 name: "deserialize_string"
 type: "function"
 file: "tools/perplexity/perplexity.cpp"
-community: "src"
+community: "common"
 ---
 
 # deserialize_string
 
 **Type:** `function`  **File:** `tools/perplexity/perplexity.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

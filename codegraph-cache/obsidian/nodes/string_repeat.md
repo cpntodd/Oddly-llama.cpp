@@ -2,14 +2,14 @@
 name: "string_repeat"
 type: "function"
 file: "common/common.cpp"
-community: "tools"
+community: "common"
 ---
 
 # string_repeat
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Used By
 

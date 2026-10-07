@@ -2,14 +2,14 @@
 name: "llama_model_n_devices"
 type: "function"
 file: "src/llama-model.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # llama_model_n_devices
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

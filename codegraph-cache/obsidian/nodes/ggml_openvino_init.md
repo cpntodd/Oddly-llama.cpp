@@ -2,14 +2,14 @@
 name: "ggml_openvino_init"
 type: "function"
 file: "ggml/src/ggml-openvino/ggml-openvino.cpp"
-community: "ggml"
+community: "common"
 ---
 
 # ggml_openvino_init
 
 **Type:** `function`  **File:** `ggml/src/ggml-openvino/ggml-openvino.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

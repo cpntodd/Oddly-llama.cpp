@@ -1,13 +1,13 @@
 ---
 name: "getAllSettings"
 type: "function"
-file: "tools/ui/src/lib/constants/settings.constants.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/settings.constants.ts"
 community: "tools"
 ---
 
 # getAllSettings
 
-**Type:** `function`  **File:** `tools/ui/src/lib/constants/settings.constants.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/settings.constants.ts`
 
 **Community:** [[communities/tools]]
 
@@ -19,12 +19,11 @@ community: "tools"
 - [[nodes/title-generation.constants.ts]] _imports_
 - [[nodes/fragment]] _imports_
 - [[nodes/svelte.config.js]] _imports_
+- [[nodes/getAllSettings]] _imports_
 - [[nodes/UiStore]] _imports_
 - [[nodes/types]] _imports_
 - [[nodes/map]] _calls_
 
 ## Used By
 
-- [[nodes/SettingsStore]] _imports_
-- [[nodes/MCPStore]] _imports_
 - [[nodes/toSettingsSection]] _calls_

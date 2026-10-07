@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/size]] _calls_
 - [[nodes/common_parse_utf8_codepoint]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

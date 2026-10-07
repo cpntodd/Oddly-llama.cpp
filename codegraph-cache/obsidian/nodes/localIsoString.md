@@ -1,20 +1,19 @@
 ---
 name: "localIsoString"
 type: "function"
-file: "tools/ui/src/lib/utils/get-datetime.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/get-datetime.ts"
+community: "build-sycl-2025"
 ---
 
 # localIsoString
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/get-datetime.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/get-datetime.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/pad]] _calls_
-- [[nodes/floor]] _calls_
 
 ## Used By
 

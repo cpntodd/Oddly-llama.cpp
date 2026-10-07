@@ -2,14 +2,14 @@
 name: "common_get_enabled_speculative_configs"
 type: "function"
 file: "common/speculative.cpp"
-community: "tools"
+community: "common"
 ---
 
 # common_get_enabled_speculative_configs
 
 **Type:** `function`  **File:** `common/speculative.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -17,4 +17,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/common_speculative_init_from_params]] _calls_
+- [[nodes/common_speculative_mtp_first_decode_fits]] _calls_

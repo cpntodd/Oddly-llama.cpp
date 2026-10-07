@@ -13,10 +13,8 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/sin]] _calls_
-- [[nodes/cos]] _calls_
+- [[nodes/view]] _calls_
 - [[nodes/permute]] _calls_
-- [[nodes/clamp]] _calls_
 - [[nodes/pad]] _calls_
 
 ## Used By
@@ -24,7 +22,6 @@ community: "ggml"
 - [[nodes/merge_tensor]] _calls_
 - [[nodes/llama_model_get_tok_embd]] _calls_
 - [[nodes/category_is_attn_v]] _calls_
-- [[nodes/init_tensor_tril]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/test_vec_dot_q]] _calls_
 - [[nodes/usage]] _calls_
@@ -44,3 +41,4 @@ community: "ggml"
 - [[nodes/ggml_backend_blas_mul_mat]] _calls_
 - [[nodes/ggml_backend_blas_device_supports_op]] _calls_
 - [[nodes/get_scale_min_k4]] _calls_
+- [[nodes/init_tensor_tril]] _calls_

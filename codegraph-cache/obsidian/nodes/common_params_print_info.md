@@ -2,14 +2,14 @@
 name: "common_params_print_info"
 type: "function"
 file: "common/common.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # common_params_print_info
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

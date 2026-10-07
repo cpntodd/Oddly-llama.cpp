@@ -16,6 +16,7 @@ community: "ggml"
 - [[nodes/ggml_backend_meta_n_backends]] _calls_
 - [[nodes/ggml_backend_buffer_is_meta]] _calls_
 - [[nodes/ggml_reset]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/ggml_backend_buffer_is_host]] _calls_
 - [[nodes/ggml_node_get_use_count]] _calls_

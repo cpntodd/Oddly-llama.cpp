@@ -16,6 +16,7 @@ community: "ggml"
 - [[nodes/ggml_can_fuse]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/ggml_is_contiguous_rows]] _calls_
+- [[nodes/rows]] _calls_
 
 ## Used By
 

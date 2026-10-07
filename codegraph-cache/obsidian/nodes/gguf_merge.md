@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/exit]] _calls_
 - [[nodes/gguf_find_key]] _calls_
 - [[nodes/gguf_free]] _calls_
 - [[nodes/ggml_free]] _calls_
@@ -24,7 +23,6 @@ community: "ggml"
 - [[nodes/ggml_get_tensor]] _calls_
 - [[nodes/gguf_get_meta_size]] _calls_
 - [[nodes/zeros]] _calls_
-- [[nodes/close]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/gguf_get_data_offset]] _calls_
 - [[nodes/gguf_get_tensor_offset]] _calls_

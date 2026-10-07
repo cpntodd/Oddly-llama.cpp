@@ -31,8 +31,7 @@ community: "ggml"
 - [[nodes/ggml_quantize_mat_q8_0_4x8]] _imports_
 - [[nodes/QK_0]] _imports_
 - [[nodes/ggml_threadpool]] _imports_
-- [[nodes/ggml_sycl_reordered]] _imports_
-- [[nodes/syclexp]] _imports_
+- [[nodes/ggml_sycl_ptq1_0_trit]] _imports_
 - [[nodes/ggml_cann_swiglu]] _imports_
 - [[nodes/ggml_cann_error]] _imports_
 - [[nodes/dequantize_f32]] _imports_
@@ -43,3 +42,4 @@ community: "ggml"
 - [[nodes/htp_act_context]] _imports_
 - [[nodes/htp_gdn_context]] _imports_
 - [[nodes/htp_repeat_context]] _imports_
+- [[nodes/htp_rope_context]] _imports_

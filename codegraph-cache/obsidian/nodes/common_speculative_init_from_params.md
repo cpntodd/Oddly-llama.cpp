@@ -11,13 +11,6 @@ community: "tools"
 
 **Community:** [[communities/tools]]
 
-## Depends On
-
-- [[nodes/common_get_enabled_speculative_configs]] _calls_
-- [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/empty]] _calls_
-
 ## Used By
 
 - [[nodes/load_model]] _calls_

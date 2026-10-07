@@ -15,9 +15,9 @@ community: "ggml"
 
 - [[nodes/is_msa_block_mask_expansion]] _calls_
 - [[nodes/has_view_op_input]] _calls_
+- [[nodes/ggml_is_quantized]] _calls_
 - [[nodes/is_gemma3n_flash_attn_pattern]] _calls_
 - [[nodes/is_supported_flash_attn_pattern]] _calls_
-- [[nodes/ggml_is_quantized]] _calls_
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/cpy_output_view_is_supported]] _calls_
 - [[nodes/mul_mat_id_requires_large_tmp]] _calls_

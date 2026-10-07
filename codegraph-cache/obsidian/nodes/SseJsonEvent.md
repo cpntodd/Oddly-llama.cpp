@@ -1,23 +1,16 @@
 ---
 name: "SseJsonEvent"
 type: "class"
-file: "tools/ui/src/lib/utils/sse.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/sse.ts"
+community: "build-vulkan-gcc"
 ---
 
 # SseJsonEvent
 
-**Type:** `class`  **File:** `tools/ui/src/lib/utils/sse.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/sse.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
-
-## Used By
-
-- [[nodes/setup]] _imports_
-- [[nodes/ToolResultContentItem]] _imports_
-- [[nodes/ToolsService]] _imports_
-- [[nodes/makeSseResponse]] _imports_

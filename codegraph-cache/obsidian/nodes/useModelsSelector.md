@@ -1,19 +1,16 @@
 ---
 name: "useModelsSelector"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-models-selector.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-models-selector.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # useModelsSelector
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-models-selector.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-models-selector.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/currentModel]] _calls_
-- [[nodes/filterModelOptions]] _calls_
-- [[nodes/groupModelOptions]] _calls_
-- [[nodes/isModelLoaded]] _calls_

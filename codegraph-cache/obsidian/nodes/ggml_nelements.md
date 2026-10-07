@@ -2,14 +2,14 @@
 name: "ggml_nelements"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "ggml"
+community: "tools"
 ---
 
 # ggml_nelements
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Used By
 
@@ -42,4 +42,4 @@ community: "ggml"
 - [[nodes/gguf_ex_write]] _calls_
 - [[nodes/gguf_ex_read_1]] _calls_
 - [[nodes/main]] _calls_
-- [[nodes/init_tensor_uniform]] _calls_
+- [[nodes/set_tensor_data]] _calls_

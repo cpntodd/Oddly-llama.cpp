@@ -19,7 +19,6 @@ community: "tests"
 ## Used By
 
 - [[nodes/llama_sampler_chain_reset]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/add_gumbel_noise]] _calls_
 - [[nodes/main]] _calls_
@@ -48,3 +47,4 @@ community: "tests"
 - [[nodes/test_backend_set_sampler]] _calls_
 - [[nodes/test_backend_cpu_mixed_batch]] _calls_
 - [[nodes/test_backend_multi_output_limit]] _calls_
+- [[nodes/test_backend_multi_sequence_multi_output_dist]] _calls_

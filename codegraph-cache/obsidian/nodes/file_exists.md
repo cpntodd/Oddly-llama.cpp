@@ -2,14 +2,14 @@
 name: "file_exists"
 type: "function"
 file: "tools/completion/completion.cpp"
-community: "src"
+community: "common"
 ---
 
 # file_exists
 
 **Type:** `function`  **File:** `tools/completion/completion.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

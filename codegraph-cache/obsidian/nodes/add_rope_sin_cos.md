@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/translate_rope]] _calls_
-- [[nodes/at]] _calls_
 
 ## Used By
 

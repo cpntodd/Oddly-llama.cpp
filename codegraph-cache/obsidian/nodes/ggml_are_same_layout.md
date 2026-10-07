@@ -2,14 +2,14 @@
 name: "ggml_are_same_layout"
 type: "function"
 file: "ggml/src/ggml-impl.h"
-community: "ggml"
+community: "src"
 ---
 
 # ggml_are_same_layout
 
 **Type:** `function`  **File:** `ggml/src/ggml-impl.h`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Used By
 

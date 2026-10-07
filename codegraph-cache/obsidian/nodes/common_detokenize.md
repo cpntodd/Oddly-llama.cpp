@@ -2,14 +2,14 @@
 name: "common_detokenize"
 type: "function"
 file: "common/common.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_detokenize
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

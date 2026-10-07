@@ -2,14 +2,14 @@
 name: "hellaswag_score"
 type: "function"
 file: "tools/perplexity/perplexity.cpp"
-community: "src"
+community: "common"
 ---
 
 # hellaswag_score
 
 **Type:** `function`  **File:** `tools/perplexity/perplexity.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -23,11 +23,9 @@ community: "src"
 - [[nodes/llama_get_memory]] _calls_
 - [[nodes/decode_helper]] _calls_
 - [[nodes/double]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/llama_batch_free]] _calls_
+- [[nodes/in]] _calls_
 - [[nodes/stream]] _calls_
-- [[nodes/back]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

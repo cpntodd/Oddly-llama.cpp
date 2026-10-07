@@ -22,7 +22,6 @@ community: "common"
 - [[nodes/getchar32]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/replace_last]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/has_ctrl_modifier]] _calls_
 - [[nodes/move_word_left]] _calls_

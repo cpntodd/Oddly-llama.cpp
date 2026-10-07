@@ -31,7 +31,6 @@ community: "ggml"
 - [[nodes/gguf_set_arr_str]] _calls_
 - [[nodes/gguf_find_tensor]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
 
 ## Used By

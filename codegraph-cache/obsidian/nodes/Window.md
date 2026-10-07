@@ -1,15 +1,15 @@
 ---
 name: "Window"
 type: "class"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/enhance-mermaid-blocks.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/enhance-mermaid-blocks.ts"
+community: "build-vulkan-gcc"
 ---
 
 # Window
 
-**Type:** `class`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/enhance-mermaid-blocks.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/enhance-mermaid-blocks.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 

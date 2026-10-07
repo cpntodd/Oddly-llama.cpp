@@ -13,6 +13,7 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/im2col.comp.cpp]] _imports_
 - [[nodes/parallel_for]] _calls_
 
 ## Used By

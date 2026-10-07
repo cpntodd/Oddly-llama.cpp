@@ -1,25 +1,19 @@
 ---
 name: "capImageDataURLSize"
 type: "function"
-file: "tools/ui/src/lib/utils/cap-img-size.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/cap-img-size.ts"
+community: "build-vulkan-gcc"
 ---
 
 # capImageDataURLSize
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/cap-img-size.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/cap-img-size.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/getJpegOrientationFromDataURL]] _imports_
 - [[nodes/Keys]] _imports_
 - [[nodes/isJpegMimeType]] _calls_
-
-## Used By
-
-- [[nodes/ResumableStreamState]] _imports_
-- [[nodes/streamStorageKey]] _calls_
-- [[nodes/loadImage]] _imports_
-- [[nodes/expectUpright]] _calls_
+- [[nodes/getJpegOrientationFromDataURL]] _calls_

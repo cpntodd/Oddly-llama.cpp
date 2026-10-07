@@ -1,23 +1,18 @@
 ---
 name: "sanitizeHeaders"
 type: "function"
-file: "tools/ui/src/lib/utils/api-headers.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/api-headers.ts"
+community: "build-sycl-2025"
 ---
 
 # sanitizeHeaders
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/api-headers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/api-headers.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/slice]] _calls_
 - [[nodes/redactValue]] _calls_
 - [[nodes/has]] _calls_
-
-## Used By
-
-- [[nodes/onerror]] _calls_
-- [[nodes/fetch]] _calls_

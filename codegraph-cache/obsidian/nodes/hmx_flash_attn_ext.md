@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/log2]] _calls_
 - [[nodes/allocation]] _calls_
 - [[nodes/hex_round_up]] _calls_
 - [[nodes/hmx_init_column_scales]] _calls_

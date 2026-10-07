@@ -1,24 +1,18 @@
 ---
 name: "enabled"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-marquee-selection.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-marquee-selection.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # enabled
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-marquee-selection.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-marquee-selection.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
 - [[nodes/handleClickCapture]] _calls_
 - [[nodes/rowMouseDown]] _calls_
 - [[nodes/rowClick]] _calls_
-- [[nodes/getDatabaseService]] _calls_
-- [[nodes/ggml_gen_hadamard]] _calls_
-- [[nodes/common_params_parser_init]] _calls_
-- [[nodes/test_regression_safety]] _calls_
-- [[nodes/init_kleidiai_context]] _calls_
-- [[nodes/ggml_sycl_get_best_fattn_kernel]] _calls_

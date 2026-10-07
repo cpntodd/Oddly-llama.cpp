@@ -2,14 +2,14 @@
 name: "test_schema"
 type: "function"
 file: "tests/test-grammar-integration.cpp"
-community: "tests"
+community: "tools"
 ---
 
 # test_schema
 
 **Type:** `function`  **File:** `tests/test-grammar-integration.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

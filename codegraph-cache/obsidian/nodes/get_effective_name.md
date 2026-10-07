@@ -14,8 +14,6 @@ community: "tools"
 ## Depends On
 
 - [[nodes/path_from_utf8]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/it]] _calls_
 - [[nodes/path_to_utf8]] _calls_
 - [[nodes/is_link]] _calls_

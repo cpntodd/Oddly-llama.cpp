@@ -2,14 +2,14 @@
 name: "llama_get_memory"
 type: "function"
 file: "src/llama-context.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_get_memory
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 
@@ -37,9 +37,9 @@ community: "src"
 - [[nodes/common_context_seq_rm]] _calls_
 - [[nodes/common_context_seq_cp]] _calls_
 - [[nodes/common_context_seq_add]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/batch_process]] _calls_
 - [[nodes/get_backend]] _calls_
 - [[nodes/reset_long_term_states]] _calls_
 - [[nodes/shift_context]] _calls_
+- [[nodes/main]] _calls_

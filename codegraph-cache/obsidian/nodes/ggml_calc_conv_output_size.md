@@ -19,5 +19,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/init_mul_mat_id_tensors]] _calls_
 - [[nodes/ggml_calc_conv_transpose_1d_output_size]] _calls_
+- [[nodes/init_mul_mat_id_tensors]] _calls_

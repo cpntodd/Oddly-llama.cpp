@@ -2,14 +2,14 @@
 name: "ggml_backend_get_max_size"
 type: "function"
 file: "ggml/src/ggml-backend.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # ggml_backend_get_max_size
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

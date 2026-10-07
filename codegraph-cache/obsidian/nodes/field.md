@@ -15,5 +15,8 @@ community: "tools"
 
 - [[nodes/origin_is_localhost]] _calls_
 - [[nodes/extractSearchResults]] _calls_
+- [[nodes/extractSearchResults]] _calls_
 - [[nodes/list_builtin_chat_templates]] _calls_
+- [[nodes/extractSearchResults]] _calls_
 - [[nodes/setup_cache_scp]] _calls_
+- [[nodes/extractSearchResults]] _calls_

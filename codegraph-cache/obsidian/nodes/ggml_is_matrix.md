@@ -14,7 +14,6 @@ community: "ggml"
 ## Used By
 
 - [[nodes/print_matrix]] _calls_
-- [[nodes/print_test_result_locked]] _calls_
 - [[nodes/ggml_get_tensor]] _calls_
 - [[nodes/ggml_can_out_prod]] _calls_
 - [[nodes/ggml_calc_conv_output_size]] _calls_
@@ -23,3 +22,4 @@ community: "ggml"
 - [[nodes/ggml_graph_dump_dot]] _calls_
 - [[nodes/ggml_zdnn_supports_op]] _calls_
 - [[nodes/ggml_backend_blas_device_supports_op]] _calls_
+- [[nodes/print_test_result_locked]] _calls_

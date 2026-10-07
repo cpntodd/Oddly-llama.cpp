@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/ggml_sycl_op_group_norm]] _calls_
 - [[nodes/ggml_is_permuted]] _calls_
 - [[nodes/ggml_backend_buffer_is_sycl_split]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/ggml_is_transposed]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/ggml_type_size]] _calls_
@@ -24,6 +23,7 @@ community: "ggml"
 - [[nodes/pool]] _calls_
 - [[nodes/alloc]] _calls_
 - [[nodes/ggml_get_to_fp16_sycl]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/ggml_get_to_fp16_nc_sycl]] _calls_
 - [[nodes/gemm]] _calls_

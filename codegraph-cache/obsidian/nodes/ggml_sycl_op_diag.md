@@ -13,7 +13,7 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/diag.hpp]] _imports_
+- [[nodes/diag.comp.cpp]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/stream]] _calls_

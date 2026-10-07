@@ -1,12 +1,12 @@
 ---
 name: "index.ts"
 type: "file"
-file: "tools/ui/src/lib/contexts/index.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/contexts/index.ts"
+community: "build-sycl-2025"
 ---
 
 # index.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/contexts/index.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/contexts/index.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

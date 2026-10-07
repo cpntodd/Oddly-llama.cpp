@@ -2,14 +2,14 @@
 name: "fa_vec_legal_ne"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # fa_vec_legal_ne
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

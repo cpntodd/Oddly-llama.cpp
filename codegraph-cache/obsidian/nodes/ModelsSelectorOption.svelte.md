@@ -1,12 +1,12 @@
 ---
 name: "ModelsSelectorOption.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/models/ModelsSelectorOption.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/models/ModelsSelectorOption.svelte"
+community: "build-sycl-2025"
 ---
 
 # ModelsSelectorOption.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/models/ModelsSelectorOption.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/models/ModelsSelectorOption.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

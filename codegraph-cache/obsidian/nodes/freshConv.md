@@ -1,13 +1,13 @@
 ---
 name: "freshConv"
 type: "function"
-file: "tools/ui/tests/unit/stream-resume.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/stream-resume.test.ts"
 community: "tools"
 ---
 
 # freshConv
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/stream-resume.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/stream-resume.test.ts`
 
 **Community:** [[communities/tools]]
 

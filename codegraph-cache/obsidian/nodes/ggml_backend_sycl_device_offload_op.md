@@ -14,4 +14,3 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/get_op_batch_size]] _calls_
-- [[nodes/exit]] _calls_

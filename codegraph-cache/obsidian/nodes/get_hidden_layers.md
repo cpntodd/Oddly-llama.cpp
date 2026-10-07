@@ -2,14 +2,14 @@
 name: "get_hidden_layers"
 type: "function"
 file: "tools/cvector-generator/cvector-generator.cpp"
-community: "src"
+community: "common"
 ---
 
 # get_hidden_layers
 
 **Type:** `function`  **File:** `tools/cvector-generator/cvector-generator.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

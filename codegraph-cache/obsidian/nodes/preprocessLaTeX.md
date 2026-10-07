@@ -1,17 +1,16 @@
 ---
 name: "preprocessLaTeX"
 type: "function"
-file: "tools/ui/src/lib/utils/latex-protection.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/latex-protection.ts"
+community: "build-sycl-2025"
 ---
 
 # preprocessLaTeX
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/latex-protection.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/latex-protection.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
 - [[nodes/escapeMhchem]] _calls_
-- [[nodes/buildProcessor]] _calls_

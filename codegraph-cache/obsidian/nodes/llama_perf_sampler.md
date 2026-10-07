@@ -2,14 +2,14 @@
 name: "llama_perf_sampler"
 type: "function"
 file: "src/llama-sampler.cpp"
-community: "src"
+community: "tests"
 ---
 
 # llama_perf_sampler
 
 **Type:** `function`  **File:** `src/llama-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

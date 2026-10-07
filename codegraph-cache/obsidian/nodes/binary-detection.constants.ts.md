@@ -1,12 +1,12 @@
 ---
 name: "binary-detection.constants.ts"
 type: "file"
-file: "tools/ui/src/lib/constants/binary-detection.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/binary-detection.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # binary-detection.constants.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/constants/binary-detection.constants.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/binary-detection.constants.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

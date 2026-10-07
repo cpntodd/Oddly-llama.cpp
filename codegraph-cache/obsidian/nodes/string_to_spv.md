@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/join_paths]] _calls_
 - [[nodes/acquire_compile_slot]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

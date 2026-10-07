@@ -1,17 +1,12 @@
 ---
 name: "ChatFormInputRichHarness.svelte"
 type: "file"
-file: "tools/ui/tests/client/components/ChatFormInputRichHarness.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/components/ChatFormInputRichHarness.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatFormInputRichHarness.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/client/components/ChatFormInputRichHarness.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/components/ChatFormInputRichHarness.svelte`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/editableIn]] _imports_
-- [[nodes/editableIn]] _imports_
+**Community:** [[communities/build-sycl-2025]]

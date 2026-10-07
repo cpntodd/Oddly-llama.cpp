@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/hvx_vec_store_u]] _imports_
 - [[nodes/hvx_vec_sub_f32_f32]] _calls_
 - [[nodes/hvx_vec_splat_f32]] _calls_
-- [[nodes/ln]] _calls_
 - [[nodes/hvx_vec_mul_f32_f32]] _calls_
 - [[nodes/hvx_vec_add_f32_f32]] _calls_
 

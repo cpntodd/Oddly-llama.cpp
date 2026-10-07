@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/move]] _calls_
-
 ## Used By
 
 - [[nodes/align_up_uintptr]] _calls_

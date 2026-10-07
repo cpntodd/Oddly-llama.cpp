@@ -1,19 +1,18 @@
 ---
 name: "usePwa"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-pwa.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-pwa.svelte.ts"
+community: "build-vulkan-gcc"
 ---
 
 # usePwa
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-pwa.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-pwa.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
 - [[nodes/svelte.config.js]] _imports_
-- [[nodes/fetch]] _calls_
 - [[nodes/update]] _calls_

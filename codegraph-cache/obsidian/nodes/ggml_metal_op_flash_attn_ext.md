@@ -24,6 +24,7 @@ community: "ggml"
 - [[nodes/ggml_metal_op_flash_attn_ext_v_is_view_of_k]] _calls_
 - [[nodes/ggml_blck_size]] _calls_
 - [[nodes/ggml_metal_op_flash_attn_ext_kv_f16_k_size]] _calls_
+- [[nodes/V]] _calls_
 - [[nodes/ggml_metal_op_concurrency_reset]] _calls_
 - [[nodes/ggml_metal_op_flash_attn_ext_use_vec]] _calls_
 - [[nodes/ggml_is_quantized]] _calls_

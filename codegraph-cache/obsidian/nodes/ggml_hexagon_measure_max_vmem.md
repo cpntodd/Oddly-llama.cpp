@@ -24,7 +24,6 @@ community: "ggml"
 - [[nodes/ggml_hexagon_opqueue]] _calls_
 - [[nodes/ggml_hexagon_opbatch]] _calls_
 - [[nodes/htp_iface_start]] _calls_
-- [[nodes/copy]] _calls_
 - [[nodes/htp_iface_profiler]] _calls_
 - [[nodes/release]] _calls_
 - [[nodes/htp_iface_stop]] _calls_
@@ -32,8 +31,6 @@ community: "ggml"
 - [[nodes/htp_iface_close]] _calls_
 - [[nodes/ggml_hexagon_session]] _calls_
 - [[nodes/ggml_backend_hexagon_buffer_type_context]] _calls_
-- [[nodes/floor]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/hex_align_up]] _calls_
 - [[nodes/hmx_fa_compute_vtcm_usage]] _calls_
 - [[nodes/init_fastdiv_values]] _calls_

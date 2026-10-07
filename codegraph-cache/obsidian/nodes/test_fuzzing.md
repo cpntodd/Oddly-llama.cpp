@@ -15,4 +15,3 @@ community: "common"
 
 - [[nodes/fuzz_test_template]] _calls_
 - [[nodes/random_string]] _calls_
-- [[nodes/foo]] _calls_

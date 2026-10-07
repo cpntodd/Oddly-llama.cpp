@@ -2,14 +2,14 @@
 name: "common_batch_clear"
 type: "function"
 file: "common/common.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_batch_clear
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -28,7 +28,6 @@ community: "src"
 - [[nodes/render]] _calls_
 - [[nodes/generate_response]] _calls_
 - [[nodes/main]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/string_find_partial_stop]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/get_backend]] _calls_
@@ -45,3 +44,5 @@ community: "src"
 - [[nodes/main]] _calls_
 - [[nodes/generate_tokens]] _calls_
 - [[nodes/test_multi_seq_split_replay]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_
+- [[nodes/flush_deferred]] _calls_

@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/ggml_backend_buffer_get_size]] _calls_
 - [[nodes/ggml_set_name]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/ggml_tensor_overhead]] _calls_
 - [[nodes/ggml_graph_overhead_custom]] _calls_
 - [[nodes/ggml_init]] _calls_

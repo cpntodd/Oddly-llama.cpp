@@ -2,14 +2,14 @@
 name: "common_chat_templates_was_explicit"
 type: "function"
 file: "common/chat.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_chat_templates_was_explicit
 
 **Type:** `function`  **File:** `common/chat.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

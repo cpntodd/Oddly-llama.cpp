@@ -2,14 +2,14 @@
 name: "reference_quantization_error"
 type: "function"
 file: "tests/test-quantize-fns.cpp"
-community: "tests"
+community: "pocs"
 ---
 
 # reference_quantization_error
 
 **Type:** `function`  **File:** `tests/test-quantize-fns.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/pocs]]
 
 ## Depends On
 

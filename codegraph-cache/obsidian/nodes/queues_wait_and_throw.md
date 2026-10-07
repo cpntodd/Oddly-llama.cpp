@@ -11,11 +11,7 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/unlock]] _calls_
-
 ## Used By
 
-- [[nodes/ggml_backend_buffer_is_sycl]] _calls_
+- [[nodes/ggml_sycl_t2_restore_tensor]] _calls_
 - [[nodes/ggml_sycl_is_l0_discrete_gpu]] _calls_

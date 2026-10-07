@@ -1,12 +1,12 @@
 ---
 name: "resetServerStore"
 type: "function"
-file: "tools/ui/tests/stories/fixtures/storybook-mocks.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/storybook-mocks.ts"
+community: "build-sycl-2025"
 ---
 
 # resetServerStore
 
-**Type:** `function`  **File:** `tools/ui/tests/stories/fixtures/storybook-mocks.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/storybook-mocks.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

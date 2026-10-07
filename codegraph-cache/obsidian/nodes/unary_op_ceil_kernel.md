@@ -14,4 +14,3 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/op_ceil]] _calls_
-- [[nodes/clamp]] _calls_

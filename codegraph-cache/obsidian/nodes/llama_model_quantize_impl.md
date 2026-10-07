@@ -32,7 +32,6 @@ community: "ggml"
 - [[nodes/ggml_get_name]] _calls_
 - [[nodes/metadata]] _calls_
 - [[nodes/init_quantize_state_counters]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/tensor_allows_quantization]] _calls_
 - [[nodes/llama_tensor_get_type]] _calls_
 - [[nodes/tensor_requires_imatrix]] _calls_
@@ -42,7 +41,8 @@ community: "ggml"
 - [[nodes/gguf_set_val_i32]] _calls_
 - [[nodes/gguf_get_meta_size]] _calls_
 - [[nodes/gguf_get_meta_data]] _calls_
-- [[nodes/close]] _calls_
+- [[nodes/llama_path_max]] _calls_
+- [[nodes/zeros]] _calls_
 
 ## Used By
 

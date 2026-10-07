@@ -14,6 +14,5 @@ community: "tools"
 ## Depends On
 
 - [[nodes/peg_test_builder]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/expect]] _calls_
 - [[nodes/messages]] _calls_

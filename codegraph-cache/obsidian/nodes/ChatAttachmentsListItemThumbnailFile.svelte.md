@@ -1,12 +1,12 @@
 ---
 name: "ChatAttachmentsListItemThumbnailFile.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatAttachments/ChatAttachmentsList/ChatAttachmentsListItem/ChatAttachmentsListItemThumbnailFile.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatAttachments/ChatAttachmentsList/ChatAttachmentsListItem/ChatAttachmentsListItemThumbnailFile.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatAttachmentsListItemThumbnailFile.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatAttachments/ChatAttachmentsList/ChatAttachmentsListItem/ChatAttachmentsListItemThumbnailFile.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatAttachments/ChatAttachmentsList/ChatAttachmentsListItem/ChatAttachmentsListItemThumbnailFile.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -1,13 +1,13 @@
 ---
 name: "ChatStreamHost"
 type: "class"
-file: "tools/ui/src/lib/stores/chat/streams.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/streams.svelte.ts"
 community: "tools"
 ---
 
 # ChatStreamHost
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/chat/streams.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/streams.svelte.ts`
 
 **Community:** [[communities/tools]]
 
@@ -21,7 +21,3 @@ community: "tools"
 - [[nodes/index.ts]] _imports_
 - [[nodes/types]] _imports_
 - [[nodes/ServerResponse]] _imports_
-
-## Used By
-
-- [[nodes/ChatStore]] _imports_

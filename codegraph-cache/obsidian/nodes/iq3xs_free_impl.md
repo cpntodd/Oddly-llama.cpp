@@ -16,6 +16,7 @@ community: "ggml"
 - [[nodes/iq3_data_index]] _calls_
 - [[nodes/ggml_quantize_init]] _calls_
 - [[nodes/nearest_int]] _calls_
+- [[nodes/positive]] _calls_
 
 ## Used By
 

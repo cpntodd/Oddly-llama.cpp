@@ -2,14 +2,14 @@
 name: "ggml_et_load_kernel"
 type: "function"
 file: "ggml/src/ggml-et/ggml-et-kernels.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # ggml_et_load_kernel
 
 **Type:** `function`  **File:** `ggml/src/ggml-et/ggml-et-kernels.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

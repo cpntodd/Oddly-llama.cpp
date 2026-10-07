@@ -21,8 +21,6 @@ community: "ggml"
 - [[nodes/ggml_get_op_params_f32]] _calls_
 - [[nodes/compute_2d_workgroups]] _calls_
 - [[nodes/get_soft_max_pipeline]] _calls_
-- [[nodes/floor]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/ggml_webgpu_tensor_buf]] _calls_
 - [[nodes/ggml_webgpu_tensor_align_offset]] _calls_
 - [[nodes/ggml_webgpu_tensor_binding_size]] _calls_

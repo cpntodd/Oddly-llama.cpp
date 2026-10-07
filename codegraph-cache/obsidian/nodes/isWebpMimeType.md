@@ -1,13 +1,13 @@
 ---
 name: "isWebpMimeType"
 type: "function"
-file: "tools/ui/src/lib/utils/webp-to-png.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/webp-to-png.ts"
 community: "tools"
 ---
 
 # isWebpMimeType
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/webp-to-png.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/webp-to-png.ts`
 
 **Community:** [[communities/tools]]
 

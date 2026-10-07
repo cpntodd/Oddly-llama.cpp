@@ -2,14 +2,14 @@
 name: "get_backend"
 type: "function"
 file: "examples/llama.android/lib/src/main/cpp/ai_chat.cpp"
-community: "tools"
+community: "common"
 ---
 
 # get_backend
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/cpp/ai_chat.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -25,7 +25,6 @@ community: "tools"
 - [[nodes/ggml_time_us]] _calls_
 - [[nodes/double]] _calls_
 - [[nodes/llama_free]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/llama_model_desc]] _calls_
 - [[nodes/llama_model_size]] _calls_
 - [[nodes/llama_model_n_params]] _calls_

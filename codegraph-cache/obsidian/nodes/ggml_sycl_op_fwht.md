@@ -13,12 +13,12 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/fwht.comp.cpp]] _imports_
 - [[nodes/ggml_are_same_shape]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/ggml_nrows]] _calls_
-- [[nodes/sqrt]] _calls_
+- [[nodes/getenv]] _calls_
 
 ## Used By
 
-- [[nodes/ggml_sycl_init]] _imports_
 - [[nodes/ggml_sycl_mul_mat]] _calls_

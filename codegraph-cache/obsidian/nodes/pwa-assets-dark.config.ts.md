@@ -1,12 +1,12 @@
 ---
 name: "pwa-assets-dark.config.ts"
 type: "file"
-file: "tools/ui/pwa-assets-dark.config.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/pwa-assets-dark.config.ts"
+community: "build-sycl-2025"
 ---
 
 # pwa-assets-dark.config.ts
 
-**Type:** `file`  **File:** `tools/ui/pwa-assets-dark.config.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/pwa-assets-dark.config.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

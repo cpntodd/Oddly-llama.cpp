@@ -1,13 +1,13 @@
 ---
 name: "persisted"
 type: "function"
-file: "tools/ui/tests/client/settings-render-keys-migration.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/settings-render-keys-migration.svelte.test.ts"
 community: "tools"
 ---
 
 # persisted
 
-**Type:** `function`  **File:** `tools/ui/tests/client/settings-render-keys-migration.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/settings-render-keys-migration.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

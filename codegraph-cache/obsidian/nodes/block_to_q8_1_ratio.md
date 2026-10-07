@@ -10,3 +10,7 @@ community: "ggml"
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/quants.hpp`
 
 **Community:** [[communities/ggml]]
+
+## Used By
+
+- [[nodes/ggml_sycl_ptq1_0_trit]] _calls_

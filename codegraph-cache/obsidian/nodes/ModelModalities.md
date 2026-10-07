@@ -1,13 +1,13 @@
 ---
 name: "ModelModalities"
 type: "class"
-file: "tools/ui/src/lib/types/models.d.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/models.d.ts"
 community: "tools"
 ---
 
 # ModelModalities
 
-**Type:** `class`  **File:** `tools/ui/src/lib/types/models.d.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/models.d.ts`
 
 **Community:** [[communities/tools]]
 

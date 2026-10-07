@@ -2,14 +2,14 @@
 name: "llm_arch_all"
 type: "function"
 file: "tests/test-llama-archs.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # llm_arch_all
 
 **Type:** `function`  **File:** `tests/test-llama-archs.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

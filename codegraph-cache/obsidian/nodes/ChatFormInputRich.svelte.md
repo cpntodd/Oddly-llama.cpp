@@ -1,16 +1,12 @@
 ---
 name: "ChatFormInputRich.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatForm/ChatFormInput/ChatFormInputRich.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormInput/ChatFormInputRich.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatFormInputRich.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatForm/ChatFormInput/ChatFormInputRich.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormInput/ChatFormInputRich.svelte`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/editableIn]] _imports_
+**Community:** [[communities/build-sycl-2025]]

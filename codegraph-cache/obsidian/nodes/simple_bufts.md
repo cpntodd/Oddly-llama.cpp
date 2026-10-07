@@ -14,4 +14,3 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/ggml_backend_meta_buffer_type_context]] _calls_
-- [[nodes/move]] _calls_

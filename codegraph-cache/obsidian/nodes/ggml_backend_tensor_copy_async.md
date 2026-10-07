@@ -2,14 +2,14 @@
 name: "ggml_backend_tensor_copy_async"
 type: "function"
 file: "ggml/src/ggml-backend.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # ggml_backend_tensor_copy_async
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

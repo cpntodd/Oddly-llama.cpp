@@ -2,14 +2,14 @@
 name: "ggml_graph_compute_helper"
 type: "function"
 file: "tests/test-rope.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # ggml_graph_compute_helper
 
 **Type:** `function`  **File:** `tests/test-rope.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

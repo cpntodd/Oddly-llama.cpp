@@ -2,14 +2,14 @@
 name: "init_fp"
 type: "function"
 file: "src/llama-mmap.cpp"
-community: "src"
+community: "build-intel-all"
 ---
 
 # init_fp
 
 **Type:** `function`  **File:** `src/llama-mmap.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 

@@ -1,12 +1,12 @@
 ---
 name: "ggml_context"
 type: "class"
-file: "ggml/src/ggml-rpc/ggml-rpc.cpp"
-community: "ggml"
+file: "tests/test-backend-ops.cpp"
+community: "tests"
 ---
 
 # ggml_context
 
-**Type:** `class`  **File:** `ggml/src/ggml-rpc/ggml-rpc.cpp`
+**Type:** `class`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]

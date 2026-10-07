@@ -15,11 +15,9 @@ community: "tools"
 
 - [[nodes/common_arg]] _imports_
 - [[nodes/KeyValuePair]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/cli_context_impl]] _imports_
 - [[nodes/windows.md]] _imports_
-- [[nodes/exit]] _calls_
-- [[nodes/store]] _calls_
 - [[nodes/llama_cli]] _calls_
 
 ## Used By

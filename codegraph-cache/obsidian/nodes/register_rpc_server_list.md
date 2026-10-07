@@ -2,14 +2,14 @@
 name: "register_rpc_server_list"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # register_rpc_server_list
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

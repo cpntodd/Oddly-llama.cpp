@@ -13,6 +13,7 @@ community: "common"
 
 ## Depends On
 
+- [[nodes/dur]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/common_speculative_type_to_str]] _calls_
 

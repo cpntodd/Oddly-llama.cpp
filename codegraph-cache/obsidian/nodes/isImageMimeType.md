@@ -1,12 +1,12 @@
 ---
 name: "isImageMimeType"
 type: "function"
-file: "tools/ui/src/lib/utils/mcp.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/mcp.ts"
+community: "build-sycl-2025"
 ---
 
 # isImageMimeType
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/mcp.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/mcp.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

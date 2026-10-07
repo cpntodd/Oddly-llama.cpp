@@ -13,7 +13,6 @@ community: "tests"
 
 ## Used By
 
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/add_gumbel_noise]] _calls_
 - [[nodes/main]] _calls_
@@ -43,3 +42,4 @@ community: "tests"
 - [[nodes/test_backend_multi_output_limit]] _calls_
 - [[nodes/test_backend_multi_sequence_multi_output_dist]] _calls_
 - [[nodes/test_backend_multi_output_dist_transaction]] _calls_
+- [[nodes/test_backend_multi_output_sampling_chain]] _calls_

@@ -19,5 +19,3 @@ community: "common"
 - [[nodes/empty]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/common_params_to_map]] _calls_
-- [[nodes/merge]] _calls_
-- [[nodes/move]] _calls_

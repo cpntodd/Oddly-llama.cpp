@@ -32,7 +32,6 @@ community: "ggml"
 - [[nodes/llama_model_quantize_impl]] _calls_
 - [[nodes/llama_context_default_params]] _calls_
 - [[nodes/common_debug_cb_eval]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/kv_cache_type_from_str]] _calls_
 - [[nodes/get_all_kv_cache_types]] _calls_
 - [[nodes/common_params_parser_init]] _calls_
@@ -40,6 +39,7 @@ community: "ggml"
 - [[nodes/ggml_type_from_name]] _calls_
 - [[nodes/build_mock_tensors]] _calls_
 - [[nodes/run_test_section]] _calls_
-- [[nodes/var_to_str]] _calls_
-- [[nodes/is_non_contiguous]] _calls_
-- [[nodes/fa_vec_legal_ne]] _calls_
+- [[nodes/main]] _calls_
+- [[nodes/if]] _calls_
+- [[nodes/test_vec_dot_q]] _calls_
+- [[nodes/usage]] _calls_

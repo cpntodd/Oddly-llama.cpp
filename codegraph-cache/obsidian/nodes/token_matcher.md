@@ -17,7 +17,7 @@ community: "tools"
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/t]] _imports_
 - [[nodes/unicode_len_utf8]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/jinja]] _imports_
 
 ## Used By

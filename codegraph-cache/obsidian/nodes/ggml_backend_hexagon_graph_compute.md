@@ -16,5 +16,4 @@ community: "ggml"
 - [[nodes/try_fuse_node]] _calls_
 - [[nodes/op_remap_to_htp]] _calls_
 - [[nodes/htp_op_is_unary]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/flush]] _calls_

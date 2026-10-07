@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/dump]] _calls_
 - [[nodes/size]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/print]] _calls_
 
 ## Used By

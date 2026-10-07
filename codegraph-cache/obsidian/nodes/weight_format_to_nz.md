@@ -21,7 +21,6 @@ community: "ggml"
 - [[nodes/is_matmul_weight]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/ggml_backend_cann_transform]] _calls_
-- [[nodes/unlock]] _calls_
 - [[nodes/remove_tracker]] _calls_
 - [[nodes/ggml_backend_cann_transform_back]] _calls_
 - [[nodes/ggml_backend_buft_is_cann]] _calls_

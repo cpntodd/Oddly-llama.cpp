@@ -17,7 +17,6 @@ community: "ggml"
 - [[nodes/parallel_for]] _calls_
 - [[nodes/pack_32_mxfp4_for_openvino]] _calls_
 - [[nodes/unpack_32_4]] _calls_
-- [[nodes/round]] _calls_
 
 ## Used By
 

@@ -2,14 +2,14 @@
 name: "common_token_to_piece"
 type: "function"
 file: "common/common.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_token_to_piece
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -32,7 +32,6 @@ community: "src"
 - [[nodes/main]] _calls_
 - [[nodes/string_from]] _calls_
 - [[nodes/tty_can_use_colors]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/common_chat_templates_source]] _calls_
 - [[nodes/common_sampler_prev_str]] _calls_
 - [[nodes/string_find_partial_stop]] _calls_
@@ -40,6 +39,7 @@ community: "src"
 - [[nodes/main]] _calls_
 - [[nodes/reset_short_term_states]] _calls_
 - [[nodes/is_valid_utf8]] _calls_
+- [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_

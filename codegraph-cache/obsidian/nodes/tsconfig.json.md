@@ -1,12 +1,12 @@
 ---
 name: "tsconfig.json"
 type: "file"
-file: "tools/ui/tsconfig.json"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tsconfig.json"
+community: "build-sycl-2025"
 ---
 
 # tsconfig.json
 
-**Type:** `file`  **File:** `tools/ui/tsconfig.json`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tsconfig.json`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

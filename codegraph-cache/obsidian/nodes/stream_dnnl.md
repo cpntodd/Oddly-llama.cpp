@@ -17,6 +17,6 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/build_sdpa]] _calls_
+- [[nodes/ggml_sycl_flash_attn_ext_onednn_supported]] _calls_
 - [[nodes/engine_dnnl]] _calls_
 - [[nodes/to_dt]] _calls_

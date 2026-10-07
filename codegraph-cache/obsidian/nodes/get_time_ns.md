@@ -22,7 +22,7 @@ community: "tools"
 - [[nodes/common_params_fit_status]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/llama_update]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 
 ## Used By
 

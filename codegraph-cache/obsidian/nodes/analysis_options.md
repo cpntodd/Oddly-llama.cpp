@@ -16,7 +16,7 @@ community: "common"
 - [[nodes/template_params]] _imports_
 - [[nodes/chat-auto-parser-helpers.h]] _imports_
 - [[nodes/ResumableStreamState]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/caps]] _imports_
 - [[nodes/statement]] _imports_
 - [[nodes/jinja]] _imports_

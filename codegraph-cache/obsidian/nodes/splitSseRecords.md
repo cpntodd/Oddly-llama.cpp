@@ -1,15 +1,15 @@
 ---
 name: "splitSseRecords"
 type: "function"
-file: "tools/ui/src/lib/utils/sse.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/sse.ts"
+community: "build-sycl-2025"
 ---
 
 # splitSseRecords
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/sse.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/sse.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -17,5 +17,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/onEvent]] _calls_
 - [[nodes/extractSseDataPayload]] _calls_

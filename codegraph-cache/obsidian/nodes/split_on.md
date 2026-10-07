@@ -11,11 +11,6 @@ community: "tools"
 
 **Community:** [[communities/tools]]
 
-## Depends On
-
-- [[nodes/move]] _calls_
-- [[nodes/back]] _calls_
-
 ## Used By
 
 - [[nodes/push_embd_row]] _calls_

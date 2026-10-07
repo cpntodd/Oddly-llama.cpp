@@ -14,9 +14,8 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/create]] _calls_
-- [[nodes/clamp]] _calls_
 - [[nodes/slice]] _calls_
-- [[nodes/back]] _calls_
+- [[nodes/view]] _calls_
 
 ## Used By
 
@@ -28,10 +27,8 @@ community: "ggml"
 - [[nodes/translate_mulmat]] _calls_
 - [[nodes/translate_unary_softplus]] _calls_
 - [[nodes/translate_tri]] _calls_
-- [[nodes/translate_permute]] _calls_
 - [[nodes/translate_l2_norm]] _calls_
 - [[nodes/translate_scale]] _calls_
-- [[nodes/translate_pad]] _calls_
 - [[nodes/translate_argsort]] _calls_
 - [[nodes/translate_reshape]] _calls_
 - [[nodes/translate_glu_geglu]] _calls_
@@ -40,13 +37,15 @@ community: "ggml"
 - [[nodes/translate_im2col]] _calls_
 - [[nodes/translate_add]] _calls_
 - [[nodes/translate_soft_max]] _calls_
-- [[nodes/translate_gated_delta_net]] _calls_
-- [[nodes/translate_gated_delta_net_ref]] _calls_
 - [[nodes/translate_view]] _calls_
 - [[nodes/translate_fill]] _calls_
 - [[nodes/translate_div]] _calls_
-- [[nodes/translate_set_rows]] _calls_
 - [[nodes/translate_concat]] _calls_
 - [[nodes/translate_sum_rows]] _calls_
 - [[nodes/translate_unary_silu]] _calls_
 - [[nodes/translate_diag]] _calls_
+- [[nodes/translate_cpy]] _calls_
+- [[nodes/translate_sqr]] _calls_
+- [[nodes/translate_sqrt]] _calls_
+- [[nodes/translate_get_rows]] _calls_
+- [[nodes/translate_clamp]] _calls_

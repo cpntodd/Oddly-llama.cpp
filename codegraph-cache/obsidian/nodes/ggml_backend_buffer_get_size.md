@@ -2,14 +2,14 @@
 name: "ggml_backend_buffer_get_size"
 type: "function"
 file: "ggml/src/ggml-backend.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # ggml_backend_buffer_get_size
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

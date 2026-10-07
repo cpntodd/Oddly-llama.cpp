@@ -17,7 +17,6 @@ community: "tools"
 - [[nodes/size]] _calls_
 - [[nodes/release]] _calls_
 - [[nodes/launch_slot_with_task]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

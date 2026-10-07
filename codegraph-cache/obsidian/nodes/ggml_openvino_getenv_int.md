@@ -21,5 +21,5 @@ community: "ggml"
 - [[nodes/ov_graph_compute_static]] _calls_
 - [[nodes/is_model_splitted]] _calls_
 - [[nodes/is_naive]] _calls_
-- [[nodes/is_stateful_enabled]] _calls_
 - [[nodes/translate_flash_attn_ext]] _calls_
+- [[nodes/is_stateful_enabled]] _calls_

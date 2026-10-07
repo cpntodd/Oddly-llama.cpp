@@ -2,14 +2,14 @@
 name: "dot_product"
 type: "function"
 file: "tests/test-quantize-fns.cpp"
-community: "tests"
+community: "pocs"
 ---
 
 # dot_product
 
 **Type:** `function`  **File:** `tests/test-quantize-fns.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/pocs]]
 
 ## Used By
 

@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/floor]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_sycl_op_floor]] _calls_

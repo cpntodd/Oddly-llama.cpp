@@ -1,13 +1,13 @@
 ---
 name: "rewrite"
 type: "function"
-file: "tools/ui/scripts/vite-plugin-relativize-base.ts"
+file: "build-sycl-2025/tools/ui/ui-src/scripts/vite-plugin-relativize-base.ts"
 community: "tools"
 ---
 
 # rewrite
 
-**Type:** `function`  **File:** `tools/ui/scripts/vite-plugin-relativize-base.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/scripts/vite-plugin-relativize-base.ts`
 
 **Community:** [[communities/tools]]
 
@@ -18,6 +18,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/for]] _calls_
-- [[nodes/inverseFunctionSolve]] _calls_
 - [[nodes/relativizeBasePlugin]] _calls_

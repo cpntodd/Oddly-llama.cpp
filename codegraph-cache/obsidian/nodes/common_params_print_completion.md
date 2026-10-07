@@ -2,14 +2,14 @@
 name: "common_params_print_completion"
 type: "function"
 file: "common/arg.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # common_params_print_completion
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

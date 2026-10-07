@@ -1,15 +1,15 @@
 ---
 name: "expand"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Solve.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Solve.js"
+community: "build-sycl-2025"
 ---
 
 # expand
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Solve.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Solve.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
@@ -32,4 +32,3 @@ community: "tools"
 - [[nodes/equals]] _calls_
 - [[nodes/findFunction]] _calls_
 - [[nodes/finalize]] _calls_
-- [[nodes/run]] _calls_

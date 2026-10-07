@@ -2,14 +2,14 @@
 name: "striequals"
 type: "function"
 file: "ggml/src/ggml-backend-reg.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # striequals
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend-reg.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

@@ -2,14 +2,14 @@
 name: "composite"
 type: "function"
 file: "tools/mtmd/mtmd-image.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # composite
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd-image.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
@@ -18,4 +18,7 @@ community: "tools"
 
 ## Used By
 
+- [[nodes/makeCircle]] _calls_
+- [[nodes/makeCircle]] _calls_
+- [[nodes/makeCircle]] _calls_
 - [[nodes/makeCircle]] _calls_

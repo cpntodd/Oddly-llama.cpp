@@ -1,15 +1,15 @@
 ---
 name: "renderUnifiedDiff"
 type: "function"
-file: "tools/ui/src/lib/utils/compute-line-diff.ts"
-community: "src"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/compute-line-diff.ts"
+community: "tools"
 ---
 
 # renderUnifiedDiff
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/compute-line-diff.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/compute-line-diff.ts`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

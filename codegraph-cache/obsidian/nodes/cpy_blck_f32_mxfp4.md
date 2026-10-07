@@ -13,6 +13,4 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/floor]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/best_index_mxfp4]] _calls_

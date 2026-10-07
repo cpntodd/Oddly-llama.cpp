@@ -18,6 +18,7 @@ community: "ggml"
 - [[nodes/ggml_backend_get_device]] _calls_
 - [[nodes/vars]] _calls_
 - [[nodes/ggml_backend_init_by_type]] _calls_
+- [[nodes/info]] _calls_
 - [[nodes/set_error]] _calls_
 - [[nodes/print_operation]] _calls_
 - [[nodes/run_tests]] _calls_

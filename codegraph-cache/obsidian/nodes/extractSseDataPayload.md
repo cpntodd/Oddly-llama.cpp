@@ -1,22 +1,18 @@
 ---
 name: "extractSseDataPayload"
 type: "function"
-file: "tools/ui/src/lib/utils/sse.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/sse.ts"
+community: "build-sycl-2025"
 ---
 
 # extractSseDataPayload
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/sse.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/sse.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/map]] _calls_
 - [[nodes/slice]] _calls_
 - [[nodes/splitSseRecords]] _calls_
-
-## Used By
-
-- [[nodes/onEvent]] _calls_

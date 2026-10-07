@@ -1,13 +1,13 @@
 ---
 name: "ReadMediaMeta"
 type: "class"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/read-media.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/read-media.ts"
 community: "tools"
 ---
 
 # ReadMediaMeta
 
-**Type:** `class`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/read-media.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/read-media.ts`
 
 **Community:** [[communities/tools]]
 

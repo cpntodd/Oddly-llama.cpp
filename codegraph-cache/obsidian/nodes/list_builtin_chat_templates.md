@@ -15,12 +15,10 @@ community: "common"
 
 - [[nodes/llama_chat_builtin_templates]] _calls_
 - [[nodes/size]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/parse_csv_row]] _calls_
 - [[nodes/field]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/clear]] _calls_
 
 ## Used By

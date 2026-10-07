@@ -17,6 +17,7 @@ community: "tools"
 - [[nodes/load_model]] _calls_
 - [[nodes/update_slots]] _calls_
 - [[nodes/pre_decode]] _calls_
+- [[nodes/main]] _calls_
+- [[nodes/main]] _calls_
 - [[nodes/common_speculative_get_devices_str]] _calls_
-- [[nodes/main]] _calls_
-- [[nodes/main]] _calls_
+- [[nodes/flush_deferred]] _calls_

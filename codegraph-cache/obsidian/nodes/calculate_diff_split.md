@@ -15,7 +15,6 @@ community: "tests"
 
 - [[nodes/empty]] _calls_
 - [[nodes/append]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/string]] _calls_
 - [[nodes/common_suffix_len]] _calls_
 - [[nodes/common_prefix_len]] _calls_

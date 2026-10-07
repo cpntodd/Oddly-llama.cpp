@@ -16,7 +16,5 @@ community: "ggml"
 - [[nodes/check_graph_compatibility]] _calls_
 - [[nodes/has]] _calls_
 - [[nodes/ggml_backend_sycl_graph_compute_impl]] _calls_
-- [[nodes/finalize]] _calls_
 - [[nodes/update]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/ggml_backend_is_sycl]] _calls_

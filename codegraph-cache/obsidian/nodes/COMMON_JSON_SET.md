@@ -16,4 +16,3 @@ community: "common"
 - [[nodes/common_json_value]] _calls_
 - [[nodes/type]] _calls_
 - [[nodes/set]] _calls_
-- [[nodes/move]] _calls_

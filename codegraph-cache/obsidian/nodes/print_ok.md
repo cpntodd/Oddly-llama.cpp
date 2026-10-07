@@ -27,7 +27,6 @@ community: "ggml"
 - [[nodes/ggml_opt_result_loss]] _calls_
 - [[nodes/ggml_opt_result_accuracy]] _calls_
 - [[nodes/almost_equal]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/ggml_opt_reset]] _calls_
 - [[nodes/ggml_opt_result_reset]] _calls_
 

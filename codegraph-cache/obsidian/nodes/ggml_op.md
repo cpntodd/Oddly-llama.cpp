@@ -1,12 +1,12 @@
 ---
 name: "ggml_op"
 type: "class"
-file: "ggml/src/ggml-hexagon/ggml-hexagon.cpp"
-community: "ggml"
+file: "tests/test-backend-ops.cpp"
+community: "tests"
 ---
 
 # ggml_op
 
-**Type:** `class`  **File:** `ggml/src/ggml-hexagon/ggml-hexagon.cpp`
+**Type:** `class`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]

@@ -15,8 +15,6 @@ community: "tests"
 
 - [[nodes/build_edit_tool]] _calls_
 - [[nodes/build_chat_peg_parser]] _calls_
-- [[nodes/at]] _calls_
-- [[nodes/foo]] _calls_
 - [[nodes/parse]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/string]] _calls_

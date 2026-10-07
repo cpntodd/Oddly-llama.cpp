@@ -1,17 +1,12 @@
 ---
 name: "cli-flags.constants.ts"
 type: "file"
-file: "tools/ui/src/lib/constants/cli-flags.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/cli-flags.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # cli-flags.constants.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/constants/cli-flags.constants.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/cli-flags.constants.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/buildBrowserInfoToolDefinition]] _imports_
-- [[nodes/getAllSettings]] _imports_
+**Community:** [[communities/build-sycl-2025]]

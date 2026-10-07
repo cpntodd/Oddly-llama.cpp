@@ -19,7 +19,6 @@ community: "ggml"
 - [[nodes/print_device_opt_feature]] _calls_
 - [[nodes/ggml_sycl_get_env]] _calls_
 - [[nodes/has]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/n]] _calls_
 
 ## Used By

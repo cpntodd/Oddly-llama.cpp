@@ -26,7 +26,6 @@ community: "src"
 - [[nodes/needs_raw_logits]] _calls_
 - [[nodes/init_model]] _calls_
 - [[nodes/convert_weights_ak_to_gg]] _calls_
-- [[nodes/add_sentinel]] _calls_
 - [[nodes/assign_names]] _calls_
 - [[nodes/get_gguf_ctx]] _calls_
 - [[nodes/ggml_backend_sched_split_graph]] _calls_
@@ -34,3 +33,4 @@ community: "src"
 - [[nodes/ggml_hash_map_free]] _calls_
 - [[nodes/ggml_visit_parents_graph]] _calls_
 - [[nodes/ggml_opt_build]] _calls_
+- [[nodes/add_sentinel]] _calls_

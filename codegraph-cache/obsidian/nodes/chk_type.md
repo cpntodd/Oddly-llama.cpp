@@ -16,7 +16,6 @@ community: "common"
 - [[nodes/runtime]] _calls_
 - [[nodes/program]] _calls_
 - [[nodes/body]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/if_statement]] _calls_
 - [[nodes/visit]] _calls_
 - [[nodes/for_statement]] _calls_
@@ -37,9 +36,10 @@ community: "common"
 - [[nodes/filter_statement]] _calls_
 - [[nodes/select_expression]] _calls_
 - [[nodes/test_expression]] _calls_
-- [[nodes/negate]] _calls_
 - [[nodes/unary_expression]] _calls_
 - [[nodes/slice_expression]] _calls_
 - [[nodes/keyword_argument_expression]] _calls_
 - [[nodes/spread_expression]] _calls_
 - [[nodes/call_statement]] _calls_
+- [[nodes/ternary_expression]] _calls_
+- [[nodes/raised_exception]] _calls_

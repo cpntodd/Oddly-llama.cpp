@@ -14,7 +14,7 @@ community: "tools"
 ## Depends On
 
 - [[nodes/KeyValuePair]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 
 ## Used By
 

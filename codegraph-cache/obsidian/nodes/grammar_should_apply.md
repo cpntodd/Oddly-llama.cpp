@@ -2,14 +2,14 @@
 name: "grammar_should_apply"
 type: "function"
 file: "common/sampling.cpp"
-community: "tests"
+community: "common"
 ---
 
 # grammar_should_apply
 
 **Type:** `function`  **File:** `common/sampling.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

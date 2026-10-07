@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/parse_test_expression]] _calls_
 - [[nodes/is]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

@@ -2,14 +2,14 @@
 name: "double"
 type: "function"
 file: "examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt"
-community: "tools"
+community: "common"
 ---
 
 # double
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -22,3 +22,4 @@ community: "tools"
 - [[nodes/get_backend]] _calls_
 - [[nodes/ggml_opt_result_accuracy]] _calls_
 - [[nodes/ggml_webgpu_upscale]] _calls_
+- [[nodes/main]] _calls_

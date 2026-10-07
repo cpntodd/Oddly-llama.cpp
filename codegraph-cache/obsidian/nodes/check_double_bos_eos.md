@@ -26,7 +26,6 @@ community: "src"
 - [[nodes/vocab]] _calls_
 - [[nodes/unicode_cpts_from_utf8]] _calls_
 - [[nodes/unicode_cpt_flags_from_cpt]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/unicode_cpt_to_utf8]] _calls_
 - [[nodes/unicode_tolower]] _calls_
 - [[nodes/is_chinese_char]] _calls_
@@ -43,6 +42,7 @@ community: "src"
 - [[nodes/llm_tokenizer_hybriddna_session]] _calls_
 - [[nodes/emit_dna_kmers]] _calls_
 - [[nodes/llm_tokenizer_whitespace_session]] _calls_
+- [[nodes/fragment_buffer_variant]] _calls_
 
 ## Used By
 

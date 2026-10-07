@@ -1,12 +1,12 @@
 ---
 name: "ModelId.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/models/ModelId.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/models/ModelId.svelte"
+community: "build-sycl-2025"
 ---
 
 # ModelId.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/models/ModelId.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/models/ModelId.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

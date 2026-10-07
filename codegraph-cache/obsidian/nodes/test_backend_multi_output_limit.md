@@ -2,14 +2,14 @@
 name: "test_backend_multi_output_limit"
 type: "function"
 file: "tests/test-backend-sampler.cpp"
-community: "src"
+community: "common"
 ---
 
 # test_backend_multi_output_limit
 
 **Type:** `function`  **File:** `tests/test-backend-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

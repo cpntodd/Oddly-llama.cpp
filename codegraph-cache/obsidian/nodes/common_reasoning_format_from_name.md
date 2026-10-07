@@ -2,14 +2,14 @@
 name: "common_reasoning_format_from_name"
 type: "function"
 file: "common/chat.cpp"
-community: "tools"
+community: "common"
 ---
 
 # common_reasoning_format_from_name
 
 **Type:** `function`  **File:** `common/chat.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Used By
 

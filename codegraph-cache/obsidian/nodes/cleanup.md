@@ -1,16 +1,17 @@
 ---
 name: "cleanup"
 type: "function"
-file: "ggml/src/ggml-webgpu/ggml-webgpu.cpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/sandbox.service.ts"
+community: "build-sycl-2025"
 ---
 
 # cleanup
 
-**Type:** `function`  **File:** `ggml/src/ggml-webgpu/ggml-webgpu.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/sandbox.service.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
-## Depends On
+## Used By
 
-- [[nodes/webgpu_param_arena]] _calls_
+- [[nodes/finish]] _calls_
+- [[nodes/onAbort]] _calls_

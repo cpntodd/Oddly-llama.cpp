@@ -1,17 +1,12 @@
 ---
 name: "label.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/label/label.svelte"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/label/label.svelte"
+community: "build-sycl-2025"
 ---
 
 # label.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/label/label.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/label/label.svelte`
 
-**Community:** [[communities/ggml]]
-
-## Used By
-
-- [[nodes/opp]] _imports_
-- [[nodes/ov]] _imports_
+**Community:** [[communities/build-sycl-2025]]

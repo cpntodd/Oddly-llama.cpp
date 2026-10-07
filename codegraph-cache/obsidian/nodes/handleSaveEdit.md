@@ -1,17 +1,16 @@
 ---
 name: "handleSaveEdit"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-chat-message-edit-context.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-message-edit-context.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # handleSaveEdit
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-chat-message-edit-context.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-message-edit-context.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/parseFilesToMessageExtras]] _calls_
 - [[nodes/onSave]] _calls_

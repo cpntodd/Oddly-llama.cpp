@@ -1,12 +1,12 @@
 ---
 name: "collapsible.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/collapsible/collapsible.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/collapsible/collapsible.svelte"
+community: "build-sycl-2025"
 ---
 
 # collapsible.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/collapsible/collapsible.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/collapsible/collapsible.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

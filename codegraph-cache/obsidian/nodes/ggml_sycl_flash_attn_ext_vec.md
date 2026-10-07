@@ -13,14 +13,15 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/_abort]] _imports_
+- [[nodes/obj_traits]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/dequantize_V_f16]] _imports_
 - [[nodes/syclex]] _imports_
 - [[nodes/syclex]] _imports_
-- [[nodes/ggml_sycl_flash_attn_ext_onednn_supported]] _imports_
+- [[nodes/fattn.hpp]] _imports_
+- [[nodes/fattn-onednn.hpp]] _imports_
+- [[nodes/constexpr]] _imports_
 
 ## Used By
 
-- [[nodes/mkl_fa_kv_desc_mode]] _imports_
 - [[nodes/ggml_sycl_flash_attn_ext]] _calls_

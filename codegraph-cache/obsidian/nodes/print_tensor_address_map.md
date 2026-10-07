@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/at]] _calls_
 - [[nodes/get_tensor_ov_name]] _calls_
 - [[nodes/is_inplace_op]] _calls_
 - [[nodes/ggml_nbytes]] _calls_

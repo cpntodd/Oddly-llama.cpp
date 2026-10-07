@@ -28,7 +28,6 @@ community: "ggml"
 - [[nodes/ggml_get_next_tensor]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/string_remove_suffix]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_nelements]] _calls_
 
 ## Used By

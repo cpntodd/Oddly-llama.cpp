@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/ggml_tensor_overhead]] _calls_
 - [[nodes/ggml_init]] _calls_
 - [[nodes/ggml_set_name]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/llama_ftype_get_default_type]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/ggml_type_name]] _calls_

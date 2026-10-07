@@ -2,14 +2,14 @@
 name: "select_weight_buft"
 type: "function"
 file: "src/llama-model-loader.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # select_weight_buft
 
 **Type:** `function`  **File:** `src/llama-model-loader.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 
@@ -38,8 +38,8 @@ community: "ggml"
 - [[nodes/ggml_backend_dev_backend_reg]] _calls_
 - [[nodes/decltype]] _calls_
 - [[nodes/addr]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/ggml_get_first_tensor]] _calls_
 - [[nodes/ggml_get_next_tensor]] _calls_
 - [[nodes/unmap_fragment]] _calls_
+- [[nodes/seek]] _calls_
+- [[nodes/read_raw]] _calls_

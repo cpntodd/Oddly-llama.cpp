@@ -1,13 +1,13 @@
 ---
 name: "ParameterSyncService"
 type: "class"
-file: "tools/ui/src/lib/services/parameter-sync.service.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/parameter-sync.service.ts"
 community: "tools"
 ---
 
 # ParameterSyncService
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/parameter-sync.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/parameter-sync.service.ts`
 
 **Community:** [[communities/tools]]
 

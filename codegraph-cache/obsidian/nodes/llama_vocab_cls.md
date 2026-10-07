@@ -2,14 +2,14 @@
 name: "llama_vocab_cls"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_vocab_cls
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

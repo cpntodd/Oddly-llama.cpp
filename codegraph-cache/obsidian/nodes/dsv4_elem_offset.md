@@ -2,14 +2,14 @@
 name: "dsv4_elem_offset"
 type: "function"
 file: "src/models/deepseek4.cpp"
-community: "src"
+community: "tools"
 ---
 
 # dsv4_elem_offset
 
 **Type:** `function`  **File:** `src/models/deepseek4.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
@@ -19,4 +19,3 @@ community: "src"
 - [[nodes/n_embd_out]] _calls_
 - [[nodes/ggml_set_input]] _calls_
 - [[nodes/ggml_set_name]] _calls_
-- [[nodes/move]] _calls_

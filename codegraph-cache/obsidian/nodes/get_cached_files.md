@@ -20,7 +20,6 @@ community: "common"
 - [[nodes/string]] _calls_
 - [[nodes/get_cached_ref]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

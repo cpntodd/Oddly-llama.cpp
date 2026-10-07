@@ -1,17 +1,12 @@
 ---
 name: "UiStore"
 type: "class"
-file: "tools/ui/src/lib/stores/ui.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/ui.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # UiStore
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/ui.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/ui.svelte.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/server_http_context]] _imports_
-- [[nodes/getAllSettings]] _imports_
+**Community:** [[communities/build-sycl-2025]]

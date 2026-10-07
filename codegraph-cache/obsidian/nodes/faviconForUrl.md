@@ -1,12 +1,12 @@
 ---
 name: "faviconForUrl"
 type: "function"
-file: "tools/ui/src/lib/utils/search-results.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/search-results.ts"
+community: "build-sycl-2025"
 ---
 
 # faviconForUrl
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/search-results.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/search-results.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

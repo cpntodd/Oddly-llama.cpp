@@ -2,14 +2,14 @@
 name: "mtmd_debug_preprocess_audio"
 type: "function"
 file: "tools/mtmd/mtmd.cpp"
-community: "tests"
+community: "common"
 ---
 
 # mtmd_debug_preprocess_audio
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

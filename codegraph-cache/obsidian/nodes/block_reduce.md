@@ -2,14 +2,14 @@
 name: "block_reduce"
 type: "function"
 file: "ggml/src/ggml-sycl/common.hpp"
-community: "tools"
+community: "build-sycl-2025"
 ---
 
 # block_reduce
 
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/common.hpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

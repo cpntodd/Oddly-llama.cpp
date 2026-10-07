@@ -1,21 +1,16 @@
 ---
 name: "RouterService"
 type: "class"
-file: "tools/ui/src/lib/services/router.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/router.service.ts"
+community: "build-vulkan-gcc"
 ---
 
 # RouterService
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/router.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/router.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
-
-## Used By
-
-- [[nodes/TabsStore]] _imports_
-- [[nodes/ConversationsStore]] _imports_

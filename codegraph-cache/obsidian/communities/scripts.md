@@ -1,5 +1,5 @@
 ---
-community_id: 3069
+community_id: 8231
 label: "scripts"
 members: 1
 cohesion: 1.0

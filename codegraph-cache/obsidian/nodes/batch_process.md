@@ -2,14 +2,14 @@
 name: "batch_process"
 type: "function"
 file: "examples/retrieval/retrieval.cpp"
-community: "src"
+community: "common"
 ---
 
 # batch_process
 
 **Type:** `function`  **File:** `examples/retrieval/retrieval.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

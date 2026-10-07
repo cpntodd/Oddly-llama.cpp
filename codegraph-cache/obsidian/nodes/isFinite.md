@@ -1,25 +1,18 @@
 ---
 name: "isFinite"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # isFinite
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
-- [[nodes/parseEditFileMeta]] _calls_
-- [[nodes/parseGrepLine]] _calls_
-- [[nodes/parseRunJavascriptMeta]] _calls_
-- [[nodes/parseWriteFileMeta]] _calls_
-- [[nodes/parseReadFileMeta]] _calls_
-- [[nodes/formatReply]] _calls_
-- [[nodes/for]] _calls_
 - [[nodes/cbrt]] _calls_
 - [[nodes/cosh]] _calls_
 - [[nodes/sinh]] _calls_
@@ -33,4 +26,3 @@ community: "tools"
 - [[nodes/pow]] _calls_
 - [[nodes/finiteToString]] _calls_
 - [[nodes/toStringBinary]] _calls_
-- [[nodes/padFaviconSvg]] _calls_

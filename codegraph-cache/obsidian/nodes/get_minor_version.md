@@ -13,7 +13,7 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_init]] _calls_
-- [[nodes/print_device_detail]] _calls_
 - [[nodes/get_device_backend_and_type]] _calls_
 - [[nodes/is_native_atomic_supported]] _calls_
+- [[nodes/ggml_sycl_init]] _calls_
+- [[nodes/print_device_detail]] _calls_

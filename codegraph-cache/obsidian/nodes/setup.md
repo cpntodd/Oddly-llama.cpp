@@ -14,9 +14,7 @@ community: "tools"
 ## Depends On
 
 - [[nodes/SseJsonEvent]] _imports_
-- [[nodes/base]] _calls_
-- [[nodes/stringify]] _calls_
-- [[nodes/on]] _calls_
+- [[nodes/info]] _calls_
 
 ## Used By
 

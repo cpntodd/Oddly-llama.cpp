@@ -1,12 +1,12 @@
 ---
 name: "getChatFormActionsContext"
 type: "function"
-file: "tools/ui/src/lib/contexts/chat-form-actions.context.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/contexts/chat-form-actions.context.ts"
+community: "build-sycl-2025"
 ---
 
 # getChatFormActionsContext
 
-**Type:** `function`  **File:** `tools/ui/src/lib/contexts/chat-form-actions.context.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/contexts/chat-form-actions.context.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

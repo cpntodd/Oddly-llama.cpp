@@ -2,14 +2,14 @@
 name: "check_plan"
 type: "function"
 file: "tests/test-model-resolution.cpp"
-community: "tests"
+community: "common"
 ---
 
 # check_plan
 
 **Type:** `function`  **File:** `tests/test-model-resolution.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

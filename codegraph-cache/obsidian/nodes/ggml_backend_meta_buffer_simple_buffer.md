@@ -14,6 +14,7 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/ggml_backend_buffer_is_meta]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/ggml_backend_meta_get_split_state]] _calls_
 - [[nodes/ggml_backend_meta_buffer_n_bufs]] _calls_
 - [[nodes/ggml_backend_meta_split_axis]] _calls_

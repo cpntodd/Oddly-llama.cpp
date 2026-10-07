@@ -2,14 +2,14 @@
 name: "greedy"
 type: "function"
 file: "examples/rs-rollback/rs-rollback.cpp"
-community: "common"
+community: "tools"
 ---
 
 # greedy
 
 **Type:** `function`  **File:** `examples/rs-rollback/rs-rollback.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

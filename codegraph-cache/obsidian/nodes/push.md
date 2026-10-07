@@ -1,24 +1,20 @@
 ---
 name: "push"
 type: "function"
-file: "ggml/src/ggml-hexagon/ggml-hexagon.cpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/tools.svelte.ts"
+community: "tools"
 ---
 
 # push
 
-**Type:** `function`  **File:** `ggml/src/ggml-hexagon/ggml-hexagon.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/tools.svelte.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
-- [[nodes/empty]] _calls_
-- [[nodes/pop]] _calls_
-- [[nodes/ggml_time_us]] _calls_
-- [[nodes/reset]] _calls_
+- [[nodes/has]] _calls_
 
 ## Used By
 
-- [[nodes/ggml_backend_buffer_is_hexagon_repack]] _calls_
-- [[nodes/pop]] _calls_
+- [[nodes/take]] _calls_

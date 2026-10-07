@@ -2,14 +2,14 @@
 name: "ok"
 type: "function"
 file: "tools/tuning/fa-vec.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # ok
 
 **Type:** `function`  **File:** `tools/tuning/fa-vec.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

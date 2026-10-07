@@ -2,14 +2,14 @@
 name: "unary_op_sin_kernel"
 type: "function"
 file: "ggml/src/ggml-sycl/element_wise.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # unary_op_sin_kernel
 
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/element_wise.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

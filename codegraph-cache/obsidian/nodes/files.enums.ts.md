@@ -1,12 +1,12 @@
 ---
 name: "files.enums.ts"
 type: "file"
-file: "tools/ui/src/lib/enums/files.enums.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/enums/files.enums.ts"
+community: "build-sycl-2025"
 ---
 
 # files.enums.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/enums/files.enums.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/enums/files.enums.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -26,8 +26,8 @@ community: "src"
 - [[nodes/ggml_backend_tensor_get_async]] _calls_
 - [[nodes/models]] _calls_
 - [[nodes/size]] _calls_
+- [[nodes/swap]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/finish]] _calls_
 - [[nodes/ggml_backend_buffer_get_size]] _calls_
 - [[nodes/ggml_backend_cpu_buffer_type]] _calls_
 - [[nodes/ggml_backend_dev_host_buffer_type]] _calls_

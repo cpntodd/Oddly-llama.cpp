@@ -13,4 +13,5 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/get]] _calls_
 - [[nodes/downsample_sycl_global_range]] _calls_

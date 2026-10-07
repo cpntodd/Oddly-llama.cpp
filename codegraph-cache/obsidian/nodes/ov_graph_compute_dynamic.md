@@ -17,7 +17,6 @@ community: "ggml"
 - [[nodes/is_model_splitted]] _calls_
 - [[nodes/is_naive]] _calls_
 - [[nodes/ggml_time_us]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/ggml_openvino_weight_buffers_released]] _calls_
 - [[nodes/cached]] _calls_
 - [[nodes/ggml_openvino_model_cache_dir]] _calls_
@@ -27,7 +26,6 @@ community: "ggml"
 - [[nodes/value]] _calls_
 - [[nodes/map]] _calls_
 - [[nodes/get_node]] _calls_
-- [[nodes/close]] _calls_
 - [[nodes/get_ov_input_tensor]] _calls_
 - [[nodes/print_input_tensor_info]] _calls_
 - [[nodes/ggml_nbytes]] _calls_

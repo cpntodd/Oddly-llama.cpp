@@ -1,15 +1,15 @@
 ---
 name: "runGlobSearch"
 type: "function"
-file: "tools/ui/src/lib/utils/glob-search.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/glob-search.ts"
+community: "build-sycl-2025"
 ---
 
 # runGlobSearch
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/glob-search.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/glob-search.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

@@ -2,14 +2,14 @@
 name: "model_name_from_repo"
 type: "function"
 file: "tests/test-quant-type-selection.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # model_name_from_repo
 
 **Type:** `function`  **File:** `tests/test-quant-type-selection.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

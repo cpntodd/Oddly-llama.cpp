@@ -25,5 +25,5 @@ community: "common"
 - [[nodes/constexpr]] _calls_
 - [[nodes/insert]] _calls_
 - [[nodes/build_grammar]] _calls_
-- [[nodes/at]] _calls_
+- [[nodes/is_string]] _calls_
 - [[nodes/gbnf_format_literal]] _calls_

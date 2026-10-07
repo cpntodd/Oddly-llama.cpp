@@ -2,14 +2,14 @@
 name: "caps_print_stats"
 type: "function"
 file: "common/jinja/caps.cpp"
-community: "common"
+community: "tests"
 ---
 
 # caps_print_stats
 
 **Type:** `function`  **File:** `common/jinja/caps.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

@@ -2,14 +2,14 @@
 name: "llama_set_abort_callback"
 type: "function"
 file: "src/llama-context.cpp"
-community: "tools"
+community: "common"
 ---
 
 # llama_set_abort_callback
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

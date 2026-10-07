@@ -1,77 +1,77 @@
 # CodeGraph Report
-_Generated: 2026-09-18T06:59:48.479017Z_
+_Generated: 2026-10-07T04:40:36.637929Z_
 
-**13398 nodes** · **23312 edges** · **5476 communities**
+**21478 nodes** · **29639 edges** · **10689 communities**
 
 ## God Nodes
 
 _Highest-degree concepts everything flows through:_
 
-- **jinja** `common/jinja/string.cpp` — 243 connections
-- **move** `tools/ui/src/lib/hooks/use-picker-navigation.svelte.ts` — 241 connections
-- **string** `common/jinja/string.h` — 177 connections
-- **ggml_nbytes** `ggml/src/ggml.c` — 158 connections
-- **ggml_type_name** `ggml/src/ggml.c` — 158 connections
+- **Keys** `gguf-py/gguf/constants.py` — 432 connections
+- **slice** `common/jinja/value.cpp` — 332 connections
+- **map** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt` — 326 connections
+- **types** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt` — 272 connections
+- **jinja** `common/jinja/string.cpp` — 263 connections
 
 ## Community Clusters
 
-### ggml (240 nodes)
-Members: ggml_backend_cann_event_record, parallel_for, ggml_sycl_add_id, op, ggml_sycl_add …
+### common (249 nodes)
+Members: llama_download, is_string, arg_removed, common_models_handler_apply, common_models_handler_init …
 
-### ggml (193 nodes)
-Members: print_tensor_info, tensors, ggml_backend_alloc_ctx_tensors, ggml_backend_alloc_ctx_tensors_from_buft_size, ggml_backend_meta_context …
+### tools (236 nodes)
+Members: assert_fail, set_error_handler, token, common_chat_get_asr_prompt, is_lfm2_template …
 
-### src (188 nodes)
-Members: init_model, load, loadModel, prepare, get_n_tokens …
+### common (215 nodes)
+Members: clean_file_name, common_params_parse, common_chat_templates_source, common_chat_templates_was_explicit, common_batch_clear …
 
-### common (169 nodes)
-Members: common_models_handler_is_preset_repo, common_params_print_usage, get_default_local_path, build_chat_peg_parser, after_common_suffix …
+### src (213 nodes)
+Members: decode_utf8, get_n_tokens, ggml_backend_alloc_ctx_tensors_from_buft, ggml_backend_alloc_ctx_tensors_from_buft_size, ggml_gallocr_get_buffer_size …
 
-### ggml (136 nodes)
-Members: common_control_vector_load_one, common_http_get_free_port, common_imatrix_load, common_speculative_type_from_name, my_llama_file …
+### build-sycl-2025 (206 nodes)
+Members: command, colorizeFaviconSvg, padFaviconSvg, writeThemeFavicons, parseGrepLine …
 
-### tools (133 nodes)
-Members: print_usage, licenses, llama_update, version, common_arg_utils …
+### build-vulkan-gcc (203 nodes)
+Members: accessors, getHastNodeId, BlockIdGenerator, Window, Window …
 
-### tools (132 nodes)
-Members: types, client, rdma_conn, is_valid_fd, post_rx …
+### ggml (195 nodes)
+Members: diag.comp.cpp, fill.comp.cpp, im2col.comp.cpp, repeat_back.comp.cpp, solve_tri.comp.cpp …
 
-### ggml (120 nodes)
-Members: ggml_tallocr, ggml_context_deleter, ggml-cuda.h, ggml_tensor, ggml-opencl.h …
+### tools (185 nodes)
+Members: ToolResultContentItem, ToolsService, fakeFetch, is401, expectUpright …
 
-### ggml (120 nodes)
-Members: ggml_metal_library_get_pipeline_arange, ggml_metal_library_get_pipeline_base, ggml_metal_library_get_pipeline_bin_one, ggml_metal_library_get_pipeline_col2im_1d, ggml_metal_library_get_pipeline_conv_2d …
+### tools (180 nodes)
+Members: info, warn, darkImageResolver, buildInfoPlugin, nerdamerPlugin …
 
-### ggml (119 nodes)
-Members: ggml_backend_blas_device_supports_op, ggml_backend_blas_graph_compute, ggml_backend_blas_mul_mat, ggml_backend_blas_out_prod, ggml_cann_need_bcast …
+### tests (180 nodes)
+Members: print_tensor_info, ggml_backend_meta_buffer_type_alloc_buffer, ggml_backend_tensor_set, ggml_is_view_op, op …
 
 ## Surprising Connections
 
 - **TOKENIZER_TYPE** →(imports)→ **ai_should_log**
+- **TOKENIZER_TYPE** →(imports)→ **os.h**
 - **TOKENIZER_TYPE** →(imports)→ **common_json_item**
 - **split_str_to_n_bytes** →(imports)→ **ai_should_log**
+- **split_str_to_n_bytes** →(imports)→ **os.h**
 - **split_str_to_n_bytes** →(imports)→ **gguf.py**
 - **GGMLFormat** →(imports)→ **ai_should_log**
-- **GGMLFormat** →(imports)→ **gguf.py**
-- **PartialLoraTensor** →(imports)→ **ai_should_log**
-- **PartialLoraTensor** →(imports)→ **common_json_item**
+- **GGMLFormat** →(imports)→ **os.h**
 
 ## Suggested Questions
 
-- What does jinja depend on?
-- What uses jinja?
+- What does Keys depend on?
+- What uses Keys?
 - What is the relationship between TOKENIZER_TYPE and other modules?
 - What is the relationship between GGMLFormat and other modules?
 - Which files have the most connections?
 
 ## Confidence Breakdown
 
-- **EXTRACTED**: 13025 edges
-- **INFERRED**: 10287 edges
+- **EXTRACTED**: 15585 edges
+- **INFERRED**: 14054 edges
 
 ## Knowledge Gaps
 
-**Isolated nodes** (5158 with no edges):
+**Isolated nodes** (10180 with no edges):
   - `ty.toml` in `ty.toml`
   - `AGENTS.md` in `AGENTS.md`
   - `CONTRIBUTING.md` in `CONTRIBUTING.md`
@@ -80,14 +80,14 @@ Members: ggml_backend_blas_device_supports_op, ggml_backend_blas_graph_compute, 
   - `CLAUDE.md` in `CLAUDE.md`
   - `pyrightconfig.json` in `pyrightconfig.json`
   - `CMakeLists.txt` in `CMakeLists.txt`
-  - …and 5150 more
+  - …and 10172 more
 
-**Thin communities** (5158 single-node clusters):
+**Thin communities** (10180 single-node clusters):
   - `.pre-commit-config.yaml` in `.pre-commit-config.yaml`
   - `AGENTS.md` in `AGENTS.md`
   - `CLAUDE.md` in `CLAUDE.md`
   - `CMakeLists.txt` in `CMakeLists.txt`
   - `CMakePresets.json` in `CMakePresets.json`
-  - …and 5153 more
+  - …and 10175 more
 
 _No ambiguous edges._

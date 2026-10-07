@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/enable_debug]] _calls_
 - [[nodes/parse_from_tokens]] _calls_
-- [[nodes/close]] _calls_
 
 ## Used By
 

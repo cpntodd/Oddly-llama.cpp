@@ -2,14 +2,14 @@
 name: "llama_tensor_get_type_impl"
 type: "function"
 file: "src/llama-quant.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # llama_tensor_get_type_impl
 
 **Type:** `function`  **File:** `src/llama-quant.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

@@ -16,10 +16,8 @@ community: "src"
 - [[nodes/decode_utf8]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/llama_grammar_is_end_of_sequence]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

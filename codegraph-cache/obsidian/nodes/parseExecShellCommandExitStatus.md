@@ -1,12 +1,12 @@
 ---
 name: "parseExecShellCommandExitStatus"
 type: "function"
-file: "tools/ui/src/lib/utils/parse-exec-shell-status.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/parse-exec-shell-status.ts"
+community: "build-sycl-2025"
 ---
 
 # parseExecShellCommandExitStatus
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/parse-exec-shell-status.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/parse-exec-shell-status.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

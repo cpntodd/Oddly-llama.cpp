@@ -14,7 +14,6 @@ community: "common"
 ## Depends On
 
 - [[nodes/insert]] _calls_
-- [[nodes/merge]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/common_sampler_type_to_chr]] _calls_

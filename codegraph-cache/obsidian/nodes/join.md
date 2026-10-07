@@ -2,14 +2,14 @@
 name: "join"
 type: "function"
 file: "examples/llama.android/lib/src/main/cpp/ai_chat.cpp"
-community: "tests"
+community: "common"
 ---
 
 # join
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/cpp/ai_chat.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

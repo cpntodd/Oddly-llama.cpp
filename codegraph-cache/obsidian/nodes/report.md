@@ -1,20 +1,16 @@
 ---
 name: "report"
 type: "function"
-file: "tools/tts/tts.cpp"
-community: "tests"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts"
+community: "build-sycl-2025"
 ---
 
 # report
 
-**Type:** `function`  **File:** `tools/tts/tts.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts`
 
-**Community:** [[communities/tests]]
-
-## Depends On
-
-- [[nodes/ggml_time_us]] _calls_
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
-- [[nodes/main]] _calls_
+- [[nodes/measureConversation]] _calls_

@@ -1,17 +1,16 @@
 ---
 name: "convertToWav"
 type: "function"
-file: "tools/ui/src/lib/utils/audio-recording.ts"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/audio-recording.ts"
+community: "build-sycl-2025"
 ---
 
 # convertToWav
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/audio-recording.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/audio-recording.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/audioBufferToWav]] _calls_
-- [[nodes/close]] _calls_

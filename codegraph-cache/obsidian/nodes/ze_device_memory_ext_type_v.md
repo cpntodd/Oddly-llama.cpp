@@ -1,0 +1,12 @@
+---
+name: "ze_device_memory_ext_type_v"
+type: "class"
+file: "build-intel-all/level-zero-sdk/include/ze.py"
+community: "build-intel-all"
+---
+
+# ze_device_memory_ext_type_v
+
+**Type:** `class`  **File:** `build-intel-all/level-zero-sdk/include/ze.py`
+
+**Community:** [[communities/build-intel-all]]

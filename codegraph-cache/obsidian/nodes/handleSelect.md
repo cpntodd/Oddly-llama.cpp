@@ -1,17 +1,16 @@
 ---
 name: "handleSelect"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-models-selector.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-models-selector.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # handleSelect
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-models-selector.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-models-selector.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/handleOpenChange]] _calls_
-- [[nodes/isModelLoaded]] _calls_

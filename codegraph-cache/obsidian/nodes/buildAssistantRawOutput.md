@@ -1,20 +1,12 @@
 ---
 name: "buildAssistantRawOutput"
 type: "function"
-file: "tools/ui/src/lib/utils/agentic.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/agentic.ts"
+community: "build-sycl-2025"
 ---
 
 # buildAssistantRawOutput
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/agentic.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/agentic.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/stringify]] _calls_
-
-## Used By
-
-- [[nodes/makeSection]] _calls_
+**Community:** [[communities/build-sycl-2025]]

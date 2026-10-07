@@ -1,12 +1,12 @@
 ---
 name: "README-perf.md"
 type: "file"
-file: "tools/ui/tests/client/README-perf.md"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/README-perf.md"
+community: "build-sycl-2025"
 ---
 
 # README-perf.md
 
-**Type:** `file`  **File:** `tools/ui/tests/client/README-perf.md`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/README-perf.md`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

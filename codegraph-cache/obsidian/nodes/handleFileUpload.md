@@ -1,15 +1,15 @@
 ---
 name: "handleFileUpload"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-chat-screen-file-upload.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-file-upload.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # handleFileUpload
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-chat-screen-file-upload.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-file-upload.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

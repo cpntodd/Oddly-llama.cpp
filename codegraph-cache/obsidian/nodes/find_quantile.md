@@ -2,14 +2,14 @@
 name: "find_quantile"
 type: "function"
 file: "tests/test-quantize-stats.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # find_quantile
 
 **Type:** `function`  **File:** `tests/test-quantize-stats.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

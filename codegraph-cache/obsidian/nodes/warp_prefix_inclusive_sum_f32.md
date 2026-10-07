@@ -13,5 +13,5 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/cumsum.hpp]] _imports_
+- [[nodes/cumsum.comp.cpp]] _imports_
 - [[nodes/KeyValuePair]] _imports_

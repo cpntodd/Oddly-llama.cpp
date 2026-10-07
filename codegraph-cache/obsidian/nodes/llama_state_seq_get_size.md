@@ -2,14 +2,14 @@
 name: "llama_state_seq_get_size"
 type: "function"
 file: "src/llama-context.cpp"
-community: "src"
+community: "tests"
 ---
 
 # llama_state_seq_get_size
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

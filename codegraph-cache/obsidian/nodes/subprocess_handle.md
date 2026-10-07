@@ -2,14 +2,14 @@
 name: "subprocess_handle"
 type: "class"
 file: "tools/mtmd/mtmd-helper.cpp"
-community: "common"
+community: "tools"
 ---
 
 # subprocess_handle
 
 **Type:** `class`  **File:** `tools/mtmd/mtmd-helper.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

@@ -2,14 +2,14 @@
 name: "init_tensor_kq_mask"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # init_tensor_kq_mask
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

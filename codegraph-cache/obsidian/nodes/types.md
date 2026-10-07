@@ -2,14 +2,14 @@
 name: "types"
 type: "function"
 file: "examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt"
-community: "tools"
+community: "build-sycl-2025"
 ---
 
 # types
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

@@ -1,20 +1,15 @@
 ---
 name: "getTechnicalDetails"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-processing-state.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-processing-state.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # getTechnicalDetails
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-processing-state.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-processing-state.svelte.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/round]] _calls_
-- [[nodes/toFixed]] _calls_
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

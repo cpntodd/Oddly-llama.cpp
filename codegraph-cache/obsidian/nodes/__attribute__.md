@@ -10,8 +10,3 @@ community: "ggml"
 **Type:** `function`  **File:** `ggml/src/ggml-et/et-kernels/src/math_fp.h`
 
 **Community:** [[communities/ggml]]
-
-## Depends On
-
-- [[nodes/exp]] _calls_
-- [[nodes/log2]] _calls_

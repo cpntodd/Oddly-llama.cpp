@@ -2,14 +2,14 @@
 name: "clip_n_mmproj_embd"
 type: "function"
 file: "tools/mtmd/clip.cpp"
-community: "src"
+community: "tools"
 ---
 
 # clip_n_mmproj_embd
 
 **Type:** `function`  **File:** `tools/mtmd/clip.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

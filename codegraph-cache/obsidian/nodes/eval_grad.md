@@ -28,6 +28,7 @@ community: "ggml"
 - [[nodes/ggml_backend_supports_op]] _calls_
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/grad_nmax]] _calls_
+- [[nodes/info]] _calls_
 - [[nodes/set_large_tensor_skip]] _calls_
 - [[nodes/ggml_is_scalar]] _calls_
 - [[nodes/ggml_set_name]] _calls_
@@ -42,7 +43,6 @@ community: "ggml"
 - [[nodes/initialize_tensors]] _calls_
 - [[nodes/tensors]] _calls_
 - [[nodes/ggml_graph_reset]] _calls_
-- [[nodes/ggml_backend_graph_compute]] _calls_
 
 ## Used By
 

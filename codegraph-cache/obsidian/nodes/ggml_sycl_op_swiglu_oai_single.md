@@ -13,5 +13,4 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/exp]] _calls_
 - [[nodes/parallel_for]] _calls_

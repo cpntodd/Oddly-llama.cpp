@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/base]] _calls_
 - [[nodes/hex_align_up]] _calls_
 - [[nodes/work_queue_alignof]] _calls_
 - [[nodes/work_queue_sizeof]] _calls_

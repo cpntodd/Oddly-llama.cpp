@@ -2,14 +2,14 @@
 name: "llama_set_n_threads"
 type: "function"
 file: "src/llama-context.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_set_n_threads
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

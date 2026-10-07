@@ -2,14 +2,14 @@
 name: "shift_context"
 type: "function"
 file: "examples/llama.android/lib/src/main/cpp/ai_chat.cpp"
-community: "src"
+community: "common"
 ---
 
 # shift_context
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/cpp/ai_chat.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

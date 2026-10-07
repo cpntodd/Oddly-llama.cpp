@@ -10,8 +10,3 @@ community: "ggml"
 **Type:** `file`  **File:** `ggml/src/ggml-sycl/cumsum.hpp`
 
 **Community:** [[communities/ggml]]
-
-## Used By
-
-- [[nodes/ggml_sycl_init]] _imports_
-- [[nodes/warp_prefix_inclusive_sum_f32]] _imports_

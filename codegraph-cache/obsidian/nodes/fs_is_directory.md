@@ -11,10 +11,6 @@ community: "common"
 
 **Community:** [[communities/common]]
 
-## Depends On
-
-- [[nodes/dir]] _calls_
-
 ## Used By
 
 - [[nodes/string_find_partial_stop]] _calls_

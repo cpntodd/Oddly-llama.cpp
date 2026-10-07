@@ -2,14 +2,14 @@
 name: "common_download_get_hf_plan"
 type: "function"
 file: "common/download.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_download_get_hf_plan
 
 **Type:** `function`  **File:** `common/download.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

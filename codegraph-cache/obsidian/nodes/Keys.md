@@ -2,14 +2,14 @@
 name: "Keys"
 type: "class"
 file: "gguf-py/gguf/constants.py"
-community: "tools"
+community: "build-vulkan-gcc"
 ---
 
 # Keys
 
 **Type:** `class`  **File:** `gguf-py/gguf/constants.py`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Used By
 

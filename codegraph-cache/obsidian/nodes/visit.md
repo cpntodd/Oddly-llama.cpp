@@ -17,11 +17,11 @@ community: "common"
 - [[nodes/empty]] _calls_
 - [[nodes/_add_rule]] _calls_
 - [[nodes/_resolve_ref]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/_generate_union_rule]] _calls_
 - [[nodes/_generate_constant_rule]] _calls_
 - [[nodes/string_join]] _calls_
+- [[nodes/is_string]] _calls_
 - [[nodes/insert]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/size]] _calls_
@@ -33,6 +33,12 @@ community: "common"
 
 ## Used By
 
+- [[nodes/createLiteralChildren]] _calls_
+- [[nodes/iconElement]] _calls_
+- [[nodes/createPreTransform]] _calls_
+- [[nodes/extractLanguage]] _calls_
+- [[nodes/processCell]] _calls_
+- [[nodes/rehypeResolveAttachmentImages]] _calls_
 - [[nodes/createLiteralChildren]] _calls_
 - [[nodes/iconElement]] _calls_
 - [[nodes/createPreTransform]] _calls_
@@ -54,3 +60,6 @@ community: "common"
 - [[nodes/cast_stmt]] _calls_
 - [[nodes/chk_type]] _calls_
 - [[nodes/bind_parameters]] _calls_
+- [[nodes/createLiteralChildren]] _calls_
+- [[nodes/iconElement]] _calls_
+- [[nodes/createPreTransform]] _calls_

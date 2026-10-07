@@ -2,14 +2,14 @@
 name: "llama_synchronize"
 type: "function"
 file: "src/llama-context.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_synchronize
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

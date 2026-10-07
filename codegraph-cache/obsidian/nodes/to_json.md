@@ -13,7 +13,6 @@ community: "common"
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/common_json_value]] _calls_
 - [[nodes/type]] _calls_
 - [[nodes/push_back]] _calls_

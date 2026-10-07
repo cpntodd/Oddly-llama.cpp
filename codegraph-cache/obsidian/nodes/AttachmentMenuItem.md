@@ -1,13 +1,13 @@
 ---
 name: "AttachmentMenuItem"
 type: "class"
-file: "tools/ui/src/lib/types/chat.d.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/chat.d.ts"
 community: "tools"
 ---
 
 # AttachmentMenuItem
 
-**Type:** `class`  **File:** `tools/ui/src/lib/types/chat.d.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/chat.d.ts`
 
 **Community:** [[communities/tools]]
 

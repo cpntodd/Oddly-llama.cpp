@@ -2,14 +2,14 @@
 name: "grow_to"
 type: "function"
 file: "src/llama-mmap.cpp"
-community: "ggml"
+community: "build-intel-all"
 ---
 
 # grow_to
 
 **Type:** `function`  **File:** `src/llama-mmap.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 

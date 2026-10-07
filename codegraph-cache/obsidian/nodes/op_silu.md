@@ -49,3 +49,4 @@ community: "ggml"
 - [[nodes/ggml_sycl_op_silu]] _calls_
 - [[nodes/ggml_sycl_op_swiglu]] _calls_
 - [[nodes/dispatch_type]] _calls_
+- [[nodes/constexpr]] _calls_

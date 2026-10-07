@@ -11,10 +11,6 @@ community: "tests"
 
 **Community:** [[communities/tests]]
 
-## Depends On
-
-- [[nodes/exp]] _calls_
-
 ## Used By
 
 - [[nodes/main]] _calls_

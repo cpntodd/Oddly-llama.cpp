@@ -2,14 +2,14 @@
 name: "llama_add_eos_token"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_add_eos_token
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

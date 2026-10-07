@@ -1,21 +1,17 @@
 ---
 name: "useChatScreenActiveModel"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-chat-screen-active-model.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-active-model.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # useChatScreenActiveModel
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-chat-screen-active-model.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-active-model.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/ServerResponse]] _imports_
-- [[nodes/getConversationModel]] _calls_
-- [[nodes/modelSupportsAudio]] _calls_
-- [[nodes/modelSupportsVideo]] _calls_
-- [[nodes/modelSupportsVision]] _calls_
 - [[nodes/activeModelId]] _calls_

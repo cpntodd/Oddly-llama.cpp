@@ -1,12 +1,12 @@
 ---
 name: "SyntaxHighlightedCode.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/content/SyntaxHighlightedCode.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/SyntaxHighlightedCode.svelte"
+community: "build-sycl-2025"
 ---
 
 # SyntaxHighlightedCode.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/content/SyntaxHighlightedCode.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/SyntaxHighlightedCode.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

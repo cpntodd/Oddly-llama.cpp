@@ -1,12 +1,12 @@
 ---
 name: "UriTemplateVariable"
 type: "class"
-file: "tools/ui/src/lib/utils/uri-template.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/uri-template.ts"
+community: "build-sycl-2025"
 ---
 
 # UriTemplateVariable
 
-**Type:** `class`  **File:** `tools/ui/src/lib/utils/uri-template.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/uri-template.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

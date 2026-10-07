@@ -1,13 +1,13 @@
 ---
 name: "isHeicMimeType"
 type: "function"
-file: "tools/ui/src/lib/utils/heic-to-jpeg.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/heic-to-jpeg.ts"
 community: "tools"
 ---
 
 # isHeicMimeType
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/heic-to-jpeg.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/heic-to-jpeg.ts`
 
 **Community:** [[communities/tools]]
 

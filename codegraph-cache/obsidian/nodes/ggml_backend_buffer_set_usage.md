@@ -20,7 +20,7 @@ community: "ggml"
 
 - [[nodes/load_tensors]] _calls_
 - [[nodes/params]] _calls_
-- [[nodes/matches_filter]] _calls_
-- [[nodes/eval_perf]] _calls_
 - [[nodes/ggml_backend_multi_buffer_set_usage]] _calls_
 - [[nodes/ggml_vbuffer_alloc]] _calls_
+- [[nodes/matches_filter]] _calls_
+- [[nodes/eval_perf]] _calls_

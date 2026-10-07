@@ -1,12 +1,12 @@
 ---
 name: "ContextGaugePopup.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatForm/ChatFormContextGauge/ContextGaugePopup.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormContextGauge/ContextGaugePopup.svelte"
+community: "build-sycl-2025"
 ---
 
 # ContextGaugePopup.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatForm/ChatFormContextGauge/ContextGaugePopup.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormContextGauge/ContextGaugePopup.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

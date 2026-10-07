@@ -1,12 +1,12 @@
 ---
 name: "MentionTextSegment"
 type: "class"
-file: "tools/ui/src/lib/utils/mention-badge.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/mention-badge.ts"
+community: "build-sycl-2025"
 ---
 
 # MentionTextSegment
 
-**Type:** `class`  **File:** `tools/ui/src/lib/utils/mention-badge.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/mention-badge.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

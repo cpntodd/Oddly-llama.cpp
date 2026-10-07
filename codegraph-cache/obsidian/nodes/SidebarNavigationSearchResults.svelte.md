@@ -1,12 +1,12 @@
 ---
 name: "SidebarNavigationSearchResults.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/navigation/SidebarNavigation/SidebarNavigationSearchResults.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/navigation/SidebarNavigation/SidebarNavigationSearchResults.svelte"
+community: "build-sycl-2025"
 ---
 
 # SidebarNavigationSearchResults.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/navigation/SidebarNavigation/SidebarNavigationSearchResults.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/navigation/SidebarNavigation/SidebarNavigationSearchResults.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

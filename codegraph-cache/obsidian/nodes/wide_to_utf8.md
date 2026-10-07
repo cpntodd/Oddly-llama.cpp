@@ -24,15 +24,11 @@ community: "tools"
 - [[nodes/common_get_env]] _calls_
 - [[nodes/string_format]] _calls_
 - [[nodes/string_strip]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/safe_json_to_str]] _calls_
 - [[nodes/size]] _calls_
-- [[nodes/merge]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/common_download_resolve_path]] _calls_
 - [[nodes/models]] _calls_
 - [[nodes/has_value]] _calls_
-- [[nodes/unlock]] _calls_
 - [[nodes/unload]] _calls_
 - [[nodes/join]] _calls_
 - [[nodes/clear]] _calls_
@@ -43,3 +39,7 @@ community: "tools"
 - [[nodes/ggml_time_ms]] _calls_
 - [[nodes/create]] _calls_
 - [[nodes/is_alive]] _calls_
+- [[nodes/terminate]] _calls_
+- [[nodes/request_exit]] _calls_
+- [[nodes/common_download_remove]] _calls_
+- [[nodes/bool]] _calls_

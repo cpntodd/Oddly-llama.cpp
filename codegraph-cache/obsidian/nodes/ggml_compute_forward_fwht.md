@@ -16,6 +16,7 @@ community: "ggml"
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/ggml_get_type_traits]] _calls_
 - [[nodes/ggml_vec_dot_f32]] _calls_
+- [[nodes/weights]] _calls_
 
 ## Used By
 

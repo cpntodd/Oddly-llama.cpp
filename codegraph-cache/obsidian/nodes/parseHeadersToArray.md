@@ -1,15 +1,15 @@
 ---
 name: "parseHeadersToArray"
 type: "function"
-file: "tools/ui/src/lib/utils/headers.ts"
-community: "src"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/headers.ts"
+community: "tools"
 ---
 
 # parseHeadersToArray
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/headers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/headers.ts`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

@@ -1,12 +1,21 @@
 ---
 name: "sum"
 type: "function"
-file: "ggml/src/ggml-metal/kernels/common.h"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # sum
 
-**Type:** `function`  **File:** `ggml/src/ggml-metal/kernels/common.h`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
+
+## Depends On
+
+- [[nodes/finalise]] _calls_
+- [[nodes/tan]] _calls_
+- [[nodes/tanh]] _calls_
+- [[nodes/trunc]] _calls_
+- [[nodes/clone]] _calls_
+- [[nodes/Decimal]] _calls_

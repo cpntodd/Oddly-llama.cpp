@@ -1,20 +1,16 @@
 ---
 name: "filterByLeafNodeId"
 type: "function"
-file: "tools/ui/src/lib/utils/branching.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/branching.ts"
+community: "build-sycl-2025"
 ---
 
 # filterByLeafNodeId
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/branching.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/branching.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/set]] _calls_
-
-## Used By
-
-- [[nodes/listener]] _calls_

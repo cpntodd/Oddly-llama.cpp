@@ -2,14 +2,14 @@
 name: "category_is_attn_v"
 type: "function"
 file: "src/llama-quant.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # category_is_attn_v
 
 **Type:** `function`  **File:** `src/llama-quant.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

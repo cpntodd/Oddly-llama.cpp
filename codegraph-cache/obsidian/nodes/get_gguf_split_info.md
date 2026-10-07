@@ -14,7 +14,6 @@ community: "common"
 ## Depends On
 
 - [[nodes/string_remove_suffix]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

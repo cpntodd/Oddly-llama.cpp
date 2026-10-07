@@ -1,12 +1,12 @@
 ---
 name: "dropdown-menu-label.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/dropdown-menu/dropdown-menu-label.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/dropdown-menu/dropdown-menu-label.svelte"
+community: "build-sycl-2025"
 ---
 
 # dropdown-menu-label.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/dropdown-menu/dropdown-menu-label.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/dropdown-menu/dropdown-menu-label.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

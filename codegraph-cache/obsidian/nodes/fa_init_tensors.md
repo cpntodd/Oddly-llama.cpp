@@ -2,14 +2,14 @@
 name: "fa_init_tensors"
 type: "function"
 file: "tools/tuning/fa-vec.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # fa_init_tensors
 
 **Type:** `function`  **File:** `tools/tuning/fa-vec.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

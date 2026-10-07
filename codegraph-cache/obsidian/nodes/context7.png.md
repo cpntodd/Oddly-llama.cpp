@@ -1,12 +1,12 @@
 ---
 name: "context7.png"
 type: "file"
-file: "tools/ui/static/recommended-mcp/context7.png"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/static/recommended-mcp/context7.png"
+community: "build-sycl-2025"
 ---
 
 # context7.png
 
-**Type:** `file`  **File:** `tools/ui/static/recommended-mcp/context7.png`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/static/recommended-mcp/context7.png`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

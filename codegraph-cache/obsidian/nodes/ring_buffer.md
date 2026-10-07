@@ -15,7 +15,7 @@ community: "tools"
 
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/common_params_fit_status]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/common_reasoning_budget_state]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
 
@@ -29,7 +29,6 @@ community: "tools"
 - [[nodes/tts_timings]] _imports_
 - [[nodes/llama_sampler_llg]] _imports_
 - [[nodes/t_start_us]] _imports_
-- [[nodes/common_speculative_get_devices_str]] _imports_
 - [[nodes/capacity]] _calls_
 - [[nodes/common_arg_utils]] _imports_
 - [[nodes/T]] _imports_
@@ -41,3 +40,4 @@ community: "tools"
 - [[nodes/main]] _imports_
 - [[nodes/main]] _imports_
 - [[nodes/match_string]] _imports_
+- [[nodes/common_speculative_get_devices_str]] _imports_

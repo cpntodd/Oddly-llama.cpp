@@ -2,14 +2,14 @@
 name: "ggml_backend_sched_set_eval_callback"
 type: "function"
 file: "ggml/src/ggml-backend.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # ggml_backend_sched_set_eval_callback
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

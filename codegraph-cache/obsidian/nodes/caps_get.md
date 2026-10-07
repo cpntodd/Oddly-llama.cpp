@@ -2,18 +2,17 @@
 name: "caps_get"
 type: "function"
 file: "common/jinja/caps.cpp"
-community: "common"
+community: "tests"
 ---
 
 # caps_get
 
 **Type:** `function`  **File:** `common/jinja/caps.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
-- [[nodes/at]] _calls_
 - [[nodes/caps_print_stats]] _calls_
 - [[nodes/caps_apply_preserve_reasoning]] _calls_
 - [[nodes/caps_apply_reasoning_effort]] _calls_

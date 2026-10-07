@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/ggml_v_expf]] _calls_
-- [[nodes/exp]] _calls_
 
 ## Used By
 

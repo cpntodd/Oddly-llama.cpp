@@ -20,3 +20,4 @@ community: "ggml"
 - [[nodes/ggml_row_size]] _calls_
 - [[nodes/n]] _calls_
 - [[nodes/layout]] _calls_
+- [[nodes/rows]] _calls_

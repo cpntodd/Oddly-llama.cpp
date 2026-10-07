@@ -2,14 +2,14 @@
 name: "copy_state"
 type: "function"
 file: "src/llama-sampler.cpp"
-community: "src"
+community: "tools"
 ---
 
 # copy_state
 
 **Type:** `function`  **File:** `src/llama-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

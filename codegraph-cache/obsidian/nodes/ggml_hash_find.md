@@ -34,5 +34,5 @@ community: "ggml"
 - [[nodes/ggml_graph_get_grad_acc]] _calls_
 - [[nodes/ggml_opt_get_constant_optimizer_params]] _calls_
 - [[nodes/add_tensor]] _calls_
-- [[nodes/get_tensor_ov_name]] _calls_
 - [[nodes/is_model_splitted]] _calls_
+- [[nodes/get_tensor_ov_name]] _calls_

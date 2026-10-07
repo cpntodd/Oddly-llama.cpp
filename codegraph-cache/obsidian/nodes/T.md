@@ -1,12 +1,17 @@
 ---
 name: "T"
-type: "function"
-file: "ggml/src/ggml-sycl/dpct/helper.hpp"
-community: "ggml"
+type: "class"
+file: "ggml/src/ggml-sycl/common.hpp"
+community: "tools"
 ---
 
 # T
 
-**Type:** `function`  **File:** `ggml/src/ggml-sycl/dpct/helper.hpp`
+**Type:** `class`  **File:** `ggml/src/ggml-sycl/common.hpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
+
+## Used By
+
+- [[nodes/avg]] _calls_
+- [[nodes/stdev]] _calls_

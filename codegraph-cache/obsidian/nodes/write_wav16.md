@@ -16,6 +16,7 @@ community: "tools"
 - [[nodes/mtmd_gen_audio_pipeline]] _calls_
 - [[nodes/vocab]] _calls_
 - [[nodes/llama_model_n_embd]] _calls_
+- [[nodes/info]] _calls_
 - [[nodes/mtmd_gen_audio_get_info]] _calls_
 - [[nodes/ensure_cache]] _calls_
 - [[nodes/tts_resolve_lang]] _calls_

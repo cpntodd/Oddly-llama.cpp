@@ -1,13 +1,13 @@
 ---
 name: "CacheEntry"
 type: "class"
-file: "tools/ui/src/lib/utils/glob-search.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/glob-search.ts"
 community: "tools"
 ---
 
 # CacheEntry
 
-**Type:** `class`  **File:** `tools/ui/src/lib/utils/glob-search.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/glob-search.ts`
 
 **Community:** [[communities/tools]]
 

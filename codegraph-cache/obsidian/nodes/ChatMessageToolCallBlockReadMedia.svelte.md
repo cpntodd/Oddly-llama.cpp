@@ -1,12 +1,12 @@
 ---
 name: "ChatMessageToolCallBlockReadMedia.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/ChatMessageToolCallBlockReadMedia.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/ChatMessageToolCallBlockReadMedia.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatMessageToolCallBlockReadMedia.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/ChatMessageToolCallBlockReadMedia.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/ChatMessageToolCallBlockReadMedia.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

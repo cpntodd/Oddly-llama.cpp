@@ -1,13 +1,13 @@
 ---
 name: "PathQuery"
 type: "class"
-file: "tools/ui/src/lib/utils/working-directory.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/working-directory.ts"
 community: "tools"
 ---
 
 # PathQuery
 
-**Type:** `class`  **File:** `tools/ui/src/lib/utils/working-directory.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/working-directory.ts`
 
 **Community:** [[communities/tools]]
 

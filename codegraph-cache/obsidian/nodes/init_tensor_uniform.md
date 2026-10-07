@@ -2,14 +2,14 @@
 name: "init_tensor_uniform"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # init_tensor_uniform
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

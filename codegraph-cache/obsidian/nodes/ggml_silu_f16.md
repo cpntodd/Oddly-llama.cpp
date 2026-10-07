@@ -11,11 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/log2]] _calls_
-- [[nodes/floor]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_vec_silu_f16]] _calls_

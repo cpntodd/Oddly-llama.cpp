@@ -1,12 +1,12 @@
 ---
 name: "McpServerInfo.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/mcp/McpServerInfo.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpServerInfo.svelte"
+community: "build-sycl-2025"
 ---
 
 # McpServerInfo.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/mcp/McpServerInfo.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpServerInfo.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

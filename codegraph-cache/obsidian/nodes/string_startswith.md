@@ -2,14 +2,14 @@
 name: "string_startswith"
 type: "function"
 file: "common/jinja/value.cpp"
-community: "src"
+community: "common"
 ---
 
 # string_startswith
 
 **Type:** `function`  **File:** `common/jinja/value.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

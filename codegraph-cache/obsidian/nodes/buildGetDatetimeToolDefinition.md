@@ -1,15 +1,15 @@
 ---
 name: "buildGetDatetimeToolDefinition"
 type: "function"
-file: "tools/ui/src/lib/constants/get-datetime.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/get-datetime.ts"
+community: "build-sycl-2025"
 ---
 
 # buildGetDatetimeToolDefinition
 
-**Type:** `function`  **File:** `tools/ui/src/lib/constants/get-datetime.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/get-datetime.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

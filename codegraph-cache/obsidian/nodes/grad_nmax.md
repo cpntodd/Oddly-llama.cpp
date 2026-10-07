@@ -2,14 +2,14 @@
 name: "grad_nmax"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "tests"
+community: "ggml"
 ---
 
 # grad_nmax
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

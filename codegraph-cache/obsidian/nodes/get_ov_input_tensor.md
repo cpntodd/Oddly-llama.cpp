@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/convert_ggml_input_to_ov]] _calls_
 - [[nodes/ggml_type_size]] _calls_
-- [[nodes/copy]] _calls_
 - [[nodes/set_zero_diagonal]] _calls_
 
 ## Used By

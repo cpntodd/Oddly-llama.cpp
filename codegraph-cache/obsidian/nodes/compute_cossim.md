@@ -2,19 +2,18 @@
 name: "compute_cossim"
 type: "function"
 file: "tools/imatrix/imatrix.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # compute_cossim
 
 **Type:** `function`  **File:** `tools/imatrix/imatrix.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
 - [[nodes/to_string]] _calls_
-- [[nodes/sqrt]] _calls_
 
 ## Used By
 

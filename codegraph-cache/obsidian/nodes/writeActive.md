@@ -1,15 +1,15 @@
 ---
 name: "writeActive"
 type: "function"
-file: "tools/ui/src/lib/stores/chat/streams.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/streams.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # writeActive
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/chat/streams.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/streams.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

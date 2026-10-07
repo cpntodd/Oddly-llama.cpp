@@ -1,13 +1,13 @@
 ---
 name: "makeConversation"
 type: "function"
-file: "tools/ui/tests/unit/mcp-override-fallback.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-override-fallback.test.ts"
 community: "tools"
 ---
 
 # makeConversation
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/mcp-override-fallback.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-override-fallback.test.ts`
 
 **Community:** [[communities/tools]]
 

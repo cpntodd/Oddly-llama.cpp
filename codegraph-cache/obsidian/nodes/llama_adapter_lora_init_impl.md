@@ -30,7 +30,6 @@ community: "ggml"
 - [[nodes/get_kv_str]] _calls_
 - [[nodes/llm_arch_from_string]] _calls_
 - [[nodes/get_kv_f32]] _calls_
-- [[nodes/copy]] _calls_
 - [[nodes/gguf_get_n_tensors]] _calls_
 - [[nodes/ggml_tensor_overhead]] _calls_
 - [[nodes/ggml_init]] _calls_
@@ -43,6 +42,7 @@ community: "ggml"
 - [[nodes/ggml_backend_buffer_get_type]] _calls_
 - [[nodes/types]] _calls_
 - [[nodes/ggml_backend_dev_buffer_type]] _calls_
+- [[nodes/ggml_dup_tensor]] _calls_
 
 ## Used By
 

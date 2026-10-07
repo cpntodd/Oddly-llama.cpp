@@ -1,19 +1,17 @@
 ---
 name: "formatFileSize"
 type: "function"
-file: "tools/ui/src/lib/utils/formatters.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/formatters.ts"
+community: "build-intel-all"
 ---
 
 # formatFileSize
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/formatters.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/formatters.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
-- [[nodes/floor]] _calls_
-- [[nodes/toFixed]] _calls_
 - [[nodes/format]] _calls_

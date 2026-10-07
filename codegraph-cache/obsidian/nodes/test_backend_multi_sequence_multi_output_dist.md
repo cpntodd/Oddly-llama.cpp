@@ -2,14 +2,14 @@
 name: "test_backend_multi_sequence_multi_output_dist"
 type: "function"
 file: "tests/test-backend-sampler.cpp"
-community: "src"
+community: "tests"
 ---
 
 # test_backend_multi_sequence_multi_output_dist
 
 **Type:** `function`  **File:** `tests/test-backend-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

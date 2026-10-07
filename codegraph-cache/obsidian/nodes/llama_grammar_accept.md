@@ -14,13 +14,10 @@ community: "src"
 ## Depends On
 
 - [[nodes/size]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/llama_grammar_is_end_of_sequence]] _calls_
 - [[nodes/parser]] _calls_
-- [[nodes/at]] _calls_
 
 ## Used By
 

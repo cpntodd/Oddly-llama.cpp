@@ -19,8 +19,6 @@ community: "ggml"
 - [[nodes/hvx_vec_splat_f32]] _calls_
 - [[nodes/hvx_vec_mul_f32_f32]] _calls_
 - [[nodes/hvx_vec_exp_f32_guard]] _calls_
-- [[nodes/exp]] _calls_
-- [[nodes/ln]] _calls_
 
 ## Used By
 

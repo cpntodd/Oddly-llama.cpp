@@ -13,7 +13,6 @@ community: "common"
 
 ## Depends On
 
-- [[nodes/back]] _calls_
 - [[nodes/unsupported_pattern]] _calls_
 - [[nodes/_add_rule]] _calls_
 - [[nodes/empty]] _calls_

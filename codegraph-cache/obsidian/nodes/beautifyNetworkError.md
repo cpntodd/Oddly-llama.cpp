@@ -1,13 +1,13 @@
 ---
 name: "beautifyNetworkError"
 type: "function"
-file: "tools/ui/src/lib/utils/api-fetch.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/api-fetch.ts"
 community: "tools"
 ---
 
 # beautifyNetworkError
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/api-fetch.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/api-fetch.ts`
 
 **Community:** [[communities/tools]]
 

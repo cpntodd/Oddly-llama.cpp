@@ -1,21 +1,17 @@
 ---
 name: "copyCodeToClipboard"
 type: "function"
-file: "tools/ui/src/lib/utils/clipboard.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/clipboard.ts"
+community: "build-intel-all"
 ---
 
 # copyCodeToClipboard
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/clipboard.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/clipboard.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 
 - [[nodes/copyToClipboard]] _calls_
 - [[nodes/format]] _calls_
-
-## Used By
-
-- [[nodes/handleCopyClick]] _calls_

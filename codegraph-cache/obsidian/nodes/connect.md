@@ -1,25 +1,16 @@
 ---
 name: "connect"
 type: "function"
-file: "tools/ui/tests/stories/fixtures/ai-tutorial.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/ai-tutorial.ts"
+community: "build-vulkan-gcc"
 ---
 
 # connect
 
-**Type:** `function`  **File:** `tools/ui/tests/stories/fixtures/ai-tutorial.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/ai-tutorial.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
-- [[nodes/on]] _calls_
 - [[nodes/update]] _calls_
-
-## Used By
-
-- [[nodes/createConnectionErrorLog]] _calls_
-- [[nodes/onerror]] _calls_
-- [[nodes/emitClientError]] _calls_
-- [[nodes/set_reuse_addr]] _calls_
-- [[nodes/negotiate_hello]] _calls_

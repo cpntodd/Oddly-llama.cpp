@@ -2,14 +2,14 @@
 name: "llama_cli"
 type: "function"
 file: "tools/cli/cli.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_cli
 
 **Type:** `function`  **File:** `tools/cli/cli.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

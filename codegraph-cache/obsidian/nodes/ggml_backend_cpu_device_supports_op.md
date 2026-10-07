@@ -2,14 +2,14 @@
 name: "ggml_backend_cpu_device_supports_op"
 type: "function"
 file: "ggml/src/ggml-cpu/ggml-cpu.cpp"
-community: "ggml"
+community: "pocs"
 ---
 
 # ggml_backend_cpu_device_supports_op
 
 **Type:** `function`  **File:** `ggml/src/ggml-cpu/ggml-cpu.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/pocs]]
 
 ## Depends On
 

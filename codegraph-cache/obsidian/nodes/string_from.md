@@ -2,14 +2,14 @@
 name: "string_from"
 type: "function"
 file: "common/common.cpp"
-community: "src"
+community: "common"
 ---
 
 # string_from
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

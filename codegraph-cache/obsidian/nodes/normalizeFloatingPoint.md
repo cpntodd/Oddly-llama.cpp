@@ -1,17 +1,16 @@
 ---
 name: "normalizeFloatingPoint"
 type: "function"
-file: "tools/ui/src/lib/utils/precision.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/precision.ts"
+community: "build-vulkan-gcc"
 ---
 
 # normalizeFloatingPoint
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/precision.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/precision.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
-- [[nodes/round]] _calls_

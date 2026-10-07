@@ -2,14 +2,14 @@
 name: "llama_time_us"
 type: "function"
 file: "src/llama.cpp"
-community: "tests"
+community: "tools"
 ---
 
 # llama_time_us
 
 **Type:** `function`  **File:** `src/llama.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

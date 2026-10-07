@@ -2,14 +2,14 @@
 name: "llama_model_desc"
 type: "function"
 file: "src/llama-model.cpp"
-community: "examples"
+community: "common"
 ---
 
 # llama_model_desc
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/examples]]
+**Community:** [[communities/common]]
 
 ## Used By
 

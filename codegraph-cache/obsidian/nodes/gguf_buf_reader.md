@@ -2,14 +2,14 @@
 name: "gguf_buf_reader"
 type: "class"
 file: "tests/gguf-model-data.cpp"
-community: "conversion"
+community: "ggml"
 ---
 
 # gguf_buf_reader
 
 **Type:** `class`  **File:** `tests/gguf-model-data.cpp`
 
-**Community:** [[communities/conversion]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

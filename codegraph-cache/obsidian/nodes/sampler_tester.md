@@ -2,14 +2,14 @@
 name: "sampler_tester"
 type: "class"
 file: "tests/test-sampling.cpp"
-community: "common"
+community: "tests"
 ---
 
 # sampler_tester
 
 **Type:** `class`  **File:** `tests/test-sampling.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

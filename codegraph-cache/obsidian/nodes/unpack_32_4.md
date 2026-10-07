@@ -19,7 +19,7 @@ community: "ggml"
 - [[nodes/class]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/trim]] _imports_
-- [[nodes/ov]] _imports_
+- [[nodes/add.comp.cpp]] _imports_
 - [[nodes/dequantize_row_q4_K_sycl_reorder]] _imports_
 - [[nodes/ov]] _imports_
 - [[nodes/__attribute__]] _imports_

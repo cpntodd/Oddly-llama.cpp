@@ -1,12 +1,12 @@
 ---
 name: "api-docs.ts"
 type: "file"
-file: "tools/ui/tests/stories/fixtures/api-docs.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/api-docs.ts"
+community: "build-sycl-2025"
 ---
 
 # api-docs.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/fixtures/api-docs.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/api-docs.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

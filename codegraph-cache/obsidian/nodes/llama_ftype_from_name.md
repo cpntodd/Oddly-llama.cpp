@@ -2,14 +2,14 @@
 name: "llama_ftype_from_name"
 type: "function"
 file: "tests/test-quant-type-selection.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # llama_ftype_from_name
 
 **Type:** `function`  **File:** `tests/test-quant-type-selection.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

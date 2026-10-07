@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/manual_popcountll]] _calls_
-- [[nodes/fit]] _calls_
 - [[nodes/counter]] _calls_
 - [[nodes/kernel]] _calls_
 - [[nodes/setup_cache_scp]] _calls_

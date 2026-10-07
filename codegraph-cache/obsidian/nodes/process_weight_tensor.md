@@ -17,12 +17,11 @@ community: "ggml"
 - [[nodes/ggml_is_quantized]] _calls_
 - [[nodes/ggml_type_name]] _calls_
 - [[nodes/ggml_openvino_get_extracted_layout]] _calls_
+- [[nodes/weights]] _calls_
 - [[nodes/tensors]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/types]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/quantize_q4_0]] _calls_
-- [[nodes/round]] _calls_
 - [[nodes/quantize_q8_0]] _calls_
 - [[nodes/block]] _calls_
 - [[nodes/quantize_q8_1]] _calls_

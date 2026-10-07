@@ -1,12 +1,12 @@
 ---
 name: "SidebarNavigationSelectionBar.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/navigation/SidebarNavigation/SidebarNavigationSelectionBar.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/navigation/SidebarNavigation/SidebarNavigationSelectionBar.svelte"
+community: "build-sycl-2025"
 ---
 
 # SidebarNavigationSelectionBar.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/navigation/SidebarNavigation/SidebarNavigationSelectionBar.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/navigation/SidebarNavigation/SidebarNavigationSelectionBar.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

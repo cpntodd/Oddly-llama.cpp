@@ -2,14 +2,14 @@
 name: "common_sampler_last"
 type: "function"
 file: "common/sampling.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_sampler_last
 
 **Type:** `function`  **File:** `common/sampling.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

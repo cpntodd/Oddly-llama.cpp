@@ -1,16 +1,12 @@
 ---
 name: "delete"
 type: "function"
-file: "examples/llama.swiftui/llama.swiftui/UI/ContentView.swift"
-community: "examples"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/chat.d.ts"
+community: "build-sycl-2025"
 ---
 
 # delete
 
-**Type:** `function`  **File:** `examples/llama.swiftui/llama.swiftui/UI/ContentView.swift`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/chat.d.ts`
 
-**Community:** [[communities/examples]]
-
-## Depends On
-
-- [[nodes/getDocumentsDirectory]] _calls_
+**Community:** [[communities/build-sycl-2025]]

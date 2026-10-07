@@ -2,14 +2,14 @@
 name: "model_ref"
 type: "function"
 file: "tests/test-model-resolution.cpp"
-community: "tests"
+community: "common"
 ---
 
 # model_ref
 
 **Type:** `function`  **File:** `tests/test-model-resolution.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

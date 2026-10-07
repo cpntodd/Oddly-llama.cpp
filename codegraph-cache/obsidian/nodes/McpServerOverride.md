@@ -1,15 +1,15 @@
 ---
 name: "McpServerOverride"
 type: "class"
-file: "tools/ui/src/lib/types/database.d.ts"
-community: "common"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/database.d.ts"
+community: "tools"
 ---
 
 # McpServerOverride
 
-**Type:** `class`  **File:** `tools/ui/src/lib/types/database.d.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/database.d.ts`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

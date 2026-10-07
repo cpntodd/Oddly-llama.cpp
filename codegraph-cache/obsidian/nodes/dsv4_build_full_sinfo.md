@@ -18,7 +18,6 @@ community: "src"
 - [[nodes/push_back]] _calls_
 - [[nodes/get_base]] _calls_
 - [[nodes/llama_memory_status_combine]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/ggml_element_size]] _calls_

@@ -1,12 +1,12 @@
 ---
 name: "isGroupDisabled"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-tools-panel.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-tools-panel.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # isGroupDisabled
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-tools-panel.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-tools-panel.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

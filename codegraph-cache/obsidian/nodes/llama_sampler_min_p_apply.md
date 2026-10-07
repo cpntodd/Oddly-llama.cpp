@@ -16,5 +16,4 @@ community: "src"
 - [[nodes/push_back]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/size]] _calls_
-- [[nodes/copy]] _calls_
 - [[nodes/llama_token_data_array_partial_sort_inplace]] _calls_

@@ -21,7 +21,6 @@ community: "ggml"
 - [[nodes/ggml_backend_sched_graph_inputs_grow]] _calls_
 - [[nodes/ggml_backend_sched_split_graph]] _calls_
 - [[nodes/free_buffers]] _calls_
-- [[nodes/pool]] _calls_
-- [[nodes/engine_dnnl]] _calls_
-- [[nodes/ggml_backend_sycl_comm_free]] _calls_
 - [[nodes/weight_format_to_nz]] _calls_
+- [[nodes/pool]] _calls_
+- [[nodes/ggml_backend_sycl_comm_free]] _calls_

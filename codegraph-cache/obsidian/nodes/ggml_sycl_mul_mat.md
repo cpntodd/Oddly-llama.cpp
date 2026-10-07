@@ -13,6 +13,7 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/ggml_sycl_t2_restore_tensor]] _calls_
 - [[nodes/ggml_get_op_params_i32]] _calls_
 - [[nodes/ggml_sycl_op_fwht]] _calls_
 - [[nodes/ggml_backend_buffer_is_sycl_split]] _calls_

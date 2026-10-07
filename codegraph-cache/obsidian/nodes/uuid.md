@@ -1,20 +1,12 @@
 ---
 name: "uuid"
 type: "function"
-file: "tools/ui/src/lib/utils/uuid.ts"
-community: "conversion"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/uuid.ts"
+community: "build-sycl-2025"
 ---
 
 # uuid
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/uuid.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/uuid.ts`
 
-**Community:** [[communities/conversion]]
-
-## Depends On
-
-- [[nodes/random]] _calls_
-
-## Used By
-
-- [[nodes/gguf_hash]] _imports_
+**Community:** [[communities/build-sycl-2025]]

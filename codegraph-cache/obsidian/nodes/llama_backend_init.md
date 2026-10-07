@@ -2,14 +2,14 @@
 name: "llama_backend_init"
 type: "function"
 file: "src/llama.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_backend_init
 
 **Type:** `function`  **File:** `src/llama.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

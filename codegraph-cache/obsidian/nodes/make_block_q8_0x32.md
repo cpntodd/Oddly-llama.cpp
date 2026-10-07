@@ -16,5 +16,5 @@ community: "ggml"
 - [[nodes/ggml_nrows]] _calls_
 - [[nodes/make_block_q4_0x32]] _calls_
 - [[nodes/make_block_q4_1x32]] _calls_
-- [[nodes/clamp]] _calls_
 - [[nodes/block]] _calls_
+- [[nodes/rows]] _calls_

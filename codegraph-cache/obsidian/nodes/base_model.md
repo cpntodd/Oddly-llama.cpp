@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/gguf_find_key]] _calls_
 - [[nodes/file_input]] _calls_
 - [[nodes/check_metadata_lora]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/gguf_get_n_tensors]] _calls_
 - [[nodes/ggml_tensor_overhead]] _calls_
 - [[nodes/ggml_init]] _calls_

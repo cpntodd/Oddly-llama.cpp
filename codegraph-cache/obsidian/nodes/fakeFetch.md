@@ -1,13 +1,13 @@
 ---
 name: "fakeFetch"
 type: "function"
-file: "tools/ui/tests/client/apikey-splash.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/apikey-splash.svelte.test.ts"
 community: "tools"
 ---
 
 # fakeFetch
 
-**Type:** `function`  **File:** `tools/ui/tests/client/apikey-splash.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/apikey-splash.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

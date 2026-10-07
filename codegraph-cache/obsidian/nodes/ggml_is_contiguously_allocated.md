@@ -21,7 +21,7 @@ community: "ggml"
 ## Used By
 
 - [[nodes/ggml_backend_meta_buffer_init_tensor_impl]] _calls_
-- [[nodes/if]] _calls_
 - [[nodes/ggml_sycl_op_acc]] _calls_
 - [[nodes/if]] _calls_
 - [[nodes/get_dequantize_V]] _calls_
+- [[nodes/if]] _calls_

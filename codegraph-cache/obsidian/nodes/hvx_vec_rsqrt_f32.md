@@ -15,4 +15,3 @@ community: "ggml"
 
 - [[nodes/hex_get_cycles]] _imports_
 - [[nodes/hvx_vec_store_u]] _imports_
-- [[nodes/sqrt]] _calls_

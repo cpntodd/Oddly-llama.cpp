@@ -34,9 +34,6 @@ community: "ggml"
 - [[nodes/llm_graph_context]] _calls_
 - [[nodes/llm_graph_context]] _calls_
 - [[nodes/llm_graph_context]] _calls_
-- [[nodes/init_set_rows_row_ids]] _calls_
-- [[nodes/init_mul_mat_id_tensors]] _calls_
-- [[nodes/hp]] _calls_
 - [[nodes/ggml_hash_map_free]] _calls_
 - [[nodes/ggml_compute_forward_tri]] _calls_
 - [[nodes/ggml_wrap_index]] _calls_
@@ -47,3 +44,6 @@ community: "ggml"
 - [[nodes/ggml_sycl_op_conv_3d]] _calls_
 - [[nodes/get_dequantize_V]] _calls_
 - [[nodes/ggml_backend_zdnn_buffer_init_tensor]] _calls_
+- [[nodes/ggml_cann_swiglu]] _calls_
+- [[nodes/ggml_cann_geglu]] _calls_
+- [[nodes/ggml_cann_set]] _calls_

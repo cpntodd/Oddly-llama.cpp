@@ -2,14 +2,14 @@
 name: "decode_one"
 type: "function"
 file: "tests/test-recurrent-state-rollback.cpp"
-community: "src"
+community: "common"
 ---
 
 # decode_one
 
 **Type:** `function`  **File:** `tests/test-recurrent-state-rollback.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

@@ -14,8 +14,8 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/path_str]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/register_backend]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

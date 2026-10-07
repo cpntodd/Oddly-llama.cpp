@@ -14,4 +14,3 @@ community: "tools"
 ## Depends On
 
 - [[nodes/mtmd_log_set]] _calls_
-- [[nodes/merge]] _calls_

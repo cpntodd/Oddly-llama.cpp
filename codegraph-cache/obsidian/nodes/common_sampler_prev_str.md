@@ -2,14 +2,14 @@
 name: "common_sampler_prev_str"
 type: "function"
 file: "common/sampling.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_sampler_prev_str
 
 **Type:** `function`  **File:** `common/sampling.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

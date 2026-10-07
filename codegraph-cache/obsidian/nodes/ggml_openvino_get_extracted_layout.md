@@ -19,8 +19,8 @@ community: "ggml"
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/format]] _calls_
+- [[nodes/weights]] _calls_
 - [[nodes/ggml_type_name]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_openvino_tensor_extra]] _calls_
 
 ## Used By

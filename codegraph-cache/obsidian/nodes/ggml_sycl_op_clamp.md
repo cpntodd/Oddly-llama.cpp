@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/dispatch_ggml_sycl_op_unary]] _calls_
 - [[nodes/ceil_div]] _calls_
 - [[nodes/parallel_for]] _calls_
-- [[nodes/clamp]] _calls_
 
 ## Used By
 

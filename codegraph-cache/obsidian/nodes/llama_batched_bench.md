@@ -2,14 +2,14 @@
 name: "llama_batched_bench"
 type: "function"
 file: "tools/batched-bench/batched-bench.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_batched_bench
 
 **Type:** `function`  **File:** `tools/batched-bench/batched-bench.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

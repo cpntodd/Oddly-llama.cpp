@@ -1,15 +1,15 @@
 ---
 name: "PropsService"
 type: "class"
-file: "tools/ui/src/lib/services/props.service.ts"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/props.service.ts"
+community: "tools"
 ---
 
 # PropsService
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/props.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/props.service.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/unicode_len_utf8]] _imports_
 - [[nodes/common_aho_corasick]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/assign]] _calls_
 - [[nodes/empty]] _calls_

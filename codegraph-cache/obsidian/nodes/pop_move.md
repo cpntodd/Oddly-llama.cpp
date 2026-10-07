@@ -13,7 +13,6 @@ community: "src"
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/pop]] _calls_
 
 ## Used By

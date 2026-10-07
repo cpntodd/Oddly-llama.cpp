@@ -2,14 +2,14 @@
 name: "ggml_set_output"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "src"
+community: "tests"
 ---
 
 # ggml_set_output
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

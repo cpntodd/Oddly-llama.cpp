@@ -1,12 +1,12 @@
 ---
 name: "createChatStore"
 type: "function"
-file: "tools/ui/tests/stories/fixtures/ai-tutorial.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/ai-tutorial.ts"
+community: "build-sycl-2025"
 ---
 
 # createChatStore
 
-**Type:** `function`  **File:** `tools/ui/tests/stories/fixtures/ai-tutorial.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/ai-tutorial.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

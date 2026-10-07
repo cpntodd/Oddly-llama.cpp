@@ -18,7 +18,6 @@ community: "src"
 - [[nodes/map]] _imports_
 - [[nodes/LLM_KV]] _calls_
 - [[nodes/format]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/LLM_TN_IMPL]] _calls_
 - [[nodes/llm_arch_all]] _calls_
 - [[nodes/size]] _calls_

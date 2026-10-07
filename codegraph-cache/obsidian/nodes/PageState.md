@@ -1,12 +1,12 @@
 ---
 name: "PageState"
 type: "class"
-file: "tools/ui/src/app.d.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/app.d.ts"
+community: "build-sycl-2025"
 ---
 
 # PageState
 
-**Type:** `class`  **File:** `tools/ui/src/app.d.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/app.d.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

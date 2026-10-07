@@ -32,10 +32,6 @@ community: "ggml"
 - [[nodes/ggml_dsv4_hc_comb_norm_rows]] _calls_
 - [[nodes/block_type_has_zp]] _calls_
 - [[nodes/forward_concat]] _calls_
-- [[nodes/ggml_sycl_op_tri]] _calls_
-- [[nodes/ggml_sycl_mul_mat]] _calls_
-- [[nodes/ggml_sycl_is_view_or_noop]] _calls_
-- [[nodes/do_ggml_backend_sycl_device_supports_op]] _calls_
 - [[nodes/ggml_sycl_op_ssm_scan]] _calls_
 - [[nodes/ggml_sycl_op_swiglu_oai]] _calls_
 - [[nodes/ggml_sycl_op_dsv4_hc_comb]] _calls_
@@ -43,3 +39,7 @@ community: "ggml"
 - [[nodes/ggml_webgpu_upscale]] _calls_
 - [[nodes/ggml_backend_webgpu_device_supports_op]] _calls_
 - [[nodes/get_argsort_pipeline]] _calls_
+- [[nodes/get_argsort_merge_pipeline]] _calls_
+- [[nodes/get_pad_pipeline]] _calls_
+- [[nodes/get_unary_pipeline]] _calls_
+- [[nodes/get_upscale_pipeline]] _calls_

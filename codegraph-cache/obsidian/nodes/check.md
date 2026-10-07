@@ -1,25 +1,19 @@
 ---
 name: "check"
 type: "function"
-file: "tests/test-sampling.cpp"
-community: "tests"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js"
+community: "build-sycl-2025"
 ---
 
 # check
 
-**Type:** `function`  **File:** `tests/test-sampling.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/build-sycl-2025]]
 
-## Used By
+## Depends On
 
-- [[nodes/test_template_generation_prompt]] _calls_
-- [[nodes/test_softmax_invariance]] _calls_
-- [[nodes/test_temp]] _calls_
-- [[nodes/test_temp_ext]] _calls_
-- [[nodes/test_top_k]] _calls_
-- [[nodes/test_top_p]] _calls_
-- [[nodes/test_min_p]] _calls_
-- [[nodes/test_xtc]] _calls_
-- [[nodes/test_typical]] _calls_
-- [[nodes/test_top_n_sigma]] _calls_
+- [[nodes/fit]] _calls_
+- [[nodes/divide]] _calls_
+- [[nodes/add]] _calls_
+- [[nodes/toSymbol]] _calls_

@@ -1,12 +1,12 @@
 ---
 name: "card.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/card/card.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/card/card.svelte"
+community: "build-sycl-2025"
 ---
 
 # card.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/card/card.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/card/card.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

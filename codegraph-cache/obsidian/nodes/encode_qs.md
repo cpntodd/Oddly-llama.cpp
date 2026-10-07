@@ -25,6 +25,7 @@ community: "tools"
 - [[nodes/server_stream_conv_id_from_headers]] _calls_
 - [[nodes/res_err]] _calls_
 - [[nodes/format_error_response]] _calls_
+- [[nodes/is_string]] _calls_
 - [[nodes/unset_reserved_args]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/unload]] _calls_
@@ -34,5 +35,4 @@ community: "tools"
 - [[nodes/to_json]] _calls_
 - [[nodes/common_models_handler_init]] _calls_
 - [[nodes/ex_wrapper]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/dump]] _calls_

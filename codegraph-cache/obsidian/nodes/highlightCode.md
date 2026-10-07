@@ -1,15 +1,15 @@
 ---
 name: "highlightCode"
 type: "function"
-file: "tools/ui/src/lib/utils/code.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/code.ts"
+community: "build-sycl-2025"
 ---
 
 # highlightCode
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/code.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/code.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -17,8 +17,3 @@ community: "tools"
 - [[nodes/escapeCode]] _calls_
 - [[nodes/set]] _calls_
 - [[nodes/block]] _calls_
-
-## Used By
-
-- [[nodes/buildProcessor]] _calls_
-- [[nodes/multiply]] _calls_

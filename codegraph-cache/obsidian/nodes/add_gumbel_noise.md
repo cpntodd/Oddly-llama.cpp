@@ -13,11 +13,8 @@ community: "tests"
 
 ## Depends On
 
-- [[nodes/log_colors]] _imports_
-- [[nodes/random]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/fill_templated_filename]] _imports_
-- [[nodes/exp]] _calls_
-- [[nodes/copy]] _calls_
 - [[nodes/llama_set_causal_attn]] _calls_
 - [[nodes/llama_vocab_n_tokens]] _calls_
 - [[nodes/llama_sampler_chain_default_params]] _calls_

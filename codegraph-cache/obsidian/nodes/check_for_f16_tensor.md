@@ -2,14 +2,14 @@
 name: "check_for_f16_tensor"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # check_for_f16_tensor
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

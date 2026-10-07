@@ -1,13 +1,13 @@
 ---
 name: "PageLoad"
 type: "function"
-file: "tools/ui/src/routes/(chat)/chat/[id]/+page.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/routes/(chat)/chat/[id]/+page.ts"
 community: "tools"
 ---
 
 # PageLoad
 
-**Type:** `function`  **File:** `tools/ui/src/routes/(chat)/chat/[id]/+page.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/routes/(chat)/chat/[id]/+page.ts`
 
 **Community:** [[communities/tools]]
 
@@ -15,4 +15,3 @@ community: "tools"
 
 - [[nodes/initStores]] _imports_
 - [[nodes/ServerResponse]] _imports_
-- [[nodes/validateApiKey]] _calls_

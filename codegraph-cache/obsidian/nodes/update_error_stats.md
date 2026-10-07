@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/floor]] _calls_
-
 ## Used By
 
 - [[nodes/tensor_is_contiguous]] _calls_

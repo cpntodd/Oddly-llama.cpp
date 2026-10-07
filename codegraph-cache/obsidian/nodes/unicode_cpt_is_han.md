@@ -16,10 +16,7 @@ community: "src"
 - [[nodes/unicode_cpts_from_utf8]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/unicode_cpt_flags_from_cpt]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/unicode_cpt_to_utf8]] _calls_
 
 ## Used By

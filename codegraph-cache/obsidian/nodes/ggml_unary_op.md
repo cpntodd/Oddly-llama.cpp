@@ -1,12 +1,12 @@
 ---
 name: "ggml_unary_op"
 type: "class"
-file: "ggml/src/ggml-sycl/fusion.hpp"
-community: "ggml"
+file: "tests/test-backend-ops.cpp"
+community: "tests"
 ---
 
 # ggml_unary_op
 
-**Type:** `class`  **File:** `ggml/src/ggml-sycl/fusion.hpp`
+**Type:** `class`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]

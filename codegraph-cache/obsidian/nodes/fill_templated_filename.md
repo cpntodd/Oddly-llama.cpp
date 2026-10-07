@@ -13,6 +13,7 @@ community: "common"
 
 ## Depends On
 
+- [[nodes/os.h]] _imports_
 - [[nodes/common_json_item]] _imports_
 
 ## Used By
@@ -32,9 +33,12 @@ community: "common"
 - [[nodes/main]] _imports_
 - [[nodes/mock_memory]] _imports_
 - [[nodes/test_registry]] _imports_
+- [[nodes/null_scoped_padder]] _imports_
+- [[nodes/null_mutex]] _imports_
+- [[nodes/xla]] _imports_
 - [[nodes/ggml_backend_meta_device]] _imports_
 - [[nodes/f32_to_f16]] _imports_
-- [[nodes/ggml_sycl_reordered]] _imports_
+- [[nodes/ggml_sycl_ptq1_0_trit]] _imports_
 - [[nodes/t2f32]] _imports_
 - [[nodes/compute_2d_workgroups]] _imports_
 - [[nodes/graph_key]] _imports_

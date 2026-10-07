@@ -2,14 +2,14 @@
 name: "pytest.ini"
 type: "file"
 file: "tools/server/tests/pytest.ini"
-community: "ggml"
+community: "tools"
 ---
 
 # pytest.ini
 
 **Type:** `file`  **File:** `tools/server/tests/pytest.ini`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

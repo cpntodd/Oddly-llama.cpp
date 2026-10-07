@@ -2,14 +2,14 @@
 name: "counter"
 type: "class"
 file: "tests/test-jinja.cpp"
-community: "src"
+community: "common"
 ---
 
 # counter
 
 **Type:** `class`  **File:** `tests/test-jinja.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

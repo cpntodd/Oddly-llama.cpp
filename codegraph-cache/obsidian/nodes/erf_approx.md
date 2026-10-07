@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/et_fdiv]] _calls_
 - [[nodes/et_expf]] _calls_
-- [[nodes/sqrt]] _calls_
 
 ## Used By
 

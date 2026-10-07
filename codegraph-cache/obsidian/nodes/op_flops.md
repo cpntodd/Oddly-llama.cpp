@@ -2,14 +2,14 @@
 name: "op_flops"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "tests"
+community: "ggml"
 ---
 
 # op_flops
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/create_tools]] _calls_
 - [[nodes/build_chat_peg_parser]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/schema]] _calls_
 - [[nodes/build_grammar]] _calls_

@@ -1,12 +1,12 @@
 ---
 name: "ToolCallBlock.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/ToolCallBlock.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/ToolCallBlock.svelte"
+community: "build-sycl-2025"
 ---
 
 # ToolCallBlock.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/ToolCallBlock.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/ToolCallBlock.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

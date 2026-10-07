@@ -1,12 +1,12 @@
 ---
 name: "tool-call-meta.test.ts"
 type: "file"
-file: "tools/ui/tests/unit/tool-call-meta.test.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/tool-call-meta.test.ts"
+community: "build-sycl-2025"
 ---
 
 # tool-call-meta.test.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/unit/tool-call-meta.test.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/tool-call-meta.test.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

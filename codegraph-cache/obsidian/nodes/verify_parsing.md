@@ -2,14 +2,14 @@
 name: "verify_parsing"
 type: "function"
 file: "tests/test-grammar-parser.cpp"
-community: "common"
+community: "app"
 ---
 
 # verify_parsing
 
 **Type:** `function`  **File:** `tests/test-grammar-parser.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/app]]
 
 ## Depends On
 

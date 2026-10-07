@@ -1,20 +1,15 @@
 ---
 name: "updateStreamingContent"
 type: "function"
-file: "tools/ui/src/lib/stores/chat/flows.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/flows.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # updateStreamingContent
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/chat/flows.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/flows.svelte.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/sendMessage]] _calls_
-- [[nodes/isAbortError]] _calls_
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

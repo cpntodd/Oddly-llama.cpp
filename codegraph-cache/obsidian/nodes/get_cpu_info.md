@@ -2,14 +2,14 @@
 name: "get_cpu_info"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # get_cpu_info
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

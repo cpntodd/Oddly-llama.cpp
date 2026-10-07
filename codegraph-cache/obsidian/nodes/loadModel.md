@@ -1,20 +1,16 @@
 ---
 name: "loadModel"
 type: "function"
-file: "examples/llama.swiftui/llama.swiftui/Models/LlamaState.swift"
-community: "common"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-context-gauge.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # loadModel
 
-**Type:** `function`  **File:** `examples/llama.swiftui/llama.swiftui/Models/LlamaState.swift`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-context-gauge.svelte.ts`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/updateDownloadedModels]] _calls_
-
-## Used By
-
-- [[nodes/loadDefaultModels]] _calls_
+- [[nodes/activeModelId]] _calls_

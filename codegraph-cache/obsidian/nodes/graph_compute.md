@@ -2,14 +2,14 @@
 name: "graph_compute"
 type: "function"
 file: "tests/test-dfly-fusion.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # graph_compute
 
 **Type:** `function`  **File:** `tests/test-dfly-fusion.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/empty]] _calls_
 - [[nodes/size]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/string_ends_with]] _calls_
 - [[nodes/string_parse_kv_override]] _calls_
 - [[nodes/string_process_escapes]] _calls_
@@ -31,6 +30,7 @@ community: "common"
 - [[nodes/fs_get_config_directory]] _calls_
 - [[nodes/fs_open_ifstream]] _calls_
 - [[nodes/tty_can_use_colors]] _calls_
+- [[nodes/sampler]] _calls_
 - [[nodes/common_init_from_params]] _calls_
 - [[nodes/common_model_params_to_llama]] _calls_
 - [[nodes/common_context_params_to_llama]] _calls_

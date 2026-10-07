@@ -2,15 +2,11 @@
 name: "pimpl"
 type: "function"
 file: "ggml/src/ggml-rpc/transport.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # pimpl
 
 **Type:** `function`  **File:** `ggml/src/ggml-rpc/transport.cpp`
 
-**Community:** [[communities/src]]
-
-## Depends On
-
-- [[nodes/move]] _calls_
+**Community:** [[communities/ggml]]

@@ -2,14 +2,14 @@
 name: "f_in"
 type: "function"
 file: "tools/export-lora/export-lora.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # f_in
 
 **Type:** `function`  **File:** `tools/export-lora/export-lora.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

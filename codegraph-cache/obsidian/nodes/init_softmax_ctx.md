@@ -13,8 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/floor]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/init_fastdiv_values]] _calls_
 - [[nodes/hvx_vec_splat_f32]] _calls_
 

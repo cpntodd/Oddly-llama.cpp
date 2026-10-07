@@ -2,18 +2,14 @@
 name: "common_http_get_free_port"
 type: "function"
 file: "common/http.h"
-community: "ggml"
+community: "tools"
 ---
 
 # common_http_get_free_port
 
 **Type:** `function`  **File:** `common/http.h`
 
-**Community:** [[communities/ggml]]
-
-## Depends On
-
-- [[nodes/close]] _calls_
+**Community:** [[communities/tools]]
 
 ## Used By
 

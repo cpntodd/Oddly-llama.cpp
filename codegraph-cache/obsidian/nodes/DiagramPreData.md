@@ -1,17 +1,12 @@
 ---
 name: "DiagramPreData"
 type: "class"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/pre-transform.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/pre-transform.ts"
+community: "build-sycl-2025"
 ---
 
 # DiagramPreData
 
-**Type:** `class`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/pre-transform.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/pre-transform.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/Window]] _imports_
-- [[nodes/Window]] _imports_
+**Community:** [[communities/build-sycl-2025]]

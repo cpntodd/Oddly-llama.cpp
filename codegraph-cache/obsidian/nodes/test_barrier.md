@@ -21,7 +21,6 @@ community: "ggml"
 - [[nodes/ggml_graph_n_nodes]] _calls_
 - [[nodes/ggml_threadpool_params_default]] _calls_
 - [[nodes/ggml_threadpool_new]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/ggml_graph_print]] _calls_
 - [[nodes/ggml_graph_compute]] _calls_

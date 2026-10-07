@@ -2,14 +2,14 @@
 name: "common_chat_templates_source"
 type: "function"
 file: "common/chat.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_chat_templates_source
 
 **Type:** `function`  **File:** `common/chat.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

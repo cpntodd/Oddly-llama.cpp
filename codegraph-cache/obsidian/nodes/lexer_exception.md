@@ -2,14 +2,14 @@
 name: "lexer_exception"
 type: "class"
 file: "common/jinja/lexer.h"
-community: "tools"
+community: "ggml"
 ---
 
 # lexer_exception
 
 **Type:** `class`  **File:** `common/jinja/lexer.h`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

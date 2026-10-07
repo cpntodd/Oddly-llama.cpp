@@ -17,7 +17,6 @@ community: "common"
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/common_grammar_builder]] _imports_
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

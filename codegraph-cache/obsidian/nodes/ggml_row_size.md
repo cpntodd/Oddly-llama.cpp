@@ -2,14 +2,14 @@
 name: "ggml_row_size"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "src"
+community: "ggml"
 ---
 
 # ggml_row_size
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
@@ -37,8 +37,6 @@ community: "src"
 - [[nodes/llm_graph_context]] _calls_
 - [[nodes/dsv4_elem_offset]] _calls_
 - [[nodes/llm_graph_context]] _calls_
-- [[nodes/if]] _calls_
-- [[nodes/hp]] _calls_
 - [[nodes/read_buffer_callback]] _calls_
 - [[nodes/handcrafted_check_tensors]] _calls_
 - [[nodes/handcrafted_check_tensor_data]] _calls_
@@ -48,3 +46,5 @@ community: "src"
 - [[nodes/ggml_quantize_requires_imatrix]] _calls_
 - [[nodes/quantize_q2_K]] _calls_
 - [[nodes/quantize_q3_K]] _calls_
+- [[nodes/quantize_q4_K]] _calls_
+- [[nodes/quantize_q5_K]] _calls_

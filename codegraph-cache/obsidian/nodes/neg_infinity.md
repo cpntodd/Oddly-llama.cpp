@@ -18,6 +18,7 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_init]] _imports_
 - [[nodes/op_sgn]] _imports_
 - [[nodes/constexpr]] _imports_
+- [[nodes/sycl]] _imports_
+- [[nodes/ggml_sycl_init]] _imports_

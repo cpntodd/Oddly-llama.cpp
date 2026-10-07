@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/append]] _calls_
 - [[nodes/runtime]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

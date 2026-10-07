@@ -1,16 +1,12 @@
 ---
 name: "buildProxiedHeaders"
 type: "function"
-file: "tools/ui/src/lib/utils/cors-proxy.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/cors-proxy.ts"
+community: "build-sycl-2025"
 ---
 
 # buildProxiedHeaders
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/cors-proxy.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/cors-proxy.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/stopPhaseLogging]] _calls_
+**Community:** [[communities/build-sycl-2025]]

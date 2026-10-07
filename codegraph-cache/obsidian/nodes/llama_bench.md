@@ -2,14 +2,14 @@
 name: "llama_bench"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # llama_bench
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
@@ -35,7 +35,6 @@ community: "tools"
 - [[nodes/ggml_threadpool_params_default]] _calls_
 - [[nodes/parse_cpu_mask]] _calls_
 - [[nodes/llama_free]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/test_prompt]] _calls_
 - [[nodes/test_gen]] _calls_
 - [[nodes/llama_state_seq_set_data]] _calls_
@@ -43,6 +42,7 @@ community: "tools"
 - [[nodes/llama_state_seq_get_data]] _calls_
 - [[nodes/get_time_ns]] _calls_
 - [[nodes/llama_perf_context_print]] _calls_
+- [[nodes/print_footer]] _calls_
 
 ## Used By
 

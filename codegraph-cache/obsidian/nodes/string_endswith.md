@@ -2,14 +2,14 @@
 name: "string_endswith"
 type: "function"
 file: "common/jinja/value.cpp"
-community: "src"
+community: "common"
 ---
 
 # string_endswith
 
 **Type:** `function`  **File:** `common/jinja/value.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

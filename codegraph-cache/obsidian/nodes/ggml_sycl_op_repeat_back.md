@@ -13,7 +13,7 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/repeat_back.hpp]] _imports_
+- [[nodes/repeat_back.comp.cpp]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/stream]] _calls_
 - [[nodes/parallel_for]] _calls_

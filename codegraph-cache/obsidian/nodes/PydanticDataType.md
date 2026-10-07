@@ -14,7 +14,7 @@ community: "conversion"
 ## Depends On
 
 - [[nodes/common_json_item]] _imports_
-- [[nodes/copy]] _imports_
+- [[nodes/copy.comp.cpp]] _imports_
 - [[nodes/types]] _imports_
 
 ## Used By

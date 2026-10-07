@@ -17,5 +17,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_argmax]] _calls_
 - [[nodes/op_silu]] _calls_
+- [[nodes/ggml_sycl_argmax]] _calls_

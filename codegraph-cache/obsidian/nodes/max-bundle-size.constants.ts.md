@@ -1,12 +1,12 @@
 ---
 name: "max-bundle-size.constants.ts"
 type: "file"
-file: "tools/ui/src/lib/constants/max-bundle-size.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/max-bundle-size.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # max-bundle-size.constants.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/constants/max-bundle-size.constants.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/max-bundle-size.constants.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

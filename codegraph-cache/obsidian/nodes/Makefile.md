@@ -1,12 +1,12 @@
 ---
 name: "Makefile"
 type: "file"
-file: "examples/model-conversion/Makefile"
-community: "examples"
+file: "build-sycl-2025/ggml/src/ggml-sycl/check_package_IntelSYCL/Makefile"
+community: "build-sycl-2025"
 ---
 
 # Makefile
 
-**Type:** `file`  **File:** `examples/model-conversion/Makefile`
+**Type:** `file`  **File:** `build-sycl-2025/ggml/src/ggml-sycl/check_package_IntelSYCL/Makefile`
 
-**Community:** [[communities/examples]]
+**Community:** [[communities/build-sycl-2025]]

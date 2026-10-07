@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/max_nodes]] _calls_
 - [[nodes/needs_raw_logits]] _calls_
-- [[nodes/init_set_rows_row_ids]] _calls_
 - [[nodes/ggml_can_fuse_ext]] _calls_
 - [[nodes/ggml_backend_meta_graph_compute]] _calls_
 - [[nodes/ggml_get_tensor]] _calls_
@@ -32,7 +31,6 @@ community: "ggml"
 - [[nodes/forward_binary]] _calls_
 - [[nodes/ggml_sycl_op_fwht]] _calls_
 - [[nodes/ggml_sycl_op_set]] _calls_
-- [[nodes/ggml_sycl_op_tri]] _calls_
 - [[nodes/ggml_sycl_count_equal]] _calls_
 - [[nodes/ggml_sycl_op_acc]] _calls_
 - [[nodes/ggml_sycl_op_unary_mul_fused]] _calls_
@@ -40,6 +38,8 @@ community: "ggml"
 - [[nodes/ggml_sycl_opt_step_sgd]] _calls_
 - [[nodes/ggml_sycl_cross_entropy_loss]] _calls_
 - [[nodes/ggml_sycl_cross_entropy_loss_back]] _calls_
+- [[nodes/ggml_sycl_ssm_conv_fused]] _calls_
 - [[nodes/ggml_webgpu_can_fuse_rms_norm_mul]] _calls_
 - [[nodes/ggml_cann_dup]] _calls_
 - [[nodes/ggml_metal_op_glu]] _calls_
+- [[nodes/ggml_metal_op_ssm_conv]] _calls_

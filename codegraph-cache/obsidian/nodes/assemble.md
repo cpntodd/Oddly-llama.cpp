@@ -2,14 +2,14 @@
 name: "assemble"
 type: "function"
 file: "tests/test-model-resolution.cpp"
-community: "tests"
+community: "common"
 ---
 
 # assemble
 
 **Type:** `function`  **File:** `tests/test-model-resolution.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

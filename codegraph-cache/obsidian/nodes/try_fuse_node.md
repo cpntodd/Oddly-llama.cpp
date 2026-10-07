@@ -15,10 +15,10 @@ community: "ggml"
 
 - [[nodes/ggml_can_fuse]] _calls_
 - [[nodes/add_fused]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/is_mergeable_mul_mat]] _calls_
 - [[nodes/is_qkv_mergeable]] _calls_
 - [[nodes/K]] _calls_
+- [[nodes/V]] _calls_
 - [[nodes/is_mergeable_mul_mat_pair]] _calls_
 
 ## Used By

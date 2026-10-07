@@ -13,6 +13,7 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/get]] _calls_
 - [[nodes/parallel_for]] _calls_
 - [[nodes/ggml_backend_buffer_is_host]] _calls_
 - [[nodes/ggml_backend_buffer_is_sycl]] _calls_
@@ -20,7 +21,6 @@ community: "ggml"
 - [[nodes/get_current_device_id]] _calls_
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/ggml_blck_size]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/pool]] _calls_
 - [[nodes/ggml_get_to_bf16_sycl]] _calls_

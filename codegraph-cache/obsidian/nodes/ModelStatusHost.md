@@ -1,13 +1,13 @@
 ---
 name: "ModelStatusHost"
 type: "class"
-file: "tools/ui/src/lib/stores/models/status.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/models/status.svelte.ts"
 community: "tools"
 ---
 
 # ModelStatusHost
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/models/status.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/models/status.svelte.ts`
 
 **Community:** [[communities/tools]]
 
@@ -16,7 +16,3 @@ community: "tools"
 - [[nodes/ModelsService]] _imports_
 - [[nodes/ModelPropsHost]] _imports_
 - [[nodes/signal_handler]] _imports_
-
-## Used By
-
-- [[nodes/ModelsStore]] _imports_

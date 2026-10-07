@@ -2,14 +2,14 @@
 name: "llm_arch_is_recurrent"
 type: "function"
 file: "src/llama-arch.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # llm_arch_is_recurrent
 
 **Type:** `function`  **File:** `src/llama-arch.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Used By
 

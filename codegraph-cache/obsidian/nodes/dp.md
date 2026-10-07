@@ -1,16 +1,12 @@
 ---
 name: "dp"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # dp
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/string_lcs]] _calls_
+**Community:** [[communities/build-sycl-2025]]

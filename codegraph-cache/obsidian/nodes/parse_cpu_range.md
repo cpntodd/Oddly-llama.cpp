@@ -2,14 +2,14 @@
 name: "parse_cpu_range"
 type: "function"
 file: "common/common.cpp"
-community: "tools"
+community: "common"
 ---
 
 # parse_cpu_range
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

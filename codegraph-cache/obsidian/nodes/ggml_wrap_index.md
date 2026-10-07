@@ -19,10 +19,8 @@ community: "ggml"
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/ggml_nrows]] _calls_
 - [[nodes/operator]] _calls_
-- [[nodes/copy]] _calls_
+- [[nodes/swap]] _calls_
 - [[nodes/ggml_type_size]] _calls_
-- [[nodes/floor]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/ggml_get_type_traits_cpu]] _calls_
 - [[nodes/ggml_get_type_traits]] _calls_
 - [[nodes/ggml_vec_scale_f16]] _calls_
@@ -43,3 +41,5 @@ community: "ggml"
 - [[nodes/ggml_blck_size]] _calls_
 - [[nodes/ggml_vec_dot_f32]] _calls_
 - [[nodes/ggml_vec_sum_f32]] _calls_
+- [[nodes/ggml_vec_set_f32]] _calls_
+- [[nodes/ggml_vec_acc1_f32]] _calls_

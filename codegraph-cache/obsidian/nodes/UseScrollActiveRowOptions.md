@@ -1,15 +1,15 @@
 ---
 name: "UseScrollActiveRowOptions"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-scroll-active-row.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-scroll-active-row.svelte.ts"
+community: "build-vulkan-gcc"
 ---
 
 # UseScrollActiveRowOptions
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-scroll-active-row.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-scroll-active-row.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 

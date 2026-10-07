@@ -14,7 +14,6 @@ community: "tools"
 ## Depends On
 
 - [[nodes/process_mtmd_prompt]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/send_error]] _calls_
 - [[nodes/is_processing]] _calls_

@@ -21,6 +21,5 @@ community: "ggml"
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/combine_error_stats]] _calls_
-- [[nodes/unlock]] _calls_
 - [[nodes/compute]] _calls_
 - [[nodes/print_error_stats]] _calls_

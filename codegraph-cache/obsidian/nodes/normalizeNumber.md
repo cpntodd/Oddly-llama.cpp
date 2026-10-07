@@ -1,16 +1,12 @@
 ---
 name: "normalizeNumber"
 type: "function"
-file: "tools/ui/src/lib/utils/precision.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/precision.ts"
+community: "build-sycl-2025"
 ---
 
 # normalizeNumber
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/precision.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/precision.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/round]] _calls_
+**Community:** [[communities/build-sycl-2025]]

@@ -1,12 +1,12 @@
 ---
 name: "ChatMessageEditForm.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessageEditForm.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessageEditForm.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatMessageEditForm.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessageEditForm.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessageEditForm.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

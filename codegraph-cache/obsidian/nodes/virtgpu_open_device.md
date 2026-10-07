@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/close]] _calls_
-
 ## Used By
 
 - [[nodes/virtgpu_open]] _calls_

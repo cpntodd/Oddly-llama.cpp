@@ -13,4 +13,5 @@ community: "conversion"
 
 ## Depends On
 
+- [[nodes/os.h]] _imports_
 - [[nodes/gguf.py]] _imports_

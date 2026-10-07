@@ -2,14 +2,14 @@
 name: "batch_decode"
 type: "function"
 file: "examples/embedding/embedding.cpp"
-community: "src"
+community: "common"
 ---
 
 # batch_decode
 
 **Type:** `function`  **File:** `examples/embedding/embedding.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

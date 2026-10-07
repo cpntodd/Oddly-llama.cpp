@@ -2,14 +2,14 @@
 name: "compute_imatrix"
 type: "function"
 file: "tools/imatrix/imatrix.cpp"
-community: "src"
+community: "common"
 ---
 
 # compute_imatrix
 
 **Type:** `function`  **File:** `tools/imatrix/imatrix.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -24,8 +24,6 @@ community: "src"
 - [[nodes/when]] _calls_
 - [[nodes/llama_batch_free]] _calls_
 - [[nodes/llama_synchronize]] _calls_
-- [[nodes/exp]] _calls_
-- [[nodes/sqrt]] _calls_
 
 ## Used By
 

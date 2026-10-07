@@ -2,18 +2,17 @@
 name: "normalize_newlines"
 type: "function"
 file: "tests/test-chat-template.cpp"
-community: "common"
+community: "tests"
 ---
 
 # normalize_newlines
 
 **Type:** `function`  **File:** `tests/test-chat-template.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/parse_from_tokens]] _calls_
 - [[nodes/caps_get]] _calls_
 - [[nodes/global_from_json]] _calls_

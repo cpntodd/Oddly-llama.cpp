@@ -14,6 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/ggml_backend_sycl_buffer_type]] _calls_
-- [[nodes/exit]] _calls_
+- [[nodes/ggml_sycl_t2_restore_tensor]] _calls_
 - [[nodes/ggml_backend_buffer_is_sycl]] _calls_
 - [[nodes/ggml_nbytes]] _calls_

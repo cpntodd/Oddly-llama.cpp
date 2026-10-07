@@ -1,13 +1,13 @@
 ---
 name: "initStores"
 type: "function"
-file: "tools/ui/src/lib/stores/init.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/init.ts"
 community: "tools"
 ---
 
 # initStores
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/init.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/init.ts`
 
 **Community:** [[communities/tools]]
 
@@ -21,8 +21,3 @@ community: "tools"
 - [[nodes/Migration]] _imports_
 - [[nodes/resolve]] _calls_
 - [[nodes/map]] _calls_
-
-## Used By
-
-- [[nodes/PageLoad]] _imports_
-- [[nodes/PageLoad]] _imports_

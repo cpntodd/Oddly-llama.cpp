@@ -2,14 +2,14 @@
 name: "build_min_max_int"
 type: "function"
 file: "common/json-schema-to-grammar.cpp"
-community: "tools"
+community: "common"
 ---
 
 # build_min_max_int
 
 **Type:** `function`  **File:** `common/json-schema-to-grammar.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

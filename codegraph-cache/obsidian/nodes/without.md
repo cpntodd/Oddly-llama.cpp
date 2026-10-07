@@ -1,12 +1,19 @@
 ---
 name: "without"
-type: "class"
-file: "tests/test-chat.cpp"
-community: "tests"
+type: "function"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Calculus.js"
+community: "build-sycl-2025"
 ---
 
 # without
 
-**Type:** `class`  **File:** `tests/test-chat.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Calculus.js`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/build-sycl-2025]]
+
+## Depends On
+
+- [[nodes/multiply]] _calls_
+- [[nodes/divide]] _calls_
+- [[nodes/stop]] _calls_
+- [[nodes/toString]] _calls_

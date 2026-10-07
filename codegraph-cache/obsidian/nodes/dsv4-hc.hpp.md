@@ -13,5 +13,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_init]] _imports_
 - [[nodes/dsv4_hc_comb_norm_cols]] _imports_
+- [[nodes/ggml_sycl_init]] _imports_

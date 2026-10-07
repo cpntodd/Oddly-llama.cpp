@@ -2,14 +2,14 @@
 name: "llama_vocab_get_add_bos"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_vocab_get_add_bos
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 
@@ -27,10 +27,10 @@ community: "src"
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/llama_add_bos_token]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/common_chat_templates_source]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/has_pooling]] _calls_
 - [[nodes/print_tokenized_prompt]] _calls_
 - [[nodes/run]] _calls_
 - [[nodes/run]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_

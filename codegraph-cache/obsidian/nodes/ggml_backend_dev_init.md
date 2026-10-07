@@ -17,8 +17,6 @@ community: "ggml"
 - [[nodes/main]] _calls_
 - [[nodes/select_weight_buft]] _calls_
 - [[nodes/ctx_type_to_graph_type]] _calls_
-- [[nodes/run_fa_vec_slice]] _calls_
-- [[nodes/main]] _calls_
 - [[nodes/same_tensor_data]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/ggml_backend_meta_guid]] _calls_
@@ -26,3 +24,5 @@ community: "ggml"
 - [[nodes/ggml_backend_init_by_type]] _calls_
 - [[nodes/ggml_backend_init_best]] _calls_
 - [[nodes/ggml_backend_rpc_get_device_memory]] _calls_
+- [[nodes/run_fa_vec_slice]] _calls_
+- [[nodes/main]] _calls_

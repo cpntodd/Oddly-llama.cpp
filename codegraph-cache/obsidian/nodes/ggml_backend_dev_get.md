@@ -2,14 +2,14 @@
 name: "ggml_backend_dev_get"
 type: "function"
 file: "ggml/src/ggml-backend-reg.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # ggml_backend_dev_get
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend-reg.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
@@ -31,8 +31,8 @@ community: "tools"
 - [[nodes/common_print_available_devices]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
-- [[nodes/main]] _calls_
 - [[nodes/test_backends]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/ggml_backend_dev_by_name]] _calls_
 - [[nodes/ggml_backend_dev_by_type]] _calls_
+- [[nodes/main]] _calls_

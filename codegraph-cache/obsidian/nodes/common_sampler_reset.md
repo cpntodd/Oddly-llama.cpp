@@ -15,5 +15,6 @@ community: "common"
 
 - [[nodes/llama_completion]] _calls_
 - [[nodes/init_sampler]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/main]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_
+- [[nodes/flush_deferred]] _calls_

@@ -20,4 +20,3 @@ community: "ggml"
 - [[nodes/format]] _calls_
 - [[nodes/ggml_new_graph_custom]] _calls_
 - [[nodes/ggml_build_forward_expand]] _calls_
-- [[nodes/move]] _calls_

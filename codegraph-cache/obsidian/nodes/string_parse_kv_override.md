@@ -11,10 +11,6 @@ community: "tools"
 
 **Community:** [[communities/tools]]
 
-## Depends On
-
-- [[nodes/move]] _calls_
-
 ## Used By
 
 - [[nodes/if]] _calls_

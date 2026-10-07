@@ -1,23 +1,18 @@
 ---
 name: "clear"
 type: "function"
-file: "ggml/src/ggml-cann/ggml-cann.cpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-override-fallback.test.ts"
+community: "tools"
 ---
 
 # clear
 
-**Type:** `function`  **File:** `ggml/src/ggml-cann/ggml-cann.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-override-fallback.test.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
-## Used By
+## Depends On
 
-- [[nodes/ggml_backend_meta_buffer_simple_buffer]] _calls_
-- [[nodes/ggml_backend_meta_graph_compute]] _calls_
-- [[nodes/ggml_backend_buffer_clear]] _calls_
-- [[nodes/ggml_backend_sched_compute_splits]] _calls_
-- [[nodes/ggml_opt_result_reset]] _calls_
-- [[nodes/ggml_cann_init]] _calls_
-- [[nodes/realloc]] _calls_
-- [[nodes/ggml_backend_cann_graph_compute]] _calls_
+- [[nodes/Keys]] _imports_
+- [[nodes/database.constants.ts]] _imports_
+- [[nodes/vitest.shims.d.ts]] _imports_

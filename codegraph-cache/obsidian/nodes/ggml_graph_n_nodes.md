@@ -18,8 +18,6 @@ community: "ggml"
 - [[nodes/llama_sampler_backend_probe_n_nodes]] _calls_
 - [[nodes/max_nodes]] _calls_
 - [[nodes/ctx_type_to_graph_type]] _calls_
-- [[nodes/eval_perf]] _calls_
-- [[nodes/eval_grad]] _calls_
 - [[nodes/check_all_allocated]] _calls_
 - [[nodes/can_reuse_memory]] _calls_
 - [[nodes/check_no_overlap]] _calls_
@@ -27,3 +25,5 @@ community: "ggml"
 - [[nodes/test_barrier]] _calls_
 - [[nodes/test_active]] _calls_
 - [[nodes/test_multi_graph]] _calls_
+- [[nodes/eval_perf]] _calls_
+- [[nodes/eval_grad]] _calls_

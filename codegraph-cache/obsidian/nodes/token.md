@@ -18,9 +18,9 @@ community: "tests"
 
 ## Used By
 
-- [[nodes/is_non_contiguous]] _calls_
 - [[nodes/test_build_grammar_fails]] _calls_
 - [[nodes/test_simple_grammar]] _calls_
 - [[nodes/test_complex_grammar]] _calls_
 - [[nodes/test_reasoning_budget_force_manual]] _calls_
 - [[nodes/main]] _calls_
+- [[nodes/is_non_contiguous]] _calls_

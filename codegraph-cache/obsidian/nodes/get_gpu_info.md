@@ -2,14 +2,14 @@
 name: "get_gpu_info"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # get_gpu_info
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

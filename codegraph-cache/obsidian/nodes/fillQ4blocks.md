@@ -2,18 +2,18 @@
 name: "fillQ4blocks"
 type: "function"
 file: "pocs/vdot/q8dot.cpp"
-community: "conversion"
+community: "ggml"
 ---
 
 # fillQ4blocks
 
 **Type:** `function`  **File:** `pocs/vdot/q8dot.cpp`
 
-**Community:** [[communities/conversion]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
-- [[nodes/random]] _imports_
+- [[nodes/type_traits]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/ggml_arm_arch_features_type]] _imports_
 

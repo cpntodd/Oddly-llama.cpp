@@ -2,14 +2,14 @@
 name: "need_boundary_stash"
 type: "function"
 file: "common/speculative.cpp"
-community: "common"
+community: "src"
 ---
 
 # need_boundary_stash
 
 **Type:** `function`  **File:** `common/speculative.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

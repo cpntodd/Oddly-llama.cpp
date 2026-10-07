@@ -1,15 +1,15 @@
 ---
 name: "finish"
 type: "function"
-file: "tools/ui/src/lib/services/sandbox.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/sandbox.service.ts"
+community: "build-sycl-2025"
 ---
 
 # finish
 
-**Type:** `function`  **File:** `tools/ui/src/lib/services/sandbox.service.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/sandbox.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -18,4 +18,3 @@ community: "tools"
 ## Used By
 
 - [[nodes/onMessage]] _calls_
-- [[nodes/needs_raw_logits]] _calls_

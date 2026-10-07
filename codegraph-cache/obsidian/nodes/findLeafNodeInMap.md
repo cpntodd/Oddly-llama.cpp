@@ -1,15 +1,15 @@
 ---
 name: "findLeafNodeInMap"
 type: "function"
-file: "tools/ui/src/lib/utils/branching.ts"
-community: "src"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/branching.ts"
+community: "tools"
 ---
 
 # findLeafNodeInMap
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/branching.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/branching.ts`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

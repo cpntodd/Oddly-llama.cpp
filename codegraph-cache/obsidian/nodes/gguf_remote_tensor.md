@@ -2,14 +2,14 @@
 name: "gguf_remote_tensor"
 type: "class"
 file: "tests/gguf-model-data.h"
-community: "conversion"
+community: "ggml"
 ---
 
 # gguf_remote_tensor
 
 **Type:** `class`  **File:** `tests/gguf-model-data.h`
 
-**Community:** [[communities/conversion]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

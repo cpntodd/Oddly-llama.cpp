@@ -2,14 +2,14 @@
 name: "common_log_entry"
 type: "class"
 file: "common/log.cpp"
-community: "common"
+community: "build-intel-all"
 ---
 
 # common_log_entry
 
 **Type:** `class`  **File:** `common/log.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/build-intel-all]]
 
 ## Used By
 

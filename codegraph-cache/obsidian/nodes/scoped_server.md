@@ -2,14 +2,14 @@
 name: "scoped_server"
 type: "function"
 file: "scripts/tool_bench.py"
-community: "tools"
+community: "conversion"
 ---
 
 # scoped_server
 
 **Type:** `function`  **File:** `scripts/tool_bench.py`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/conversion]]
 
 ## Depends On
 

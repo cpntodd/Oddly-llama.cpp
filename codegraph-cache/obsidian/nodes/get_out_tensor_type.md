@@ -2,14 +2,14 @@
 name: "get_out_tensor_type"
 type: "function"
 file: "tools/export-lora/export-lora.cpp"
-community: "src"
+community: "tools"
 ---
 
 # get_out_tensor_type
 
 **Type:** `function`  **File:** `tools/export-lora/export-lora.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

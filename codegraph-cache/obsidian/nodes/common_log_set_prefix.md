@@ -2,14 +2,14 @@
 name: "common_log_set_prefix"
 type: "function"
 file: "common/log.cpp"
-community: "common"
+community: "tests"
 ---
 
 # common_log_set_prefix
 
 **Type:** `function`  **File:** `common/log.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

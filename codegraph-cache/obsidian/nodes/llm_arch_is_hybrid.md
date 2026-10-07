@@ -2,14 +2,14 @@
 name: "llm_arch_is_hybrid"
 type: "function"
 file: "src/llama-arch.cpp"
-community: "common"
+community: "src"
 ---
 
 # llm_arch_is_hybrid
 
 **Type:** `function`  **File:** `src/llama-arch.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/src]]
 
 ## Used By
 

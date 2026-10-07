@@ -11,11 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/exp]] _calls_
-- [[nodes/log2]] _calls_
-
 ## Used By
 
 - [[nodes/entry_point]] _calls_

@@ -2,14 +2,14 @@
 name: "ggml-cuda.h"
 type: "file"
 file: "ggml/include/ggml-cuda.h"
-community: "ggml"
+community: "tools"
 ---
 
 # ggml-cuda.h
 
 **Type:** `file`  **File:** `ggml/include/ggml-cuda.h`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

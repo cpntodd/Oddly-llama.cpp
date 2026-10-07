@@ -1,13 +1,13 @@
 ---
 name: "isFileTypeSupportedByModel"
 type: "function"
-file: "tools/ui/src/lib/utils/modality-file-validation.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/modality-file-validation.ts"
 community: "tools"
 ---
 
 # isFileTypeSupportedByModel
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/modality-file-validation.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/modality-file-validation.ts`
 
 **Community:** [[communities/tools]]
 

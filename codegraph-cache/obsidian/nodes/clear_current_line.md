@@ -15,7 +15,6 @@ community: "common"
 
 - [[nodes/move_cursor]] _calls_
 - [[nodes/move_to_line_start]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/decode_utf8]] _calls_

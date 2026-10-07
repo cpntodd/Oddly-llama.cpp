@@ -1,5 +1,5 @@
 ---
-community_id: 331
+community_id: 551
 label: "benches"
 members: 1
 cohesion: 1.0

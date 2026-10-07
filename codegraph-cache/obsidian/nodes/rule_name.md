@@ -15,11 +15,8 @@ community: "common"
 
 - [[nodes/insert]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/wrap]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/schema]] _calls_
 - [[nodes/rule]] _calls_
 - [[nodes/build]] _calls_
 - [[nodes/resolve_refs]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/negate]] _calls_

@@ -1,13 +1,13 @@
 ---
 name: "resourceMatchesSearch"
 type: "function"
-file: "tools/ui/src/lib/components/app/mcp/McpResourcesBrowser/mcp-resources-browser.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpResourcesBrowser/mcp-resources-browser.ts"
 community: "tools"
 ---
 
 # resourceMatchesSearch
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/mcp/McpResourcesBrowser/mcp-resources-browser.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpResourcesBrowser/mcp-resources-browser.ts`
 
 **Community:** [[communities/tools]]
 

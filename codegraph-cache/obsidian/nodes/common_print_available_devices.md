@@ -2,14 +2,14 @@
 name: "common_print_available_devices"
 type: "function"
 file: "common/arg.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # common_print_available_devices
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

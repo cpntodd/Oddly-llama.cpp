@@ -1,15 +1,15 @@
 ---
 name: "mockServerProps"
 type: "function"
-file: "tools/ui/tests/stories/fixtures/storybook-mocks.ts"
-community: "tests"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/storybook-mocks.ts"
+community: "tools"
 ---
 
 # mockServerProps
 
-**Type:** `function`  **File:** `tools/ui/tests/stories/fixtures/storybook-mocks.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/storybook-mocks.ts`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

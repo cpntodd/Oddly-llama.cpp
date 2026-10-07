@@ -1,13 +1,13 @@
 ---
 name: "generateSplashScreenLinks"
 type: "function"
-file: "tools/ui/scripts/vite-plugin-splash-screen.ts"
+file: "build-sycl-2025/tools/ui/ui-src/scripts/vite-plugin-splash-screen.ts"
 community: "tools"
 ---
 
 # generateSplashScreenLinks
 
-**Type:** `function`  **File:** `tools/ui/scripts/vite-plugin-splash-screen.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/scripts/vite-plugin-splash-screen.ts`
 
 **Community:** [[communities/tools]]
 
@@ -20,6 +20,7 @@ community: "tools"
 - [[nodes/vite.config.ts]] _imports_
 - [[nodes/map]] _calls_
 - [[nodes/set]] _calls_
+- [[nodes/warn]] _calls_
 
 ## Used By
 

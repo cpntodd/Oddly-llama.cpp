@@ -2,18 +2,17 @@
 name: "hp"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # hp
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/n_embd_gqa]] _calls_
 - [[nodes/ggml_row_size]] _calls_
 - [[nodes/ggml_element_size]] _calls_

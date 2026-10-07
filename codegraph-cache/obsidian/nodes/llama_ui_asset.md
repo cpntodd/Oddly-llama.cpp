@@ -1,12 +1,12 @@
 ---
 name: "llama_ui_asset"
 type: "class"
-file: "tools/ui/embed.cpp"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/embed.cpp"
+community: "build-sycl-2025"
 ---
 
 # llama_ui_asset
 
-**Type:** `class`  **File:** `tools/ui/embed.cpp`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/embed.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

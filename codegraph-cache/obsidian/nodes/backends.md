@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/rpc_server]] _calls_
 - [[nodes/get_alignment]] _calls_
 - [[nodes/get_max_size]] _calls_

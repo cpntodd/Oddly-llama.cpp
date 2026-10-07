@@ -25,5 +25,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_backend_sycl_graph_compute_impl]] _calls_
 - [[nodes/op_silu]] _calls_
+- [[nodes/ggml_backend_sycl_graph_compute_impl]] _calls_

@@ -17,7 +17,7 @@ community: "ggml"
 - [[nodes/decode_q_Kx8_6bit_scales]] _calls_
 - [[nodes/ggml_gemm_q4_K_8x4_q8_K_generic]] _calls_
 - [[nodes/ggml_gemm_q5_K_8x4_q8_K_generic]] _calls_
-- [[nodes/u32]] _calls_
+- [[nodes/rows]] _calls_
 - [[nodes/ggml_gemm_q4_K_8x8_q8_K_generic]] _calls_
 - [[nodes/ggml_gemm_q5_K_8x8_q8_K_generic]] _calls_
 - [[nodes/ggml_gemm_q6_K_8x4_q8_K_generic]] _calls_

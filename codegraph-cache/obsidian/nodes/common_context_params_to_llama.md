@@ -2,14 +2,14 @@
 name: "common_context_params_to_llama"
 type: "function"
 file: "common/common.cpp"
-community: "src"
+community: "tests"
 ---
 
 # common_context_params_to_llama
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
@@ -21,7 +21,6 @@ community: "src"
 - [[nodes/llama_batched_bench]] _calls_
 - [[nodes/llama_fit_params]] _calls_
 - [[nodes/tty_can_use_colors]] _calls_
-- [[nodes/common_base_params_to_speculative]] _calls_
 - [[nodes/string_find_partial_stop]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
@@ -32,3 +31,4 @@ community: "src"
 - [[nodes/test_seq_cp_device]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/test_multi_seq_split_replay]] _calls_
+- [[nodes/common_base_params_to_speculative]] _calls_

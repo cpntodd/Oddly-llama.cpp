@@ -2,14 +2,14 @@
 name: "test_gated_delta_net"
 type: "class"
 file: "tests/test-backend-ops.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # test_gated_delta_net
 
 **Type:** `class`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

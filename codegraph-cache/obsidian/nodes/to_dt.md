@@ -18,4 +18,7 @@ community: "ggml"
 - [[nodes/stream_dnnl]] _calls_
 - [[nodes/engine_dnnl]] _calls_
 - [[nodes/max]] _calls_
+- [[nodes/pool]] _calls_
+- [[nodes/get_size]] _calls_
+- [[nodes/alloc]] _calls_
 - [[nodes/matmul]] _calls_

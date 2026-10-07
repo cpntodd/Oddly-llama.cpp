@@ -1,12 +1,12 @@
 ---
 name: "common_speculative"
 type: "class"
-file: "examples/speculative-simple/speculative-simple.cpp"
-community: "examples"
+file: "common/speculative.cpp"
+community: "common"
 ---
 
 # common_speculative
 
-**Type:** `class`  **File:** `examples/speculative-simple/speculative-simple.cpp`
+**Type:** `class`  **File:** `common/speculative.cpp`
 
-**Community:** [[communities/examples]]
+**Community:** [[communities/common]]

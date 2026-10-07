@@ -16,10 +16,8 @@ community: "common"
 - [[nodes/fs_get_cache_directory]] _calls_
 - [[nodes/fs_create_directory_with_parents]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/dir]] _calls_
 - [[nodes/string]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

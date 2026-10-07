@@ -1,27 +1,16 @@
 ---
 name: "count"
 type: "function"
-file: "examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js"
+community: "build-sycl-2025"
 ---
 
 # count
 
-**Type:** `function`  **File:** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
-## Depends On
+## Used By
 
-- [[nodes/buildStructured]] _calls_
-- [[nodes/bool]] _calls_
-- [[nodes/u32]] _calls_
-- [[nodes/BasicInfo]] _calls_
-- [[nodes/AuthorInfo]] _calls_
-- [[nodes/AdditionalInfo]] _calls_
-- [[nodes/ArchitectureInfo]] _calls_
-- [[nodes/TokenizerInfo]] _calls_
-- [[nodes/DimensionsInfo]] _calls_
-- [[nodes/AttentionInfo]] _calls_
-- [[nodes/RopeInfo]] _calls_
-- [[nodes/ExpertsInfo]] _calls_
+- [[nodes/findFunction]] _calls_

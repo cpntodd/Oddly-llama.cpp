@@ -1,17 +1,33 @@
 ---
 name: "each"
-type: "class"
-file: "ggml/src/ggml-sycl/esimd.hpp"
-community: "ggml"
+type: "function"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js"
+community: "build-sycl-2025"
 ---
 
 # each
 
-**Type:** `class`  **File:** `ggml/src/ggml-sycl/esimd.hpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
-- [[nodes/ggml_sycl_op_out_prod]] _calls_
-- [[nodes/ggml_sycl_op_conv_3d]] _calls_
+- [[nodes/Equation]] _calls_
+- [[nodes/GetSystemVariables]] _calls_
+- [[nodes/but]] _calls_
+- [[nodes/for]] _calls_
+- [[nodes/addToResult]] _calls_
+- [[nodes/correctDenom]] _calls_
+- [[nodes/separate]] _calls_
+- [[nodes/inverseFunctionSolve]] _calls_
+- [[nodes/fnTransform]] _calls_
+- [[nodes/toCommonDenominator]] _calls_
+- [[nodes/max]] _calls_
+- [[nodes/over]] _calls_
+- [[nodes/setSymbol]] _calls_
+- [[nodes/unwrapAbs]] _calls_
+- [[nodes/doubleAngle]] _calls_
+- [[nodes/findFunction]] _calls_
+- [[nodes/finalize]] _calls_
+- [[nodes/above]] _calls_

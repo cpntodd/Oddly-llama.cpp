@@ -14,7 +14,6 @@ community: "tests"
 ## Depends On
 
 - [[nodes/read_templates]] _calls_
-- [[nodes/render]] _calls_
 - [[nodes/assert_contains]] _calls_
 
 ## Used By

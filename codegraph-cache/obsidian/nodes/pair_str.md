@@ -2,14 +2,14 @@
 name: "pair_str"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "tools"
+community: "common"
 ---
 
 # pair_str
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

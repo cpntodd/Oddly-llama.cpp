@@ -2,19 +2,18 @@
 name: "get_all_kv_cache_types"
 type: "function"
 file: "common/arg.cpp"
-community: "common"
+community: "ggml"
 ---
 
 # get_all_kv_cache_types
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
 - [[nodes/ggml_type_name]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

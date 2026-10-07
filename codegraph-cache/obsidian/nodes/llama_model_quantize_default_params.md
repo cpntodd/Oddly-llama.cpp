@@ -2,14 +2,14 @@
 name: "llama_model_quantize_default_params"
 type: "function"
 file: "src/llama-quant.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # llama_model_quantize_default_params
 
 **Type:** `function`  **File:** `src/llama-quant.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

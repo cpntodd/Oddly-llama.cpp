@@ -1,5 +1,5 @@
 ---
-community_id: 318
+community_id: 509
 label: ".pre-commit-config.yaml"
 members: 1
 cohesion: 1.0

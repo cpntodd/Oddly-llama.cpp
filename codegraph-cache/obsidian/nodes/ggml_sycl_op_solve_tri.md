@@ -13,6 +13,7 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/solve_tri.comp.cpp]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/stream]] _calls_
@@ -21,5 +22,4 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_init]] _imports_
 - [[nodes/ggml_sycl_solve_tri]] _calls_

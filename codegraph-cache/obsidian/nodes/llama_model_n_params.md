@@ -2,14 +2,14 @@
 name: "llama_model_n_params"
 type: "function"
 file: "src/llama-model.cpp"
-community: "tools"
+community: "common"
 ---
 
 # llama_model_n_params
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Used By
 

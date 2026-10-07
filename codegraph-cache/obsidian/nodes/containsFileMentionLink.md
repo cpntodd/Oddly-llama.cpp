@@ -1,13 +1,13 @@
 ---
 name: "containsFileMentionLink"
 type: "function"
-file: "tools/ui/src/lib/utils/mention-badge.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/mention-badge.ts"
 community: "tools"
 ---
 
 # containsFileMentionLink
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/mention-badge.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/mention-badge.ts`
 
 **Community:** [[communities/tools]]
 

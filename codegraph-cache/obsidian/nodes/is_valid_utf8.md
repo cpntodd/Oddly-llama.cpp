@@ -2,14 +2,14 @@
 name: "is_valid_utf8"
 type: "function"
 file: "examples/llama.android/lib/src/main/cpp/ai_chat.cpp"
-community: "src"
+community: "common"
 ---
 
 # is_valid_utf8
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/cpp/ai_chat.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

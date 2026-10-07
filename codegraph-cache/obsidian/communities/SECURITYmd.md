@@ -1,5 +1,5 @@
 ---
-community_id: 326
+community_id: 517
 label: "SECURITY.md"
 members: 1
 cohesion: 1.0

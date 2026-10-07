@@ -1,13 +1,13 @@
 ---
 name: "SettingsEntry"
 type: "class"
-file: "tools/ui/src/lib/types/settings.d.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/settings.d.ts"
 community: "tools"
 ---
 
 # SettingsEntry
 
-**Type:** `class`  **File:** `tools/ui/src/lib/types/settings.d.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/settings.d.ts`
 
 **Community:** [[communities/tools]]
 

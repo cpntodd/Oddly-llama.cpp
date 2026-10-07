@@ -18,7 +18,7 @@ community: "tools"
 - [[nodes/build-info.h]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/common_params_fit_status]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/llama_update]] _imports_
 - [[nodes/ring_buffer]] _imports_
 - [[nodes/speculative.md]] _imports_

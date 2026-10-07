@@ -2,14 +2,14 @@
 name: "decode_utf8"
 type: "function"
 file: "common/console.cpp"
-community: "common"
+community: "src"
 ---
 
 # decode_utf8
 
 **Type:** `function`  **File:** `common/console.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

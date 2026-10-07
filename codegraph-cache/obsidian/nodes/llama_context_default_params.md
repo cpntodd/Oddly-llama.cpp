@@ -15,6 +15,7 @@ community: "tests"
 
 - [[nodes/split_mode]] _calls_
 - [[nodes/K]] _calls_
+- [[nodes/V]] _calls_
 - [[nodes/ggml_type_name]] _calls_
 - [[nodes/ggml_is_quantized]] _calls_
 - [[nodes/ggml_blck_size]] _calls_

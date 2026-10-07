@@ -1,21 +1,16 @@
 ---
 name: "buildReadMediaToolDefinition"
 type: "function"
-file: "tools/ui/src/lib/constants/read-media.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/read-media.ts"
+community: "build-sycl-2025"
 ---
 
 # buildReadMediaToolDefinition
 
-**Type:** `function`  **File:** `tools/ui/src/lib/constants/read-media.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/read-media.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/types]] _imports_
-
-## Used By
-
-- [[nodes/createDefaultSession]] _imports_
-- [[nodes/ReadMediaMeta]] _imports_

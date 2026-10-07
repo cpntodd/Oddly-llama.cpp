@@ -1,12 +1,12 @@
 ---
 name: "ContextGaugeLoadModel.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatForm/ChatFormContextGauge/ContextGaugeLoadModel.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormContextGauge/ContextGaugeLoadModel.svelte"
+community: "build-sycl-2025"
 ---
 
 # ContextGaugeLoadModel.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatForm/ChatFormContextGauge/ContextGaugeLoadModel.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormContextGauge/ContextGaugeLoadModel.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

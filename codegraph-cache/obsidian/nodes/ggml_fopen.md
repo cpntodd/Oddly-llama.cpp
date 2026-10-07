@@ -2,14 +2,14 @@
 name: "ggml_fopen"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "src"
+community: "build-intel-all"
 ---
 
 # ggml_fopen
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 

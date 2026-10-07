@@ -2,14 +2,14 @@
 name: "gpu_has_xmx"
 type: "function"
 file: "ggml/src/ggml-sycl/common.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # gpu_has_xmx
 
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/common.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

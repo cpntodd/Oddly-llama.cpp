@@ -2,14 +2,14 @@
 name: "common_opt_lr_pars"
 type: "function"
 file: "common/common.cpp"
-community: "tools"
+community: "common"
 ---
 
 # common_opt_lr_pars
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

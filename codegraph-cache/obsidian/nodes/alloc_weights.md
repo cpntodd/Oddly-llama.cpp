@@ -2,14 +2,14 @@
 name: "alloc_weights"
 type: "function"
 file: "examples/convert-llama2c-to-ggml/convert-llama2c-to-ggml.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # alloc_weights
 
 **Type:** `function`  **File:** `examples/convert-llama2c-to-ggml/convert-llama2c-to-ggml.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

@@ -18,7 +18,6 @@ community: "ggml"
 - [[nodes/ExprParser]] _calls_
 - [[nodes/advance]] _calls_
 - [[nodes/Preprocessor]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/parseMacroDefinitions]] _calls_
 
 ## Used By

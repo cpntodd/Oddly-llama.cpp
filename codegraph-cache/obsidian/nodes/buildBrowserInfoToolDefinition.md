@@ -1,13 +1,13 @@
 ---
 name: "buildBrowserInfoToolDefinition"
 type: "function"
-file: "tools/ui/src/lib/constants/browser-info.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/browser-info.ts"
 community: "tools"
 ---
 
 # buildBrowserInfoToolDefinition
 
-**Type:** `function`  **File:** `tools/ui/src/lib/constants/browser-info.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/browser-info.ts`
 
 **Community:** [[communities/tools]]
 
@@ -15,3 +15,4 @@ community: "tools"
 
 - [[nodes/cli-flags.constants.ts]] _imports_
 - [[nodes/types]] _imports_
+- [[nodes/info]] _calls_

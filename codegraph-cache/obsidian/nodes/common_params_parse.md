@@ -2,14 +2,14 @@
 name: "common_params_parse"
 type: "function"
 file: "common/arg.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_params_parse
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -20,7 +20,6 @@ community: "tests"
 - [[nodes/common_params_print_usage]] _calls_
 - [[nodes/print_usage]] _calls_
 - [[nodes/common_log_flush]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/common_params_print_completion]] _calls_
 - [[nodes/init]] _calls_
 

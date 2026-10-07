@@ -16,17 +16,19 @@ community: "ggml"
 - [[nodes/log_to_file_callback]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/ggml_up32]] _imports_
+- [[nodes/ptq1-t2.hpp]] _imports_
 - [[nodes/ggml-backend-impl.h]] _imports_
 - [[nodes/ggml_sycl_add_id]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/neg_infinity]] _imports_
-- [[nodes/ggml_sycl_op_fwht]] _imports_
+- [[nodes/fwht.comp.cpp]] _imports_
 - [[nodes/DnnlGemmWrapper]] _imports_
+- [[nodes/w8a8.hpp]] _imports_
 - [[nodes/ggml_sycl_op_get_rows]] _imports_
-- [[nodes/norm.hpp]] _imports_
+- [[nodes/norm.comp.cpp]] _imports_
 - [[nodes/presets.hpp]] _imports_
 - [[nodes/must]] _imports_
-- [[nodes/repeat_back.hpp]] _imports_
+- [[nodes/repeat_back.comp.cpp]] _imports_
 - [[nodes/utils]] _imports_
 - [[nodes/sycl]] _imports_
 - [[nodes/dsv4-hc.hpp]] _imports_
@@ -34,15 +36,13 @@ community: "ggml"
 - [[nodes/conv2d_params]] _imports_
 - [[nodes/conv2d_dw_params]] _imports_
 - [[nodes/conv2d-transpose.hpp]] _imports_
-- [[nodes/ssm_conv.hpp]] _imports_
+- [[nodes/ssm_conv.comp.cpp]] _imports_
 - [[nodes/syclex]] _imports_
-- [[nodes/ssm_scan.hpp]] _imports_
-- [[nodes/ggml_sycl_op_fill]] _imports_
-- [[nodes/cumsum.hpp]] _imports_
-- [[nodes/diag.hpp]] _imports_
+- [[nodes/ssm_scan.comp.cpp]] _imports_
+- [[nodes/fill.comp.cpp]] _imports_
+- [[nodes/cumsum.comp.cpp]] _imports_
+- [[nodes/diag.comp.cpp]] _imports_
 - [[nodes/opt-step.hpp]] _imports_
-- [[nodes/ggml_sycl_op_solve_tri]] _imports_
-- [[nodes/ggml_sycl_gated_delta_net_fused_cache]] _imports_
 
 ## Used By
 

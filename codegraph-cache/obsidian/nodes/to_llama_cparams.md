@@ -2,14 +2,14 @@
 name: "to_llama_cparams"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # to_llama_cparams
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

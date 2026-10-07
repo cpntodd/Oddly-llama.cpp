@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/hex_round_up]] _calls_
 - [[nodes/hmx_ceil_div]] _calls_
 - [[nodes/hex_align_down]] _calls_
-- [[nodes/base]] _calls_
 - [[nodes/hmx_fa_compute_vtcm_usage]] _calls_
 
 ## Used By

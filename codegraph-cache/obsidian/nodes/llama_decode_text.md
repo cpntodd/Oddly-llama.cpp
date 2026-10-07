@@ -26,6 +26,4 @@ community: "src"
 - [[nodes/append]] _calls_
 - [[nodes/append_eos]] _calls_
 - [[nodes/check_double_bos_eos]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/llama_unescape_whitespace]] _calls_
-- [[nodes/back]] _calls_

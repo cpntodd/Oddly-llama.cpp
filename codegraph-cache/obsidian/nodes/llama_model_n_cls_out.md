@@ -2,14 +2,14 @@
 name: "llama_model_n_cls_out"
 type: "function"
 file: "src/llama-model.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_model_n_cls_out
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

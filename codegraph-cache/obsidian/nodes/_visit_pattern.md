@@ -14,11 +14,9 @@ community: "common"
 ## Depends On
 
 - [[nodes/_pattern_to_rule]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/_add_rule]] _calls_
 - [[nodes/_add_primitive]] _calls_
-- [[nodes/at]] _calls_
 
 ## Used By
 

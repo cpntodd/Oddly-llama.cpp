@@ -1,13 +1,13 @@
 ---
 name: "bearerInput"
 type: "function"
-file: "tools/ui/tests/client/mcp-server-form.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/mcp-server-form.svelte.test.ts"
 community: "tools"
 ---
 
 # bearerInput
 
-**Type:** `function`  **File:** `tools/ui/tests/client/mcp-server-form.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/mcp-server-form.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

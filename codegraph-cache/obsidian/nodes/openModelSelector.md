@@ -1,15 +1,15 @@
 ---
 name: "openModelSelector"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-chat-form-pickers.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-form-pickers.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # openModelSelector
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-chat-form-pickers.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-form-pickers.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

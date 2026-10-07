@@ -2,14 +2,14 @@
 name: "ggml_type_from_name"
 type: "function"
 file: "tests/test-quant-type-selection.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # ggml_type_from_name
 
 **Type:** `function`  **File:** `tests/test-quant-type-selection.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

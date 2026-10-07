@@ -2,14 +2,14 @@
 name: "generate_tokens"
 type: "function"
 file: "tests/test-save-load-state.cpp"
-community: "src"
+community: "tests"
 ---
 
 # generate_tokens
 
 **Type:** `function`  **File:** `tests/test-save-load-state.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

@@ -25,10 +25,8 @@ community: "src"
 - [[nodes/push_back]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/only]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/get_n_tokens]] _calls_
 - [[nodes/n_remaining]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

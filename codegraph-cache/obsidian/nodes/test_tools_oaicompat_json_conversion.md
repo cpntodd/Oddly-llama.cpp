@@ -2,14 +2,14 @@
 name: "test_tools_oaicompat_json_conversion"
 type: "function"
 file: "tests/test-chat.cpp"
-community: "common"
+community: "tests"
 ---
 
 # test_tools_oaicompat_json_conversion
 
 **Type:** `function`  **File:** `tests/test-chat.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

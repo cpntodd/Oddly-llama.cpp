@@ -20,9 +20,9 @@ community: "tools"
 - [[nodes/mtmd_input_chunk_save]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/print_usage]] _calls_
-- [[nodes/is_non_contiguous]] _calls_
 - [[nodes/test_msg_token_delimiters_split]] _calls_
 - [[nodes/entry_point]] _calls_
 - [[nodes/memset_tail]] _calls_
 - [[nodes/hmx_matmul_worker_fn]] _calls_
 - [[nodes/hmx_mm_batch_r3]] _calls_
+- [[nodes/is_non_contiguous]] _calls_

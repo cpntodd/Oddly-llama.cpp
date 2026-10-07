@@ -1,12 +1,12 @@
 ---
 name: "DialogMcpServerAddNew.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/dialogs/DialogMcpServerAddNew.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogMcpServerAddNew.svelte"
+community: "build-sycl-2025"
 ---
 
 # DialogMcpServerAddNew.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/dialogs/DialogMcpServerAddNew.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogMcpServerAddNew.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

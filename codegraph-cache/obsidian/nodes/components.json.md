@@ -1,12 +1,12 @@
 ---
 name: "components.json"
 type: "file"
-file: "tools/ui/components.json"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/components.json"
+community: "build-sycl-2025"
 ---
 
 # components.json
 
-**Type:** `file`  **File:** `tools/ui/components.json`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/components.json`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

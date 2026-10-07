@@ -2,14 +2,14 @@
 name: "sigaction"
 type: "class"
 file: "tools/cli/cli.cpp"
-community: "tests"
+community: "common"
 ---
 
 # sigaction
 
 **Type:** `class`  **File:** `tools/cli/cli.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

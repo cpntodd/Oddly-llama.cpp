@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/x]] _calls_
-- [[nodes/exp]] _calls_
 - [[nodes/max]] _calls_
 - [[nodes/parallel_for]] _calls_
 - [[nodes/ggml_element_size]] _calls_
@@ -28,6 +27,7 @@ community: "ggml"
 - [[nodes/ggml_is_contiguously_allocated]] _calls_
 - [[nodes/ggml_get_to_fp16_sycl]] _calls_
 - [[nodes/ggml_get_to_fp16_nc_sycl]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/min]] _calls_
 - [[nodes/ggml_nrows]] _calls_
 - [[nodes/float]] _calls_

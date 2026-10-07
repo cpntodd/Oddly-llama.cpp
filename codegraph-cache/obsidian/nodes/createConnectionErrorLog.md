@@ -1,13 +1,13 @@
 ---
 name: "createConnectionErrorLog"
 type: "function"
-file: "tools/ui/src/lib/stores/mcp/health.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/mcp/health.svelte.ts"
 community: "tools"
 ---
 
 # createConnectionErrorLog
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/mcp/health.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/mcp/health.svelte.ts`
 
 **Community:** [[communities/tools]]
 
@@ -19,11 +19,5 @@ community: "tools"
 - [[nodes/ServerResponse]] _imports_
 - [[nodes/constructor]] _calls_
 - [[nodes/map]] _calls_
-- [[nodes/detectMcpTransportFromUrl]] _calls_
-- [[nodes/connect]] _calls_
-- [[nodes/at]] _calls_
+- [[nodes/warn]] _calls_
 - [[nodes/slice]] _calls_
-
-## Used By
-
-- [[nodes/MCPStore]] _imports_

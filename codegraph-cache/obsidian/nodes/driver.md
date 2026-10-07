@@ -1,17 +1,16 @@
 ---
 name: "driver"
-type: "function"
-file: "scripts/snapdragon/qdc/tests/conftest.py"
-community: "ggml"
+type: "class"
+file: "build-intel-all/level-zero-sdk/source/drivers/null/zet_nullddi.cpp"
+community: "build-intel-all"
 ---
 
 # driver
 
-**Type:** `function`  **File:** `scripts/snapdragon/qdc/tests/conftest.py`
+**Type:** `class`  **File:** `build-intel-all/level-zero-sdk/source/drivers/null/zet_nullddi.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 
-- [[nodes/pytest.ini]] _imports_
-- [[nodes/ServerResponse]] _imports_
+- [[nodes/ze_null.h]] _imports_

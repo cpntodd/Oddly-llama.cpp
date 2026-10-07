@@ -1,12 +1,12 @@
 ---
 name: "error.constants.ts"
 type: "file"
-file: "tools/ui/src/lib/constants/error.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/error.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # error.constants.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/constants/error.constants.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/error.constants.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

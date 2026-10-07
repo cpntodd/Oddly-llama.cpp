@@ -15,15 +15,11 @@ community: "common"
 
 - [[nodes/empty]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/string_format]] _calls_
 - [[nodes/rm_leading_dashes]] _calls_
-- [[nodes/at]] _calls_
-- [[nodes/merge]] _calls_
 - [[nodes/build_peg_parser]] _calls_
 - [[nodes/rule]] _calls_
-- [[nodes/negate]] _calls_
 - [[nodes/parse]] _calls_
 - [[nodes/visit]] _calls_
 - [[nodes/string]] _calls_

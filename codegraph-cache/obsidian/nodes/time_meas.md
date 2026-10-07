@@ -2,14 +2,14 @@
 name: "time_meas"
 type: "class"
 file: "src/llama-impl.h"
-community: "tests"
+community: "ggml"
 ---
 
 # time_meas
 
 **Type:** `class`  **File:** `src/llama-impl.h`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

@@ -13,8 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/log2]] _calls_
-- [[nodes/ln]] _calls_
 - [[nodes/et_powf]] _calls_
 
 ## Used By

@@ -2,14 +2,14 @@
 name: "common_time_meas"
 type: "class"
 file: "common/common.h"
-community: "src"
+community: "ggml"
 ---
 
 # common_time_meas
 
 **Type:** `class`  **File:** `common/common.h`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

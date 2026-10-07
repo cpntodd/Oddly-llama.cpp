@@ -1,13 +1,13 @@
 ---
 name: "rehypeResolveAttachmentImages"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/resolve-attachment-images.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/resolve-attachment-images.ts"
 community: "tools"
 ---
 
 # rehypeResolveAttachmentImages
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/resolve-attachment-images.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/resolve-attachment-images.ts`
 
 **Community:** [[communities/tools]]
 

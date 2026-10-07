@@ -2,14 +2,14 @@
 name: "list_gen_state_slots"
 type: "function"
 file: "tools/mtmd/clip.cpp"
-community: "src"
+community: "tools"
 ---
 
 # list_gen_state_slots
 
 **Type:** `function`  **File:** `tools/mtmd/clip.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

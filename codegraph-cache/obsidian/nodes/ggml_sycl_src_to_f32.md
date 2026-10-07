@@ -2,14 +2,14 @@
 name: "ggml_sycl_src_to_f32"
 type: "function"
 file: "ggml/src/ggml-sycl/cpy.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # ggml_sycl_src_to_f32
 
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/cpy.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
@@ -20,4 +20,3 @@ community: "ggml"
 - [[nodes/stream]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
-- [[nodes/exit]] _calls_

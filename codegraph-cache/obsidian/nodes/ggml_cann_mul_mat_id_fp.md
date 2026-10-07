@@ -16,6 +16,7 @@ community: "ggml"
 - [[nodes/pool]] _calls_
 - [[nodes/ggml_element_size]] _calls_
 - [[nodes/ggml_cann_type_mapping]] _calls_
+- [[nodes/activations]] _calls_
 
 ## Used By
 

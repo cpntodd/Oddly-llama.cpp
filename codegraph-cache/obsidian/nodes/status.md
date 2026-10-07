@@ -1,23 +1,12 @@
 ---
 name: "status"
 type: "function"
-file: "src/llama-kv-cache-dsa.cpp"
-community: "src"
+file: "oc-kit/legacy/watch-nvidia.py"
+community: "oc-kit"
 ---
 
 # status
 
-**Type:** `function`  **File:** `src/llama-kv-cache-dsa.cpp`
+**Type:** `function`  **File:** `oc-kit/legacy/watch-nvidia.py`
 
-**Community:** [[communities/src]]
-
-## Depends On
-
-- [[nodes/llama-kv-cache-dsa.h]] _imports_
-- [[nodes/no_init]] _imports_
-- [[nodes/llama_ubatch]] _imports_
-- [[nodes/llama_meta_device_get_split_state]] _imports_
-- [[nodes/llama_memory_status_combine]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/size]] _calls_
-- [[nodes/llama_memory_status_is_fail]] _calls_
+**Community:** [[communities/oc-kit]]

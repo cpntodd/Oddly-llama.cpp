@@ -2,14 +2,14 @@
 name: "enable_debug"
 type: "function"
 file: "common/jinja/runtime.cpp"
-community: "tests"
+community: "common"
 ---
 
 # enable_debug
 
 **Type:** `function`  **File:** `common/jinja/runtime.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

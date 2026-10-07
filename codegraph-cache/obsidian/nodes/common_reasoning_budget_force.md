@@ -2,14 +2,14 @@
 name: "common_reasoning_budget_force"
 type: "function"
 file: "common/reasoning-budget.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_reasoning_budget_force
 
 **Type:** `function`  **File:** `common/reasoning-budget.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

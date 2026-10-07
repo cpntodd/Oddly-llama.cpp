@@ -28,7 +28,6 @@ community: "ggml"
 - [[nodes/default_chunk_size]] _calls_
 - [[nodes/mmap]] _calls_
 - [[nodes/spine_mem_pool_hugetlb_1g]] _calls_
-- [[nodes/close]] _calls_
 - [[nodes/spine_mem_pool_shared_mem]] _calls_
 
 ## Used By

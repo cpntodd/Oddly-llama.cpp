@@ -1,12 +1,12 @@
 ---
 name: "for"
 type: "class"
-file: "ggml/src/ggml-hexagon/ggml-hexagon.cpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js"
+community: "build-sycl-2025"
 ---
 
 # for
 
-**Type:** `class`  **File:** `ggml/src/ggml-hexagon/ggml-hexagon.cpp`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]

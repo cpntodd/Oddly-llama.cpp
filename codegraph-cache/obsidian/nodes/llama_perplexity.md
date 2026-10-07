@@ -2,14 +2,14 @@
 name: "llama_perplexity"
 type: "function"
 file: "tools/perplexity/perplexity.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_perplexity
 
 **Type:** `function`  **File:** `tools/perplexity/perplexity.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -34,3 +34,4 @@ community: "tests"
 
 - [[nodes/main]] _calls_
 - [[nodes/kl_divergence]] _calls_
+- [[nodes/main]] _calls_

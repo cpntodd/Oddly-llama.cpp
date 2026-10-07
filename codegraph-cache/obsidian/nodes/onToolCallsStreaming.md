@@ -1,16 +1,12 @@
 ---
 name: "onToolCallsStreaming"
 type: "function"
-file: "tools/ui/src/lib/stores/chat/index.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/index.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # onToolCallsStreaming
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/chat/index.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/index.svelte.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/stringify]] _calls_
+**Community:** [[communities/build-sycl-2025]]

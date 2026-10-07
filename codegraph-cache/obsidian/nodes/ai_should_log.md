@@ -13,7 +13,7 @@ community: "conversion"
 
 ## Depends On
 
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 
 ## Used By
 

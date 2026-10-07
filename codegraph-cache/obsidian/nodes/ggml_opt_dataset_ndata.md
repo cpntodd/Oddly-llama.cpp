@@ -2,14 +2,14 @@
 name: "ggml_opt_dataset_ndata"
 type: "function"
 file: "ggml/src/ggml-opt.cpp"
-community: "tests"
+community: "common"
 ---
 
 # ggml_opt_dataset_ndata
 
 **Type:** `function`  **File:** `ggml/src/ggml-opt.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

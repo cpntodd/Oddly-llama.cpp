@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/at]] _calls_
 - [[nodes/size]] _calls_
 
 ## Used By

@@ -2,14 +2,14 @@
 name: "can_merge_with"
 type: "function"
 file: "tools/mtmd/mtmd.cpp"
-community: "common"
+community: "tools"
 ---
 
 # can_merge_with
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

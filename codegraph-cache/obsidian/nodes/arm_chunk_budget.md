@@ -11,10 +11,6 @@ community: "tools"
 
 **Community:** [[communities/tools]]
 
-## Depends On
-
-- [[nodes/ceil]] _calls_
-
 ## Used By
 
 - [[nodes/pockettts_pack]] _calls_

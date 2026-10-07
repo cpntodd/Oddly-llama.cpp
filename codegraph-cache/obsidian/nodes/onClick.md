@@ -1,12 +1,12 @@
 ---
 name: "onClick"
 type: "function"
-file: "tools/ui/src/lib/utils/process-uploaded-files.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/process-uploaded-files.ts"
+community: "build-sycl-2025"
 ---
 
 # onClick
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/process-uploaded-files.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/process-uploaded-files.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

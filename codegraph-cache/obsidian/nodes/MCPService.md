@@ -1,12 +1,12 @@
 ---
 name: "MCPService"
 type: "class"
-file: "tools/ui/src/lib/services/mcp.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/mcp.service.ts"
+community: "build-sycl-2025"
 ---
 
 # MCPService
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/mcp.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/mcp.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -1,13 +1,13 @@
 ---
 name: "createDefaultSession"
 type: "function"
-file: "tools/ui/src/lib/stores/agentic/index.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/agentic/index.svelte.ts"
 community: "tools"
 ---
 
 # createDefaultSession
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/agentic/index.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/agentic/index.svelte.ts`
 
 **Community:** [[communities/tools]]
 

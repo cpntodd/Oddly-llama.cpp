@@ -2,14 +2,14 @@
 name: "parser"
 type: "class"
 file: "common/jinja/parser.cpp"
-community: "common"
+community: "tests"
 ---
 
 # parser
 
 **Type:** `class`  **File:** `common/jinja/parser.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

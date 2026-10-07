@@ -1,12 +1,12 @@
 ---
 name: "DialogFileUploadError.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/dialogs/DialogFileUploadError.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogFileUploadError.svelte"
+community: "build-sycl-2025"
 ---
 
 # DialogFileUploadError.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/dialogs/DialogFileUploadError.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogFileUploadError.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

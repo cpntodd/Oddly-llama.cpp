@@ -1,13 +1,13 @@
 ---
 name: "ReadMediaCapabilities"
 type: "class"
-file: "tools/ui/src/lib/services/read-media.service.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/read-media.service.ts"
 community: "tools"
 ---
 
 # ReadMediaCapabilities
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/read-media.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/read-media.service.ts`
 
 **Community:** [[communities/tools]]
 

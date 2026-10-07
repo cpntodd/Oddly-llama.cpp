@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/empty]] _calls_
 - [[nodes/append]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

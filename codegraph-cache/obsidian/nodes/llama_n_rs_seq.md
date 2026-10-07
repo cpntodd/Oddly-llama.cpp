@@ -2,14 +2,14 @@
 name: "llama_n_rs_seq"
 type: "function"
 file: "src/llama-context.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_n_rs_seq
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

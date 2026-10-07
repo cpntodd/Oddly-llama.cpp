@@ -1,16 +1,12 @@
 ---
 name: "formatParameters"
 type: "function"
-file: "tools/ui/src/lib/utils/formatters.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/formatters.ts"
+community: "build-sycl-2025"
 ---
 
 # formatParameters
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/formatters.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/formatters.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/toFixed]] _calls_
+**Community:** [[communities/build-sycl-2025]]

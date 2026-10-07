@@ -1,12 +1,12 @@
 ---
 name: "setupCodeBlockActions"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts"
+community: "build-sycl-2025"
 ---
 
 # setupCodeBlockActions
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

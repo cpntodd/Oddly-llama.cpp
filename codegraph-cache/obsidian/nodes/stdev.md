@@ -15,7 +15,6 @@ community: "tools"
 
 - [[nodes/avg]] _calls_
 - [[nodes/T]] _calls_
-- [[nodes/sqrt]] _calls_
 
 ## Used By
 

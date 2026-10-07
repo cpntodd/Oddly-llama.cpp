@@ -1,16 +1,12 @@
 ---
 name: "ChatFormPickerMention.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatForm/ChatFormPickers/ChatFormPickerMention.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormPickers/ChatFormPickerMention.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatFormPickerMention.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatForm/ChatFormPickers/ChatFormPickerMention.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormPickers/ChatFormPickerMention.svelte`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/setServerTools]] _imports_
+**Community:** [[communities/build-sycl-2025]]

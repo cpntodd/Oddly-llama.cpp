@@ -2,14 +2,14 @@
 name: "hasher"
 type: "class"
 file: "common/jinja/utils.h"
-community: "common"
+community: "src"
 ---
 
 # hasher
 
 **Type:** `class`  **File:** `common/jinja/utils.h`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/src]]
 
 ## Used By
 

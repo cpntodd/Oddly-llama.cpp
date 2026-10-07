@@ -1,12 +1,12 @@
 ---
 name: "ChatTabsItem.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatTabs/ChatTabsItem.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatTabs/ChatTabsItem.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatTabsItem.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatTabs/ChatTabsItem.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatTabs/ChatTabsItem.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

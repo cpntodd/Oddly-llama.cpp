@@ -1,13 +1,13 @@
 ---
 name: "LiveStats"
 type: "class"
-file: "tools/ui/src/lib/stores/chat/context-stats.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/context-stats.svelte.ts"
 community: "tools"
 ---
 
 # LiveStats
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/chat/context-stats.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/context-stats.svelte.ts`
 
 **Community:** [[communities/tools]]
 

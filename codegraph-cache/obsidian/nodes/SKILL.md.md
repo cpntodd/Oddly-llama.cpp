@@ -1,12 +1,12 @@
 ---
 name: "SKILL.md"
 type: "file"
-file: "skills/add-new-model/SKILL.md"
-community: "skills"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/SKILL.md"
+community: "build-sycl-2025"
 ---
 
 # SKILL.md
 
-**Type:** `file`  **File:** `skills/add-new-model/SKILL.md`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/SKILL.md`
 
-**Community:** [[communities/skills]]
+**Community:** [[communities/build-sycl-2025]]

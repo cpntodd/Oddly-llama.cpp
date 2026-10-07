@@ -17,16 +17,13 @@ community: "tools"
 - [[nodes/data]] _calls_
 - [[nodes/write]] _calls_
 - [[nodes/read]] _calls_
-- [[nodes/store]] _calls_
 - [[nodes/terminate]] _calls_
 - [[nodes/join]] _calls_
 - [[nodes/reset]] _calls_
-- [[nodes/shutdown]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/clear]] _calls_
-- [[nodes/close]] _calls_
 - [[nodes/fs_open_ifstream]] _calls_
 - [[nodes/append]] _calls_
+- [[nodes/swap]] _calls_
 - [[nodes/call_tool]] _calls_
 - [[nodes/bool]] _calls_
 - [[nodes/should_stop]] _calls_

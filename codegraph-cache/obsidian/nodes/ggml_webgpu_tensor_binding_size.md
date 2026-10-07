@@ -18,7 +18,6 @@ community: "ggml"
 - [[nodes/ggml_webgpu_tensor_align_offset]] _calls_
 - [[nodes/ggml_webgpu_tensor_offset]] _calls_
 - [[nodes/ggml_type_size]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_webgpu_tensor_buf]] _calls_
 
 ## Used By

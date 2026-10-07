@@ -16,5 +16,4 @@ community: "ggml"
 - [[nodes/get_row_split]] _calls_
 - [[nodes/ggml_nbytes_split]] _calls_
 - [[nodes/ggml_row_size]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/ggml_nbytes]] _calls_

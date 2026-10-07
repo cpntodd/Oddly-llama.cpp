@@ -2,14 +2,14 @@
 name: "probs_expected"
 type: "function"
 file: "tests/test-sampling.cpp"
-community: "common"
+community: "tests"
 ---
 
 # probs_expected
 
 **Type:** `function`  **File:** `tests/test-sampling.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/round]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_sycl_op_round]] _calls_

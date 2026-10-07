@@ -2,14 +2,14 @@
 name: "handle_with_catch"
 type: "function"
 file: "tools/server/server-schema.cpp"
-community: "tools"
+community: "common"
 ---
 
 # handle_with_catch
 
 **Type:** `function`  **File:** `tools/server/server-schema.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

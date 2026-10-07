@@ -22,4 +22,7 @@ community: "tools"
 
 - [[nodes/findFunction]] _calls_
 - [[nodes/Iter]] _imports_
+- [[nodes/findFunction]] _calls_
+- [[nodes/findFunction]] _calls_
 - [[nodes/translate_norm]] _calls_
+- [[nodes/findFunction]] _calls_

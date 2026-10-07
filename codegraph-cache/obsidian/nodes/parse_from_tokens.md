@@ -2,14 +2,14 @@
 name: "parse_from_tokens"
 type: "function"
 file: "common/jinja/parser.cpp"
-community: "common"
+community: "tests"
 ---
 
 # parse_from_tokens
 
 **Type:** `function`  **File:** `common/jinja/parser.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

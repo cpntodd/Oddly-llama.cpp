@@ -1,20 +1,19 @@
 ---
 name: "convertPDFToImage"
 type: "function"
-file: "tools/ui/src/lib/utils/pdf-processing.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/pdf-processing.ts"
 community: "tools"
 ---
 
 # convertPDFToImage
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/pdf-processing.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/pdf-processing.ts`
 
 **Community:** [[communities/tools]]
 
 ## Depends On
 
 - [[nodes/getFileAsBuffer]] _calls_
-- [[nodes/render]] _calls_
 - [[nodes/all]] _calls_
 
 ## Used By

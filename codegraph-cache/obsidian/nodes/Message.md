@@ -1,22 +1,12 @@
 ---
 name: "Message"
-type: "function"
-file: "examples/llama.android/app/src/main/java/com/example/llama/MessageAdapter.kt"
-community: "examples"
+type: "class"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/ai-tutorial.ts"
+community: "build-sycl-2025"
 ---
 
 # Message
 
-**Type:** `function`  **File:** `examples/llama.android/app/src/main/java/com/example/llama/MessageAdapter.kt`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/ai-tutorial.ts`
 
-**Community:** [[communities/examples]]
-
-## Depends On
-
-- [[nodes/android.md]] _imports_
-- [[nodes/MessageAdapter]] _calls_
-
-## Used By
-
-- [[nodes/handleUserInput]] _calls_
-- [[nodes/runBenchmark]] _calls_
+**Community:** [[communities/build-sycl-2025]]

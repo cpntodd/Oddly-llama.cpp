@@ -1,15 +1,15 @@
 ---
 name: "getFileTypeLabel"
 type: "function"
-file: "tools/ui/src/lib/utils/file-preview.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/file-preview.ts"
+community: "build-sycl-2025"
 ---
 
 # getFileTypeLabel
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/file-preview.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/file-preview.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

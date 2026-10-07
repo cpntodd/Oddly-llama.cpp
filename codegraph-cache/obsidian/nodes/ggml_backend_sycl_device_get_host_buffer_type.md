@@ -13,4 +13,4 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/ggml_backend_sycl_host_buffer_type]] _calls_
+- [[nodes/ggml_backend_sycl_host_buffer_type_for_device]] _calls_

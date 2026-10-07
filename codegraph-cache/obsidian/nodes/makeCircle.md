@@ -1,23 +1,21 @@
 ---
 name: "makeCircle"
 type: "function"
-file: "tools/ui/scripts/make-icons-circular.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/scripts/make-icons-circular.js"
+community: "ggml"
 ---
 
 # makeCircle
 
-**Type:** `function`  **File:** `tools/ui/scripts/make-icons-circular.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/scripts/make-icons-circular.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
 - [[nodes/buildSuffixSet]] _imports_
 - [[nodes/metadata]] _calls_
-- [[nodes/floor]] _calls_
 - [[nodes/alloc]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/composite]] _calls_
 
 ## Used By

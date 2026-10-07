@@ -16,4 +16,3 @@ community: "ggml"
 - [[nodes/send_rpc_cmd]] _calls_
 - [[nodes/parse_endpoint]] _calls_
 - [[nodes/rpc_transport_init]] _calls_
-- [[nodes/connect]] _calls_

@@ -2,14 +2,14 @@
 name: "ggml_backend_webgpu_graph_compute"
 type: "function"
 file: "ggml/src/ggml-webgpu/ggml-webgpu.cpp"
-community: "common"
+community: "ggml"
 ---
 
 # ggml_backend_webgpu_graph_compute
 
 **Type:** `function`  **File:** `ggml/src/ggml-webgpu/ggml-webgpu.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

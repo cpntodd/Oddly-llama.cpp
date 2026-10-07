@@ -1,13 +1,13 @@
 ---
 name: "isLikelyTextFile"
 type: "function"
-file: "tools/ui/src/lib/utils/text-files.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/text-files.ts"
 community: "tools"
 ---
 
 # isLikelyTextFile
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/text-files.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/text-files.ts`
 
 **Community:** [[communities/tools]]
 

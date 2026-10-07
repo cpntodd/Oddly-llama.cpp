@@ -2,14 +2,14 @@
 name: "get_kv"
 type: "function"
 file: "src/llama-model-loader.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # get_kv
 
 **Type:** `function`  **File:** `src/llama-model-loader.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

@@ -2,14 +2,14 @@
 name: "fa_op_flops"
 type: "function"
 file: "tools/tuning/fa-vec.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # fa_op_flops
 
 **Type:** `function`  **File:** `tools/tuning/fa-vec.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

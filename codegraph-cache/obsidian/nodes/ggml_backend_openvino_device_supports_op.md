@@ -21,5 +21,6 @@ community: "ggml"
 - [[nodes/ggml_get_glu_op]] _calls_
 - [[nodes/has_view_op_input]] _calls_
 - [[nodes/ggml_type_name]] _calls_
+- [[nodes/has_strides_on_element_grid]] _calls_
 - [[nodes/ggml_is_quantized]] _calls_
 - [[nodes/is_op_unsupported_case]] _calls_

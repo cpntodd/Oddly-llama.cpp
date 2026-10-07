@@ -1,12 +1,12 @@
 ---
 name: "README.md"
 type: "file"
-file: "ci/README.md"
-community: "ci"
+file: "oc-kit/README.md"
+community: "oc-kit"
 ---
 
 # README.md
 
-**Type:** `file`  **File:** `ci/README.md`
+**Type:** `file`  **File:** `oc-kit/README.md`
 
-**Community:** [[communities/ci]]
+**Community:** [[communities/oc-kit]]

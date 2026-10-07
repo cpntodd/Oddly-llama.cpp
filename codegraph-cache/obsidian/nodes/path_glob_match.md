@@ -17,7 +17,6 @@ community: "tools"
 - [[nodes/path_to_utf8]] _calls_
 - [[nodes/path_from_utf8]] _calls_
 - [[nodes/server_tool_read_file]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/json_value]] _calls_
 - [[nodes/string_format]] _calls_
 - [[nodes/data]] _calls_
@@ -31,9 +30,9 @@ community: "tools"
 - [[nodes/server_tool_write_file]] _calls_
 - [[nodes/it]] _calls_
 - [[nodes/server_tool_edit_file]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/normalize_for_fuzzy_match]] _calls_
 - [[nodes/count_occurrences]] _calls_
+- [[nodes/info]] _calls_
 - [[nodes/server_tool_get_info]] _calls_
 - [[nodes/string_strip]] _calls_
 - [[nodes/to_json]] _calls_
@@ -43,3 +42,4 @@ community: "tools"
 - [[nodes/call_tool]] _calls_
 - [[nodes/server_tools_static_runtime]] _calls_
 - [[nodes/server_tools_container_runtime]] _calls_
+- [[nodes/parse]] _calls_

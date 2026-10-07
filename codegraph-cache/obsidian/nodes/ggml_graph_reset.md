@@ -20,7 +20,7 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/eval_grad]] _calls_
 - [[nodes/ggml_opt_build]] _calls_
 - [[nodes/ggml_opt_reset]] _calls_
 - [[nodes/ggml_opt_alloc]] _calls_
+- [[nodes/eval_grad]] _calls_

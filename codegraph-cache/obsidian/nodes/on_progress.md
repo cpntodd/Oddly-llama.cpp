@@ -14,5 +14,4 @@ community: "tools"
 ## Depends On
 
 - [[nodes/ggml_time_ms]] _calls_
-- [[nodes/store]] _calls_
 - [[nodes/should_stop]] _calls_

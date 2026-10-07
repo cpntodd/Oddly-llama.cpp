@@ -1,15 +1,15 @@
 ---
 name: "tan"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # tan
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -22,8 +22,5 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/getFunctionsSubs]] _calls_
-- [[nodes/over]] _calls_
-- [[nodes/instead]] _calls_
 - [[nodes/sqrt]] _calls_
 - [[nodes/sum]] _calls_

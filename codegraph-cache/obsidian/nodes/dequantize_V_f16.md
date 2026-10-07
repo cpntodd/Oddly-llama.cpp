@@ -13,7 +13,7 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/_abort]] _imports_
+- [[nodes/obj_traits]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/dequantize_row_q4_K_sycl_reorder]] _imports_
 - [[nodes/get_int_b1]] _imports_
@@ -25,5 +25,6 @@ community: "ggml"
 - [[nodes/syclex]] _imports_
 - [[nodes/mkl_fa_kv_desc_mode]] _imports_
 - [[nodes/syclex]] _imports_
+- [[nodes/constexpr]] _imports_
 - [[nodes/ggml_sycl_flash_attn_ext_vec]] _imports_
 - [[nodes/syclex]] _imports_

@@ -16,6 +16,5 @@ community: "src"
 - [[nodes/empty]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/get_overlapping_token_sequences]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/tokens]] _calls_

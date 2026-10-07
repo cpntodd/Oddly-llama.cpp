@@ -2,14 +2,14 @@
 name: "get_lcheck"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # get_lcheck
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

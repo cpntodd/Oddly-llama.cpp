@@ -13,7 +13,7 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/exp]] _calls_
+- [[nodes/sigmoid]] _calls_
 
 ## Used By
 

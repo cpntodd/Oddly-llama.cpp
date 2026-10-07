@@ -1,15 +1,15 @@
 ---
 name: "ChatStreamManager"
 type: "class"
-file: "tools/ui/src/lib/stores/chat/streams.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/streams.svelte.ts"
+community: "examples"
 ---
 
 # ChatStreamManager
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/chat/streams.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/streams.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/examples]]
 
 ## Used By
 

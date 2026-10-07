@@ -2,20 +2,19 @@
 name: "parse_cmd_params"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # parse_cmd_params
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
 - [[nodes/getenv]] _calls_
 - [[nodes/print_usage]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/ggml_type_from_name]] _calls_
 - [[nodes/common_print_available_devices]] _calls_
 - [[nodes/llama_supports_rpc]] _calls_
@@ -25,7 +24,6 @@ community: "tools"
 - [[nodes/ggml_backend_dev_count]] _calls_
 - [[nodes/ggml_backend_dev_get]] _calls_
 - [[nodes/ggml_backend_dev_buffer_type]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/output_format_from_str]] _calls_
 - [[nodes/common_models_handler_init]] _calls_
 - [[nodes/common_models_handler_apply]] _calls_

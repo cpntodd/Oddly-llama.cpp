@@ -1,12 +1,12 @@
 ---
 name: "working-directory.test.ts"
 type: "file"
-file: "tools/ui/tests/unit/working-directory.test.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/working-directory.test.ts"
+community: "build-sycl-2025"
 ---
 
 # working-directory.test.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/unit/working-directory.test.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/working-directory.test.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

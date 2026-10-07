@@ -2,14 +2,14 @@
 name: "models"
 type: "function"
 file: "tools/server/server-models.cpp"
-community: "src"
+community: "common"
 ---
 
 # models
 
 **Type:** `function`  **File:** `tools/server/server-models.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

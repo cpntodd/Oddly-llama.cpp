@@ -2,14 +2,14 @@
 name: "tensor_transformation"
 type: "class"
 file: "tools/export-lora/export-lora.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # tensor_transformation
 
 **Type:** `class`  **File:** `tools/export-lora/export-lora.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

@@ -24,6 +24,7 @@ community: "ggml"
 - [[nodes/quantize_row_q8_0]] _imports_
 - [[nodes/quantize_row_q8_0]] _imports_
 - [[nodes/get_int_b1]] _imports_
+- [[nodes/if]] _imports_
 - [[nodes/constexpr]] _imports_
 - [[nodes/entry_point]] _imports_
 - [[nodes/entry_point]] _imports_

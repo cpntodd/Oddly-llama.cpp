@@ -1,16 +1,12 @@
 ---
 name: "onToolCallChunk"
 type: "function"
-file: "tools/ui/src/lib/stores/agentic/index.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/agentic/index.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # onToolCallChunk
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/agentic/index.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/agentic/index.svelte.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/floor]] _calls_
+**Community:** [[communities/build-sycl-2025]]

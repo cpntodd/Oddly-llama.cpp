@@ -14,6 +14,6 @@ community: "tools"
 ## Depends On
 
 - [[nodes/display_type]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/windows.md]] _imports_
 - [[nodes/termios]] _imports_

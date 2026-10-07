@@ -2,14 +2,14 @@
 name: "set_process_priority"
 type: "function"
 file: "common/common.cpp"
-community: "tools"
+community: "common"
 ---
 
 # set_process_priority
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Used By
 

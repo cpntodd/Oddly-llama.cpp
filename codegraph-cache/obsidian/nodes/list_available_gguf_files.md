@@ -2,14 +2,14 @@
 name: "list_available_gguf_files"
 type: "function"
 file: "common/download.cpp"
-community: "tests"
+community: "common"
 ---
 
 # list_available_gguf_files
 
 **Type:** `function`  **File:** `common/download.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

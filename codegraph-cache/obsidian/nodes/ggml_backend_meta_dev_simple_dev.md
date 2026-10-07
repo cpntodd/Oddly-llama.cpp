@@ -15,7 +15,7 @@ community: "ggml"
 
 - [[nodes/ggml_backend_dev_is_meta]] _calls_
 - [[nodes/ggml_backend_meta_device]] _calls_
-- [[nodes/back]] _calls_
+- [[nodes/get]] _calls_
 
 ## Used By
 

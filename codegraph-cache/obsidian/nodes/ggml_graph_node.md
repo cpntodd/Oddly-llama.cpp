@@ -20,10 +20,10 @@ community: "ggml"
 - [[nodes/print_debug_tensor]] _calls_
 - [[nodes/llama_sampler_backend_probe_n_nodes]] _calls_
 - [[nodes/max_nodes]] _calls_
-- [[nodes/eval_perf]] _calls_
 - [[nodes/check_all_allocated]] _calls_
 - [[nodes/can_reuse_memory]] _calls_
 - [[nodes/check_no_overlap]] _calls_
 - [[nodes/extract_graph_ops]] _calls_
 - [[nodes/backend_backend_graph_compute]] _calls_
 - [[nodes/mark_fused_set_rows]] _calls_
+- [[nodes/eval_perf]] _calls_

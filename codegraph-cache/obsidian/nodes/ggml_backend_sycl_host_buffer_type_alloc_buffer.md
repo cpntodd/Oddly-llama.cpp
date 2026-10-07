@@ -13,6 +13,7 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/ggml_backend_sycl_host_buffer_type_device]] _calls_
 - [[nodes/ggml_backend_buft_alloc_buffer]] _calls_
 - [[nodes/ggml_backend_cpu_buffer_type]] _calls_
 - [[nodes/ggml_backend_cpu_buffer_from_ptr]] _calls_

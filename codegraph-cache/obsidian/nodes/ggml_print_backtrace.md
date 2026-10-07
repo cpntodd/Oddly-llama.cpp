@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/getenv]] _calls_
 - [[nodes/ggml_print_backtrace_symbols]] _calls_
-- [[nodes/close]] _calls_
 - [[nodes/read]] _calls_
 
 ## Used By

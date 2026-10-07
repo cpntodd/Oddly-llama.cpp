@@ -24,7 +24,6 @@ community: "common"
 - [[nodes/common_models_handler_apply]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/string_process_escapes]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/llama_max_tensor_buft_overrides]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/common_chat_verify_template]] _calls_

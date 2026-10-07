@@ -2,14 +2,14 @@
 name: "send_embedding"
 type: "function"
 file: "tools/server/server-context.cpp"
-community: "src"
+community: "tools"
 ---
 
 # send_embedding
 
 **Type:** `function`  **File:** `tools/server/server-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
@@ -18,7 +18,6 @@ community: "src"
 - [[nodes/push_back]] _calls_
 - [[nodes/common_embd_normalize]] _calls_
 - [[nodes/data]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

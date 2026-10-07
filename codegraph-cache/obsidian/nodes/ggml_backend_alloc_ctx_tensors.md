@@ -20,12 +20,12 @@ community: "ggml"
 
 - [[nodes/merge_tensor]] _calls_
 - [[nodes/print_debug_tensor]] _calls_
-- [[nodes/matches_filter]] _calls_
-- [[nodes/eval_perf]] _calls_
-- [[nodes/eval_grad]] _calls_
 - [[nodes/get_random_gguf_context]] _calls_
 - [[nodes/helper_get_test_opt_pars]] _calls_
 - [[nodes/helper_get_regression_opt_pars]] _calls_
 - [[nodes/ggml_backend_graph_copy]] _calls_
 - [[nodes/ggml_opt_build]] _calls_
 - [[nodes/if]] _calls_
+- [[nodes/matches_filter]] _calls_
+- [[nodes/eval_perf]] _calls_
+- [[nodes/eval_grad]] _calls_

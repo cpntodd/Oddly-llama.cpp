@@ -2,14 +2,14 @@
 name: "test_template_cpp"
 type: "function"
 file: "tests/test-jinja.cpp"
-community: "common"
+community: "tests"
 ---
 
 # test_template_cpp
 
 **Type:** `function`  **File:** `tests/test-jinja.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
@@ -22,7 +22,6 @@ community: "common"
 - [[nodes/pop]] _calls_
 - [[nodes/read]] _calls_
 - [[nodes/decode]] _calls_
-- [[nodes/render]] _calls_
 - [[nodes/write]] _calls_
 
 ## Used By

@@ -2,20 +2,19 @@
 name: "read_raw_unsafe"
 type: "function"
 file: "src/llama-mmap.cpp"
-community: "src"
+community: "build-intel-all"
 ---
 
 # read_raw_unsafe
 
 **Type:** `function`  **File:** `src/llama-mmap.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 
 - [[nodes/tell]] _calls_
 - [[nodes/format]] _calls_
-- [[nodes/close]] _calls_
 - [[nodes/init_fp]] _calls_
 - [[nodes/seek]] _calls_
 

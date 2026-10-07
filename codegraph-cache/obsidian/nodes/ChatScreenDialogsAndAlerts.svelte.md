@@ -1,12 +1,12 @@
 ---
 name: "ChatScreenDialogsAndAlerts.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatScreen/ChatScreenDialogsAndAlerts.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatScreen/ChatScreenDialogsAndAlerts.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatScreenDialogsAndAlerts.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatScreen/ChatScreenDialogsAndAlerts.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatScreen/ChatScreenDialogsAndAlerts.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

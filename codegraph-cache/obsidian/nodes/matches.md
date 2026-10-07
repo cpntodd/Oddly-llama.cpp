@@ -2,14 +2,14 @@
 name: "matches"
 type: "function"
 file: "app/llama.cpp"
-community: "tools"
+community: "app"
 ---
 
 # matches
 
 **Type:** `function`  **File:** `app/llama.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/app]]
 
 ## Used By
 

@@ -14,7 +14,6 @@ community: "tools"
 ## Depends On
 
 - [[nodes/parse_ggml_type]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

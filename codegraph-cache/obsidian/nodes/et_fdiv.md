@@ -11,11 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/exp]] _calls_
-- [[nodes/ln]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_et_flash_attn_ext_params]] _imports_

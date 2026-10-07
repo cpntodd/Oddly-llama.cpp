@@ -1,13 +1,13 @@
 ---
 name: "makeSession"
 type: "function"
-file: "tools/ui/tests/unit/stream-discovery.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/stream-discovery.test.ts"
 community: "tools"
 ---
 
 # makeSession
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/stream-discovery.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/stream-discovery.test.ts`
 
 **Community:** [[communities/tools]]
 

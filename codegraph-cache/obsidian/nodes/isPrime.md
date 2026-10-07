@@ -1,15 +1,15 @@
 ---
 name: "isPrime"
 type: "function"
-file: "tools/ui/src/lib/vendors/big-integer/BigInteger.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js"
+community: "build-sycl-2025"
 ---
 
 # isPrime
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/big-integer/BigInteger.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -18,9 +18,4 @@ community: "tools"
 - [[nodes/bitLength]] _calls_
 - [[nodes/millerRabinTest]] _calls_
 - [[nodes/toJSNumber]] _calls_
-- [[nodes/ceil]] _calls_
 - [[nodes/pow]] _calls_
-
-## Used By
-
-- [[nodes/check]] _calls_

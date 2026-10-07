@@ -1,12 +1,12 @@
 ---
 name: "select-separator.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/select/select-separator.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/select/select-separator.svelte"
+community: "build-sycl-2025"
 ---
 
 # select-separator.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/select/select-separator.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/select/select-separator.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

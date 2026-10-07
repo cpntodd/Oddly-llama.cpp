@@ -2,14 +2,14 @@
 name: "ggml_backend_cpu_buffer_type"
 type: "function"
 file: "ggml/src/ggml-backend.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # ggml_backend_cpu_buffer_type
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 
@@ -34,9 +34,9 @@ community: "ggml"
 - [[nodes/ggml_backend_cpu_device_get_buffer_type]] _calls_
 - [[nodes/ggml_backend_cpu_repack_buffer_type_alloc_buffer]] _calls_
 - [[nodes/ggml_backend_cpu_kleidiai_buffer_type_alloc_buffer]] _calls_
-- [[nodes/ggml_backend_sycl_host_buffer_type_alloc_buffer]] _calls_
-- [[nodes/ggml_backend_sycl_host_buffer_type]] _calls_
 - [[nodes/ggml_backend_cann_host_buffer_free]] _calls_
 - [[nodes/ggml_backend_cann_host_buffer_type]] _calls_
 - [[nodes/ggml_backend_et_device_get_host_buffer_type]] _calls_
 - [[nodes/ggml_backend_blas_device_get_buffer_type]] _calls_
+- [[nodes/ggml_backend_sycl_host_buffer_type_alloc_buffer]] _calls_
+- [[nodes/ggml_backend_sycl_host_buffer_type_for_device]] _calls_

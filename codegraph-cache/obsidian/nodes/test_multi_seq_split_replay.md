@@ -2,14 +2,14 @@
 name: "test_multi_seq_split_replay"
 type: "function"
 file: "tests/test-recurrent-state-rollback.cpp"
-community: "src"
+community: "common"
 ---
 
 # test_multi_seq_split_replay
 
 **Type:** `function`  **File:** `tests/test-recurrent-state-rollback.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

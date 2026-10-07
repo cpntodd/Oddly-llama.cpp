@@ -19,6 +19,7 @@ community: "ggml"
 - [[nodes/ggml_is_scalar]] _calls_
 - [[nodes/ggml_nrows]] _calls_
 - [[nodes/pool]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/block]] _calls_
 - [[nodes/parallel_for]] _calls_
 

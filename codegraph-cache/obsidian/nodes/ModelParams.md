@@ -2,14 +2,14 @@
 name: "ModelParams"
 type: "class"
 file: "ggml/src/ggml-openvino/ggml-decoder.h"
-community: "ggml"
+community: "src"
 ---
 
 # ModelParams
 
 **Type:** `class`  **File:** `ggml/src/ggml-openvino/ggml-decoder.h`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 
@@ -23,6 +23,6 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/is_inplace_op]] _imports_
 - [[nodes/ov_graph_compute]] _imports_
 - [[nodes/graph_key]] _imports_
+- [[nodes/is_inplace_op]] _imports_

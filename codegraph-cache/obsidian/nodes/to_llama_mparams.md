@@ -2,19 +2,18 @@
 name: "to_llama_mparams"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # to_llama_mparams
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
 - [[nodes/llama_model_default_params]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/ggml_backend_cpu_buffer_type]] _calls_
 
 ## Used By

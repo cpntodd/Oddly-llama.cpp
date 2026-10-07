@@ -22,9 +22,6 @@ community: "tools"
 - [[nodes/common_base_params_to_speculative]] _calls_
 - [[nodes/common_params_parser_init]] _calls_
 - [[nodes/common_params_add_preset_options]] _calls_
-- [[nodes/exit]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/common_params_parse]] _calls_
 - [[nodes/value]] _calls_
-- [[nodes/variables]] _calls_

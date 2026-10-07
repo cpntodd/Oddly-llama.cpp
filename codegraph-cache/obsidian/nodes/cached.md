@@ -2,14 +2,14 @@
 name: "cached"
 type: "function"
 file: "tests/test-model-resolution.cpp"
-community: "tests"
+community: "common"
 ---
 
 # cached
 
 **Type:** `function`  **File:** `tests/test-model-resolution.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

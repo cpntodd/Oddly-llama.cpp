@@ -1,12 +1,12 @@
 ---
 name: "onUrlChange"
 type: "function"
-file: "tools/ui/tests/client/mcp-display-name.svelte.test.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/mcp-display-name.svelte.test.ts"
+community: "build-sycl-2025"
 ---
 
 # onUrlChange
 
-**Type:** `function`  **File:** `tools/ui/tests/client/mcp-display-name.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/mcp-display-name.svelte.test.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

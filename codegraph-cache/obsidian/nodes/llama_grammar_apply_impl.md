@@ -16,7 +16,6 @@ community: "src"
 - [[nodes/empty]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/decode_utf8]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

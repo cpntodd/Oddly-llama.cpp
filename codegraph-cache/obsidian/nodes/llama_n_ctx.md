@@ -2,14 +2,14 @@
 name: "llama_n_ctx"
 type: "function"
 file: "src/llama-context.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_n_ctx
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 
@@ -24,7 +24,6 @@ community: "src"
 - [[nodes/load_model]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/common_opt_dataset_init]] _calls_
-- [[nodes/common_base_params_to_speculative]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
@@ -42,3 +41,4 @@ community: "src"
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/silent_model_load_progress]] _calls_
+- [[nodes/common_base_params_to_speculative]] _calls_

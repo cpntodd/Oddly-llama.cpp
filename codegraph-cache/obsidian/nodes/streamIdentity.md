@@ -1,22 +1,16 @@
 ---
 name: "streamIdentity"
 type: "function"
-file: "tools/ui/src/lib/utils/stream-identity.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/stream-identity.ts"
+community: "build-vulkan-gcc"
 ---
 
 # streamIdentity
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/stream-identity.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/stream-identity.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
-
-## Used By
-
-- [[nodes/unlock]] _calls_
-- [[nodes/ResumableStreamState]] _imports_
-- [[nodes/streamStorageKey]] _calls_

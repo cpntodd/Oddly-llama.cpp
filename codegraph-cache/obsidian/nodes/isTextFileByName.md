@@ -1,21 +1,17 @@
 ---
 name: "isTextFileByName"
 type: "function"
-file: "tools/ui/src/lib/utils/text-files.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/text-files.ts"
+community: "build-sycl-2025"
 ---
 
 # isTextFileByName
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/text-files.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/text-files.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
 - [[nodes/types]] _imports_
-
-## Used By
-
-- [[nodes/readFileAsBase64]] _imports_

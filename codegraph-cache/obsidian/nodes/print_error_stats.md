@@ -2,18 +2,17 @@
 name: "print_error_stats"
 type: "function"
 file: "tests/test-quantize-stats.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # print_error_stats
 
 **Type:** `function`  **File:** `tests/test-quantize-stats.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
-- [[nodes/sqrt]] _calls_
 - [[nodes/find_quantile]] _calls_
 
 ## Used By

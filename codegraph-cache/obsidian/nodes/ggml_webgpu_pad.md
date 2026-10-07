@@ -35,7 +35,6 @@ community: "ggml"
 - [[nodes/get_quantize_q8_pipeline]] _calls_
 - [[nodes/ggml_webgpu_tensor_offset]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/get_mul_mat_vec_pipeline]] _calls_
 - [[nodes/get_mul_mat_fast_pipeline]] _calls_
 - [[nodes/get_mul_mat_id_vec_pipeline]] _calls_
@@ -43,6 +42,7 @@ community: "ggml"
 - [[nodes/ggml_webgpu_tensor_binding_size]] _calls_
 - [[nodes/get_mul_mat_id_gather_pipeline]] _calls_
 - [[nodes/get_mul_mat_id_pipeline]] _calls_
+- [[nodes/ggml_webgpu_flash_attn_float_vec4_aligned]] _calls_
 
 ## Used By
 

@@ -1,15 +1,15 @@
 ---
 name: "modelLoadFraction"
 type: "function"
-file: "tools/ui/src/lib/utils/progress.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/progress.ts"
+community: "build-vulkan-gcc"
 ---
 
 # modelLoadFraction
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/progress.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/progress.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Used By
 

@@ -19,3 +19,4 @@ community: "ggml"
 ## Used By
 
 - [[nodes/ggml_sycl_init]] _imports_
+- [[nodes/w8a8_acts]] _imports_

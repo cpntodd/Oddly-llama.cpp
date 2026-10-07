@@ -17,7 +17,7 @@ community: "ggml"
 - [[nodes/hvx_vec_mul_f32_f32]] _calls_
 - [[nodes/hvx_vec_add_f32_f32]] _calls_
 - [[nodes/hvx_vec_truncate_f32]] _calls_
-- [[nodes/tanh]] _calls_
+- [[nodes/sigmoid]] _calls_
 - [[nodes/hvx_vec_sub_f32_f32]] _calls_
 - [[nodes/hvx_vec_store_a]] _calls_
 - [[nodes/dma_queue_push_vtcm_to_ddr]] _calls_

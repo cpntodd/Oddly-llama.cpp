@@ -1,19 +1,16 @@
 ---
 name: "instead"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Calculus.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Calculus.js"
+community: "build-sycl-2025"
 ---
 
 # instead
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Calculus.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Calculus.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/valueOf]] _calls_
-- [[nodes/tan]] _calls_
-- [[nodes/cos]] _calls_
 - [[nodes/multiply]] _calls_

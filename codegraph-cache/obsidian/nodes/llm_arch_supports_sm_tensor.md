@@ -2,14 +2,14 @@
 name: "llm_arch_supports_sm_tensor"
 type: "function"
 file: "src/llama-arch.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # llm_arch_supports_sm_tensor
 
 **Type:** `function`  **File:** `src/llama-arch.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

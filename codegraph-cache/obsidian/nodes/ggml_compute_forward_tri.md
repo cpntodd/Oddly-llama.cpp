@@ -36,13 +36,13 @@ community: "ggml"
 - [[nodes/ggml_vec_swiglu_f32]] _calls_
 - [[nodes/ggml_vec_swiglu_f16]] _calls_
 - [[nodes/ggml_get_op_params_f32]] _calls_
-- [[nodes/clamp]] _calls_
 - [[nodes/ggml_vec_geglu_erf_f32]] _calls_
 - [[nodes/ggml_vec_geglu_erf_f16]] _calls_
 - [[nodes/ggml_vec_geglu_quick_f32]] _calls_
 - [[nodes/ggml_vec_geglu_quick_f16]] _calls_
 - [[nodes/ggml_vec_sum_f32]] _calls_
 - [[nodes/ggml_vec_cvar_f32]] _calls_
+- [[nodes/ggml_vec_scale_f32]] _calls_
 
 ## Used By
 

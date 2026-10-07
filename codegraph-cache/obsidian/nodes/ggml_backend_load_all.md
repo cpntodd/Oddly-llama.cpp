@@ -2,14 +2,14 @@
 name: "ggml_backend_load_all"
 type: "function"
 file: "ggml/src/ggml-backend-reg.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # ggml_backend_load_all
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend-reg.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

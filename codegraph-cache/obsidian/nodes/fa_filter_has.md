@@ -2,14 +2,14 @@
 name: "fa_filter_has"
 type: "function"
 file: "tools/tuning/fa-vec.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # fa_filter_has
 
 **Type:** `function`  **File:** `tools/tuning/fa-vec.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

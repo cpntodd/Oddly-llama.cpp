@@ -19,7 +19,7 @@ community: "common"
 - [[nodes/ResumableStreamState]] _imports_
 - [[nodes/gguf.py]] _imports_
 - [[nodes/statement]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/common_grammar_builder]] _imports_
 - [[nodes/testing]] _imports_
 - [[nodes/jinja]] _imports_

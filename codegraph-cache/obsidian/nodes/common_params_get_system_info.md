@@ -2,14 +2,14 @@
 name: "common_params_get_system_info"
 type: "function"
 file: "common/common.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_params_get_system_info
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

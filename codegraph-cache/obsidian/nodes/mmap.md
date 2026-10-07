@@ -2,14 +2,14 @@
 name: "mmap"
 type: "function"
 file: "ggml/src/ggml-hexagon/ggml-hexagon.cpp"
-community: "ggml"
+community: "conversion"
 ---
 
 # mmap
 
 **Type:** `function`  **File:** `ggml/src/ggml-hexagon/ggml-hexagon.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/conversion]]
 
 ## Depends On
 
@@ -22,6 +22,6 @@ community: "ggml"
 - [[nodes/DataType]] _imports_
 - [[nodes/align_up_uintptr]] _calls_
 - [[nodes/virtgpu_ioctl_gem_close]] _calls_
-- [[nodes/ggml_backend_buffer_is_sycl]] _calls_
 - [[nodes/get_device_backend_and_type]] _calls_
 - [[nodes/alloc]] _calls_
+- [[nodes/ggml_sycl_t2_restore_tensor]] _calls_

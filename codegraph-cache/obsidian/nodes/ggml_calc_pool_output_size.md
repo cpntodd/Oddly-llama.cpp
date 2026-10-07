@@ -32,3 +32,4 @@ community: "ggml"
 - [[nodes/ggml_is_contiguous_rows]] _calls_
 - [[nodes/ggml_is_scalar]] _calls_
 - [[nodes/K]] _calls_
+- [[nodes/view]] _calls_

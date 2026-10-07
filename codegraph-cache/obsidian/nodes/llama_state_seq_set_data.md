@@ -2,14 +2,14 @@
 name: "llama_state_seq_set_data"
 type: "function"
 file: "src/llama-context.cpp"
-community: "src"
+community: "tests"
 ---
 
 # llama_state_seq_set_data
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

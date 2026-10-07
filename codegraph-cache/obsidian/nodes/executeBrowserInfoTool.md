@@ -1,21 +1,16 @@
 ---
 name: "executeBrowserInfoTool"
 type: "function"
-file: "tools/ui/src/lib/utils/browser-info.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/browser-info.ts"
+community: "build-sycl-2025"
 ---
 
 # executeBrowserInfoTool
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/browser-info.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/browser-info.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/stringify]] _calls_
 - [[nodes/detectOs]] _calls_
-
-## Used By
-
-- [[nodes/toAgenticMessages]] _calls_

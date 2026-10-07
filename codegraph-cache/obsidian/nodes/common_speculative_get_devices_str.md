@@ -18,7 +18,7 @@ community: "common"
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/ggml_context_deleter]] _imports_
 - [[nodes/llama_update]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/common_ngram]] _imports_
 - [[nodes/common_ngram_map_hash]] _imports_
 - [[nodes/n]] _imports_
@@ -43,3 +43,7 @@ community: "common"
 - [[nodes/llama_n_batch]] _calls_
 - [[nodes/reset]] _calls_
 - [[nodes/llama_n_seq_max]] _calls_
+
+## Used By
+
+- [[nodes/flush_deferred]] _calls_

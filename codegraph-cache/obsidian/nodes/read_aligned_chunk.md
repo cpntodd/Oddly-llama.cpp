@@ -2,14 +2,14 @@
 name: "read_aligned_chunk"
 type: "function"
 file: "src/llama-mmap.cpp"
-community: "src"
+community: "build-intel-all"
 ---
 
 # read_aligned_chunk
 
 **Type:** `function`  **File:** `src/llama-mmap.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 
@@ -23,4 +23,3 @@ community: "src"
 - [[nodes/write_raw]] _calls_
 - [[nodes/write_u32]] _calls_
 - [[nodes/impl]] _calls_
-- [[nodes/close]] _calls_

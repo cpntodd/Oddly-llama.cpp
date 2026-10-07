@@ -2,14 +2,14 @@
 name: "mtmd_encode"
 type: "function"
 file: "tools/mtmd/mtmd.cpp"
-community: "src"
+community: "tools"
 ---
 
 # mtmd_encode
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

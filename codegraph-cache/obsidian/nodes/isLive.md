@@ -1,16 +1,12 @@
 ---
 name: "isLive"
 type: "function"
-file: "tools/ui/src/lib/stores/tabs.svelte.ts"
-community: "common"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/tabs.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # isLive
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/tabs.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/tabs.svelte.ts`
 
-**Community:** [[communities/common]]
-
-## Depends On
-
-- [[nodes/save]] _calls_
+**Community:** [[communities/build-sycl-2025]]

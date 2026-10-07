@@ -13,5 +13,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/syclexp]] _imports_
 - [[nodes/get_int_b1]] _imports_
+- [[nodes/syclexp]] _imports_

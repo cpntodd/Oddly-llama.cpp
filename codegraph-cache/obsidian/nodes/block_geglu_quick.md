@@ -13,12 +13,10 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/log2]] _calls_
-- [[nodes/exp]] _calls_
+- [[nodes/sigmoid]] _calls_
 - [[nodes/et_expf]] _calls_
 - [[nodes/et_fdiv]] _calls_
 - [[nodes/block]] _calls_
-- [[nodes/clamp]] _calls_
 
 ## Used By
 

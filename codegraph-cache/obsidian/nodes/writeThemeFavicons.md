@@ -1,21 +1,17 @@
 ---
 name: "writeThemeFavicons"
 type: "function"
-file: "tools/ui/scripts/favicon-colorize.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/scripts/favicon-colorize.ts"
+community: "build-sycl-2025"
 ---
 
 # writeThemeFavicons
 
-**Type:** `function`  **File:** `tools/ui/scripts/favicon-colorize.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/scripts/favicon-colorize.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/colorizeFaviconSvg]] _calls_
 - [[nodes/padFaviconSvg]] _calls_
-
-## Used By
-
-- [[nodes/setupSource]] _calls_

@@ -1,15 +1,15 @@
 ---
 name: "toExponential"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # toExponential
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -19,7 +19,6 @@ community: "tools"
 - [[nodes/isNeg]] _calls_
 - [[nodes/isZero]] _calls_
 - [[nodes/toFixed]] _calls_
-- [[nodes/but]] _calls_
 
 ## Used By
 

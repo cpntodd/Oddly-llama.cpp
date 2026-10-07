@@ -1,12 +1,12 @@
 ---
 name: "DialogMermaidPreview.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/dialogs/DialogMermaidPreview.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogMermaidPreview.svelte"
+community: "build-sycl-2025"
 ---
 
 # DialogMermaidPreview.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/dialogs/DialogMermaidPreview.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogMermaidPreview.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

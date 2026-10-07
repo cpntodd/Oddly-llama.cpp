@@ -15,4 +15,3 @@ community: "ggml"
 
 - [[nodes/ggml_backend_zdnn_buffer_context]] _calls_
 - [[nodes/ggml_aligned_malloc]] _calls_
-- [[nodes/move]] _calls_

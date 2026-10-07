@@ -1,17 +1,16 @@
 ---
 name: "handleDrop"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-chat-screen-drag-and-drop.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-drag-and-drop.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # handleDrop
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-chat-screen-drag-and-drop.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-drag-and-drop.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/handler]] _calls_
 - [[nodes/onDrop]] _calls_

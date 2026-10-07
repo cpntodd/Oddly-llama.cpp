@@ -17,8 +17,6 @@ community: "src"
 - [[nodes/push_back]] _calls_
 - [[nodes/decltype]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/insert]] _calls_
 - [[nodes/size]] _calls_
 

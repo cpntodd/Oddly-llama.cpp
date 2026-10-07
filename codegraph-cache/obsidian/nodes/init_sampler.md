@@ -2,14 +2,14 @@
 name: "init_sampler"
 type: "function"
 file: "tools/server/server-context.cpp"
-community: "common"
+community: "tools"
 ---
 
 # init_sampler
 
 **Type:** `function`  **File:** `tools/server/server-context.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

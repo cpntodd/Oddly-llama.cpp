@@ -2,14 +2,14 @@
 name: "get_leaf"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # get_leaf
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

@@ -1,12 +1,12 @@
 ---
 name: "SearchInput.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/forms/SearchInput.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/forms/SearchInput.svelte"
+community: "build-sycl-2025"
 ---
 
 # SearchInput.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/forms/SearchInput.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/forms/SearchInput.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

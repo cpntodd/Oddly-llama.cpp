@@ -1,13 +1,13 @@
 ---
 name: "ChatStore"
 type: "class"
-file: "tools/ui/src/lib/stores/chat/index.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/index.svelte.ts"
 community: "tools"
 ---
 
 # ChatStore
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/chat/index.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/index.svelte.ts`
 
 **Community:** [[communities/tools]]
 

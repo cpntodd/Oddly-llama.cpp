@@ -2,14 +2,14 @@
 name: "get_img_url"
 type: "function"
 file: "tools/server/tests/unit/test_vision_api.py"
-community: "ggml"
+community: "tools"
 ---
 
 # get_img_url
 
 **Type:** `function`  **File:** `tools/server/tests/unit/test_vision_api.py`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

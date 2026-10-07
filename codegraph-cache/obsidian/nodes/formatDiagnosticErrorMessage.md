@@ -1,16 +1,12 @@
 ---
 name: "formatDiagnosticErrorMessage"
 type: "function"
-file: "tools/ui/src/lib/utils/request-helpers.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/request-helpers.ts"
+community: "build-sycl-2025"
 ---
 
 # formatDiagnosticErrorMessage
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/request-helpers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/request-helpers.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/fetch]] _calls_
+**Community:** [[communities/build-sycl-2025]]

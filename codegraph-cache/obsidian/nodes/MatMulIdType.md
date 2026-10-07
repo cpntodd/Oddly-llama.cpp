@@ -2,14 +2,14 @@
 name: "MatMulIdType"
 type: "class"
 file: "ggml/src/ggml-vulkan/vulkan-shaders/vulkan-shaders-gen.cpp"
-community: "src"
+community: "common"
 ---
 
 # MatMulIdType
 
 **Type:** `class`  **File:** `ggml/src/ggml-vulkan/vulkan-shaders/vulkan-shaders-gen.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

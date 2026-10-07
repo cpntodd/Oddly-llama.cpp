@@ -2,14 +2,14 @@
 name: "set_display"
 type: "function"
 file: "common/console.cpp"
-community: "common"
+community: "tools"
 ---
 
 # set_display
 
 **Type:** `function`  **File:** `common/console.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

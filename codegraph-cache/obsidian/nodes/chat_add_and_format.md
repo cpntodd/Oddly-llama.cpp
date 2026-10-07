@@ -2,14 +2,14 @@
 name: "chat_add_and_format"
 type: "function"
 file: "examples/llama.android/lib/src/main/cpp/ai_chat.cpp"
-community: "src"
+community: "common"
 ---
 
 # chat_add_and_format
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/cpp/ai_chat.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

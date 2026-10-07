@@ -2,14 +2,14 @@
 name: "tojson"
 type: "function"
 file: "common/jinja/value.cpp"
-community: "common"
+community: "tests"
 ---
 
 # tojson
 
 **Type:** `function`  **File:** `common/jinja/value.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

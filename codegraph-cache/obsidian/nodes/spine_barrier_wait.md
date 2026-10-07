@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/store]] _calls_
-
 ## Used By
 
 - [[nodes/if]] _calls_

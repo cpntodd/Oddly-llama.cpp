@@ -1,12 +1,12 @@
 ---
 name: "isSvgFile"
 type: "function"
-file: "tools/ui/src/lib/utils/svg-to-png.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/svg-to-png.ts"
+community: "build-sycl-2025"
 ---
 
 # isSvgFile
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/svg-to-png.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/svg-to-png.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

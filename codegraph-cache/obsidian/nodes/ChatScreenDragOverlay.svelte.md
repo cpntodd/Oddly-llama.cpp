@@ -1,12 +1,12 @@
 ---
 name: "ChatScreenDragOverlay.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatScreen/ChatScreenDragOverlay.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatScreen/ChatScreenDragOverlay.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatScreenDragOverlay.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatScreen/ChatScreenDragOverlay.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatScreen/ChatScreenDragOverlay.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

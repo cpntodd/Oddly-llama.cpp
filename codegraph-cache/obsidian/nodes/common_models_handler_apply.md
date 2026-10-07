@@ -2,14 +2,14 @@
 name: "common_models_handler_apply"
 type: "function"
 file: "common/arg.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_models_handler_apply
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -17,7 +17,6 @@ community: "tests"
 - [[nodes/get_default_local_path]] _calls_
 - [[nodes/common_docker_resolve_model]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/finalize_file]] _calls_
 - [[nodes/spec_types_is_default]] _calls_

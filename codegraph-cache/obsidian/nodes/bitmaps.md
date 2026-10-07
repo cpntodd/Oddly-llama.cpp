@@ -2,14 +2,14 @@
 name: "bitmaps"
 type: "class"
 file: "tools/mtmd/mtmd.h"
-community: "common"
+community: "tools"
 ---
 
 # bitmaps
 
 **Type:** `class`  **File:** `tools/mtmd/mtmd.h`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

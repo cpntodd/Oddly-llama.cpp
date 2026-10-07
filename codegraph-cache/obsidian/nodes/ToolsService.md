@@ -1,13 +1,13 @@
 ---
 name: "ToolsService"
 type: "class"
-file: "tools/ui/src/lib/services/tools.service.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/tools.service.ts"
 community: "tools"
 ---
 
 # ToolsService
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/tools.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/tools.service.ts`
 
 **Community:** [[communities/tools]]
 

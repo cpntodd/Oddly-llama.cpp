@@ -15,9 +15,7 @@ community: "common"
 
 - [[nodes/common_get_env]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/getenv]] _calls_
-- [[nodes/exit]] _calls_
 
 ## Used By
 

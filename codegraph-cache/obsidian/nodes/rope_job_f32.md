@@ -21,4 +21,5 @@ community: "ggml"
 - [[nodes/block]] _calls_
 - [[nodes/dma_queue_pop_nowait]] _calls_
 - [[nodes/dma_queue_pop]] _calls_
+- [[nodes/rows]] _calls_
 - [[nodes/dma_queue_flush]] _calls_

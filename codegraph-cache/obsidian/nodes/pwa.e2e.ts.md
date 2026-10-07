@@ -1,12 +1,12 @@
 ---
 name: "pwa.e2e.ts"
 type: "file"
-file: "tools/ui/tests/e2e/pwa.e2e.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/e2e/pwa.e2e.ts"
+community: "build-sycl-2025"
 ---
 
 # pwa.e2e.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/e2e/pwa.e2e.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/e2e/pwa.e2e.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -1,12 +1,12 @@
 ---
 name: "ModelLoadHighlight.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/models/ModelLoadHighlight.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/models/ModelLoadHighlight.svelte"
+community: "build-sycl-2025"
 ---
 
 # ModelLoadHighlight.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/models/ModelLoadHighlight.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/models/ModelLoadHighlight.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

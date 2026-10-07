@@ -13,6 +13,7 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/rows]] _calls_
 - [[nodes/hex_smin]] _calls_
 - [[nodes/htp_trace_event_start]] _calls_
 - [[nodes/hex_align_up]] _calls_

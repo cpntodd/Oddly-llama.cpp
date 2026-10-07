@@ -1,13 +1,13 @@
 ---
 name: "getFileTypeCategory"
 type: "function"
-file: "tools/ui/src/lib/utils/file-type.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/file-type.ts"
 community: "tools"
 ---
 
 # getFileTypeCategory
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/file-type.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/file-type.ts`
 
 **Community:** [[communities/tools]]
 

@@ -11,6 +11,10 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
+## Depends On
+
+- [[nodes/sigmoid]] _calls_
+
 ## Used By
 
 - [[nodes/tile_gelu_f32]] _calls_

@@ -1,15 +1,15 @@
 ---
 name: "fetchData"
 type: "function"
-file: "tools/ui/src/lib/utils/abort.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/abort.ts"
+community: "build-sycl-2025"
 ---
 
 # fetchData
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/abort.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/abort.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -17,5 +17,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/ResumableStreamState]] _imports_
 - [[nodes/throwIfAborted]] _calls_

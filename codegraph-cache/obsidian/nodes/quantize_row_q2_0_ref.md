@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/round]] _calls_
-
 ## Used By
 
 - [[nodes/quantize_q2_0]] _calls_

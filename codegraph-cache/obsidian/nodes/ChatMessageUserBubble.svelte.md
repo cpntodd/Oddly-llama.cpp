@@ -1,12 +1,12 @@
 ---
 name: "ChatMessageUserBubble.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageUser/ChatMessageUserBubble.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageUser/ChatMessageUserBubble.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatMessageUserBubble.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageUser/ChatMessageUserBubble.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageUser/ChatMessageUserBubble.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

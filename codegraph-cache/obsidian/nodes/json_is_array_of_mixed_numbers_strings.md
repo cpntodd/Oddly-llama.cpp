@@ -11,6 +11,10 @@ community: "tools"
 
 **Community:** [[communities/tools]]
 
+## Depends On
+
+- [[nodes/is_string]] _calls_
+
 ## Used By
 
 - [[nodes/tokenize_input_subprompt]] _calls_

@@ -2,14 +2,14 @@
 name: "llama_sampler_penalties_free"
 type: "function"
 file: "src/llama-sampler.cpp"
-community: "src"
+community: "tools"
 ---
 
 # llama_sampler_penalties_free
 
 **Type:** `function`  **File:** `src/llama-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

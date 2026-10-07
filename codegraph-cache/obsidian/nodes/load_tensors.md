@@ -29,7 +29,6 @@ community: "ggml"
 - [[nodes/ggml_type_name]] _calls_
 - [[nodes/gguf_get_tensor_size]] _calls_
 - [[nodes/read]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/string_ends_with]] _calls_
 - [[nodes/string_replace_all]] _calls_
 - [[nodes/entry]] _calls_
@@ -38,7 +37,6 @@ community: "ggml"
 - [[nodes/ggml_backend_buffer_set_usage]] _calls_
 - [[nodes/ggml_backend_buft_is_host]] _calls_
 - [[nodes/ggml_backend_tensor_set]] _calls_
-- [[nodes/close]] _calls_
 
 ## Used By
 

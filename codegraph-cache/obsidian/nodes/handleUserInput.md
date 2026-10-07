@@ -14,7 +14,6 @@ community: "examples"
 ## Depends On
 
 - [[nodes/Message]] _calls_
-- [[nodes/copy]] _calls_
 - [[nodes/append]] _calls_
 
 ## Used By

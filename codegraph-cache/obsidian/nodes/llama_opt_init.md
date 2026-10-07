@@ -2,14 +2,14 @@
 name: "llama_opt_init"
 type: "function"
 file: "src/llama-context.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_opt_init
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

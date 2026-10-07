@@ -2,14 +2,14 @@
 name: "common_set_env"
 type: "function"
 file: "common/common.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_set_env
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

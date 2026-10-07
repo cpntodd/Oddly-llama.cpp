@@ -20,6 +20,4 @@ community: "tools"
 - [[nodes/string]] _calls_
 - [[nodes/avg_ts]] _calls_
 - [[nodes/stdev_ts]] _calls_
-- [[nodes/at]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/print_footer]] _calls_

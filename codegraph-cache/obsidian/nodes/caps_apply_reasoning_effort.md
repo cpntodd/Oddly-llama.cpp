@@ -2,14 +2,14 @@
 name: "caps_apply_reasoning_effort"
 type: "function"
 file: "common/jinja/caps.cpp"
-community: "common"
+community: "tests"
 ---
 
 # caps_apply_reasoning_effort
 
 **Type:** `function`  **File:** `common/jinja/caps.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

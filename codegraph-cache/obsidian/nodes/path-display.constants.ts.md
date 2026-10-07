@@ -1,18 +1,12 @@
 ---
 name: "path-display.constants.ts"
 type: "file"
-file: "tools/ui/src/lib/constants/path-display.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/path-display.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # path-display.constants.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/constants/path-display.constants.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/path-display.constants.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/fileMentionLinkRe]] _imports_
-- [[nodes/CacheEntry]] _imports_
-- [[nodes/PathQuery]] _imports_
+**Community:** [[communities/build-sycl-2025]]

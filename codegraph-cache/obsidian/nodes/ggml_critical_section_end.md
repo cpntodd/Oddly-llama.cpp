@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/unlock]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_init]] _calls_

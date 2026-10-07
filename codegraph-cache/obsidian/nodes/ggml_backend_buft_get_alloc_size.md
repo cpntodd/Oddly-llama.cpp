@@ -28,7 +28,7 @@ community: "ggml"
 - [[nodes/free_buffers]] _calls_
 - [[nodes/ggml_backend_rpc_get_device_memory]] _calls_
 - [[nodes/ggml_sycl_topk_moe_fusion]] _calls_
-- [[nodes/ggml_backend_buffer_is_sycl]] _calls_
 - [[nodes/ggml_backend_cann_buffer_init_tensor]] _calls_
 - [[nodes/ggml_mem_range_from_tensor]] _calls_
 - [[nodes/ggml_backend_et_buffer_init_tensor]] _calls_
+- [[nodes/ggml_backend_buffer_is_sycl]] _calls_

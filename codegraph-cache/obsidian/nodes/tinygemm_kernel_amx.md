@@ -14,4 +14,5 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/apply]] _calls_
+- [[nodes/swap]] _calls_
 - [[nodes/unpack_A]] _calls_

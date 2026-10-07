@@ -15,11 +15,8 @@ community: "ggml"
 
 - [[nodes/ggml_backend_meta_context]] _calls_
 - [[nodes/ggml_backend_meta_dev_n_devs]] _calls_
-- [[nodes/ceil]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/ggml_backend_meta_dev_simple_dev]] _calls_
 - [[nodes/ggml_backend_dev_init]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/ggml_backend_dev_backend_reg]] _calls_
 - [[nodes/ggml_backend_get_device]] _calls_
 - [[nodes/ggml_backend_free]] _calls_

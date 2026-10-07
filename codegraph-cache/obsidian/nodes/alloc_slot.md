@@ -2,14 +2,14 @@
 name: "alloc_slot"
 type: "function"
 file: "ggml/src/ggml-webgpu/ggml-webgpu.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # alloc_slot
 
 **Type:** `function`  **File:** `ggml/src/ggml-webgpu/ggml-webgpu.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

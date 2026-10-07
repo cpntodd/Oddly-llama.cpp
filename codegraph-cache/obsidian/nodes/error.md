@@ -1,21 +1,16 @@
 ---
 name: "error"
 type: "function"
-file: "common/console.cpp"
-community: "common"
+file: "build-intel-all/level-zero-sdk/third_party/spdlog_headers/spdlog/spdlog.h"
+community: "build-intel-all"
 ---
 
 # error
 
-**Type:** `function`  **File:** `common/console.cpp`
+**Type:** `function`  **File:** `build-intel-all/level-zero-sdk/third_party/spdlog_headers/spdlog/spdlog.h`
 
-**Community:** [[communities/common]]
-
-## Depends On
-
-- [[nodes/set_display]] _calls_
+**Community:** [[communities/build-intel-all]]
 
 ## Used By
 
-- [[nodes/safe_write_file]] _calls_
-- [[nodes/is_http_status_ok]] _calls_
+- [[nodes/critical]] _calls_

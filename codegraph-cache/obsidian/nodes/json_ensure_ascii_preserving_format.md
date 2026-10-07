@@ -2,14 +2,14 @@
 name: "json_ensure_ascii_preserving_format"
 type: "function"
 file: "common/jinja/value.cpp"
-community: "common"
+community: "tests"
 ---
 
 # json_ensure_ascii_preserving_format
 
 **Type:** `function`  **File:** `common/jinja/value.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

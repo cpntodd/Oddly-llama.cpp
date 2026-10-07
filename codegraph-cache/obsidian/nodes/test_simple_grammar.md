@@ -2,14 +2,14 @@
 name: "test_simple_grammar"
 type: "function"
 file: "tests/test-grammar-llguidance.cpp"
-community: "tests"
+community: "tools"
 ---
 
 # test_simple_grammar
 
 **Type:** `function`  **File:** `tests/test-grammar-llguidance.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

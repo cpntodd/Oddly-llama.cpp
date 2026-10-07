@@ -17,6 +17,7 @@ community: "ggml"
 - [[nodes/ggml_backend_meta_buffer_n_bufs]] _calls_
 - [[nodes/ggml_backend_meta_get_split_state]] _calls_
 - [[nodes/ggml_nelements]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/ggml_backend_buffer_is_multi_buffer]] _calls_
 - [[nodes/ggml_is_contiguously_allocated]] _calls_
 - [[nodes/ggml_set_name]] _calls_

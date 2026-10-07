@@ -1,12 +1,12 @@
 ---
 name: "DialogEmptyFileAlert.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/dialogs/DialogEmptyFileAlert.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogEmptyFileAlert.svelte"
+community: "build-sycl-2025"
 ---
 
 # DialogEmptyFileAlert.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/dialogs/DialogEmptyFileAlert.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogEmptyFileAlert.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

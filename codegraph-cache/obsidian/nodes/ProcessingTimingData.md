@@ -1,13 +1,13 @@
 ---
 name: "ProcessingTimingData"
 type: "class"
-file: "tools/ui/src/lib/stores/chat/processing.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/processing.svelte.ts"
 community: "tools"
 ---
 
 # ProcessingTimingData
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/chat/processing.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/processing.svelte.ts`
 
 **Community:** [[communities/tools]]
 
@@ -16,9 +16,3 @@ community: "tools"
 - [[nodes/index.ts]] _imports_
 - [[nodes/signal_handler]] _imports_
 - [[nodes/types]] _imports_
-
-## Used By
-
-- [[nodes/ChatStreamHost]] _imports_
-- [[nodes/ChatFlowsHost]] _imports_
-- [[nodes/ChatStore]] _imports_

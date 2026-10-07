@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/ggml_is_contiguous]] _calls_
-- [[nodes/a]] _calls_
 - [[nodes/ggml_type_name]] _calls_
 
 ## Used By

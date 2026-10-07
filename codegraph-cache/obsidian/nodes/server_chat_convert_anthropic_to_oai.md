@@ -14,8 +14,8 @@ community: "tools"
 ## Depends On
 
 - [[nodes/json_value]] _calls_
+- [[nodes/is_string]] _calls_
 - [[nodes/normalize_anthropic_billing_header]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/dump]] _calls_
 
 ## Used By

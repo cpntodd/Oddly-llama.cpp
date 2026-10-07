@@ -1,18 +1,12 @@
 ---
 name: "buildSuffixSet"
 type: "function"
-file: "tools/ui/src/lib/constants/url.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/url.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # buildSuffixSet
 
-**Type:** `function`  **File:** `tools/ui/src/lib/constants/url.constants.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/url.constants.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/detectMcpTransportFromUrl]] _imports_
-- [[nodes/nerdamerPlugin]] _imports_
-- [[nodes/makeCircle]] _imports_
+**Community:** [[communities/build-sycl-2025]]

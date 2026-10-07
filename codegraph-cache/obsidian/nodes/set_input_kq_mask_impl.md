@@ -13,8 +13,6 @@ community: "src"
 
 ## Depends On
 
-- [[nodes/at]] _calls_
-- [[nodes/copy]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/push_back]] _calls_
@@ -28,9 +26,9 @@ community: "src"
 - [[nodes/ggml_set_input]] _calls_
 - [[nodes/ggml_row_size]] _calls_
 - [[nodes/ggml_build_forward_expand]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/write]] _calls_
 - [[nodes/read]] _calls_
 - [[nodes/n_pos_per_embd]] _calls_
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/empty]] _calls_
+- [[nodes/cell]] _calls_

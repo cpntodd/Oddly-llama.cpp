@@ -2,14 +2,14 @@
 name: "add_rpc_devices"
 type: "function"
 file: "common/arg.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # add_rpc_devices
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

@@ -1,13 +1,13 @@
 ---
 name: "ServerStore"
 type: "class"
-file: "tools/ui/src/lib/stores/server.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/server.svelte.ts"
 community: "tools"
 ---
 
 # ServerStore
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/server.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/server.svelte.ts`
 
 **Community:** [[communities/tools]]
 

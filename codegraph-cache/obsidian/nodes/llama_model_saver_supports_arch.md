@@ -2,14 +2,14 @@
 name: "llama_model_saver_supports_arch"
 type: "function"
 file: "src/llama-model-saver.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # llama_model_saver_supports_arch
 
 **Type:** `function`  **File:** `src/llama-model-saver.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 
@@ -35,7 +35,6 @@ community: "ggml"
 - [[nodes/tokens]] _calls_
 - [[nodes/llama_rope_scaling_type_name]] _calls_
 - [[nodes/string]] _calls_
-- [[nodes/save]] _calls_
 - [[nodes/gguf_write_to_file]] _calls_
 - [[nodes/gguf_write_to_file_ptr]] _calls_
 

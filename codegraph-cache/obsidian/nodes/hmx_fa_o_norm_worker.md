@@ -17,6 +17,5 @@ community: "ggml"
 - [[nodes/hvx_vec_f32_to_f16]] _calls_
 - [[nodes/alibi_slope]] _calls_
 - [[nodes/fastmodulo]] _calls_
-- [[nodes/copy]] _calls_
 - [[nodes/hvx_copy_f16_aa]] _calls_
 - [[nodes/dma_queue_push]] _calls_

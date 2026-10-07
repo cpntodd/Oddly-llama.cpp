@@ -2,14 +2,14 @@
 name: "cpuid_x86"
 type: "class"
 file: "ggml/src/ggml-cpu/arch/x86/cpu-feats.cpp"
-community: "common"
+community: "ggml"
 ---
 
 # cpuid_x86
 
 **Type:** `class`  **File:** `ggml/src/ggml-cpu/arch/x86/cpu-feats.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

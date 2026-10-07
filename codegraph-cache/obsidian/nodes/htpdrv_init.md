@@ -17,7 +17,6 @@ community: "ggml"
 - [[nodes/dl_load_library]] _calls_
 - [[nodes/dl_error]] _calls_
 - [[nodes/dl_get_sym]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

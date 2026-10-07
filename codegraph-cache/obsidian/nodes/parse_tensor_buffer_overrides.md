@@ -2,14 +2,14 @@
 name: "parse_tensor_buffer_overrides"
 type: "function"
 file: "common/arg.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # parse_tensor_buffer_overrides
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
@@ -18,8 +18,6 @@ community: "tools"
 - [[nodes/ggml_backend_dev_get]] _calls_
 - [[nodes/ggml_backend_dev_buffer_type]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/back]] _calls_
-- [[nodes/at]] _calls_
 
 ## Used By
 

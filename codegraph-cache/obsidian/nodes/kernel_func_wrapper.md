@@ -15,4 +15,3 @@ community: "ggml"
 
 - [[nodes/parallel_for]] _calls_
 - [[nodes/dim3]] _calls_
-- [[nodes/move]] _calls_

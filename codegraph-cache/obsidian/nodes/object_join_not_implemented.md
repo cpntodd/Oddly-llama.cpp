@@ -16,6 +16,4 @@ community: "common"
 - [[nodes/not_implemented_exception]] _calls_
 - [[nodes/raised_exception]] _calls_
 - [[nodes/string]] _calls_
-- [[nodes/at]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/value_compare]] _calls_

@@ -13,12 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/_abort]] _imports_
+- [[nodes/obj_traits]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
-
-## Used By
-
-- [[nodes/ggml_sycl_init]] _imports_
-- [[nodes/constexpr]] _imports_
-- [[nodes/ov]] _imports_

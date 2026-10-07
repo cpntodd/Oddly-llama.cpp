@@ -1,15 +1,15 @@
 ---
 name: "setFiles"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-draft-messages.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-draft-messages.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # setFiles
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-draft-messages.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-draft-messages.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

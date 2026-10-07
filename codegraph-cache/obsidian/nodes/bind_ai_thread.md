@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/close]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_backend_cpu_riscv64_spacemit_set_numa_thread_affinity]] _calls_

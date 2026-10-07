@@ -2,14 +2,14 @@
 name: "assign"
 type: "function"
 file: "ggml/src/ggml-sycl/dpct/helper.hpp"
-community: "src"
+community: "tools"
 ---
 
 # assign
 
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/dpct/helper.hpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
@@ -36,6 +36,7 @@ community: "src"
 - [[nodes/video_resolve_bin]] _calls_
 - [[nodes/time_cell_median]] _calls_
 - [[nodes/parse_k_cache_in_layer]] _calls_
+- [[nodes/streamStorageKey]] _calls_
 - [[nodes/constexpr]] _calls_
 - [[nodes/hparams]] _calls_
 - [[nodes/llama_sampler_penalties_free]] _calls_
@@ -45,7 +46,6 @@ community: "src"
 - [[nodes/check_double_bos_eos]] _calls_
 - [[nodes/build]] _calls_
 - [[nodes/t]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/COMMON_JSON_VEC]] _calls_
 - [[nodes/string_join_not_implemented]] _calls_
 - [[nodes/main]] _calls_

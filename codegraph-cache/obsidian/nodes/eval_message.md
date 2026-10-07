@@ -2,14 +2,14 @@
 name: "eval_message"
 type: "function"
 file: "tools/mtmd/mtmd-cli.cpp"
-community: "common"
+community: "tools"
 ---
 
 # eval_message
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd-cli.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

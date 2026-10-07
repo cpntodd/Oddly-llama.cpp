@@ -14,4 +14,4 @@ community: "tools"
 ## Depends On
 
 - [[nodes/ring_buffer]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_

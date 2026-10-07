@@ -28,10 +28,6 @@ community: "ggml"
 - [[nodes/ptr]] _calls_
 - [[nodes/file]] _calls_
 - [[nodes/common_debug_cb_eval]] _calls_
-- [[nodes/init_tensor_tril]] _calls_
-- [[nodes/matches_filter]] _calls_
-- [[nodes/eval_grad]] _calls_
-- [[nodes/init_mul_mat_id_tensors]] _calls_
 - [[nodes/same_tensor_data]] _calls_
 - [[nodes/print_ok]] _calls_
 - [[nodes/if]] _calls_
@@ -45,3 +41,7 @@ community: "ggml"
 - [[nodes/ggml_backend_rpc_get_device_memory]] _calls_
 - [[nodes/ggml_et_cpu_compare_init_pre]] _calls_
 - [[nodes/set_zero_diagonal]] _calls_
+- [[nodes/init_tensor_tril]] _calls_
+- [[nodes/matches_filter]] _calls_
+- [[nodes/eval_grad]] _calls_
+- [[nodes/init_mul_mat_id_tensors]] _calls_

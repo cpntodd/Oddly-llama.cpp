@@ -2,14 +2,14 @@
 name: "gguf_buffer_reader_callback"
 type: "function"
 file: "ggml/src/gguf.cpp"
-community: "ggml"
+community: "build-intel-all"
 ---
 
 # gguf_buffer_reader_callback
 
 **Type:** `function`  **File:** `ggml/src/gguf.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 

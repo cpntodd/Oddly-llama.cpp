@@ -2,14 +2,14 @@
 name: "addr"
 type: "function"
 file: "src/llama-mmap.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # addr
 
 **Type:** `function`  **File:** `src/llama-mmap.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

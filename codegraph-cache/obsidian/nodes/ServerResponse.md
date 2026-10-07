@@ -2,17 +2,18 @@
 name: "ServerResponse"
 type: "class"
 file: "tools/server/tests/utils.py"
-community: "ggml"
+community: "tools"
 ---
 
 # ServerResponse
 
 **Type:** `class`  **File:** `tools/server/tests/utils.py`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
+- [[nodes/os.h]] _imports_
 - [[nodes/common_json_item]] _imports_
 
 ## Used By

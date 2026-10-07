@@ -1,13 +1,13 @@
 ---
 name: "textareaIn"
 type: "function"
-file: "tools/ui/tests/client/chat-form-enter-code-block.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/chat-form-enter-code-block.svelte.test.ts"
 community: "tools"
 ---
 
 # textareaIn
 
-**Type:** `function`  **File:** `tools/ui/tests/client/chat-form-enter-code-block.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/chat-form-enter-code-block.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 
@@ -19,5 +19,4 @@ community: "tools"
 - [[nodes/svelte.config.js]] _imports_
 - [[nodes/vitest.shims.d.ts]] _imports_
 - [[nodes/it]] _calls_
-- [[nodes/render]] _calls_
 - [[nodes/expect]] _calls_

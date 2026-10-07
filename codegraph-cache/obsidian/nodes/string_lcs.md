@@ -2,19 +2,18 @@
 name: "string_lcs"
 type: "function"
 file: "common/common.cpp"
-community: "tools"
+community: "common"
 ---
 
 # string_lcs
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
 - [[nodes/empty]] _calls_
-- [[nodes/dp]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/string]] _calls_
 

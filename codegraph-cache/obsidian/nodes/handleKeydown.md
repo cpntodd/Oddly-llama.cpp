@@ -1,15 +1,15 @@
 ---
 name: "handleKeydown"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-keyboard-shortcuts.svelte.ts"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-keyboard-shortcuts.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # handleKeydown
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-keyboard-shortcuts.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-keyboard-shortcuts.svelte.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

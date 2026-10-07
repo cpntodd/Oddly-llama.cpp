@@ -17,9 +17,7 @@ community: "ggml"
 - [[nodes/ggml_cann_type_mapping]] _calls_
 - [[nodes/alloc]] _calls_
 - [[nodes/ggml_nelements]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_cann_softmax]] _calls_
-- [[nodes/sqrt]] _calls_
 
 ## Used By
 

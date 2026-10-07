@@ -2,14 +2,14 @@
 name: "glob_match"
 type: "function"
 file: "common/common.cpp"
-community: "common"
+community: "tools"
 ---
 
 # glob_match
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

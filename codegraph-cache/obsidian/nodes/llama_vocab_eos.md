@@ -2,14 +2,14 @@
 name: "llama_vocab_eos"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_vocab_eos
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 
@@ -21,7 +21,6 @@ community: "src"
 - [[nodes/llama_sampler_llg_free]] _calls_
 - [[nodes/tty_can_use_colors]] _calls_
 - [[nodes/common_init_from_params]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/common_chat_templates_source]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
@@ -29,3 +28,4 @@ community: "src"
 - [[nodes/match_string]] _calls_
 - [[nodes/test_sampler_chain]] _calls_
 - [[nodes/test_backend_multi_sequence_multi_output_dist]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_

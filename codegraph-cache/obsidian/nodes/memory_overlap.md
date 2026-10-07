@@ -2,14 +2,14 @@
 name: "memory_overlap"
 type: "function"
 file: "tests/test-alloc.cpp"
-community: "tests"
+community: "ggml"
 ---
 
 # memory_overlap
 
 **Type:** `function`  **File:** `tests/test-alloc.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

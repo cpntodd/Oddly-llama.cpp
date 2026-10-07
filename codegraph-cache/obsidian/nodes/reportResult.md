@@ -11,10 +11,6 @@ community: "pocs"
 
 **Community:** [[communities/pocs]]
 
-## Depends On
-
-- [[nodes/sqrt]] _calls_
-
 ## Used By
 
 - [[nodes/main]] _calls_

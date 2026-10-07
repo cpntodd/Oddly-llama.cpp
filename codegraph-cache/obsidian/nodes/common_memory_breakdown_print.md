@@ -2,14 +2,14 @@
 name: "common_memory_breakdown_print"
 type: "function"
 file: "common/fit.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # common_memory_breakdown_print
 
 **Type:** `function`  **File:** `common/fit.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
@@ -22,7 +22,6 @@ community: "tools"
 - [[nodes/insert]] _calls_
 - [[nodes/ggml_backend_buft_get_device]] _calls_
 - [[nodes/ggml_backend_dev_memory]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

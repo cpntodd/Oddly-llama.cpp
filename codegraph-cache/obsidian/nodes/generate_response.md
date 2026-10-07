@@ -2,14 +2,14 @@
 name: "generate_response"
 type: "function"
 file: "tools/mtmd/mtmd-cli.cpp"
-community: "tests"
+community: "common"
 ---
 
 # generate_response
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd-cli.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -21,7 +21,6 @@ community: "tests"
 - [[nodes/common_token_to_piece]] _calls_
 - [[nodes/common_batch_clear]] _calls_
 - [[nodes/common_detokenize]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

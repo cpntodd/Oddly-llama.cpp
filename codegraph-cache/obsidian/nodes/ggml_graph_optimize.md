@@ -16,4 +16,3 @@ community: "ggml"
 - [[nodes/op]] _calls_
 - [[nodes/ggml_can_fuse]] _calls_
 - [[nodes/add_fused]] _calls_
-- [[nodes/move]] _calls_

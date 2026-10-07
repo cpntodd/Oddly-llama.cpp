@@ -42,4 +42,4 @@ community: "tools"
 - [[nodes/disable]] _calls_
 - [[nodes/getItem]] _calls_
 - [[nodes/getItem]] _calls_
-- [[nodes/gpu_has_xmx]] _calls_
+- [[nodes/push]] _calls_

@@ -1,15 +1,15 @@
 ---
 name: "append_bytes_hex"
 type: "function"
-file: "tools/ui/embed.cpp"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/embed.cpp"
+community: "build-vulkan-gcc"
 ---
 
 # append_bytes_hex
 
-**Type:** `function`  **File:** `tools/ui/embed.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/embed.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Used By
 

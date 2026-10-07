@@ -1,12 +1,12 @@
 ---
 name: "table.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/table/table.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/table/table.svelte"
+community: "build-sycl-2025"
 ---
 
 # table.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/table/table.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/table/table.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

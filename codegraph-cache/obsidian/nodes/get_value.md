@@ -18,8 +18,8 @@ community: "ggml"
 ## Used By
 
 - [[nodes/normalize_prefix]] _calls_
-- [[nodes/next_power_of_2]] _calls_
 - [[nodes/ggml_sycl_op_conv_3d]] _calls_
 - [[nodes/get_device_backend_and_type]] _calls_
 - [[nodes/max]] _calls_
 - [[nodes/print_output_tensor_info]] _calls_
+- [[nodes/next_power_of_2]] _calls_

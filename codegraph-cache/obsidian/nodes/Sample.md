@@ -1,12 +1,12 @@
 ---
 name: "Sample"
 type: "class"
-file: "tools/ui/tests/client/agentic-stream.perf.svelte.test.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts"
+community: "build-sycl-2025"
 ---
 
 # Sample
 
-**Type:** `class`  **File:** `tools/ui/tests/client/agentic-stream.perf.svelte.test.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -18,13 +18,13 @@ community: "ggml"
 - [[nodes/ggml_cann_create_int_array]] _calls_
 - [[nodes/ggml_cann_create_scalar]] _calls_
 - [[nodes/rules]] _calls_
-- [[nodes/cos]] _calls_
 - [[nodes/aclnn_mul]] _calls_
 - [[nodes/pool]] _calls_
 - [[nodes/alloc]] _calls_
 - [[nodes/ggml_cann_type_mapping]] _calls_
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/aclnn_div]] _calls_
+- [[nodes/swap]] _calls_
 - [[nodes/aclnn_sin]] _calls_
 - [[nodes/aclnn_cos]] _calls_
 - [[nodes/set]] _calls_

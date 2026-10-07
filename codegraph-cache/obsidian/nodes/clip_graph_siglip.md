@@ -2,14 +2,14 @@
 name: "clip_graph_siglip"
 type: "class"
 file: "tools/mtmd/models/models.h"
-community: "common"
+community: "ggml"
 ---
 
 # clip_graph_siglip
 
 **Type:** `class`  **File:** `tools/mtmd/models/models.h`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

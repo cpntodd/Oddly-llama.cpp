@@ -24,7 +24,6 @@ community: "common"
 - [[nodes/common_base_params_to_speculative]] _calls_
 - [[nodes/reset]] _calls_
 - [[nodes/llama_adapter_meta_val_str]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/llama_vocab_eos]] _calls_
 - [[nodes/llama_vocab_n_tokens]] _calls_
 - [[nodes/llama_vocab_is_eog]] _calls_
@@ -34,6 +33,7 @@ community: "common"
 - [[nodes/size]] _calls_
 - [[nodes/set_process_priority]] _calls_
 - [[nodes/init]] _calls_
+- [[nodes/sampler]] _calls_
 - [[nodes/llama_sampler_reset]] _calls_
 
 ## Used By

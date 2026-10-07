@@ -1,16 +1,12 @@
 ---
 name: "detectThinkingSupport"
 type: "function"
-file: "tools/ui/src/lib/utils/chat-template-thinking-detector.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/chat-template-thinking-detector.ts"
+community: "build-sycl-2025"
 ---
 
 # detectThinkingSupport
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/chat-template-thinking-detector.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/chat-template-thinking-detector.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/ModelPropsHost]] _imports_
+**Community:** [[communities/build-sycl-2025]]

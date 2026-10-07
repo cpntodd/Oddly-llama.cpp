@@ -1,12 +1,12 @@
 ---
 name: "ChatScreenForm.stories.svelte"
 type: "file"
-file: "tools/ui/tests/stories/ChatScreenForm.stories.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/ChatScreenForm.stories.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatScreenForm.stories.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/ChatScreenForm.stories.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/ChatScreenForm.stories.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

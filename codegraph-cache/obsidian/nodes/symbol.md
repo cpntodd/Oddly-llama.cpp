@@ -1,16 +1,12 @@
 ---
 name: "symbol"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Extra.js"
-community: "src"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Extra.js"
+community: "build-sycl-2025"
 ---
 
 # symbol
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Extra.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Extra.js`
 
-**Community:** [[communities/src]]
-
-## Used By
-
-- [[nodes/print_rule_binary]] _calls_
+**Community:** [[communities/build-sycl-2025]]

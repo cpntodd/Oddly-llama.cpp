@@ -1,12 +1,12 @@
 ---
 name: "is"
-type: "class"
-file: "ggml/src/ggml-openvino/openvino/op/gated_delta_net.hpp"
-community: "ggml"
+type: "function"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/math-formulas.ts"
+community: "build-sycl-2025"
 ---
 
 # is
 
-**Type:** `class`  **File:** `ggml/src/ggml-openvino/openvino/op/gated_delta_net.hpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/math-formulas.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]

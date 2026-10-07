@@ -2,18 +2,14 @@
 name: "op_sin"
 type: "function"
 file: "ggml/src/ggml-sycl/element_wise.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # op_sin
 
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/element_wise.cpp`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/sin]] _calls_
+**Community:** [[communities/ggml]]
 
 ## Used By
 

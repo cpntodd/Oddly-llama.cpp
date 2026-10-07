@@ -1,12 +1,12 @@
 ---
 name: "table-caption.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/table/table-caption.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/table/table-caption.svelte"
+community: "build-sycl-2025"
 ---
 
 # table-caption.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/table/table-caption.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/table/table-caption.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

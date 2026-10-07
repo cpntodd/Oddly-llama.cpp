@@ -2,20 +2,19 @@
 name: "common_replay_last_token"
 type: "function"
 file: "common/common.cpp"
-community: "src"
+community: "tests"
 ---
 
 # common_replay_last_token
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
 - [[nodes/size]] _calls_
 - [[nodes/llama_state_save_file]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/llama_state_seq_get_size_ext]] _calls_

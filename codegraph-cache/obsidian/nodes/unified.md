@@ -20,9 +20,7 @@ community: "src"
 - [[nodes/get_base]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/get_n_tokens]] _calls_
-- [[nodes/prepare]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/get_size]] _calls_

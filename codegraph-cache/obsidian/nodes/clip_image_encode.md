@@ -2,18 +2,17 @@
 name: "clip_image_encode"
 type: "function"
 file: "tools/mtmd/clip.cpp"
-community: "src"
+community: "tools"
 ---
 
 # clip_image_encode
 
 **Type:** `function`  **File:** `tools/mtmd/clip.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/clip_image_batch_encode]] _calls_
 
 ## Used By

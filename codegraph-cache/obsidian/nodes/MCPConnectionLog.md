@@ -1,13 +1,13 @@
 ---
 name: "MCPConnectionLog"
 type: "class"
-file: "tools/ui/src/lib/types/mcp.d.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/mcp.d.ts"
 community: "tools"
 ---
 
 # MCPConnectionLog
 
-**Type:** `class`  **File:** `tools/ui/src/lib/types/mcp.d.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/mcp.d.ts`
 
 **Community:** [[communities/tools]]
 

@@ -1,15 +1,15 @@
 ---
 name: "sqrt"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # sqrt
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -23,33 +23,16 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/drawFromGaussianPdf]] _calls_
-- [[nodes/main]] _calls_
-- [[nodes/reportResult]] _calls_
-- [[nodes/compute_statistics]] _calls_
-- [[nodes/compute_cossim]] _calls_
-- [[nodes/compute_imatrix]] _calls_
-- [[nodes/stdev]] _calls_
-- [[nodes/perplexity]] _calls_
-- [[nodes/hellaswag_score]] _calls_
-- [[nodes/winogrande_score]] _calls_
-- [[nodes/multiple_choice_score]] _calls_
-- [[nodes/kl_divergence]] _calls_
-- [[nodes/onload]] _calls_
-- [[nodes/but]] _calls_
-- [[nodes/correctDenom]] _calls_
-- [[nodes/fit]] _calls_
-- [[nodes/getFunctionsSubs]] _calls_
-- [[nodes/quadAk1]] _calls_
-- [[nodes/quadItAk1]] _calls_
-- [[nodes/rpSolve]] _calls_
-- [[nodes/q]] _calls_
-- [[nodes/exit]] _calls_
-- [[nodes/removeSquare]] _calls_
-- [[nodes/stop]] _calls_
-- [[nodes/cancel]] _calls_
-- [[nodes/useParserDiv]] _calls_
-- [[nodes/over]] _calls_
-- [[nodes/derive]] _calls_
-- [[nodes/without]] _calls_
-- [[nodes/uTransform]] _calls_
+- [[nodes/sinh]] _calls_
+- [[nodes/acos]] _calls_
+- [[nodes/acosh]] _calls_
+- [[nodes/asinh]] _calls_
+- [[nodes/atanh]] _calls_
+- [[nodes/asin]] _calls_
+- [[nodes/atan]] _calls_
+- [[nodes/sin]] _calls_
+- [[nodes/tan]] _calls_
+- [[nodes/sine]] _calls_
+- [[nodes/clone]] _calls_
+- [[nodes/hypot]] _calls_
+- [[nodes/sign]] _calls_

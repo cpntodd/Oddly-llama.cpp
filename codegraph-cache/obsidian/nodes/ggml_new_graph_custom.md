@@ -24,9 +24,6 @@ community: "ggml"
 - [[nodes/clip_image_convert_f32_to_u8]] _calls_
 - [[nodes/llama_sampler_backend_copy_state]] _calls_
 - [[nodes/max_nodes]] _calls_
-- [[nodes/eval_perf]] _calls_
-- [[nodes/eval_support]] _calls_
-- [[nodes/eval_grad]] _calls_
 - [[nodes/ggml_backend_meta_graph_compute]] _calls_
 - [[nodes/ggml_backend_graph_copy]] _calls_
 - [[nodes/ggml_new_graph]] _calls_
@@ -36,3 +33,6 @@ community: "ggml"
 - [[nodes/ggml_backend_rpc_get_device_memory]] _calls_
 - [[nodes/apir_untrack_backend_buffer]] _calls_
 - [[nodes/ggml_et_cpu_compare_init_pre]] _calls_
+- [[nodes/eval_perf]] _calls_
+- [[nodes/eval_support]] _calls_
+- [[nodes/eval_grad]] _calls_

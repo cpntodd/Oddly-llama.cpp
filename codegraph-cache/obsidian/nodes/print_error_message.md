@@ -2,14 +2,14 @@
 name: "print_error_message"
 type: "function"
 file: "tests/test-gbnf-validator.cpp"
-community: "src"
+community: "common"
 ---
 
 # print_error_message
 
 **Type:** `function`  **File:** `tests/test-gbnf-validator.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

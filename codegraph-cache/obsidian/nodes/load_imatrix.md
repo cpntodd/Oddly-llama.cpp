@@ -2,21 +2,19 @@
 name: "load_imatrix"
 type: "function"
 file: "tools/quantize/quantize.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # load_imatrix
 
 **Type:** `function`  **File:** `tools/quantize/quantize.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
 - [[nodes/common_imatrix_load]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/getenv]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

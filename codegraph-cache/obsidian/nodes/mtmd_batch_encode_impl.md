@@ -15,7 +15,6 @@ community: "tools"
 
 - [[nodes/is_placeholder]] _calls_
 - [[nodes/clone]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/mtmd_input_chunk_get_n_tokens]] _calls_
 - [[nodes/mtmd_encode_chunk_impl]] _calls_
 

@@ -2,14 +2,14 @@
 name: "write_help"
 type: "function"
 file: "examples/gen-docs/gen-docs.cpp"
-community: "common"
+community: "examples"
 ---
 
 # write_help
 
 **Type:** `function`  **File:** `examples/gen-docs/gen-docs.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/examples]]
 
 ## Depends On
 

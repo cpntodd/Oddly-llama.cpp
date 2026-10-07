@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/eval_grad]] _calls_
 - [[nodes/ggml_get_tensor]] _calls_
 - [[nodes/ggml_calc_pool_output_size]] _calls_
 - [[nodes/ggml_graph_reset]] _calls_
@@ -22,3 +21,4 @@ community: "ggml"
 - [[nodes/ggml_dsv4_hc_comb_norm_rows]] _calls_
 - [[nodes/ggml_sycl_cross_entropy_loss]] _calls_
 - [[nodes/ggml_sycl_cross_entropy_loss_back]] _calls_
+- [[nodes/eval_grad]] _calls_

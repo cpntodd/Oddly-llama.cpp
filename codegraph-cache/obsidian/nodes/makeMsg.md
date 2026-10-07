@@ -1,13 +1,13 @@
 ---
 name: "makeMsg"
 type: "function"
-file: "tools/ui/tests/unit/continue-intent.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/continue-intent.test.ts"
 community: "tools"
 ---
 
 # makeMsg
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/continue-intent.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/continue-intent.test.ts`
 
 **Community:** [[communities/tools]]
 

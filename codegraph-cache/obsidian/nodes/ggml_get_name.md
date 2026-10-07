@@ -2,14 +2,14 @@
 name: "ggml_get_name"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "ggml"
+community: "tests"
 ---
 
 # ggml_get_name
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Used By
 
@@ -25,10 +25,10 @@ community: "ggml"
 - [[nodes/print_tensor_info]] _calls_
 - [[nodes/build_mock_tensors]] _calls_
 - [[nodes/run_test_section]] _calls_
-- [[nodes/init_set_rows_row_ids]] _calls_
-- [[nodes/tensor_seed]] _calls_
-- [[nodes/tensor_range]] _calls_
 - [[nodes/ggml_graph_print]] _calls_
 - [[nodes/is_matmul_weight]] _calls_
 - [[nodes/ggml_metal_op_encode_impl]] _calls_
+- [[nodes/init_set_rows_row_ids]] _calls_
+- [[nodes/tensor_seed]] _calls_
+- [[nodes/tensor_range]] _calls_
 - [[nodes/is_mul_mat_id_expert_weight]] _calls_

@@ -2,14 +2,14 @@
 name: "max_maa_err"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "tests"
+community: "ggml"
 ---
 
 # max_maa_err
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

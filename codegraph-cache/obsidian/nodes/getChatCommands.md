@@ -1,21 +1,17 @@
 ---
 name: "getChatCommands"
 type: "function"
-file: "tools/ui/src/lib/utils/chat-commands.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/chat-commands.ts"
+community: "build-sycl-2025"
 ---
 
 # getChatCommands
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/chat-commands.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/chat-commands.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
 - [[nodes/types]] _imports_
-
-## Used By
-
-- [[nodes/useChatFormPickers]] _calls_

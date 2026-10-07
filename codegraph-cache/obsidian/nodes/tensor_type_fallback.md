@@ -2,14 +2,14 @@
 name: "tensor_type_fallback"
 type: "function"
 file: "src/llama-quant.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # tensor_type_fallback
 
 **Type:** `function`  **File:** `src/llama-quant.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

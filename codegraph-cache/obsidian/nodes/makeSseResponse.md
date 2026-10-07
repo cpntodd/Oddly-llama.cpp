@@ -1,13 +1,13 @@
 ---
 name: "makeSseResponse"
 type: "function"
-file: "tools/ui/tests/unit/sse.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/sse.test.ts"
 community: "tools"
 ---
 
 # makeSseResponse
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/sse.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/sse.test.ts`
 
 **Community:** [[communities/tools]]
 
@@ -18,4 +18,3 @@ community: "tools"
 - [[nodes/it]] _calls_
 - [[nodes/expect]] _calls_
 - [[nodes/slice]] _calls_
-- [[nodes/close]] _calls_

@@ -1,12 +1,12 @@
 ---
 name: "ActionIconCopyToClipboard.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/actions/ActionIconCopyToClipboard.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/actions/ActionIconCopyToClipboard.svelte"
+community: "build-sycl-2025"
 ---
 
 # ActionIconCopyToClipboard.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/actions/ActionIconCopyToClipboard.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/actions/ActionIconCopyToClipboard.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

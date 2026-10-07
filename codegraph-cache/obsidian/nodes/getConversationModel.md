@@ -1,23 +1,16 @@
 ---
 name: "getConversationModel"
 type: "function"
-file: "tools/ui/src/lib/utils/conversation-utils.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/conversation-utils.ts"
+community: "build-sycl-2025"
 ---
 
 # getConversationModel
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/conversation-utils.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/conversation-utils.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/types]] _imports_
-
-## Used By
-
-- [[nodes/ModelsStore]] _imports_
-- [[nodes/handler]] _calls_
-- [[nodes/useChatScreenActiveModel]] _calls_
-- [[nodes/useReasoningMenu]] _calls_

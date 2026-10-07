@@ -18,7 +18,6 @@ community: "examples"
 - [[nodes/skip]] _calls_
 - [[nodes/read_str]] _calls_
 - [[nodes/gguf_skip_value]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

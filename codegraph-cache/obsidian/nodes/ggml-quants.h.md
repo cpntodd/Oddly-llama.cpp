@@ -27,6 +27,6 @@ community: "ggml"
 - [[nodes/quantize_row_q8_0]] _imports_
 - [[nodes/utils]] _imports_
 - [[nodes/unpack_32_4]] _imports_
+- [[nodes/ggml_hexagon_dump_op_exec]] _imports_
 - [[nodes/is_inplace_op]] _imports_
 - [[nodes/ggml_backend_openvino_buffer_context]] _imports_
-- [[nodes/ggml_hexagon_dump_op_exec]] _imports_

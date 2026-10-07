@@ -16,7 +16,6 @@ community: "common"
 - [[nodes/func_args]] _calls_
 - [[nodes/exec_statements]] _calls_
 - [[nodes/gather_string_parts_recursive]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/string]] _calls_
 
 ## Used By

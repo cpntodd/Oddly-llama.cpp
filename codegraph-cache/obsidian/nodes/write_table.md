@@ -2,14 +2,14 @@
 name: "write_table"
 type: "function"
 file: "examples/gen-docs/gen-docs.cpp"
-community: "common"
+community: "examples"
 ---
 
 # write_table
 
 **Type:** `function`  **File:** `examples/gen-docs/gen-docs.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/examples]]
 
 ## Depends On
 

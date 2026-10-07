@@ -18,14 +18,13 @@ community: "ggml"
 - [[nodes/ggml-backend-impl.h]] _imports_
 - [[nodes/ggml_up32]] _imports_
 - [[nodes/getenv]] _calls_
-- [[nodes/exit]] _calls_
 
 ## Used By
 
+- [[nodes/ggml_sycl_count_equal]] _calls_
+- [[nodes/t2f32]] _calls_
+- [[nodes/max]] _calls_
 - [[nodes/bad_arch]] _calls_
 - [[nodes/ggml_sycl_get_device]] _calls_
 - [[nodes/next_power_of_2]] _calls_
 - [[nodes/ggml_sycl_argmax]] _calls_
-- [[nodes/ggml_sycl_count_equal]] _calls_
-- [[nodes/t2f32]] _calls_
-- [[nodes/max]] _calls_

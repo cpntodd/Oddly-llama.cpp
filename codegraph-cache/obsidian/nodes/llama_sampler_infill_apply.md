@@ -15,3 +15,4 @@ community: "src"
 
 - [[nodes/llama_sampler_softmax_impl]] _calls_
 - [[nodes/size]] _calls_
+- [[nodes/swap]] _calls_

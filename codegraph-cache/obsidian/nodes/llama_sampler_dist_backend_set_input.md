@@ -2,14 +2,14 @@
 name: "llama_sampler_dist_backend_set_input"
 type: "function"
 file: "src/llama-sampler.cpp"
-community: "src"
+community: "tests"
 ---
 
 # llama_sampler_dist_backend_set_input
 
 **Type:** `function`  **File:** `src/llama-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

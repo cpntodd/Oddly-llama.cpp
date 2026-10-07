@@ -19,10 +19,6 @@ community: "ggml"
 - [[nodes/tensor_type_fallback]] _calls_
 - [[nodes/llama_tensor_get_type_impl]] _calls_
 - [[nodes/llama_context_default_params]] _calls_
-- [[nodes/if]] _calls_
-- [[nodes/init_tensor_tril]] _calls_
-- [[nodes/init_mul_mat_id_tensors]] _calls_
-- [[nodes/is_non_contiguous]] _calls_
 - [[nodes/expect_context_not_null]] _calls_
 - [[nodes/read_buffer_callback]] _calls_
 - [[nodes/get_random_gguf_context]] _calls_
@@ -43,3 +39,7 @@ community: "ggml"
 - [[nodes/ggml_calc_pool_output_size]] _calls_
 - [[nodes/ggml_set_f32_nd]] _calls_
 - [[nodes/incr_ptr_aligned]] _calls_
+- [[nodes/ggml_wrap_index]] _calls_
+- [[nodes/ggml_backend_cpu_riscv64_spacemit_nbytes]] _calls_
+- [[nodes/ggml_backend_rpc_get_device_memory]] _calls_
+- [[nodes/if]] _calls_

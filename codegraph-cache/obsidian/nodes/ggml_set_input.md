@@ -2,14 +2,14 @@
 name: "ggml_set_input"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "src"
+community: "tools"
 ---
 
 # ggml_set_input
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

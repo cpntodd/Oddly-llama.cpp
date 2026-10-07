@@ -1,12 +1,12 @@
 ---
 name: "BadgesModality.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/badges/BadgesModality.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/badges/BadgesModality.svelte"
+community: "build-sycl-2025"
 ---
 
 # BadgesModality.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/badges/BadgesModality.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/badges/BadgesModality.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

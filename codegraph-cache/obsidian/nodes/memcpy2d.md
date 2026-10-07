@@ -15,8 +15,6 @@ community: "ggml"
 
 - [[nodes/memcpy1d]] _calls_
 - [[nodes/flash_attn_ext_supported_shape_vlen1024_vf16]] _calls_
-- [[nodes/floor]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/rvv_zero_f32]] _calls_
 - [[nodes/rvv_softcap_tanh_inplace_f32]] _calls_

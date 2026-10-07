@@ -17,6 +17,7 @@ community: "ggml"
 - [[nodes/backend_filename_extension]] _calls_
 - [[nodes/get_executable_path]] _calls_
 - [[nodes/path_str]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/load_backend]] _calls_
 
 ## Used By

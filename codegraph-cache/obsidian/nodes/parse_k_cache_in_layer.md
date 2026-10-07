@@ -21,6 +21,3 @@ community: "ggml"
 - [[nodes/assign]] _calls_
 - [[nodes/ggml_fp16_to_fp32_row]] _calls_
 - [[nodes/ggml_bf16_to_fp32_row]] _calls_
-- [[nodes/finalize]] _calls_
-- [[nodes/at]] _calls_
-- [[nodes/move]] _calls_

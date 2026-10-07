@@ -2,14 +2,14 @@
 name: "mtmd_input_part"
 type: "class"
 file: "tools/mtmd/mtmd-internal.h"
-community: "common"
+community: "tools"
 ---
 
 # mtmd_input_part
 
 **Type:** `class`  **File:** `tools/mtmd/mtmd-internal.h`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

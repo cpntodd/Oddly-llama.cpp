@@ -2,18 +2,17 @@
 name: "bench"
 type: "function"
 file: "tests/test-sampling.cpp"
-community: "common"
+community: "tests"
 ---
 
 # bench
 
 **Type:** `function`  **File:** `tests/test-sampling.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
-- [[nodes/copy]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/llama_sampler_apply]] _calls_
 - [[nodes/llama_sampler_reset]] _calls_

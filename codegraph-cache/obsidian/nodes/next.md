@@ -1,21 +1,24 @@
 ---
 name: "next"
 type: "function"
-file: "ggml/src/ggml-webgpu/pre_wgsl.hpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js"
+community: "build-sycl-2025"
 ---
 
 # next
 
-**Type:** `function`  **File:** `ggml/src/ggml-webgpu/pre_wgsl.hpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/skipWS]] _calls_
-- [[nodes/string]] _calls_
+- [[nodes/subtractSmall]] _calls_
+- [[nodes/BigInteger]] _calls_
+- [[nodes/addSmall]] _calls_
+- [[nodes/SmallInteger]] _calls_
+- [[nodes/NativeBigInt]] _calls_
 
 ## Used By
 
-- [[nodes/advance]] _calls_
+- [[nodes/toBase]] _calls_

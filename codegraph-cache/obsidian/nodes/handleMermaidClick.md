@@ -1,18 +1,17 @@
 ---
 name: "handleMermaidClick"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts"
+community: "build-sycl-2025"
 ---
 
 # handleMermaidClick
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/copyToClipboard]] _calls_
 - [[nodes/setMermaidPreviewSvgHtml]] _calls_
 - [[nodes/setMermaidPreviewOpen]] _calls_

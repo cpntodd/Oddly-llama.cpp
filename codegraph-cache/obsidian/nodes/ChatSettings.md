@@ -1,15 +1,15 @@
 ---
 name: "ChatSettings"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-settings-navigation.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-settings-navigation.svelte.ts"
+community: "build-vulkan-gcc"
 ---
 
 # ChatSettings
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-settings-navigation.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-settings-navigation.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 

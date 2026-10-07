@@ -1,13 +1,13 @@
 ---
 name: "current"
 type: "function"
-file: "tools/ui/tests/client/settings-registry-invariants.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/settings-registry-invariants.svelte.test.ts"
 community: "tools"
 ---
 
 # current
 
-**Type:** `function`  **File:** `tools/ui/tests/client/settings-registry-invariants.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/settings-registry-invariants.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

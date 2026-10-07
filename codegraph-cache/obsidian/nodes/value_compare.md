@@ -11,10 +11,6 @@ community: "common"
 
 **Community:** [[communities/common]]
 
-## Depends On
-
-- [[nodes/cmp]] _calls_
-
 ## Used By
 
 - [[nodes/is_val]] _calls_

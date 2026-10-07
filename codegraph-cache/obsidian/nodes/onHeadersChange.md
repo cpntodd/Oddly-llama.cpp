@@ -1,13 +1,13 @@
 ---
 name: "onHeadersChange"
 type: "function"
-file: "tools/ui/tests/client/mcp-display-name.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/mcp-display-name.svelte.test.ts"
 community: "tools"
 ---
 
 # onHeadersChange
 
-**Type:** `function`  **File:** `tools/ui/tests/client/mcp-display-name.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/mcp-display-name.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

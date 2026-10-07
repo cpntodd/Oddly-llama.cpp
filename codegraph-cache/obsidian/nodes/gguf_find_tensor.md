@@ -25,10 +25,10 @@ community: "ggml"
 - [[nodes/llama_model_saver_supports_arch]] _calls_
 - [[nodes/llama_adapter_lora_init_impl]] _calls_
 - [[nodes/llama_model_quantize_impl]] _calls_
-- [[nodes/common_speculative_type_from_name]] _calls_
 - [[nodes/handcrafted_check_tensors]] _calls_
 - [[nodes/handcrafted_check_tensor_data]] _calls_
 - [[nodes/all_tensors_in_other]] _calls_
 - [[nodes/gguf_set_kv]] _calls_
 - [[nodes/gguf_set_tensor_type]] _calls_
 - [[nodes/gguf_set_tensor_data]] _calls_
+- [[nodes/common_speculative_type_from_name]] _calls_

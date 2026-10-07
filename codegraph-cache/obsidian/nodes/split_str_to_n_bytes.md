@@ -2,18 +2,14 @@
 name: "split_str_to_n_bytes"
 type: "function"
 file: "tools/gguf-split/gguf-split.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # split_str_to_n_bytes
 
 **Type:** `function`  **File:** `tools/gguf-split/gguf-split.cpp`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/back]] _calls_
+**Community:** [[communities/ggml]]
 
 ## Used By
 

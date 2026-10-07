@@ -2,14 +2,14 @@
 name: "ggml_compute_forward_opt_step_sgd_f32"
 type: "function"
 file: "ggml/src/ggml-cpu/ops.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # ggml_compute_forward_opt_step_sgd_f32
 
 **Type:** `function`  **File:** `ggml/src/ggml-cpu/ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

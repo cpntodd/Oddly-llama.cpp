@@ -2,14 +2,14 @@
 name: "llama_token_sep"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_token_sep
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

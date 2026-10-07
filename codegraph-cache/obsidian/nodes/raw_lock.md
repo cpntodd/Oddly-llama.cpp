@@ -2,14 +2,14 @@
 name: "raw_lock"
 type: "function"
 file: "src/llama-mmap.cpp"
-community: "ggml"
+community: "build-intel-all"
 ---
 
 # raw_lock
 
 **Type:** `function`  **File:** `src/llama-mmap.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-intel-all]]
 
 ## Used By
 

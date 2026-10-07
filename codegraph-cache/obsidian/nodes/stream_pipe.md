@@ -13,9 +13,7 @@ community: "tools"
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/stream_pipe_producer]] _calls_
-- [[nodes/finalize]] _calls_
 - [[nodes/write]] _calls_
 - [[nodes/append]] _calls_
 - [[nodes/create]] _calls_

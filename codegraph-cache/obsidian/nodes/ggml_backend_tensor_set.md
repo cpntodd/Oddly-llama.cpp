@@ -2,14 +2,14 @@
 name: "ggml_backend_tensor_set"
 type: "function"
 file: "ggml/src/ggml-backend.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # ggml_backend_tensor_set
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
@@ -35,15 +35,15 @@ community: "ggml"
 - [[nodes/dsv4_set_i32]] _calls_
 - [[nodes/needs_raw_logits]] _calls_
 - [[nodes/llama_set_param]] _calls_
-- [[nodes/init_tensor_uniform]] _calls_
+- [[nodes/get_random_gguf_context]] _calls_
+- [[nodes/set_tensor_data]] _calls_
 - [[nodes/if]] _calls_
-- [[nodes/init_tensor_kq_mask]] _calls_
-- [[nodes/init_tensor_tril]] _calls_
-- [[nodes/print_test_result_locked]] _calls_
-- [[nodes/eval_grad]] _calls_
-- [[nodes/init_set_rows_row_ids]] _calls_
-- [[nodes/tensor_range]] _calls_
-- [[nodes/n_cache_rows]] _calls_
-- [[nodes/blk]] _calls_
-- [[nodes/init_mul_mat_id_tensors]] _calls_
-- [[nodes/is_non_contiguous]] _calls_
+- [[nodes/helper_get_test_opt_pars]] _calls_
+- [[nodes/print_ok]] _calls_
+- [[nodes/if]] _calls_
+- [[nodes/helper_get_regression_opt_pars]] _calls_
+- [[nodes/set_tensor_data]] _calls_
+- [[nodes/ggml_backend_meta_buffer_set_tensor]] _calls_
+- [[nodes/ggml_backend_tensor_set_async]] _calls_
+- [[nodes/ggml_backend_tensor_get]] _calls_
+- [[nodes/ggml_backend_tensor_copy]] _calls_

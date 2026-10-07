@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/u16]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_vec_dot_iq2_xxs_q8_K]] _calls_

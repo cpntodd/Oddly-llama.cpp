@@ -16,7 +16,6 @@ community: "tools"
 - [[nodes/ggml_time_us]] _calls_
 - [[nodes/is_processing]] _calls_
 - [[nodes/metrics_flush_idle]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/t]] _calls_
 - [[nodes/pre_decode]] _calls_
 - [[nodes/render]] _calls_

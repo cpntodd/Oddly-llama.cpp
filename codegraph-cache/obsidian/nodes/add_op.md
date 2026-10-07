@@ -18,5 +18,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/build_sdpa]] _calls_
 - [[nodes/ggml_backend_buffer_is_hexagon_repack]] _calls_
+- [[nodes/ggml_sycl_flash_attn_ext_onednn_supported]] _calls_

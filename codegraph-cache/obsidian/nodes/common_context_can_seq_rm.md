@@ -2,14 +2,14 @@
 name: "common_context_can_seq_rm"
 type: "function"
 file: "common/common.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_context_can_seq_rm
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

@@ -20,10 +20,10 @@ community: "ggml"
 - [[nodes/merge_tensor]] _calls_
 - [[nodes/print_debug_tensor]] _calls_
 - [[nodes/main]] _calls_
-- [[nodes/matches_filter]] _calls_
 - [[nodes/make_context]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/test_barrier]] _calls_
 - [[nodes/test_active]] _calls_
 - [[nodes/test_multi_graph]] _calls_
 - [[nodes/main]] _calls_
+- [[nodes/matches_filter]] _calls_

@@ -2,14 +2,14 @@
 name: "test_convert_responses_to_chatcmpl"
 type: "function"
 file: "tests/test-chat.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # test_convert_responses_to_chatcmpl
 
 **Type:** `function`  **File:** `tests/test-chat.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
@@ -17,7 +17,6 @@ community: "tools"
 - [[nodes/parse]] _calls_
 - [[nodes/server_chat_convert_responses_to_chatcmpl]] _calls_
 - [[nodes/assert_equals]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/string]] _calls_
 
 ## Used By

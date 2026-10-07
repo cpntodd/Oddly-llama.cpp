@@ -2,14 +2,14 @@
 name: "n_tokens"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "src"
+community: "tools"
 ---
 
 # n_tokens
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

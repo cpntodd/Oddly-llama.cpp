@@ -1,12 +1,12 @@
 ---
 name: "McpResourcePreview.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/mcp/McpResourcePreview.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpResourcePreview.svelte"
+community: "build-sycl-2025"
 ---
 
 # McpResourcePreview.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/mcp/McpResourcePreview.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpResourcePreview.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

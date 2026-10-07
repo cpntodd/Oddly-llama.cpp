@@ -1,18 +1,22 @@
 ---
 name: "trim"
 type: "function"
-file: "ggml/src/ggml-webgpu/pre_wgsl.hpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js"
+community: "build-sycl-2025"
 ---
 
 # trim
 
-**Type:** `function`  **File:** `ggml/src/ggml-webgpu/pre_wgsl.hpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
-- [[nodes/trim_value]] _calls_
-- [[nodes/parseMacroDefinitions]] _calls_
-- [[nodes/condActive]] _calls_
+- [[nodes/arrayToSmall]] _calls_
+- [[nodes/subtract]] _calls_
+- [[nodes/multiplyLong]] _calls_
+- [[nodes/multiplyKaratsuba]] _calls_
+- [[nodes/square]] _calls_
+- [[nodes/divMod2]] _calls_
+- [[nodes/parseStringValue]] _calls_

@@ -1,25 +1,28 @@
 ---
 name: "pow"
 type: "function"
-file: "ggml/src/ggml-sycl/dpct/helper.hpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js"
+community: "build-sycl-2025"
 ---
 
 # pow
 
-**Type:** `function`  **File:** `ggml/src/ggml-sycl/dpct/helper.hpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/min]] _calls_
+- [[nodes/parseValue]] _calls_
+- [[nodes/isEven]] _calls_
+- [[nodes/toString]] _calls_
+- [[nodes/isPrecise]] _calls_
+- [[nodes/SmallInteger]] _calls_
+- [[nodes/truncate]] _calls_
+- [[nodes/square]] _calls_
+- [[nodes/isNegative]] _calls_
+- [[nodes/NativeBigInt]] _calls_
 
 ## Used By
 
-- [[nodes/quantize_row_ptq1_0_ref]] _calls_
-- [[nodes/quantize_row_tq1_0_ref]] _calls_
-- [[nodes/rope_yarn_ramp]] _calls_
-- [[nodes/if]] _calls_
-- [[nodes/debug_get_array_str]] _calls_
-- [[nodes/ggml_sycl_ue4m3_to_fp32]] _calls_
+- [[nodes/isPrime]] _calls_

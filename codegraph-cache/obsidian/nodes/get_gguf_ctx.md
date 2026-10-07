@@ -2,14 +2,14 @@
 name: "get_gguf_ctx"
 type: "function"
 file: "tests/test-llama-archs.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # get_gguf_ctx
 
 **Type:** `function`  **File:** `tests/test-llama-archs.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

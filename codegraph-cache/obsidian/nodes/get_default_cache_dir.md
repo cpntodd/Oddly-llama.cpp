@@ -2,14 +2,14 @@
 name: "get_default_cache_dir"
 type: "function"
 file: "tests/gguf-model-data.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # get_default_cache_dir
 
 **Type:** `function`  **File:** `tests/gguf-model-data.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

@@ -2,14 +2,14 @@
 name: "print_tokenized_prompt"
 type: "function"
 file: "examples/debug/debug.cpp"
-community: "src"
+community: "common"
 ---
 
 # print_tokenized_prompt
 
 **Type:** `function`  **File:** `examples/debug/debug.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

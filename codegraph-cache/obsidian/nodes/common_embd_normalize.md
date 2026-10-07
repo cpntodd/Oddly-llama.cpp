@@ -2,18 +2,14 @@
 name: "common_embd_normalize"
 type: "function"
 file: "common/common.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_embd_normalize
 
 **Type:** `function`  **File:** `common/common.cpp`
 
-**Community:** [[communities/src]]
-
-## Depends On
-
-- [[nodes/sqrt]] _calls_
+**Community:** [[communities/common]]
 
 ## Used By
 

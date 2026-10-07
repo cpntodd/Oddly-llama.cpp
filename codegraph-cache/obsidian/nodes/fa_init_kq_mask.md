@@ -2,14 +2,14 @@
 name: "fa_init_kq_mask"
 type: "function"
 file: "tools/tuning/fa-vec.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # fa_init_kq_mask
 
 **Type:** `function`  **File:** `tools/tuning/fa-vec.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

@@ -1,15 +1,15 @@
 ---
 name: "getMigrationState"
 type: "function"
-file: "tools/ui/src/lib/services/migration.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/migration.service.ts"
+community: "build-intel-all"
 ---
 
 # getMigrationState
 
-**Type:** `function`  **File:** `tools/ui/src/lib/services/migration.service.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/migration.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-intel-all]]
 
 ## Used By
 

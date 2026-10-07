@@ -13,11 +13,9 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/exp]] _calls_
+- [[nodes/sigmoid]] _calls_
 - [[nodes/et_expf]] _calls_
 - [[nodes/et_fdiv]] _calls_
-- [[nodes/tanh]] _calls_
-- [[nodes/sqrt]] _calls_
 
 ## Used By
 

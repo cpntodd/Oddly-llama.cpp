@@ -13,6 +13,7 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/t2_mode]] _calls_
 - [[nodes/ggml_sycl_op_concat]] _calls_
 - [[nodes/ggml_op_name]] _calls_
 - [[nodes/ggml_sycl_mul_mat]] _calls_

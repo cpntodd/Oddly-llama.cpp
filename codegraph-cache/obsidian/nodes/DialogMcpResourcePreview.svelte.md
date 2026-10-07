@@ -1,12 +1,12 @@
 ---
 name: "DialogMcpResourcePreview.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/dialogs/DialogMcpResourcePreview.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogMcpResourcePreview.svelte"
+community: "build-sycl-2025"
 ---
 
 # DialogMcpResourcePreview.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/dialogs/DialogMcpResourcePreview.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/dialogs/DialogMcpResourcePreview.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

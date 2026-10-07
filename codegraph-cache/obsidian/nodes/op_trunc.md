@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/trunc]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_sycl_op_trunc]] _calls_

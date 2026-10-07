@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/webgpu_global_context_struct]] _calls_
 - [[nodes/webgpu_context_struct]] _calls_
 - [[nodes/ggml_backend_webgpu_buffer_context]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

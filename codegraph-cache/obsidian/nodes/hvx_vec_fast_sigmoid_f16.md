@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/hvx_vec_splat_f16]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/hvx_vec_exp2_f16]] _calls_
 - [[nodes/hvx_vec_inverse_f16]] _calls_
 

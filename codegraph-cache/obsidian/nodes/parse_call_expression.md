@@ -13,7 +13,6 @@ community: "common"
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/parse_args]] _calls_
 - [[nodes/parse_member_expression]] _calls_
 - [[nodes/x]] _calls_

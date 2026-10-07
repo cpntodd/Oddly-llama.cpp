@@ -1,12 +1,12 @@
 ---
 name: "readme.ts"
 type: "file"
-file: "tools/ui/tests/stories/fixtures/readme.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/readme.ts"
+community: "build-sycl-2025"
 ---
 
 # readme.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/fixtures/readme.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/readme.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

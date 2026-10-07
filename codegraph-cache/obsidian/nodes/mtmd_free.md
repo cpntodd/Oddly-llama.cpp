@@ -2,14 +2,14 @@
 name: "mtmd_free"
 type: "function"
 file: "tools/mtmd/mtmd.cpp"
-community: "common"
+community: "tools"
 ---
 
 # mtmd_free
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
@@ -19,7 +19,6 @@ community: "common"
 - [[nodes/assign]] _calls_
 - [[nodes/bitmaps]] _calls_
 - [[nodes/string_format]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/expand_lazy_bitmaps]] _calls_
 - [[nodes/tokenize]] _calls_
 

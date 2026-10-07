@@ -25,4 +25,3 @@ community: "ggml"
 - [[nodes/ggml_webgpu_tensor_align_offset]] _calls_
 - [[nodes/ggml_webgpu_tensor_binding_size]] _calls_
 - [[nodes/get_flash_attn_vec_reduce_pipeline]] _calls_
-- [[nodes/move]] _calls_

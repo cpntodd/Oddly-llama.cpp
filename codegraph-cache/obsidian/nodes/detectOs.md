@@ -1,15 +1,15 @@
 ---
 name: "detectOs"
 type: "function"
-file: "tools/ui/src/lib/utils/browser-info.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/browser-info.ts"
+community: "build-sycl-2025"
 ---
 
 # detectOs
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/browser-info.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/browser-info.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

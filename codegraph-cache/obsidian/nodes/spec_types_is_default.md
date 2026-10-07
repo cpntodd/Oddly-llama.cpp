@@ -2,14 +2,14 @@
 name: "spec_types_is_default"
 type: "function"
 file: "common/arg.cpp"
-community: "tests"
+community: "common"
 ---
 
 # spec_types_is_default
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

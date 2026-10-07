@@ -2,14 +2,14 @@
 name: "file_is_empty"
 type: "function"
 file: "tools/completion/completion.cpp"
-community: "src"
+community: "tests"
 ---
 
 # file_is_empty
 
 **Type:** `function`  **File:** `tools/completion/completion.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

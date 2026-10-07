@@ -21,7 +21,7 @@ community: "common"
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/common_grammar_builder]] _imports_
 - [[nodes/common_json_item]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/value_t]] _imports_
 - [[nodes/statement]] _imports_
 - [[nodes/caps]] _imports_

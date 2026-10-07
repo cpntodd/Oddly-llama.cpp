@@ -13,8 +13,8 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/ggml_sycl_flash_attn_ext_dec_supported]] _calls_
 - [[nodes/ggml_sycl_flash_attn_ext_onednn_supported]] _calls_
-- [[nodes/enabled]] _calls_
 - [[nodes/ggml_sycl_get_env]] _calls_
 - [[nodes/ggml_is_quantized]] _calls_
 

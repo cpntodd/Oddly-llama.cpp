@@ -15,4 +15,3 @@ community: "ggml"
 
 - [[nodes/max]] _calls_
 - [[nodes/ggml_backend_sycl_buffer_context]] _calls_
-- [[nodes/exit]] _calls_

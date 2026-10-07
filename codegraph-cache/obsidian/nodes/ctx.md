@@ -2,14 +2,14 @@
 name: "ctx"
 type: "function"
 file: "tools/mtmd/mtmd.cpp"
-community: "common"
+community: "tools"
 ---
 
 # ctx
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

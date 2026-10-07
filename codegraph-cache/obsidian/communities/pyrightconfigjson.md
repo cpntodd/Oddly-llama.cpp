@@ -1,5 +1,5 @@
 ---
-community_id: 2864
+community_id: 8003
 label: "pyrightconfig.json"
 members: 1
 cohesion: 1.0

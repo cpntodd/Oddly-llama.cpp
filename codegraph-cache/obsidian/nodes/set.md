@@ -2,14 +2,14 @@
 name: "set"
 type: "function"
 file: "src/llama-model-loader.cpp"
-community: "tools"
+community: "build-sycl-2025"
 ---
 
 # set
 
 **Type:** `function`  **File:** `src/llama-model-loader.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

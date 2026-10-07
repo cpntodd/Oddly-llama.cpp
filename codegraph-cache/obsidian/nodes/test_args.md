@@ -18,7 +18,6 @@ community: "src"
 - [[nodes/llama_model_deleter]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/map]] _imports_
-- [[nodes/random]] _imports_
 - [[nodes/jinja]] _imports_
 
 ## Used By

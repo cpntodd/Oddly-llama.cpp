@@ -2,14 +2,14 @@
 name: "llama_sampler_top_p_free"
 type: "function"
 file: "src/llama-sampler.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # llama_sampler_top_p_free
 
 **Type:** `function`  **File:** `src/llama-sampler.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

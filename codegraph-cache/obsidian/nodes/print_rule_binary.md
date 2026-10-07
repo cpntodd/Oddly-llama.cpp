@@ -15,12 +15,9 @@ community: "src"
 
 - [[nodes/print_grammar_char]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/is_char_element]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/symbol]] _calls_
 - [[nodes/insert]] _calls_
 - [[nodes/is_word_char]] _calls_
 - [[nodes/is_digit_char]] _calls_

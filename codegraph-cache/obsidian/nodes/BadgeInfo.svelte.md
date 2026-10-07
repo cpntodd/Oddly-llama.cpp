@@ -1,12 +1,12 @@
 ---
 name: "BadgeInfo.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/badges/BadgeInfo.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/badges/BadgeInfo.svelte"
+community: "build-sycl-2025"
 ---
 
 # BadgeInfo.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/badges/BadgeInfo.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/badges/BadgeInfo.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

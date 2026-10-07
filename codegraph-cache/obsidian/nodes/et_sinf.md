@@ -14,8 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/et_fdiv]] _calls_
-- [[nodes/sin]] _calls_
-- [[nodes/cos]] _calls_
 
 ## Used By
 

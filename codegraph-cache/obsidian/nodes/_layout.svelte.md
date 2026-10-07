@@ -1,12 +1,12 @@
 ---
 name: "+layout.svelte"
 type: "file"
-file: "tools/ui/src/routes/(chat)/+layout.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/routes/(chat)/+layout.svelte"
+community: "build-sycl-2025"
 ---
 
 # +layout.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/routes/(chat)/+layout.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/routes/(chat)/+layout.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

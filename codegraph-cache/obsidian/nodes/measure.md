@@ -1,23 +1,21 @@
 ---
 name: "measure"
 type: "function"
-file: "tools/ui/tests/client/agentic-stream.perf.svelte.test.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts"
+community: "build-sycl-2025"
 ---
 
 # measure
 
-**Type:** `function`  **File:** `tools/ui/tests/client/agentic-stream.perf.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/buildFixture]] _calls_
-- [[nodes/render]] _calls_
 - [[nodes/nextFrame]] _calls_
 - [[nodes/reduce]] _calls_
-- [[nodes/floor]] _calls_
 
 ## Used By
 

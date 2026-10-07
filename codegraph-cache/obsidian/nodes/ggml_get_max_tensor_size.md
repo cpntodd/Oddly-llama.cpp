@@ -2,14 +2,14 @@
 name: "ggml_get_max_tensor_size"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "ggml"
+community: "tests"
 ---
 
 # ggml_get_max_tensor_size
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

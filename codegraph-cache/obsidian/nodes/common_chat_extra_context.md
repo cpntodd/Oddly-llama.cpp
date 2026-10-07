@@ -20,7 +20,6 @@ community: "common"
 - [[nodes/trim_all_content]] _calls_
 - [[nodes/render_message_to_json]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/map_developer_role_to_system]] _calls_
 - [[nodes/system_message_not_supported]] _calls_
@@ -28,10 +27,8 @@ community: "common"
 - [[nodes/func_args_not_string]] _calls_
 - [[nodes/parse]] _calls_
 - [[nodes/build_chat_peg_parser]] _calls_
-- [[nodes/save]] _calls_
 - [[nodes/analyze_template]] _calls_
 - [[nodes/add]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/trim_whitespace]] _calls_
 - [[nodes/dump]] _calls_
 - [[nodes/string]] _calls_
@@ -39,5 +36,4 @@ community: "common"
 - [[nodes/buf]] _calls_
 - [[nodes/json_schema_to_grammar]] _calls_
 - [[nodes/common_chat_msgs_to_json_oaicompat]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/to_map]] _calls_

@@ -1,15 +1,15 @@
 ---
 name: "setRenderedBlocks"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts"
-community: "src"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts"
+community: "tools"
 ---
 
 # setRenderedBlocks
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

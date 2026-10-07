@@ -2,14 +2,14 @@
 name: "hash_print_usage"
 type: "function"
 file: "examples/gguf-hash/gguf-hash.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # hash_print_usage
 
 **Type:** `function`  **File:** `examples/gguf-hash/gguf-hash.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

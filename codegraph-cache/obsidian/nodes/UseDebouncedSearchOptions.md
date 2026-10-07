@@ -1,13 +1,13 @@
 ---
 name: "UseDebouncedSearchOptions"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-debounced-search.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-debounced-search.svelte.ts"
 community: "tools"
 ---
 
 # UseDebouncedSearchOptions
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-debounced-search.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-debounced-search.svelte.ts`
 
 **Community:** [[communities/tools]]
 

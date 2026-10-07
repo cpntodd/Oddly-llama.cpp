@@ -1,21 +1,25 @@
 ---
 name: "clone"
 type: "function"
-file: "tools/mtmd/mtmd.cpp"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # clone
 
-**Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
+
+## Depends On
+
+- [[nodes/div]] _calls_
+- [[nodes/exp]] _calls_
+- [[nodes/floor]] _calls_
+- [[nodes/finalise]] _calls_
+- [[nodes/hypot]] _calls_
+- [[nodes/sqrt]] _calls_
 
 ## Used By
 
-- [[nodes/has_mtmd]] _calls_
-- [[nodes/json_value]] _calls_
-- [[nodes/copy_state_to]] _calls_
-- [[nodes/mtmd_batch_encode_impl]] _calls_
-- [[nodes/mtmd_input_chunk_get_n_pos]] _calls_
-- [[nodes/clip_log_internal]] _calls_
+- [[nodes/sum]] _calls_

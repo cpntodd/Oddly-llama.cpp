@@ -2,14 +2,14 @@
 name: "test_vec_dot_q"
 type: "function"
 file: "tests/test-quantize-fns.cpp"
-community: "tests"
+community: "pocs"
 ---
 
 # test_vec_dot_q
 
 **Type:** `function`  **File:** `tests/test-quantize-fns.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/pocs]]
 
 ## Depends On
 

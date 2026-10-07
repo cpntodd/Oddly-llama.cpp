@@ -2,14 +2,14 @@
 name: "decode_helper"
 type: "function"
 file: "tools/perplexity/perplexity.cpp"
-community: "src"
+community: "common"
 ---
 
 # decode_helper
 
 **Type:** `function`  **File:** `tools/perplexity/perplexity.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

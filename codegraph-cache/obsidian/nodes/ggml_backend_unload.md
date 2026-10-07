@@ -2,14 +2,14 @@
 name: "ggml_backend_unload"
 type: "function"
 file: "ggml/src/ggml-backend-reg.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # ggml_backend_unload
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend-reg.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

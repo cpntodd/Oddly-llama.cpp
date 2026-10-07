@@ -2,14 +2,14 @@
 name: "make_cpu_buft_list"
 type: "function"
 file: "src/llama-model.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # make_cpu_buft_list
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

@@ -14,7 +14,6 @@ community: "src"
 ## Depends On
 
 - [[nodes/llama_token_data_array_partial_sort]] _calls_
-- [[nodes/copy]] _calls_
 
 ## Used By
 

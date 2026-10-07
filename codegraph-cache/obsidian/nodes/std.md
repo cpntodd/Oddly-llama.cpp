@@ -1,16 +1,12 @@
 ---
 name: "std"
 type: "class"
-file: "ggml/src/ggml-sycl/sycl_hw.cpp"
-community: "ggml"
+file: "build-sycl-2025/ggml/src/ggml-sycl/check_package_IntelSYCL/CMakeFiles/TESTSYCL/sycl_features.cpp"
+community: "build-sycl-2025"
 ---
 
 # std
 
-**Type:** `class`  **File:** `ggml/src/ggml-sycl/sycl_hw.cpp`
+**Type:** `class`  **File:** `build-sycl-2025/ggml/src/ggml-sycl/check_package_IntelSYCL/CMakeFiles/TESTSYCL/sycl_features.cpp`
 
-**Community:** [[communities/ggml]]
-
-## Depends On
-
-- [[nodes/syclex]] _imports_
+**Community:** [[communities/build-sycl-2025]]

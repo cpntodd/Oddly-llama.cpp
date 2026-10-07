@@ -2,14 +2,14 @@
 name: "test_task_assembly"
 type: "function"
 file: "tests/test-model-resolution.cpp"
-community: "tests"
+community: "common"
 ---
 
 # test_task_assembly
 
 **Type:** `function`  **File:** `tests/test-model-resolution.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

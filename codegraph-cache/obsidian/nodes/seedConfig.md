@@ -1,13 +1,13 @@
 ---
 name: "seedConfig"
 type: "function"
-file: "tools/ui/tests/client/settings-render-keys-migration.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/settings-render-keys-migration.svelte.test.ts"
 community: "tools"
 ---
 
 # seedConfig
 
-**Type:** `function`  **File:** `tools/ui/tests/client/settings-render-keys-migration.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/settings-render-keys-migration.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 
@@ -17,7 +17,6 @@ community: "tools"
 - [[nodes/Migration]] _imports_
 - [[nodes/index.ts]] _imports_
 - [[nodes/vitest.shims.d.ts]] _imports_
-- [[nodes/stringify]] _calls_
 - [[nodes/run]] _calls_
 
 ## Used By

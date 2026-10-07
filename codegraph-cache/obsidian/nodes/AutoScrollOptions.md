@@ -1,20 +1,16 @@
 ---
 name: "AutoScrollOptions"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-auto-scroll.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-auto-scroll.svelte.ts"
+community: "build-vulkan-gcc"
 ---
 
 # AutoScrollOptions
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-auto-scroll.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-auto-scroll.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
-
-## Used By
-
-- [[nodes/useChatScreenScroll]] _imports_

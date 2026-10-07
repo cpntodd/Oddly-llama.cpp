@@ -1,13 +1,13 @@
 ---
 name: "createLiteralChildren"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/remark/literal-html.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/remark/literal-html.ts"
 community: "tools"
 ---
 
 # createLiteralChildren
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/remark/literal-html.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/remark/literal-html.ts`
 
 **Community:** [[communities/tools]]
 

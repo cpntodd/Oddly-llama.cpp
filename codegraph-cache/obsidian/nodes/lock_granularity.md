@@ -2,14 +2,14 @@
 name: "lock_granularity"
 type: "function"
 file: "src/llama-mmap.cpp"
-community: "ggml"
+community: "build-intel-all"
 ---
 
 # lock_granularity
 
 **Type:** `function`  **File:** `src/llama-mmap.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-intel-all]]
 
 ## Used By
 

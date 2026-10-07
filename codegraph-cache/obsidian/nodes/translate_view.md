@@ -17,4 +17,3 @@ community: "ggml"
 - [[nodes/create]] _calls_
 - [[nodes/the]] _calls_
 - [[nodes/rename_outputs_with_suffix]] _calls_
-- [[nodes/back]] _calls_

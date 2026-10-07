@@ -15,7 +15,6 @@ community: "tests"
 
 - [[nodes/accept_prompt]] _calls_
 - [[nodes/llama_sampler_accept]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/string]] _calls_
 - [[nodes/find_backend_logit]] _calls_
 

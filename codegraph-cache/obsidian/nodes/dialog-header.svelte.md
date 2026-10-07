@@ -1,12 +1,12 @@
 ---
 name: "dialog-header.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/dialog/dialog-header.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/dialog/dialog-header.svelte"
+community: "build-sycl-2025"
 ---
 
 # dialog-header.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/dialog/dialog-header.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/dialog/dialog-header.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

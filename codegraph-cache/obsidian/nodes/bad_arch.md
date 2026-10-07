@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/exit]] _calls_
 - [[nodes/get_current_device_id]] _calls_
 
 ## Used By

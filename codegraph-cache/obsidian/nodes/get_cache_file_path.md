@@ -2,14 +2,14 @@
 name: "get_cache_file_path"
 type: "function"
 file: "tests/gguf-model-data.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # get_cache_file_path
 
 **Type:** `function`  **File:** `tests/gguf-model-data.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

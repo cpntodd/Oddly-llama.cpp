@@ -1,12 +1,12 @@
 ---
 name: "parse-exec-shell-status.test.ts"
 type: "file"
-file: "tools/ui/tests/unit/parse-exec-shell-status.test.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/parse-exec-shell-status.test.ts"
+community: "build-sycl-2025"
 ---
 
 # parse-exec-shell-status.test.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/unit/parse-exec-shell-status.test.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/parse-exec-shell-status.test.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

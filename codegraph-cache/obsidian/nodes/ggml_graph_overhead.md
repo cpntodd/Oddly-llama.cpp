@@ -21,9 +21,9 @@ community: "ggml"
 - [[nodes/init_ctx]] _calls_
 - [[nodes/clip_init]] _calls_
 - [[nodes/print_debug_tensor]] _calls_
-- [[nodes/matches_filter]] _calls_
-- [[nodes/show_test_coverage]] _calls_
 - [[nodes/make_context]] _calls_
 - [[nodes/helper_get_test_opt_pars]] _calls_
 - [[nodes/helper_get_regression_opt_pars]] _calls_
 - [[nodes/ggml_et_cpu_compare_init_pre]] _calls_
+- [[nodes/matches_filter]] _calls_
+- [[nodes/show_test_coverage]] _calls_

@@ -2,14 +2,14 @@
 name: "test_state_load"
 type: "function"
 file: "tests/test-save-load-state.cpp"
-community: "src"
+community: "tests"
 ---
 
 # test_state_load
 
 **Type:** `function`  **File:** `tests/test-save-load-state.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
@@ -19,9 +19,7 @@ community: "src"
 - [[nodes/llama_state_load_file]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/common_replay_last_token]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/generate_tokens]] _calls_
-- [[nodes/copy]] _calls_
 
 ## Used By
 

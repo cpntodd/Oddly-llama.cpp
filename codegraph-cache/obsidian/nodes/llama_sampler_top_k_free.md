@@ -2,14 +2,14 @@
 name: "llama_sampler_top_k_free"
 type: "function"
 file: "src/llama-sampler.cpp"
-community: "src"
+community: "tools"
 ---
 
 # llama_sampler_top_k_free
 
 **Type:** `function`  **File:** `src/llama-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

@@ -1,13 +1,13 @@
 ---
 name: "setServerTools"
 type: "function"
-file: "tools/ui/tests/client/chat-form-mention-picker-gate.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/chat-form-mention-picker-gate.svelte.test.ts"
 community: "tools"
 ---
 
 # setServerTools
 
-**Type:** `function`  **File:** `tools/ui/tests/client/chat-form-mention-picker-gate.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/chat-form-mention-picker-gate.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

@@ -2,14 +2,14 @@
 name: "format_input_text"
 type: "function"
 file: "examples/diffusion/diffusion-cli.cpp"
-community: "tests"
+community: "common"
 ---
 
 # format_input_text
 
 **Type:** `function`  **File:** `examples/diffusion/diffusion-cli.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

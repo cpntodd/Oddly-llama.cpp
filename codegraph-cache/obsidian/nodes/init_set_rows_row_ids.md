@@ -16,6 +16,7 @@ community: "tests"
 - [[nodes/rd]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/ggml_backend_tensor_set]] _calls_
+- [[nodes/view]] _calls_
 - [[nodes/vars]] _calls_
 - [[nodes/test_set_rows]] _calls_
 - [[nodes/op_desc]] _calls_
@@ -42,7 +43,6 @@ community: "tests"
 - [[nodes/permute]] _calls_
 - [[nodes/test_set]] _calls_
 - [[nodes/type_src]] _calls_
-- [[nodes/test_cont]] _calls_
 
 ## Used By
 

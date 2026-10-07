@@ -1,13 +1,13 @@
 ---
 name: "here"
 type: "function"
-file: "tools/ui/tests/unit/agentic-hotpath.bench.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/agentic-hotpath.bench.ts"
 community: "tools"
 ---
 
 # here
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/agentic-hotpath.bench.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/agentic-hotpath.bench.ts`
 
 **Community:** [[communities/tools]]
 

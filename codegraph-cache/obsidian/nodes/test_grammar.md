@@ -2,14 +2,14 @@
 name: "test_grammar"
 type: "function"
 file: "tests/test-grammar-integration.cpp"
-community: "tests"
+community: "tools"
 ---
 
 # test_grammar
 
 **Type:** `function`  **File:** `tests/test-grammar-integration.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

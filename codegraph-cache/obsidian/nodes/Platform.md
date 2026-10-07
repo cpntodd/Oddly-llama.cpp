@@ -1,12 +1,12 @@
 ---
 name: "Platform"
 type: "class"
-file: "scripts/snapdragon/qdc/run_qdc_jobs.py"
-community: "scripts"
+file: "build-sycl-2025/tools/ui/ui-src/src/app.d.ts"
+community: "build-sycl-2025"
 ---
 
 # Platform
 
-**Type:** `class`  **File:** `scripts/snapdragon/qdc/run_qdc_jobs.py`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/app.d.ts`
 
-**Community:** [[communities/scripts]]
+**Community:** [[communities/build-sycl-2025]]

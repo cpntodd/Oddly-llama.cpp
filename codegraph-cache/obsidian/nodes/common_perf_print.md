@@ -2,14 +2,14 @@
 name: "common_perf_print"
 type: "function"
 file: "common/sampling.cpp"
-community: "src"
+community: "common"
 ---
 
 # common_perf_print
 
 **Type:** `function`  **File:** `common/sampling.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

@@ -1,15 +1,15 @@
 ---
 name: "variables"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Solve.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Solve.js"
+community: "build-sycl-2025"
 ---
 
 # variables
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Solve.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Solve.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
@@ -23,8 +23,3 @@ community: "tools"
 - [[nodes/useParserDiv]] _calls_
 - [[nodes/over]] _calls_
 - [[nodes/getValue]] _calls_
-- [[nodes/cast_stmt]] _calls_
-- [[nodes/test]] _calls_
-- [[nodes/ggml_wrap_index]] _calls_
-- [[nodes/entry_point]] _calls_
-- [[nodes/entry_point]] _calls_

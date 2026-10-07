@@ -1,12 +1,12 @@
 ---
 name: "popover.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/popover/popover.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/popover/popover.svelte"
+community: "build-sycl-2025"
 ---
 
 # popover.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/popover/popover.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/popover/popover.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

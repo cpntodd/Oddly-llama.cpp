@@ -14,7 +14,6 @@ community: "tests"
 ## Used By
 
 - [[nodes/llama_sampler_chain_free]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/common_sampler_free]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/add_gumbel_noise]] _calls_
@@ -31,3 +30,5 @@ community: "tests"
 - [[nodes/test_reasoning_budget_clone_mid_forcing]] _calls_
 - [[nodes/test_reasoning_budget_force_manual]] _calls_
 - [[nodes/test_reasoning_budget_end_match]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_
+- [[nodes/flush_deferred]] _calls_

@@ -18,7 +18,6 @@ community: "ggml"
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/ggml-cuda.h]] _imports_
 - [[nodes/ggml_backend_metal_buffer_shared_free_buffer]] _imports_
-- [[nodes/random]] _imports_
 - [[nodes/jinja]] _imports_
 - [[nodes/ggml_type_name]] _calls_
 - [[nodes/ggml_get_f32_nd]] _calls_
@@ -32,7 +31,6 @@ community: "ggml"
 - [[nodes/ggml_backend_tensor_set]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/ggml_nelements]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/ggml_free]] _calls_
 - [[nodes/ggml_backend_buffer_free]] _calls_
 - [[nodes/ggml_backend_free]] _calls_
@@ -43,6 +41,8 @@ community: "ggml"
 - [[nodes/ggml_build_forward_expand]] _calls_
 - [[nodes/ggml_gallocr_alloc_graph]] _calls_
 - [[nodes/ggml_backend_is_cpu]] _calls_
+- [[nodes/ggml_backend_cpu_set_n_threads]] _calls_
+- [[nodes/ggml_backend_graph_compute]] _calls_
 
 ## Used By
 

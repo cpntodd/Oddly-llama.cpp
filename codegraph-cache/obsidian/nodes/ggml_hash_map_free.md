@@ -21,6 +21,7 @@ community: "ggml"
 - [[nodes/ggml_bitset_get]] _calls_
 - [[nodes/ggml_are_same_shape]] _calls_
 - [[nodes/dot]] _calls_
+- [[nodes/view]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/ggml_element_size]] _calls_

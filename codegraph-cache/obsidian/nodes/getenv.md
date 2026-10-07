@@ -2,14 +2,14 @@
 name: "getenv"
 type: "function"
 file: "tools/server/server-http.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # getenv
 
 **Type:** `function`  **File:** `tools/server/server-http.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 
@@ -38,8 +38,8 @@ community: "src"
 - [[nodes/tty_can_use_colors]] _calls_
 - [[nodes/common_get_model_endpoint]] _calls_
 - [[nodes/get_cache_directory]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/read_file]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/print]] _calls_
+- [[nodes/main]] _calls_

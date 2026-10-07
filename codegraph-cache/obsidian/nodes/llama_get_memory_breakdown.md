@@ -2,14 +2,14 @@
 name: "llama_get_memory_breakdown"
 type: "function"
 file: "src/llama-context.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # llama_get_memory_breakdown
 
 **Type:** `function`  **File:** `src/llama-context.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

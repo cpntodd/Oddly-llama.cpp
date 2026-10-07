@@ -2,14 +2,14 @@
 name: "ggml_graph_get_tensor"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "src"
+community: "tools"
 ---
 
 # ggml_graph_get_tensor
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

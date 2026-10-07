@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/close]] _calls_
 - [[nodes/ggml_backend_et_reg_get_device]] _calls_
 
 ## Used By

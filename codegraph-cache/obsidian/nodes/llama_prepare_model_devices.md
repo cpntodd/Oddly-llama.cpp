@@ -24,7 +24,6 @@ community: "src"
 - [[nodes/ggml_backend_dev_type]] _calls_
 - [[nodes/ggml_backend_dev_backend_reg]] _calls_
 - [[nodes/ggml_backend_dev_get_props]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/insert]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/mmap]] _calls_

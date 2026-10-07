@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/exit]] _calls_
-
 ## Used By
 
 - [[nodes/free_aligned_mem_host]] _calls_

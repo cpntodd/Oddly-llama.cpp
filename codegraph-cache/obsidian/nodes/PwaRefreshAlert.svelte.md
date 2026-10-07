@@ -1,12 +1,12 @@
 ---
 name: "PwaRefreshAlert.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/pwa/PwaRefreshAlert.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/pwa/PwaRefreshAlert.svelte"
+community: "build-sycl-2025"
 ---
 
 # PwaRefreshAlert.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/pwa/PwaRefreshAlert.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/pwa/PwaRefreshAlert.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -28,9 +28,9 @@ community: "ggml"
 - [[nodes/hvx_vec_f16_to_f32]] _calls_
 - [[nodes/htp_trace_event_stop]] _calls_
 - [[nodes/K]] _calls_
+- [[nodes/V]] _calls_
 - [[nodes/hvx_vec_exp2_f16]] _calls_
 - [[nodes/hvx_scale_vec_f32_aa]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/hvx_vec_reduce_sum_f32]] _calls_
 - [[nodes/hvx_vec_repl_f16]] _calls_
 - [[nodes/hvx_mad_f32_f16_aa_vec]] _calls_

@@ -1,15 +1,15 @@
 ---
 name: "getToolUi"
 type: "function"
-file: "tools/ui/src/lib/utils/tool-ui.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/tool-ui.ts"
+community: "build-sycl-2025"
 ---
 
 # getToolUi
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/tool-ui.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/tool-ui.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

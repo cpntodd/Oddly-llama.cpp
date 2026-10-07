@@ -13,8 +13,10 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/ggml_sycl_t2_tensor]] _calls_
 - [[nodes/ggml_backend_buffer_is_sycl_split]] _calls_
 - [[nodes/pool]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/ggml_get_glu_op]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/opt_for_reorder_id]] _calls_
@@ -23,7 +25,6 @@ community: "ggml"
 - [[nodes/ggml_sycl_mul_mat]] _calls_
 - [[nodes/min]] _calls_
 - [[nodes/parallel_for]] _calls_
-- [[nodes/exit]] _calls_
 
 ## Used By
 

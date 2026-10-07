@@ -18,9 +18,9 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/eval_grad]] _calls_
 - [[nodes/ggml_hash_map_free]] _calls_
 - [[nodes/ggml_graph_print]] _calls_
 - [[nodes/ggml_graph_get_parent]] _calls_
 - [[nodes/ggml_graph_dump_dot]] _calls_
 - [[nodes/ggml_opt_build]] _calls_
+- [[nodes/eval_grad]] _calls_

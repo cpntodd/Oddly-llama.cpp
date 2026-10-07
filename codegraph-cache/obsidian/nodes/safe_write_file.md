@@ -14,13 +14,13 @@ community: "common"
 ## Depends On
 
 - [[nodes/string]] _calls_
-- [[nodes/close]] _calls_
 - [[nodes/is_valid_hf_token]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/parse]] _calls_
 - [[nodes/error]] _calls_
 - [[nodes/common_get_model_endpoint]] _calls_
 - [[nodes/get_repo_path]] _calls_
+- [[nodes/is_string]] _calls_
 - [[nodes/is_valid_subpath]] _calls_
 - [[nodes/is_valid_commit]] _calls_
 - [[nodes/is_valid_repo_id]] _calls_

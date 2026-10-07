@@ -10,8 +10,3 @@ community: "ggml"
 **Type:** `file`  **File:** `ggml/src/ggml-sycl/ssm_scan.hpp`
 
 **Community:** [[communities/ggml]]
-
-## Used By
-
-- [[nodes/ggml_sycl_init]] _imports_
-- [[nodes/if]] _imports_

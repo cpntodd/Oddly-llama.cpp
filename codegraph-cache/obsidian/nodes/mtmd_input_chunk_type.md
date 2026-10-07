@@ -2,14 +2,14 @@
 name: "mtmd_input_chunk_type"
 type: "class"
 file: "tools/mtmd/mtmd.h"
-community: "src"
+community: "tools"
 ---
 
 # mtmd_input_chunk_type
 
 **Type:** `class`  **File:** `tools/mtmd/mtmd.h`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

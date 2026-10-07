@@ -2,14 +2,14 @@
 name: "fastrpc_mmap"
 type: "function"
 file: "ggml/src/ggml-hexagon/htp-drv.cpp"
-community: "ggml"
+community: "conversion"
 ---
 
 # fastrpc_mmap
 
 **Type:** `function`  **File:** `ggml/src/ggml-hexagon/htp-drv.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/conversion]]
 
 ## Used By
 

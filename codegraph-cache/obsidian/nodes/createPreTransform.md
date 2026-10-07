@@ -1,15 +1,15 @@
 ---
 name: "createPreTransform"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/pre-transform.ts"
-community: "src"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/pre-transform.ts"
+community: "tools"
 ---
 
 # createPreTransform
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/pre-transform.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/pre-transform.ts`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

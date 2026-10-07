@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/append]] _calls_
-- [[nodes/close]] _calls_
 
 ## Used By
 

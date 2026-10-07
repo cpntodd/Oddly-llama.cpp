@@ -46,7 +46,7 @@ community: "ggml"
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/build_mock_tensors]] _calls_
-- [[nodes/matches_filter]] _calls_
-- [[nodes/eval_perf]] _calls_
-- [[nodes/eval_support]] _calls_
-- [[nodes/eval_grad]] _calls_
+- [[nodes/make_context]] _calls_
+- [[nodes/get_random_gguf_context]] _calls_
+- [[nodes/main]] _calls_
+- [[nodes/test_barrier]] _calls_

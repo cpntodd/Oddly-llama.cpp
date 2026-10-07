@@ -2,14 +2,14 @@
 name: "run_remote_tests"
 type: "function"
 file: "tests/test-quant-type-selection.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # run_remote_tests
 
 **Type:** `function`  **File:** `tests/test-quant-type-selection.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

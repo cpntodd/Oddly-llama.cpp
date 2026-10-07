@@ -1,12 +1,12 @@
 ---
 name: "hf-logo.svg"
 type: "file"
-file: "tools/ui/tests/stories/fixtures/assets/hf-logo.svg"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/assets/hf-logo.svg"
+community: "build-sycl-2025"
 ---
 
 # hf-logo.svg
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/fixtures/assets/hf-logo.svg`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/assets/hf-logo.svg`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

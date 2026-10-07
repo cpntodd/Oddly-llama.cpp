@@ -14,11 +14,9 @@ community: "common"
 ## Depends On
 
 - [[nodes/exec_statements]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/slice]] _calls_
 - [[nodes/try_builtin_func]] _calls_
 - [[nodes/ensure_key_type_allowed]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/string]] _calls_
 - [[nodes/get_line_col]] _calls_
 - [[nodes/string_replace_all]] _calls_

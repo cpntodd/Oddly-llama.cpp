@@ -2,14 +2,14 @@
 name: "check_reasoning_variables"
 type: "function"
 file: "tests/test-chat-analysis.cpp"
-community: "common"
+community: "tests"
 ---
 
 # check_reasoning_variables
 
 **Type:** `function`  **File:** `tests/test-chat-analysis.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

@@ -17,8 +17,7 @@ community: "tools"
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/ring_buffer]] _imports_
 - [[nodes/speculative.md]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/llama_update]] _imports_
-- [[nodes/random]] _imports_
 - [[nodes/sycl]] _imports_
 - [[nodes/jinja]] _imports_

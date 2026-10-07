@@ -13,7 +13,6 @@ community: "tools"
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/error]] _calls_
 - [[nodes/format_error_response]] _calls_
 - [[nodes/json_value]] _calls_

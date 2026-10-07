@@ -14,4 +14,5 @@ community: "conversion"
 ## Depends On
 
 - [[nodes/ai_should_log]] _imports_
+- [[nodes/os.h]] _imports_
 - [[nodes/common_json_item]] _imports_

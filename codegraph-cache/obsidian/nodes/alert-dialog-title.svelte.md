@@ -1,12 +1,12 @@
 ---
 name: "alert-dialog-title.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/alert-dialog/alert-dialog-title.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/alert-dialog/alert-dialog-title.svelte"
+community: "build-sycl-2025"
 ---
 
 # alert-dialog-title.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/alert-dialog/alert-dialog-title.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/alert-dialog/alert-dialog-title.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

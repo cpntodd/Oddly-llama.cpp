@@ -1,19 +1,18 @@
 ---
 name: "useContextGauge"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-context-gauge.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-context-gauge.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # useContextGauge
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-context-gauge.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-context-gauge.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/useProcessingState]] _calls_
-- [[nodes/colorLevelFromPercent]] _calls_
 - [[nodes/filterTransientDetails]] _calls_
 - [[nodes/getTechnicalDetails]] _calls_

@@ -27,8 +27,8 @@ community: "ggml"
 - [[nodes/llama_adapter_lora_init_impl]] _calls_
 - [[nodes/ggml_gen_hadamard]] _calls_
 - [[nodes/check_double_bos_eos]] _calls_
-- [[nodes/common_speculative_type_from_name]] _calls_
 - [[nodes/common_imatrix_load]] _calls_
 - [[nodes/load_vocab]] _calls_
 - [[nodes/all_kv_in_other]] _calls_
 - [[nodes/gguf_read_emplace_helper]] _calls_
+- [[nodes/common_speculative_type_from_name]] _calls_

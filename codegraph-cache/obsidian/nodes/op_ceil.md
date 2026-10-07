@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/ceil]] _calls_
-
 ## Used By
 
 - [[nodes/unary_op_ceil_kernel]] _calls_

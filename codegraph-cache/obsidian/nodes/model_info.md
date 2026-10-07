@@ -2,14 +2,14 @@
 name: "model_info"
 type: "function"
 file: "examples/llama.swiftui/llama.cpp.swift/LibLlama.swift"
-community: "examples"
+community: "common"
 ---
 
 # model_info
 
 **Type:** `function`  **File:** `examples/llama.swiftui/llama.cpp.swift/LibLlama.swift`
 
-**Community:** [[communities/examples]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

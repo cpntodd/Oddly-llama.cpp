@@ -19,7 +19,6 @@ community: "ggml"
 - [[nodes/parse_uint_env]] _calls_
 - [[nodes/detect_num_smcus]] _calls_
 - [[nodes/is_sme_family]] _calls_
-- [[nodes/enabled]] _calls_
 - [[nodes/ggml_critical_section_end]] _calls_
 
 ## Used By

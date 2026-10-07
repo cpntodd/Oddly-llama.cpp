@@ -17,5 +17,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/next_power_of_2]] _calls_
 - [[nodes/ggml_sycl_op_out_prod]] _calls_
+- [[nodes/next_power_of_2]] _calls_

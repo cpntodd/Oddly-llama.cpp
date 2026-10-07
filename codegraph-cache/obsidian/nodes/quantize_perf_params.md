@@ -2,14 +2,14 @@
 name: "quantize_perf_params"
 type: "class"
 file: "tests/test-quantize-perf.cpp"
-community: "common"
+community: "ggml"
 ---
 
 # quantize_perf_params
 
 **Type:** `class`  **File:** `tests/test-quantize-perf.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

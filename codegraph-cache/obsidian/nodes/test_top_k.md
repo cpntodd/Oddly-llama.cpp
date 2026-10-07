@@ -1,17 +1,12 @@
 ---
 name: "test_top_k"
-type: "function"
-file: "tests/test-sampling.cpp"
+type: "class"
+file: "tests/test-backend-ops.cpp"
 community: "tests"
 ---
 
 # test_top_k
 
-**Type:** `function`  **File:** `tests/test-sampling.cpp`
+**Type:** `class`  **File:** `tests/test-backend-ops.cpp`
 
 **Community:** [[communities/tests]]
-
-## Depends On
-
-- [[nodes/apply]] _calls_
-- [[nodes/check]] _calls_

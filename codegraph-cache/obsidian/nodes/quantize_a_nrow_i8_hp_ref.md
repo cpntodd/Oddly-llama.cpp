@@ -14,4 +14,3 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/q8_hp_blk_size]] _calls_
-- [[nodes/clamp]] _calls_

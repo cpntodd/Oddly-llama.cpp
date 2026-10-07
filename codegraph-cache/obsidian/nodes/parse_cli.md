@@ -2,18 +2,17 @@
 name: "parse_cli"
 type: "function"
 file: "tests/test-backend-sampler.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # parse_cli
 
 **Type:** `function`  **File:** `tests/test-backend-sampler.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
-- [[nodes/exit]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/backend]] _calls_
 

@@ -2,14 +2,14 @@
 name: "pop"
 type: "function"
 file: "ggml/src/ggml-hexagon/ggml-hexagon.cpp"
-community: "tools"
+community: "build-sycl-2025"
 ---
 
 # pop
 
 **Type:** `function`  **File:** `ggml/src/ggml-hexagon/ggml-hexagon.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -43,9 +43,9 @@ community: "tools"
 - [[nodes/parseOther]] _calls_
 - [[nodes/toStringBinary]] _calls_
 - [[nodes/random]] _calls_
-- [[nodes/tokenize]] _calls_
-- [[nodes/pop_move]] _calls_
-- [[nodes/test_array_methods]] _calls_
-- [[nodes/test_template_cpp]] _calls_
-- [[nodes/ggml_cann_init]] _calls_
-- [[nodes/ggml_backend_buffer_is_hexagon_repack]] _calls_
+- [[nodes/getDisplayOption]] _calls_
+- [[nodes/parseEditFileMeta]] _calls_
+- [[nodes/parseReadMediaMeta]] _calls_
+- [[nodes/parseWriteFileMeta]] _calls_
+- [[nodes/parseReadFileMeta]] _calls_
+- [[nodes/onPageHide]] _calls_

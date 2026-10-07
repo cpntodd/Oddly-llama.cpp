@@ -24,4 +24,3 @@ community: "ggml"
 - [[nodes/ggml_backend_buft_alloc_buffer]] _imports_
 - [[nodes/gguf.py]] _imports_
 - [[nodes/map]] _imports_
-- [[nodes/random]] _imports_

@@ -1,19 +1,18 @@
 ---
 name: "writeConfig"
 type: "function"
-file: "tools/ui/tests/unit/mcp-default-overrides-merge.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-default-overrides-merge.test.ts"
 community: "tools"
 ---
 
 # writeConfig
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/mcp-default-overrides-merge.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-default-overrides-merge.test.ts`
 
 **Community:** [[communities/tools]]
 
 ## Depends On
 
-- [[nodes/stringify]] _calls_
 - [[nodes/it]] _calls_
 - [[nodes/runMigrations]] _calls_
 - [[nodes/readConfig]] _calls_

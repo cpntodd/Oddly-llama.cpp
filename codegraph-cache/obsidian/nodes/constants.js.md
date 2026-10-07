@@ -1,12 +1,12 @@
 ---
 name: "constants.js"
 type: "file"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/constants.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/constants.js"
+community: "build-sycl-2025"
 ---
 
 # constants.js
 
-**Type:** `file`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/constants.js`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/constants.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -1,22 +1,19 @@
 ---
 name: "processFiles"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-chat-screen-file-upload.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-file-upload.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # processFiles
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-chat-screen-file-upload.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-file-upload.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/isFileTypeSupported]] _calls_
-- [[nodes/filterFilesByModalities]] _calls_
 - [[nodes/capabilities]] _calls_
-- [[nodes/processFilesToChatUploaded]] _calls_
 - [[nodes/activeModelId]] _calls_
 
 ## Used By

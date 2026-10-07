@@ -18,3 +18,4 @@ community: "ggml"
 ## Used By
 
 - [[nodes/ggml_sycl_ssm_conv]] _calls_
+- [[nodes/ggml_sycl_ssm_conv_fused]] _calls_

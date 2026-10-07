@@ -1,13 +1,13 @@
 ---
 name: "deriveAgenticSections"
 type: "function"
-file: "tools/ui/src/lib/utils/agentic.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/agentic.ts"
 community: "tools"
 ---
 
 # deriveAgenticSections
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/agentic.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/agentic.ts`
 
 **Community:** [[communities/tools]]
 
@@ -15,9 +15,3 @@ community: "tools"
 
 - [[nodes/deriveSingleTurnSections]] _calls_
 - [[nodes/collectToolMessages]] _calls_
-
-## Used By
-
-- [[nodes/makeToolMsg]] _calls_
-- [[nodes/makeMessage]] _calls_
-- [[nodes/buildApiToolCalls]] _calls_

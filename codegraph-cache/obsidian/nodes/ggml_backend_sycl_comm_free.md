@@ -17,4 +17,5 @@ community: "ggml"
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/realloc]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/parallel_for]] _calls_

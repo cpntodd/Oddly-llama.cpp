@@ -21,7 +21,6 @@ community: "tests"
 - [[nodes/block]] _calls_
 - [[nodes/read_templates]] _calls_
 - [[nodes/string_ends_with]] _calls_
-- [[nodes/foo]] _calls_
 - [[nodes/string]] _calls_
 - [[nodes/test_lfm2_parser]] _calls_
 - [[nodes/only]] _calls_

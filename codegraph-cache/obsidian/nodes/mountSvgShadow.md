@@ -1,12 +1,12 @@
 ---
 name: "mountSvgShadow"
 type: "function"
-file: "tools/ui/src/lib/utils/svg-shadow.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/svg-shadow.ts"
+community: "build-sycl-2025"
 ---
 
 # mountSvgShadow
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/svg-shadow.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/svg-shadow.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

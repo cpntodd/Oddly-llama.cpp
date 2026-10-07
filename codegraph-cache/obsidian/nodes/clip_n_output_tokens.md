@@ -15,8 +15,6 @@ community: "tools"
 
 - [[nodes/nx]] _calls_
 - [[nodes/proj_type]] _calls_
-- [[nodes/sqrt]] _calls_
-- [[nodes/floor]] _calls_
 
 ## Used By
 

@@ -16,4 +16,3 @@ community: "src"
 - [[nodes/llama_sampler_softmax_impl]] _calls_
 - [[nodes/llama_token_data_array_partial_sort]] _calls_
 - [[nodes/llama_token_data_array_partial_sort_inplace]] _calls_
-- [[nodes/copy]] _calls_

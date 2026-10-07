@@ -1,24 +1,18 @@
 ---
 name: "dir"
 type: "function"
-file: "tools/ui/tests/unit/mention-badge.test.ts"
-community: "common"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/mention-badge.test.ts"
+community: "tools"
 ---
 
 # dir
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/mention-badge.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/mention-badge.test.ts`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 
 - [[nodes/it]] _calls_
-- [[nodes/buildMentionInsertion]] _calls_
 - [[nodes/file]] _calls_
 - [[nodes/expect]] _calls_
-
-## Used By
-
-- [[nodes/fs_is_directory]] _calls_
-- [[nodes/fs_get_cache_file]] _calls_

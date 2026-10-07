@@ -2,14 +2,14 @@
 name: "output_data"
 type: "class"
 file: "examples/debug/debug.cpp"
-community: "src"
+community: "common"
 ---
 
 # output_data
 
 **Type:** `class`  **File:** `examples/debug/debug.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

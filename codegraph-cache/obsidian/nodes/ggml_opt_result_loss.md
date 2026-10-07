@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/sqrt]] _calls_
-
 ## Used By
 
 - [[nodes/print_ok]] _calls_

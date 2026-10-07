@@ -2,14 +2,14 @@
 name: "slice"
 type: "function"
 file: "common/jinja/value.cpp"
-community: "tools"
+community: "build-sycl-2025"
 ---
 
 # slice
 
 **Type:** `function`  **File:** `common/jinja/value.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

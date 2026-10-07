@@ -1,12 +1,12 @@
 ---
 name: "tooltip-content.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/tooltip/tooltip-content.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/tooltip/tooltip-content.svelte"
+community: "build-sycl-2025"
 ---
 
 # tooltip-content.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/tooltip/tooltip-content.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/tooltip/tooltip-content.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

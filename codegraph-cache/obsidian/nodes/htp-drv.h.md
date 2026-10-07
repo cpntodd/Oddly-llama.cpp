@@ -2,14 +2,14 @@
 name: "htp-drv.h"
 type: "file"
 file: "ggml/src/ggml-hexagon/htp-drv.h"
-community: "ggml"
+community: "src"
 ---
 
 # htp-drv.h
 
 **Type:** `file`  **File:** `ggml/src/ggml-hexagon/htp-drv.h`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Used By
 

@@ -23,7 +23,6 @@ community: "ggml"
 - [[nodes/tensor_transformation]] _imports_
 - [[nodes/clip_logger_state]] _imports_
 - [[nodes/llama_ftype]] _imports_
-- [[nodes/that]] _imports_
 - [[nodes/dummy_backend_context]] _imports_
 - [[nodes/can_reuse_memory]] _calls_
 - [[nodes/almost_equal]] _imports_
@@ -34,3 +33,4 @@ community: "ggml"
 - [[nodes/ggml_opt_dataset]] _imports_
 - [[nodes/apir_buffer_context_t]] _imports_
 - [[nodes/ggml_context_deleter]] _imports_
+- [[nodes/that]] _imports_

@@ -1,15 +1,15 @@
 ---
 name: "SettingsService"
 type: "class"
-file: "tools/ui/src/lib/services/settings.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/settings.service.ts"
+community: "build-vulkan-gcc"
 ---
 
 # SettingsService
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/settings.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/settings.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 

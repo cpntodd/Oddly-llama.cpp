@@ -2,14 +2,14 @@
 name: "llama_batch_init"
 type: "function"
 file: "src/llama-batch.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_batch_init
 
 **Type:** `function`  **File:** `src/llama-batch.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 
@@ -27,7 +27,6 @@ community: "src"
 - [[nodes/mtmd_helper_image_get_decoder_pos]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/llama_set_param]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/add_gumbel_noise]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/join]] _calls_
@@ -43,3 +42,4 @@ community: "src"
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/silent_model_load_progress]] _calls_
+- [[nodes/build_context]] _calls_

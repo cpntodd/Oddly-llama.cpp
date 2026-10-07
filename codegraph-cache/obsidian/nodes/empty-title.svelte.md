@@ -1,12 +1,12 @@
 ---
 name: "empty-title.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/empty/empty-title.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/empty/empty-title.svelte"
+community: "build-sycl-2025"
 ---
 
 # empty-title.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/empty/empty-title.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/empty/empty-title.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

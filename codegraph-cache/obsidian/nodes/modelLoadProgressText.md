@@ -1,18 +1,17 @@
 ---
 name: "modelLoadProgressText"
 type: "function"
-file: "tools/ui/src/lib/utils/progress.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/progress.ts"
+community: "build-vulkan-gcc"
 ---
 
 # modelLoadProgressText
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/progress.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/progress.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/modelLoadStageLabel]] _calls_
-- [[nodes/round]] _calls_
 - [[nodes/modelLoadFraction]] _calls_

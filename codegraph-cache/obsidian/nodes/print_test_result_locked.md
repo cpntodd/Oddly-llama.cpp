@@ -15,6 +15,7 @@ community: "tests"
 
 - [[nodes/vars]] _calls_
 - [[nodes/test_example]] _calls_
+- [[nodes/view]] _calls_
 - [[nodes/test_unary]] _calls_
 - [[nodes/test_glu]] _calls_
 - [[nodes/op]] _calls_
@@ -32,6 +33,7 @@ community: "tests"
 - [[nodes/ggml_is_matrix]] _calls_
 - [[nodes/ggml_is_vector]] _calls_
 - [[nodes/ggml_is_view_op]] _calls_
+- [[nodes/ggml_nelements]] _calls_
 - [[nodes/ggml_backend_tensor_set]] _calls_
 - [[nodes/test_get_rows_back]] _calls_
 

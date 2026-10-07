@@ -1,12 +1,12 @@
 ---
 name: "github-dark.png"
 type: "file"
-file: "tools/ui/static/recommended-mcp/github-dark.png"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/static/recommended-mcp/github-dark.png"
+community: "build-sycl-2025"
 ---
 
 # github-dark.png
 
-**Type:** `file`  **File:** `tools/ui/static/recommended-mcp/github-dark.png`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/static/recommended-mcp/github-dark.png`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

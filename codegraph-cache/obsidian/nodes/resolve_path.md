@@ -1,12 +1,12 @@
 ---
 name: "resolve_path"
 type: "function"
-file: "tools/mtmd/tests/test-deepseek-ocr.py"
-community: "tools"
+file: "scripts/benchmark_backends_report.py"
+community: "scripts"
 ---
 
 # resolve_path
 
-**Type:** `function`  **File:** `tools/mtmd/tests/test-deepseek-ocr.py`
+**Type:** `function`  **File:** `scripts/benchmark_backends_report.py`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/scripts]]

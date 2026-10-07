@@ -15,13 +15,13 @@ community: "tools"
 
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/print_usage]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/llama_update]] _imports_
 - [[nodes/mtmd_serialization]] _imports_
 - [[nodes/mtmd_helper_video]] _imports_
 - [[nodes/ResumableStreamState]] _imports_
 - [[nodes/base64_error]] _imports_
-- [[nodes/random]] _imports_
+- [[nodes/type_traits]] _imports_
 - [[nodes/to_json]] _calls_
 
 ## Used By

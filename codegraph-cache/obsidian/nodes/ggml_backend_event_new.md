@@ -2,14 +2,14 @@
 name: "ggml_backend_event_new"
 type: "function"
 file: "ggml/src/ggml-backend.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # ggml_backend_event_new
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Used By
 

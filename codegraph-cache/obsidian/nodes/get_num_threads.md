@@ -14,6 +14,7 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/manual_popcountll]] _calls_
+- [[nodes/swap]] _calls_
 
 ## Used By
 

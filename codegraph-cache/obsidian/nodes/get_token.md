@@ -15,7 +15,7 @@ community: "common"
 
 - [[nodes/common_ngram]] _imports_
 - [[nodes/KeyValuePair]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/size]] _calls_
 
 ## Used By

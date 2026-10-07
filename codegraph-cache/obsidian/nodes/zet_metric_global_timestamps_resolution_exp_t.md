@@ -1,0 +1,12 @@
+---
+name: "zet_metric_global_timestamps_resolution_exp_t"
+type: "class"
+file: "build-intel-all/level-zero-sdk/include/zet.py"
+community: "build-intel-all"
+---
+
+# zet_metric_global_timestamps_resolution_exp_t
+
+**Type:** `class`  **File:** `build-intel-all/level-zero-sdk/include/zet.py`
+
+**Community:** [[communities/build-intel-all]]

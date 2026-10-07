@@ -1,12 +1,12 @@
 ---
 name: "+error.svelte"
 type: "file"
-file: "tools/ui/src/routes/+error.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/routes/+error.svelte"
+community: "build-sycl-2025"
 ---
 
 # +error.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/routes/+error.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/routes/+error.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

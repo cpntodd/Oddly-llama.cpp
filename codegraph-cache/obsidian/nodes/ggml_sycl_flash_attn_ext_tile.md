@@ -13,6 +13,6 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/build_sdpa]] _calls_
+- [[nodes/ggml_sycl_flash_attn_ext_onednn_supported]] _calls_
 - [[nodes/ggml_sycl_flash_attn_ext]] _calls_
 - [[nodes/ggml_sycl_flash_attn_ext_tile_case]] _calls_

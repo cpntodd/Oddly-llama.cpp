@@ -2,14 +2,14 @@
 name: "common_sampler_copy"
 type: "function"
 file: "common/sampling.cpp"
-community: "src"
+community: "tools"
 ---
 
 # common_sampler_copy
 
 **Type:** `function`  **File:** `common/sampling.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

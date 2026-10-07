@@ -1,16 +1,12 @@
 ---
 name: "filterModelOptions"
 type: "function"
-file: "tools/ui/src/lib/components/app/models/utils.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/models/utils.ts"
+community: "build-sycl-2025"
 ---
 
 # filterModelOptions
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/models/utils.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/models/utils.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/useModelsSelector]] _calls_
+**Community:** [[communities/build-sycl-2025]]

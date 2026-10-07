@@ -1,12 +1,12 @@
 ---
 name: "getImageErrorFallbackHtml"
 type: "function"
-file: "tools/ui/src/lib/utils/image-error-fallback.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/image-error-fallback.ts"
+community: "build-sycl-2025"
 ---
 
 # getImageErrorFallbackHtml
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/image-error-fallback.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/image-error-fallback.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

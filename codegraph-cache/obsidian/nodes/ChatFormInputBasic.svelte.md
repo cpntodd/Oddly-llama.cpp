@@ -1,12 +1,12 @@
 ---
 name: "ChatFormInputBasic.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatForm/ChatFormInput/ChatFormInputBasic.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormInput/ChatFormInputBasic.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatFormInputBasic.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatForm/ChatFormInput/ChatFormInputBasic.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatForm/ChatFormInput/ChatFormInputBasic.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

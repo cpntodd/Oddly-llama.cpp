@@ -1,12 +1,12 @@
 ---
 name: "ServerErrorSplash.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/server/ServerErrorSplash.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/server/ServerErrorSplash.svelte"
+community: "build-sycl-2025"
 ---
 
 # ServerErrorSplash.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/server/ServerErrorSplash.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/server/ServerErrorSplash.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

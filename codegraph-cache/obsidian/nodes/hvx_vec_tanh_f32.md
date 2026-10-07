@@ -13,5 +13,5 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/tanh]] _calls_
+- [[nodes/sigmoid]] _calls_
 - [[nodes/hvx_vec_splat_f32]] _calls_

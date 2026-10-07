@@ -16,4 +16,3 @@ community: "ggml"
 - [[nodes/file]] _calls_
 - [[nodes/get_size]] _calls_
 - [[nodes/write]] _calls_
-- [[nodes/close]] _calls_

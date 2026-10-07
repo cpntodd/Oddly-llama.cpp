@@ -1,12 +1,16 @@
 ---
 name: "onChanged"
 type: "function"
-file: "tools/ui/src/lib/stores/mcp/index.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/mcp/index.svelte.ts"
 community: "tools"
 ---
 
 # onChanged
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/mcp/index.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/mcp/index.svelte.ts`
 
 **Community:** [[communities/tools]]
+
+## Depends On
+
+- [[nodes/warn]] _calls_

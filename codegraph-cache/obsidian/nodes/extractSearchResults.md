@@ -1,13 +1,13 @@
 ---
 name: "extractSearchResults"
 type: "function"
-file: "tools/ui/src/lib/utils/search-results.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/search-results.ts"
 community: "tools"
 ---
 
 # extractSearchResults
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/search-results.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/search-results.ts`
 
 **Community:** [[communities/tools]]
 
@@ -17,7 +17,3 @@ community: "tools"
 - [[nodes/parseChunk]] _calls_
 - [[nodes/set]] _calls_
 - [[nodes/field]] _calls_
-
-## Used By
-
-- [[nodes/buildProcessor]] _calls_

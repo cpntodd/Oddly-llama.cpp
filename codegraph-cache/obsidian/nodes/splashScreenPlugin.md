@@ -1,13 +1,13 @@
 ---
 name: "splashScreenPlugin"
 type: "function"
-file: "tools/ui/scripts/vite-plugin-splash-screen.ts"
+file: "build-sycl-2025/tools/ui/ui-src/scripts/vite-plugin-splash-screen.ts"
 community: "tools"
 ---
 
 # splashScreenPlugin
 
-**Type:** `function`  **File:** `tools/ui/scripts/vite-plugin-splash-screen.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/scripts/vite-plugin-splash-screen.ts`
 
 **Community:** [[communities/tools]]
 

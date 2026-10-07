@@ -1,17 +1,16 @@
 ---
 name: "trimCodePadding"
 type: "function"
-file: "tools/ui/src/lib/utils/code.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/code.ts"
+community: "build-sycl-2025"
 ---
 
 # trimCodePadding
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/code.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/code.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
 - [[nodes/highlightCode]] _calls_
-- [[nodes/foo]] _calls_

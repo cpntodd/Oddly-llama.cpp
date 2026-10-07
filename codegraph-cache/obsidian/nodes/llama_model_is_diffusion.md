@@ -2,14 +2,14 @@
 name: "llama_model_is_diffusion"
 type: "function"
 file: "src/llama-model.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_model_is_diffusion
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

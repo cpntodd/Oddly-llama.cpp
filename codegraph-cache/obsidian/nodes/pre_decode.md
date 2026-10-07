@@ -18,7 +18,6 @@ community: "tools"
 - [[nodes/process_token]] _calls_
 - [[nodes/send_error]] _calls_
 - [[nodes/release]] _calls_
-- [[nodes/clamp]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/can_batch_with]] _calls_
@@ -43,6 +42,7 @@ community: "tools"
 - [[nodes/llama_memory_can_shift]] _calls_
 - [[nodes/common_speculative_set_state]] _calls_
 - [[nodes/data]] _calls_
+- [[nodes/send_partial_response]] _calls_
 
 ## Used By
 

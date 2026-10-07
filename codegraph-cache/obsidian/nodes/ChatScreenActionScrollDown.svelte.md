@@ -1,12 +1,12 @@
 ---
 name: "ChatScreenActionScrollDown.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/chat/ChatScreen/ChatScreenActionScrollDown.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatScreen/ChatScreenActionScrollDown.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatScreenActionScrollDown.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/chat/ChatScreen/ChatScreenActionScrollDown.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatScreen/ChatScreenActionScrollDown.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

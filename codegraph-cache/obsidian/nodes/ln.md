@@ -1,15 +1,15 @@
 ---
 name: "ln"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # ln
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -17,7 +17,6 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/kl_divergence]] _calls_
 - [[nodes/acos]] _calls_
 - [[nodes/acosh]] _calls_
 - [[nodes/asinh]] _calls_
@@ -29,11 +28,3 @@ community: "tools"
 - [[nodes/naturalLogarithm]] _calls_
 - [[nodes/using]] _calls_
 - [[nodes/isDecimalInstance]] _calls_
-- [[nodes/llm_graph_context]] _calls_
-- [[nodes/entry_point]] _calls_
-- [[nodes/et_fdiv]] _calls_
-- [[nodes/et_powf]] _calls_
-- [[nodes/et_logf]] _calls_
-- [[nodes/hvx_vec_exp_f32]] _calls_
-- [[nodes/hvx_vec_pow_const_base_f32]] _calls_
-- [[nodes/hvx_vec_log_f32]] _calls_

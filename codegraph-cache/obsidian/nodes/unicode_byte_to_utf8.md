@@ -2,18 +2,14 @@
 name: "unicode_byte_to_utf8"
 type: "function"
 file: "src/unicode.cpp"
-community: "tools"
+community: "src"
 ---
 
 # unicode_byte_to_utf8
 
 **Type:** `function`  **File:** `src/unicode.cpp`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/at]] _calls_
+**Community:** [[communities/src]]
 
 ## Used By
 

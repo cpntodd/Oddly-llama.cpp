@@ -1,12 +1,12 @@
 ---
 name: "getLanguageFromFilename"
 type: "function"
-file: "tools/ui/src/lib/utils/syntax-highlight-language.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/syntax-highlight-language.ts"
+community: "build-sycl-2025"
 ---
 
 # getLanguageFromFilename
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/syntax-highlight-language.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/syntax-highlight-language.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

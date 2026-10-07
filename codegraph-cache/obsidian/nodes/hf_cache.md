@@ -16,7 +16,7 @@ community: "tools"
 - [[nodes/hf_file]] _imports_
 - [[nodes/build-info.h]] _imports_
 - [[nodes/KeyValuePair]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/common_http_url]] _imports_
 - [[nodes/common_json_item]] _imports_
 - [[nodes/jinja]] _imports_

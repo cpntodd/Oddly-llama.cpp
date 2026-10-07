@@ -2,14 +2,14 @@
 name: "llama_n_ctx_train"
 type: "function"
 file: "src/llama-model.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_n_ctx_train
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

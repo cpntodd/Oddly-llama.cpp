@@ -2,14 +2,14 @@
 name: "n_embd_out"
 type: "function"
 file: "tools/mtmd/mtmd.cpp"
-community: "src"
+community: "tools"
 ---
 
 # n_embd_out
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

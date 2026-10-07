@@ -1,13 +1,13 @@
 ---
 name: "buildInfoPlugin"
 type: "function"
-file: "tools/ui/scripts/vite-plugin-build-info.ts"
+file: "build-sycl-2025/tools/ui/ui-src/scripts/vite-plugin-build-info.ts"
 community: "tools"
 ---
 
 # buildInfoPlugin
 
-**Type:** `function`  **File:** `tools/ui/scripts/vite-plugin-build-info.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/scripts/vite-plugin-build-info.ts`
 
 **Community:** [[communities/tools]]
 
@@ -15,4 +15,3 @@ community: "tools"
 
 - [[nodes/powered]] _imports_
 - [[nodes/vite.config.ts]] _imports_
-- [[nodes/stringify]] _calls_

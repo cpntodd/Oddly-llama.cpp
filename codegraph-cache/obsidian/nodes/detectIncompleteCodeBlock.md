@@ -1,21 +1,17 @@
 ---
 name: "detectIncompleteCodeBlock"
 type: "function"
-file: "tools/ui/src/lib/utils/code.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/code.ts"
+community: "build-intel-all"
 ---
 
 # detectIncompleteCodeBlock
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/code.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/code.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 
 - [[nodes/exec]] _calls_
 - [[nodes/slice]] _calls_
-
-## Used By
-
-- [[nodes/buildProcessor]] _calls_

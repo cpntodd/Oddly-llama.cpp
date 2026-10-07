@@ -1,15 +1,15 @@
 ---
 name: "getValue"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Calculus.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Calculus.js"
+community: "build-sycl-2025"
 ---
 
 # getValue
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Calculus.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Calculus.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

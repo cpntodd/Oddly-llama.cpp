@@ -1,12 +1,12 @@
 ---
 name: "SidebarNavigation.stories.svelte"
 type: "file"
-file: "tools/ui/tests/stories/SidebarNavigation.stories.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/SidebarNavigation.stories.svelte"
+community: "build-sycl-2025"
 ---
 
 # SidebarNavigation.stories.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/SidebarNavigation.stories.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/SidebarNavigation.stories.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

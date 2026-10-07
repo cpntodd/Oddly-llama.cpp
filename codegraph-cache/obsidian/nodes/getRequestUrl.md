@@ -1,12 +1,12 @@
 ---
 name: "getRequestUrl"
 type: "function"
-file: "tools/ui/src/lib/utils/request-helpers.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/request-helpers.ts"
+community: "build-sycl-2025"
 ---
 
 # getRequestUrl
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/request-helpers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/request-helpers.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

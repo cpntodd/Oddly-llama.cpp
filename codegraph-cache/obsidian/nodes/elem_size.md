@@ -14,7 +14,7 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/ggml_graph_next_uid]] _imports_
-- [[nodes/concat.hpp]] _imports_
+- [[nodes/concat.comp.cpp]] _imports_
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/ggml_blck_size]] _calls_
 - [[nodes/parallel_for]] _calls_

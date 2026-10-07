@@ -1,20 +1,12 @@
 ---
 name: "vite.config.ts"
 type: "file"
-file: "tools/ui/vite.config.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/vite.config.ts"
+community: "build-sycl-2025"
 ---
 
 # vite.config.ts
 
-**Type:** `file`  **File:** `tools/ui/vite.config.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/vite.config.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/initializeSocketIO]] _imports_
-- [[nodes/nerdamerPlugin]] _imports_
-- [[nodes/buildInfoPlugin]] _imports_
-- [[nodes/generateSplashScreenLinks]] _imports_
-- [[nodes/rewrite]] _imports_
+**Community:** [[communities/build-sycl-2025]]

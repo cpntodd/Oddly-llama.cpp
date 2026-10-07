@@ -1,15 +1,15 @@
 ---
 name: "parseList"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/table-html-restorer.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/table-html-restorer.ts"
+community: "build-sycl-2025"
 ---
 
 # parseList
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/table-html-restorer.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/table-html-restorer.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

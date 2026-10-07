@@ -13,7 +13,6 @@ community: "tools"
 
 ## Depends On
 
-- [[nodes/store]] _calls_
 - [[nodes/terminate]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/size]] _calls_

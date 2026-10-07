@@ -2,14 +2,14 @@
 name: "grammar"
 type: "class"
 file: "tests/peg-parser/test-gbnf-generation.cpp"
-community: "tests"
+community: "common"
 ---
 
 # grammar
 
 **Type:** `class`  **File:** `tests/peg-parser/test-gbnf-generation.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

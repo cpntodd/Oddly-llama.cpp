@@ -1,13 +1,13 @@
 ---
 name: "loadImage"
 type: "function"
-file: "tools/ui/tests/client/cap-img-size.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/cap-img-size.svelte.test.ts"
 community: "tools"
 ---
 
 # loadImage
 
-**Type:** `function`  **File:** `tools/ui/tests/client/cap-img-size.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/cap-img-size.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

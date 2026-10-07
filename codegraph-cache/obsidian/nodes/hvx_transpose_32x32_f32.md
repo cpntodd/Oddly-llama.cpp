@@ -13,6 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/ceil]] _calls_
+- [[nodes/rows]] _calls_
 - [[nodes/hvx_vec_splat_f32]] _calls_
 - [[nodes/hvx_vec_store_u]] _calls_

@@ -19,6 +19,7 @@ community: "ggml"
 - [[nodes/ggml_element_size]] _calls_
 - [[nodes/pool]] _calls_
 - [[nodes/alloc]] _calls_
+- [[nodes/get]] _calls_
 - [[nodes/A]] _calls_
 - [[nodes/each]] _calls_
 - [[nodes/parallel_for]] _calls_

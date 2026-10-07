@@ -2,14 +2,14 @@
 name: "mtmd_tokenizer"
 type: "class"
 file: "tools/mtmd/mtmd.cpp"
-community: "common"
+community: "tools"
 ---
 
 # mtmd_tokenizer
 
 **Type:** `class`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

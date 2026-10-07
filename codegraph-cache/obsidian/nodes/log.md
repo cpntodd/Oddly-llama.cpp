@@ -1,16 +1,12 @@
 ---
 name: "log"
 type: "function"
-file: "common/console.cpp"
-community: "common"
+file: "oc-kit/legacy/gpu-push-nvidia.py"
+community: "oc-kit"
 ---
 
 # log
 
-**Type:** `function`  **File:** `common/console.cpp`
+**Type:** `function`  **File:** `oc-kit/legacy/gpu-push-nvidia.py`
 
-**Community:** [[communities/common]]
-
-## Used By
-
-- [[nodes/common_opt_get_optimizer]] _calls_
+**Community:** [[communities/oc-kit]]

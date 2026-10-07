@@ -13,7 +13,6 @@ community: "tools"
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/n_tokens]] _calls_
 - [[nodes/size]] _calls_
 

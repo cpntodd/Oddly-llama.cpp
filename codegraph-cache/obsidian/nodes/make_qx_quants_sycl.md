@@ -16,4 +16,3 @@ community: "ggml"
 - [[nodes/nearest_int_ggml_sycl]] _calls_
 - [[nodes/max]] _calls_
 - [[nodes/min]] _calls_
-- [[nodes/sqrt]] _calls_

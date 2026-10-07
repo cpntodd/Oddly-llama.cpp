@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/ceil]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
 - [[nodes/all]] _calls_
 - [[nodes/ggml_get_type_traits]] _calls_

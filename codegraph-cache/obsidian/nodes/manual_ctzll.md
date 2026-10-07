@@ -17,6 +17,9 @@ community: "ggml"
 
 ## Used By
 
+- [[nodes/zet_driver_handle_t]] _imports_
+- [[nodes/zes_driver_handle_t]] _imports_
+- [[nodes/ZE_MAKE_VERSION]] _imports_
 - [[nodes/ggml_et_set_params]] _imports_
 - [[nodes/ggml_et_flash_attn_ext_params]] _imports_
 - [[nodes/ggml_et_diag_params]] _imports_
@@ -44,6 +47,3 @@ community: "ggml"
 - [[nodes/ggml_et_rwkv_wkv7_params]] _imports_
 - [[nodes/ceil_div_i32]] _imports_
 - [[nodes/ggml_et_cont_params]] _imports_
-- [[nodes/ggml_et_unary_params]] _imports_
-- [[nodes/ggml_et_rope_params]] _imports_
-- [[nodes/ggml_et_pad_params]] _imports_

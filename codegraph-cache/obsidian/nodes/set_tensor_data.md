@@ -15,14 +15,13 @@ community: "src"
 
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/kv_mean_collector]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/llama_update]] _imports_
 - [[nodes/llama_model_deleter]] _imports_
 - [[nodes/quantize_state_impl]] _imports_
 - [[nodes/llm_arch]] _imports_
 - [[nodes/llama_cparams]] _imports_
 - [[nodes/llama_model_saver_supports_arch]] _imports_
-- [[nodes/random]] _imports_
 - [[nodes/jinja]] _imports_
 - [[nodes/hasher]] _calls_
 - [[nodes/ggml_nelements]] _calls_

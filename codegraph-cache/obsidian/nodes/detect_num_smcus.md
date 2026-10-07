@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/ggml_feats_get_arch64_runtime]] _calls_
 - [[nodes/add_smcus_from_smidr]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/apple_sme_counted_perf_level]] _calls_
 
 ## Used By

@@ -17,6 +17,7 @@ community: "ggml"
 - [[nodes/ggml_compute_params]] _imports_
 - [[nodes/ggml-quants.h]] _imports_
 - [[nodes/ggml_lookup_fp16_to_fp32]] _imports_
+- [[nodes/type_traits]] _imports_
 
 ## Used By
 

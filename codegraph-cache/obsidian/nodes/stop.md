@@ -1,21 +1,25 @@
 ---
 name: "stop"
 type: "function"
-file: "common/console.cpp"
-community: "common"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js"
+community: "build-sycl-2025"
 ---
 
 # stop
 
-**Type:** `function`  **File:** `common/console.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/replace_last]] _calls_
-- [[nodes/pop_cursor]] _calls_
+- [[nodes/equals]] _calls_
+- [[nodes/coeffs]] _calls_
+- [[nodes/divide]] _calls_
+- [[nodes/add]] _calls_
 
 ## Used By
 
-- [[nodes/media_type_from_ext]] _calls_
+- [[nodes/over]] _calls_
+- [[nodes/setSymbol]] _calls_
+- [[nodes/without]] _calls_

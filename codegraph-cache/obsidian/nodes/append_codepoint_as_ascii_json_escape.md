@@ -2,14 +2,14 @@
 name: "append_codepoint_as_ascii_json_escape"
 type: "function"
 file: "common/jinja/value.cpp"
-community: "common"
+community: "tests"
 ---
 
 # append_codepoint_as_ascii_json_escape
 
 **Type:** `function`  **File:** `common/jinja/value.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

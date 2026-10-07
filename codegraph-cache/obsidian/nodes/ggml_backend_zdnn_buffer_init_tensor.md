@@ -17,4 +17,3 @@ community: "ggml"
 - [[nodes/ggml_zdnn_init_tensor]] _calls_
 - [[nodes/ggml_element_size]] _calls_
 - [[nodes/ggml_zdnn_load_tensor]] _calls_
-- [[nodes/move]] _calls_

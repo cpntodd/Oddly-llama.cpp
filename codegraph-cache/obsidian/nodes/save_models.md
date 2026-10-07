@@ -2,14 +2,14 @@
 name: "save_models"
 type: "function"
 file: "tests/test-llama-archs.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # save_models
 
 **Type:** `function`  **File:** `tests/test-llama-archs.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

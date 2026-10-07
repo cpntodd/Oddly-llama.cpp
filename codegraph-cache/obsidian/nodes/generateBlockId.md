@@ -1,19 +1,18 @@
 ---
 name: "generateBlockId"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/code-block-utils.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/code-block-utils.ts"
+community: "build-sycl-2025"
 ---
 
 # generateBlockId
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/code-block-utils.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/code-block-utils.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/random]] _calls_
 - [[nodes/slice]] _calls_
 
 ## Used By

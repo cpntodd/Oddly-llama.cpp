@@ -14,7 +14,6 @@ community: "common"
 ## Depends On
 
 - [[nodes/is_empty]] _calls_
-- [[nodes/unlock]] _calls_
 - [[nodes/flush_queue]] _calls_
 
 ## Used By

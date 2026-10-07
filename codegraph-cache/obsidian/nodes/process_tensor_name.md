@@ -2,14 +2,14 @@
 name: "process_tensor_name"
 type: "function"
 file: "tools/imatrix/imatrix.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # process_tensor_name
 
 **Type:** `function`  **File:** `tools/imatrix/imatrix.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

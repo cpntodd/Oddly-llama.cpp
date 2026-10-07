@@ -2,14 +2,14 @@
 name: "read_alignment"
 type: "function"
 file: "src/llama-mmap.cpp"
-community: "ggml"
+community: "build-intel-all"
 ---
 
 # read_alignment
 
 **Type:** `function`  **File:** `src/llama-mmap.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-intel-all]]
 
 ## Used By
 

@@ -1,15 +1,15 @@
 ---
 name: "UseChatScreenFileUploadOptions"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-chat-screen-file-upload.svelte.ts"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-file-upload.svelte.ts"
+community: "tools"
 ---
 
 # UseChatScreenFileUploadOptions
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-chat-screen-file-upload.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-screen-file-upload.svelte.ts`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

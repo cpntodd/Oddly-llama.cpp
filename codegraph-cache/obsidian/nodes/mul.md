@@ -1,22 +1,22 @@
 ---
 name: "mul"
 type: "function"
-file: "ggml/src/ggml-cpu/llamafile/sgemm.cpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # mul
 
-**Type:** `function`  **File:** `ggml/src/ggml-cpu/llamafile/sgemm.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/add]] _calls_
-- [[nodes/sub]] _calls_
+- [[nodes/pop]] _calls_
+- [[nodes/getBase10Exponent]] _calls_
+- [[nodes/finalise]] _calls_
 
 ## Used By
 
-- [[nodes/ggml_compute_forward_tri]] _calls_
-- [[nodes/madd]] _calls_
+- [[nodes/log10]] _calls_

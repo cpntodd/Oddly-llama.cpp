@@ -1,17 +1,12 @@
 ---
 name: "getFileTypeByExtension"
 type: "function"
-file: "tools/ui/src/lib/utils/file-type.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/file-type.ts"
+community: "build-sycl-2025"
 ---
 
 # getFileTypeByExtension
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/file-type.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/file-type.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/parseWriteFileMeta]] _calls_
-- [[nodes/parseReadFileMeta]] _calls_
+**Community:** [[communities/build-sycl-2025]]

@@ -2,14 +2,14 @@
 name: "llama_vocab_n_tokens"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "src"
+community: "tests"
 ---
 
 # llama_vocab_n_tokens
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Used By
 
@@ -33,7 +33,6 @@ community: "src"
 - [[nodes/llama_n_vocab]] _calls_
 - [[nodes/llama_sampler_llg_free]] _calls_
 - [[nodes/tty_can_use_colors]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/set_logits]] _calls_
 - [[nodes/add_gumbel_noise]] _calls_
 - [[nodes/main]] _calls_
@@ -43,3 +42,4 @@ community: "src"
 - [[nodes/has_pooling]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/silent_model_load_progress]] _calls_
+- [[nodes/match_string]] _calls_

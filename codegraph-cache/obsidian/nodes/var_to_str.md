@@ -2,14 +2,14 @@
 name: "var_to_str"
 type: "function"
 file: "tests/test-backend-ops.cpp"
-community: "tests"
+community: "ggml"
 ---
 
 # var_to_str
 
 **Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

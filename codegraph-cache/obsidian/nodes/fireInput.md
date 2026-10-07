@@ -1,13 +1,13 @@
 ---
 name: "fireInput"
 type: "function"
-file: "tools/ui/tests/client/chat-form-input-rich-blocks.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/chat-form-input-rich-blocks.svelte.test.ts"
 community: "tools"
 ---
 
 # fireInput
 
-**Type:** `function`  **File:** `tools/ui/tests/client/chat-form-input-rich-blocks.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/chat-form-input-rich-blocks.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

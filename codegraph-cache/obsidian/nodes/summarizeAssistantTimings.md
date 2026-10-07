@@ -1,15 +1,15 @@
 ---
 name: "summarizeAssistantTimings"
 type: "function"
-file: "tools/ui/src/lib/stores/chat/context-stats.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/context-stats.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # summarizeAssistantTimings
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/chat/context-stats.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/context-stats.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

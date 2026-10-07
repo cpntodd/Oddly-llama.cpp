@@ -2,14 +2,14 @@
 name: "llama_numa_init"
 type: "function"
 file: "src/llama.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_numa_init
 
 **Type:** `function`  **File:** `src/llama.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

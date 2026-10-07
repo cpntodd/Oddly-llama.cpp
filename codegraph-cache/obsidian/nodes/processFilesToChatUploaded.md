@@ -1,19 +1,18 @@
 ---
 name: "processFilesToChatUploaded"
 type: "function"
-file: "tools/ui/src/lib/utils/process-uploaded-files.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/process-uploaded-files.ts"
 community: "tools"
 ---
 
 # processFilesToChatUploaded
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/process-uploaded-files.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/process-uploaded-files.ts`
 
 **Community:** [[communities/tools]]
 
 ## Depends On
 
-- [[nodes/random]] _calls_
 - [[nodes/getFileTypeCategory]] _calls_
 - [[nodes/readFileAsDataURL]] _calls_
 - [[nodes/isSvgMimeType]] _calls_
@@ -23,9 +22,6 @@ community: "tools"
 - [[nodes/isHeicMimeType]] _calls_
 - [[nodes/heicFileToJpegDataURL]] _calls_
 - [[nodes/convertPDFToText]] _calls_
-- [[nodes/modelSupportsVision]] _calls_
+- [[nodes/warn]] _calls_
+- [[nodes/info]] _calls_
 - [[nodes/readFileAsUTF8]] _calls_
-
-## Used By
-
-- [[nodes/processFiles]] _calls_

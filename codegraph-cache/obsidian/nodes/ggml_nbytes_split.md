@@ -16,7 +16,6 @@ community: "ggml"
 - [[nodes/ggml_row_size]] _calls_
 - [[nodes/ggml_backend_sycl_split_buffer_context]] _calls_
 - [[nodes/release_extra_gpu]] _calls_
-- [[nodes/exit]] _calls_
 
 ## Used By
 

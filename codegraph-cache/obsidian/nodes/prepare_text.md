@@ -13,7 +13,6 @@ community: "tools"
 
 ## Depends On
 
-- [[nodes/back]] _calls_
 - [[nodes/count_words]] _calls_
 - [[nodes/string]] _calls_
 

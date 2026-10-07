@@ -13,7 +13,7 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_init]] _calls_
-- [[nodes/print_device_detail]] _calls_
 - [[nodes/get_mem_base_addr_align]] _calls_
 - [[nodes/get_memory_info]] _calls_
+- [[nodes/ggml_sycl_init]] _calls_
+- [[nodes/print_device_detail]] _calls_

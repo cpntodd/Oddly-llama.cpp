@@ -1,15 +1,15 @@
 ---
 name: "above"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Extra.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Extra.js"
+community: "build-sycl-2025"
 ---
 
 # above
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Extra.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Extra.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -19,7 +19,4 @@ community: "tools"
 - [[nodes/finalize]] _calls_
 - [[nodes/equals]] _calls_
 - [[nodes/each]] _calls_
-- [[nodes/cos]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/toString]] _calls_
-- [[nodes/sin]] _calls_

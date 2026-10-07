@@ -15,4 +15,10 @@ community: "tools"
 
 - [[nodes/ToolResultContentItem]] _imports_
 - [[nodes/disable]] _imports_
+- [[nodes/ToolResultContentItem]] _imports_
+- [[nodes/disable]] _imports_
 - [[nodes/trim]] _calls_
+- [[nodes/ToolResultContentItem]] _imports_
+- [[nodes/disable]] _imports_
+- [[nodes/ToolResultContentItem]] _imports_
+- [[nodes/disable]] _imports_

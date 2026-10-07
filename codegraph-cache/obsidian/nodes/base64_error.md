@@ -2,14 +2,14 @@
 name: "base64_error"
 type: "class"
 file: "common/base64.hpp"
-community: "ggml"
+community: "tools"
 ---
 
 # base64_error
 
 **Type:** `class`  **File:** `common/base64.hpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

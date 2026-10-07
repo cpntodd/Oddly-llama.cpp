@@ -1,15 +1,15 @@
 ---
 name: "getHarness"
 type: "function"
-file: "tools/ui/src/lib/services/sandbox.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/sandbox.service.ts"
+community: "build-vulkan-gcc"
 ---
 
 # getHarness
 
-**Type:** `function`  **File:** `tools/ui/src/lib/services/sandbox.service.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/sandbox.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
@@ -17,6 +17,7 @@ community: "tools"
 - [[nodes/Keys]] _imports_
 - [[nodes/index.ts]] _imports_
 - [[nodes/types]] _imports_
+- [[nodes/buildSandboxHarness]] _calls_
 
 ## Used By
 

@@ -1,12 +1,12 @@
 ---
 name: "splash.ts"
 type: "file"
-file: "tools/ui/src/lib/types/splash.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/splash.ts"
+community: "build-sycl-2025"
 ---
 
 # splash.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/types/splash.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/splash.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

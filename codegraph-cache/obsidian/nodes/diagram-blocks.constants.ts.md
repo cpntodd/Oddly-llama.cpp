@@ -1,12 +1,12 @@
 ---
 name: "diagram-blocks.constants.ts"
 type: "file"
-file: "tools/ui/src/lib/constants/diagram-blocks.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/diagram-blocks.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # diagram-blocks.constants.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/constants/diagram-blocks.constants.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/diagram-blocks.constants.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

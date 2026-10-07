@@ -2,14 +2,14 @@
 name: "global_from_json"
 type: "function"
 file: "common/jinja/value.cpp"
-community: "common"
+community: "tests"
 ---
 
 # global_from_json
 
 **Type:** `function`  **File:** `common/jinja/value.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

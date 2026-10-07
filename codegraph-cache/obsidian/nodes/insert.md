@@ -19,7 +19,6 @@ community: "common"
 - [[nodes/common_cpu_get_num_physical_cores]] _calls_
 - [[nodes/tty_can_use_colors]] _calls_
 - [[nodes/readline_advanced]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/is_http_status_ok]] _calls_
 - [[nodes/common_docker_resolve_model]] _calls_
 - [[nodes/common_download_remove]] _calls_
@@ -40,3 +39,4 @@ community: "common"
 - [[nodes/visit]] _calls_
 - [[nodes/common_memory_breakdown_print]] _calls_
 - [[nodes/test_command7_parser_compare]] _calls_
+- [[nodes/flush_deferred]] _calls_

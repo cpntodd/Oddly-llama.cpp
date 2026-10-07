@@ -17,7 +17,6 @@ community: "tools"
 - [[nodes/join]] _calls_
 - [[nodes/string_format]] _calls_
 - [[nodes/path_to_utf8]] _calls_
-- [[nodes/runtime]] _calls_
 - [[nodes/terminate]] _calls_
 
 ## Used By

@@ -17,5 +17,4 @@ community: "ggml"
 - [[nodes/dev_mgr]] _calls_
 - [[nodes/device]] _calls_
 - [[nodes/get_preferred_gpu_platform_name]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/get_device_backend_and_type]] _calls_

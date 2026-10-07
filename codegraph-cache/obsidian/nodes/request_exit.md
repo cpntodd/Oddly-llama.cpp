@@ -11,10 +11,6 @@ community: "tools"
 
 **Community:** [[communities/tools]]
 
-## Depends On
-
-- [[nodes/store]] _calls_
-
 ## Used By
 
 - [[nodes/wide_to_utf8]] _calls_

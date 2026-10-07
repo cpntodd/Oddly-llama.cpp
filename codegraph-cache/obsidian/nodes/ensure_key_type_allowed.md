@@ -15,10 +15,8 @@ community: "common"
 
 - [[nodes/rethrown_exception]] _calls_
 - [[nodes/get_line_col]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/string]] _calls_
 - [[nodes/append]] _calls_
-- [[nodes/at]] _calls_
 
 ## Used By
 

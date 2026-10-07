@@ -1,12 +1,12 @@
 ---
 name: "mmid_row_mapping"
 type: "class"
-file: "ggml/src/ggml-hexagon/htp/matmul-ops.h"
+file: "ggml/src/ggml-sycl/common.hpp"
 community: "ggml"
 ---
 
 # mmid_row_mapping
 
-**Type:** `class`  **File:** `ggml/src/ggml-hexagon/htp/matmul-ops.h`
+**Type:** `class`  **File:** `ggml/src/ggml-sycl/common.hpp`
 
 **Community:** [[communities/ggml]]

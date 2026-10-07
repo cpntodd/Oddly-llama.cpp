@@ -21,7 +21,6 @@ community: "tools"
 - [[nodes/write]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/bool]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

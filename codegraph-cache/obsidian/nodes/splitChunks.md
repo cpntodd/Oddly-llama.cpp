@@ -1,13 +1,13 @@
 ---
 name: "splitChunks"
 type: "function"
-file: "tools/ui/src/lib/utils/search-results.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/search-results.ts"
 community: "tools"
 ---
 
 # splitChunks
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/search-results.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/search-results.ts`
 
 **Community:** [[communities/tools]]
 
@@ -18,4 +18,3 @@ community: "tools"
 ## Used By
 
 - [[nodes/extractSearchResults]] _calls_
-- [[nodes/here]] _imports_

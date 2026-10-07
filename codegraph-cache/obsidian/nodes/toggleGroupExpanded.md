@@ -1,13 +1,13 @@
 ---
 name: "toggleGroupExpanded"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-tools-panel.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-tools-panel.svelte.ts"
 community: "tools"
 ---
 
 # toggleGroupExpanded
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-tools-panel.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-tools-panel.svelte.ts`
 
 **Community:** [[communities/tools]]
 

@@ -2,14 +2,14 @@
 name: "scope_non_causal"
 type: "class"
 file: "tools/mtmd/mtmd-helper.cpp"
-community: "common"
+community: "tests"
 ---
 
 # scope_non_causal
 
 **Type:** `class`  **File:** `tools/mtmd/mtmd-helper.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

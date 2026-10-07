@@ -2,14 +2,14 @@
 name: "json_schema_to_grammar"
 type: "function"
 file: "common/json-schema-to-grammar.cpp"
-community: "tests"
+community: "common"
 ---
 
 # json_schema_to_grammar
 
 **Type:** `function`  **File:** `common/json-schema-to-grammar.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

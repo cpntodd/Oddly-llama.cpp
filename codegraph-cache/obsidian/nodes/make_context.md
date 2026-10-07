@@ -17,7 +17,6 @@ community: "tests"
 - [[nodes/ggml_graph_overhead]] _calls_
 - [[nodes/ggml_init]] _calls_
 - [[nodes/ggml_new_graph]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_set_input]] _calls_
 
 ## Used By

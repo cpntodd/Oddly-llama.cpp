@@ -18,6 +18,6 @@ community: "ggml"
 ## Used By
 
 - [[nodes/get_scale_min_k4]] _calls_
-- [[nodes/is_mul_mat_id_expert_weight]] _calls_
 - [[nodes/ggml_openvino_model_cache_extra_cfg]] _calls_
 - [[nodes/is_model_splitted]] _calls_
+- [[nodes/is_mul_mat_id_expert_weight]] _calls_

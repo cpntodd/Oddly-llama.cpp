@@ -2,14 +2,14 @@
 name: "map"
 type: "function"
 file: "examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt"
-community: "src"
+community: "tools"
 ---
 
 # map
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

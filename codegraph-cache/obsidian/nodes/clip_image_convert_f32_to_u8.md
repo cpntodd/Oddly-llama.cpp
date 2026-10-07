@@ -29,9 +29,9 @@ community: "ggml"
 - [[nodes/ggml_new_graph_custom]] _calls_
 - [[nodes/ggml_format_name]] _calls_
 - [[nodes/ggml_set_name]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/ggml_row_size]] _calls_
 - [[nodes/ggml_set_input]] _calls_
+- [[nodes/weights]] _calls_
 - [[nodes/ggml_build_forward_order]] _calls_
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/clip_model_loader]] _calls_

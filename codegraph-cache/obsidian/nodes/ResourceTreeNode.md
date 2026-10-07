@@ -1,13 +1,13 @@
 ---
 name: "ResourceTreeNode"
 type: "class"
-file: "tools/ui/src/lib/components/app/mcp/McpResourcesBrowser/mcp-resources-browser.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpResourcesBrowser/mcp-resources-browser.ts"
 community: "tools"
 ---
 
 # ResourceTreeNode
 
-**Type:** `class`  **File:** `tools/ui/src/lib/components/app/mcp/McpResourcesBrowser/mcp-resources-browser.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpResourcesBrowser/mcp-resources-browser.ts`
 
 **Community:** [[communities/tools]]
 

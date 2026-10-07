@@ -2,14 +2,14 @@
 name: "flush_queue"
 type: "function"
 file: "common/log.cpp"
-community: "tests"
+community: "common"
 ---
 
 # flush_queue
 
 **Type:** `function`  **File:** `common/log.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

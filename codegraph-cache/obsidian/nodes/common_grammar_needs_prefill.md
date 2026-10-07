@@ -2,18 +2,19 @@
 name: "common_grammar_needs_prefill"
 type: "function"
 file: "common/common.h"
-community: "tools"
+community: "common"
 ---
 
 # common_grammar_needs_prefill
 
 **Type:** `function`  **File:** `common/common.h`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
 - [[nodes/tokens]] _calls_
+- [[nodes/sampler]] _calls_
 - [[nodes/print]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/backend]] _calls_

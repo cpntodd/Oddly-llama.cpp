@@ -2,14 +2,14 @@
 name: "list_c2w_state_slots"
 type: "function"
 file: "tools/mtmd/models/qwen3tts-gen.cpp"
-community: "src"
+community: "tools"
 ---
 
 # list_c2w_state_slots
 
 **Type:** `function`  **File:** `tools/mtmd/models/qwen3tts-gen.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

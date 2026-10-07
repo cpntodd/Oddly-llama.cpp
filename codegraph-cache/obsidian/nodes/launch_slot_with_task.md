@@ -25,7 +25,6 @@ community: "tools"
 - [[nodes/llama_set_sampler]] _calls_
 - [[nodes/common_sampler_print]] _calls_
 - [[nodes/print]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

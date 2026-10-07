@@ -2,14 +2,14 @@
 name: "FFN"
 type: "class"
 file: "tests/test-backend-ops.cpp"
-community: "src"
+community: "tools"
 ---
 
 # FFN
 
 **Type:** `class`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

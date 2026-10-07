@@ -15,7 +15,7 @@ community: "tools"
 
 - [[nodes/common_arg]] _imports_
 - [[nodes/common_debug_cb_user_data]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/llama_update]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_

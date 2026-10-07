@@ -1,12 +1,12 @@
 ---
 name: "initExtraModule"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Extra.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Extra.js"
+community: "build-sycl-2025"
 ---
 
 # initExtraModule
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Extra.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Extra.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -22,7 +22,6 @@ community: "ggml"
 - [[nodes/ggml_webgpu_tensor_align_offset]] _calls_
 - [[nodes/compute_2d_workgroups]] _calls_
 - [[nodes/ggml_webgpu_tensor_buf]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

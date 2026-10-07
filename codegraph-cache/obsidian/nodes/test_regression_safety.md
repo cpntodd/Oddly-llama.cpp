@@ -16,7 +16,6 @@ community: "tests"
 - [[nodes/build_llama_gguf_ctx]] _calls_
 - [[nodes/build_model]] _calls_
 - [[nodes/build_context]] _calls_
-- [[nodes/enabled]] _calls_
 
 ## Used By
 

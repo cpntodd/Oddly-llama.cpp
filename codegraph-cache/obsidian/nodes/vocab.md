@@ -21,3 +21,4 @@ community: "tools"
 - [[nodes/mtmd_context_params_default]] _calls_
 - [[nodes/check_double_bos_eos]] _calls_
 - [[nodes/print_usage]] _calls_
+- [[nodes/flush_deferred]] _calls_

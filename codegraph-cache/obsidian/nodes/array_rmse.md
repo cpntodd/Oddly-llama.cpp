@@ -2,14 +2,14 @@
 name: "array_rmse"
 type: "function"
 file: "tests/test-quantize-fns.cpp"
-community: "tests"
+community: "pocs"
 ---
 
 # array_rmse
 
 **Type:** `function`  **File:** `tests/test-quantize-fns.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/pocs]]
 
 ## Used By
 

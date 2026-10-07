@@ -1,13 +1,13 @@
 ---
 name: "stripLegacyContextMarkers"
 type: "function"
-file: "tools/ui/tests/unit/agentic-strip.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/agentic-strip.test.ts"
 community: "tools"
 ---
 
 # stripLegacyContextMarkers
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/agentic-strip.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/agentic-strip.test.ts`
 
 **Community:** [[communities/tools]]
 

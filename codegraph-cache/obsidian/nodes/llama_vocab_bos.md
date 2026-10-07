@@ -2,14 +2,14 @@
 name: "llama_vocab_bos"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_vocab_bos
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 
@@ -26,7 +26,6 @@ community: "src"
 - [[nodes/llama_token_bos]] _calls_
 - [[nodes/llama_token_cls]] _calls_
 - [[nodes/common_init_from_params]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/common_chat_templates_source]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
@@ -40,3 +39,4 @@ community: "src"
 - [[nodes/test_backend_multi_output_dist_transaction]] _calls_
 - [[nodes/test_backend_multi_output_sampling_chain]] _calls_
 - [[nodes/test_backend_multi_output_cpu_suffix]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_

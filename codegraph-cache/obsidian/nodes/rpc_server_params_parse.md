@@ -2,19 +2,18 @@
 name: "rpc_server_params_parse"
 type: "function"
 file: "tools/rpc/rpc-server.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # rpc_server_params_parse
 
 **Type:** `function`  **File:** `tools/rpc/rpc-server.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
 - [[nodes/print_usage]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/ggml_backend_dev_by_name]] _calls_
 - [[nodes/ggml_backend_dev_count]] _calls_
 - [[nodes/ggml_backend_dev_get]] _calls_

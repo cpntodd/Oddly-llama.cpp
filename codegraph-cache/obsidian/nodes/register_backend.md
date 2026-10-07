@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/ggml_backend_reg_dev_count]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/register_device]] _calls_
 - [[nodes/ggml_backend_reg_dev_get]] _calls_
 

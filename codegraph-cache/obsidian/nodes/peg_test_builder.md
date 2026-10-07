@@ -2,14 +2,14 @@
 name: "peg_test_builder"
 type: "class"
 file: "tests/test-chat.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # peg_test_builder
 
 **Type:** `class`  **File:** `tests/test-chat.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

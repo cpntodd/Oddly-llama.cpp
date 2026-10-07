@@ -17,7 +17,7 @@ community: "common"
 - [[nodes/template_params]] _imports_
 - [[nodes/trim_trailing_space]] _imports_
 - [[nodes/ResumableStreamState]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/common_grammar_builder]] _imports_
 
 ## Used By

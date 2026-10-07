@@ -1,12 +1,12 @@
 ---
 name: "WriteThemeFaviconsOptions"
 type: "class"
-file: "tools/ui/scripts/favicon-colorize.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/scripts/favicon-colorize.ts"
+community: "build-sycl-2025"
 ---
 
 # WriteThemeFaviconsOptions
 
-**Type:** `class`  **File:** `tools/ui/scripts/favicon-colorize.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/scripts/favicon-colorize.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

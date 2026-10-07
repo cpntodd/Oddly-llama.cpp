@@ -18,7 +18,6 @@ community: "ggml"
 - [[nodes/kleidiai_collect_q8_chain]] _calls_
 - [[nodes/kleidiai_collect_q4_chain]] _calls_
 - [[nodes/kleidiai_pack_fallback_allowed]] _calls_
-- [[nodes/clamp]] _calls_
 
 ## Used By
 

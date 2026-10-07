@@ -17,14 +17,13 @@ community: "ggml"
 - [[nodes/ggml_is_quantized]] _calls_
 - [[nodes/ggml_backend_buffer_is_openvino]] _calls_
 - [[nodes/string]] _calls_
+- [[nodes/weights]] _calls_
 - [[nodes/ggml_openvino_reduce_compile_mem_enabled]] _calls_
 - [[nodes/ggml_type_name]] _calls_
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/process_weight_tensor]] _calls_
 - [[nodes/ggml_openvino_quantized_weight_extra]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_openvino_weight_extra]] _calls_
 - [[nodes/ggml_openvino_buffer_register_extra]] _calls_
 - [[nodes/ggml_op_name]] _calls_
 - [[nodes/ggml_get_name]] _calls_
-- [[nodes/close]] _calls_

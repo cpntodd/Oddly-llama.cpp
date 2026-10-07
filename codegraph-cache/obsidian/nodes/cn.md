@@ -1,12 +1,12 @@
 ---
 name: "cn"
 type: "function"
-file: "tools/ui/src/lib/components/ui/utils.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/utils.ts"
+community: "build-sycl-2025"
 ---
 
 # cn
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/ui/utils.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/utils.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

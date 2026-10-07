@@ -15,7 +15,6 @@ community: "tools"
 
 - [[nodes/add_text]] _calls_
 - [[nodes/is_placeholder]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/buf]] _calls_
 - [[nodes/string_format]] _calls_
 - [[nodes/clip_n_output_tokens]] _calls_

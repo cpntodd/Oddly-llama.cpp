@@ -2,14 +2,14 @@
 name: "llama_supports_gpu_offload"
 type: "function"
 file: "src/llama.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # llama_supports_gpu_offload
 
 **Type:** `function`  **File:** `src/llama.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

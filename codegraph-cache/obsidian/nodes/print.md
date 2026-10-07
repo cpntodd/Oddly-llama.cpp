@@ -1,22 +1,17 @@
 ---
 name: "print"
 type: "function"
-file: "tests/test-json-schema-to-grammar.cpp"
-community: "tests"
+file: "build-intel-all/level-zero-sdk/third_party/spdlog_headers/spdlog/fmt/bundled/format-inl.h"
+community: "build-intel-all"
 ---
 
 # print
 
-**Type:** `function`  **File:** `tests/test-json-schema-to-grammar.cpp`
+**Type:** `function`  **File:** `build-intel-all/level-zero-sdk/third_party/spdlog_headers/spdlog/fmt/bundled/format-inl.h`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 
-- [[nodes/getenv]] _calls_
-- [[nodes/exit]] _calls_
-- [[nodes/test_all]] _calls_
-- [[nodes/write]] _calls_
-- [[nodes/verify_status]] _calls_
-- [[nodes/verify]] _calls_
-- [[nodes/read]] _calls_
+- [[nodes/write_console]] _calls_
+- [[nodes/fwrite_fully]] _calls_

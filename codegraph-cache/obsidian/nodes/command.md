@@ -2,15 +2,18 @@
 name: "command"
 type: "class"
 file: "app/llama.cpp"
-community: "tools"
+community: "build-sycl-2025"
 ---
 
 # command
 
 **Type:** `class`  **File:** `app/llama.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
+- [[nodes/buildProcessor]] _calls_
+- [[nodes/buildProcessor]] _calls_
+- [[nodes/buildProcessor]] _calls_
 - [[nodes/buildProcessor]] _calls_

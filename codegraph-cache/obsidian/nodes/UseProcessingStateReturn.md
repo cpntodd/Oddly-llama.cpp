@@ -1,21 +1,17 @@
 ---
 name: "UseProcessingStateReturn"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-processing-state.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-processing-state.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # UseProcessingStateReturn
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-processing-state.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-processing-state.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
 - [[nodes/types]] _imports_
-
-## Used By
-
-- [[nodes/UseContextGaugeReturn]] _imports_

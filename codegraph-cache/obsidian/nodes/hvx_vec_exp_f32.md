@@ -15,10 +15,6 @@ community: "ggml"
 
 - [[nodes/hvx_vec_store_u]] _imports_
 - [[nodes/hvx_vec_truncate_f32]] _imports_
-- [[nodes/exp]] _calls_
-- [[nodes/floor]] _calls_
-- [[nodes/ln]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/hvx_vec_floor_f32]] _calls_
 
 ## Used By

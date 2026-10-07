@@ -18,7 +18,6 @@ community: "ggml"
 - [[nodes/gguf_get_kv_type]] _calls_
 - [[nodes/gguf_get_arr_type]] _calls_
 - [[nodes/gguf_get_arr_n]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_free]] _calls_
 - [[nodes/gguf_free]] _calls_
 - [[nodes/file]] _calls_

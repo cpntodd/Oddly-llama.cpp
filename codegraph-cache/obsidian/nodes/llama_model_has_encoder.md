@@ -2,14 +2,14 @@
 name: "llama_model_has_encoder"
 type: "function"
 file: "src/llama-model.cpp"
-community: "src"
+community: "tests"
 ---
 
 # llama_model_has_encoder
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

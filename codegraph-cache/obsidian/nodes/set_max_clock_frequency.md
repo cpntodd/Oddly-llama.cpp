@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/move]] _calls_
-
 ## Used By
 
 - [[nodes/get_device_backend_and_type]] _calls_

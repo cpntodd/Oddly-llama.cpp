@@ -14,7 +14,7 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/jinja]] _imports_
-- [[nodes/_abort]] _imports_
+- [[nodes/obj_traits]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/ggml_up32]] _imports_
 - [[nodes/ggml_sycl_init]] _imports_

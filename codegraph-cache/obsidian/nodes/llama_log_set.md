@@ -2,14 +2,14 @@
 name: "llama_log_set"
 type: "function"
 file: "src/llama-impl.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_log_set
 
 **Type:** `function`  **File:** `src/llama-impl.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

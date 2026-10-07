@@ -13,7 +13,6 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/exp]] _calls_
 - [[nodes/softmax_lane_is_valid]] _calls_
 - [[nodes/et_fdiv]] _calls_
 - [[nodes/et_expf]] _calls_

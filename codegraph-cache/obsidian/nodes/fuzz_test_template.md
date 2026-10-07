@@ -2,14 +2,14 @@
 name: "fuzz_test_template"
 type: "function"
 file: "tests/test-jinja.cpp"
-community: "common"
+community: "tests"
 ---
 
 # fuzz_test_template
 
 **Type:** `function`  **File:** `tests/test-jinja.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

@@ -17,7 +17,6 @@ community: "common"
 - [[nodes/size]] _calls_
 - [[nodes/get_default_local_path]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/string]] _calls_
 
 ## Used By

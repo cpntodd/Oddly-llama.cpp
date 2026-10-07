@@ -15,6 +15,7 @@ community: "tests"
 
 - [[nodes/reset]] _calls_
 - [[nodes/launch_slot_with_task]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/test_backend_set_sampler]] _calls_
 - [[nodes/test_backend_cpu_mixed_batch]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_
+- [[nodes/flush_deferred]] _calls_

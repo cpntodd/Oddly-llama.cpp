@@ -14,7 +14,6 @@ community: "common"
 ## Depends On
 
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/common_get_env]] _calls_
 - [[nodes/string]] _calls_
 

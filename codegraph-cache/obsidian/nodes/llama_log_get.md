@@ -2,14 +2,14 @@
 name: "llama_log_get"
 type: "function"
 file: "src/llama-impl.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # llama_log_get
 
 **Type:** `function`  **File:** `src/llama-impl.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

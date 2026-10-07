@@ -2,14 +2,14 @@
 name: "llama_download"
 type: "function"
 file: "app/download.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_download
 
 **Type:** `function`  **File:** `app/download.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

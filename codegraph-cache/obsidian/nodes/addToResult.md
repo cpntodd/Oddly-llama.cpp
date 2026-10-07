@@ -1,20 +1,18 @@
 ---
 name: "addToResult"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Solve.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Solve.js"
+community: "build-sycl-2025"
 ---
 
 # addToResult
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Solve.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Solve.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/isNaN]] _calls_
-- [[nodes/valueOf]] _calls_
 - [[nodes/absSolve]] _calls_
 - [[nodes/isZero]] _calls_
 - [[nodes/equals]] _calls_
@@ -23,7 +21,6 @@ community: "tools"
 - [[nodes/solve]] _calls_
 - [[nodes/variables]] _calls_
 - [[nodes/is]] _calls_
-- [[nodes/isInt]] _calls_
 
 ## Used By
 

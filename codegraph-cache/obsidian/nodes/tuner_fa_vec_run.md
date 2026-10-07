@@ -2,14 +2,14 @@
 name: "tuner_fa_vec_run"
 type: "function"
 file: "tools/tuning/fa-vec.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # tuner_fa_vec_run
 
 **Type:** `function`  **File:** `tools/tuning/fa-vec.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
@@ -20,4 +20,3 @@ community: "tools"
 - [[nodes/fa_init_tensors]] _calls_
 - [[nodes/fa_op_flops]] _calls_
 - [[nodes/fa_cell_seed]] _calls_
-- [[nodes/ceil]] _calls_

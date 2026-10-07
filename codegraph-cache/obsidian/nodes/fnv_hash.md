@@ -1,17 +1,20 @@
 ---
 name: "fnv_hash"
 type: "function"
-file: "ggml/src/ggml-rpc/ggml-rpc.cpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/embed.cpp"
+community: "build-vulkan-gcc"
 ---
 
 # fnv_hash
 
-**Type:** `function`  **File:** `ggml/src/ggml-rpc/ggml-rpc.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/embed.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-vulkan-gcc]]
+
+## Depends On
+
+- [[nodes/jinja]] _imports_
 
 ## Used By
 
-- [[nodes/ggml_backend_rpc_buffer_set_tensor]] _calls_
-- [[nodes/ggml_backend_rpc_get_device_memory]] _calls_
+- [[nodes/main]] _calls_

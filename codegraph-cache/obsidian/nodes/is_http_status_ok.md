@@ -14,14 +14,12 @@ community: "common"
 ## Depends On
 
 - [[nodes/size]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/error]] _calls_
 - [[nodes/string]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/read_etag]] _calls_
 - [[nodes/write_etag]] _calls_
 - [[nodes/insert]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

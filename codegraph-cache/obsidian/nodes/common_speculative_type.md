@@ -1,12 +1,12 @@
 ---
 name: "common_speculative_type"
 type: "class"
-file: "tests/test-model-resolution.cpp"
-community: "tests"
+file: "common/speculative.h"
+community: "common"
 ---
 
 # common_speculative_type
 
-**Type:** `class`  **File:** `tests/test-model-resolution.cpp`
+**Type:** `class`  **File:** `common/speculative.h`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]

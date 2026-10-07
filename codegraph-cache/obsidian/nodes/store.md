@@ -1,38 +1,22 @@
 ---
 name: "store"
-type: "class"
-file: "tools/ui/src/lib/stores/device.svelte.ts"
-community: "tools"
+type: "function"
+file: "ggml/src/ggml-sycl/ternsycl/epilogue_dev.hpp"
+community: "ggml"
 ---
 
 # store
 
-**Type:** `class`  **File:** `tools/ui/src/lib/stores/device.svelte.ts`
+**Type:** `function`  **File:** `ggml/src/ggml-sycl/ternsycl/epilogue_dev.hpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
-- [[nodes/Keys]] _imports_
+- [[nodes/apply]] _calls_
+- [[nodes/in]] _calls_
 
 ## Used By
 
-- [[nodes/config]] _calls_
-- [[nodes/mcp_write_all]] _calls_
-- [[nodes/request_exit]] _calls_
-- [[nodes/wide_to_utf8]] _calls_
-- [[nodes/stopping_thread]] _calls_
-- [[nodes/on_progress]] _calls_
-- [[nodes/generate_multipart_boundary]] _calls_
-- [[nodes/server_stream_session_manager_stop]] _calls_
-- [[nodes/llama_server]] _calls_
-- [[nodes/json_value]] _calls_
-- [[nodes/timeout_thread]] _calls_
-- [[nodes/SettingsStore]] _imports_
-- [[nodes/initializeSocketIO]] _imports_
-- [[nodes/media_type_from_ext]] _calls_
-- [[nodes/signal_handler]] _calls_
-- [[nodes/main]] _calls_
-- [[nodes/spine_barrier_wait]] _calls_
-- [[nodes/spine_barrier_init]] _calls_
-- [[nodes/__attribute__]] _calls_
+- [[nodes/ggml_sycl_t2_repack]] _calls_
+- [[nodes/step]] _calls_

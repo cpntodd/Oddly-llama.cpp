@@ -2,14 +2,14 @@
 name: "ggml_backend_cann_transform_back"
 type: "function"
 file: "ggml/src/ggml-cann/ggml-cann.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # ggml_backend_cann_transform_back
 
 **Type:** `function`  **File:** `ggml/src/ggml-cann/ggml-cann.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

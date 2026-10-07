@@ -1,15 +1,15 @@
 ---
 name: "colorizeFaviconSvg"
 type: "function"
-file: "tools/ui/scripts/favicon-colorize.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/scripts/favicon-colorize.ts"
+community: "build-sycl-2025"
 ---
 
 # colorizeFaviconSvg
 
-**Type:** `function`  **File:** `tools/ui/scripts/favicon-colorize.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/scripts/favicon-colorize.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

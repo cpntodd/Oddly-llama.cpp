@@ -14,13 +14,12 @@ community: "tools"
 ## Depends On
 
 - [[nodes/KeyValuePair]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/llama_update]] _imports_
 - [[nodes/ResumableStreamState]] _imports_
 - [[nodes/mtmd_serialization]] _imports_
 - [[nodes/common_json_item]] _imports_
 - [[nodes/jinja]] _imports_
-- [[nodes/at]] _calls_
 - [[nodes/server_grammar_trigger]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/to_json]] _calls_
@@ -43,6 +42,7 @@ community: "tools"
 - [[nodes/json_get_nested_values]] _calls_
 - [[nodes/tokenize_mixed]] _calls_
 - [[nodes/validate_utf8]] _calls_
+- [[nodes/process_mtmd_prompt]] _calls_
 
 ## Used By
 

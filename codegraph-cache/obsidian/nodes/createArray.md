@@ -1,15 +1,15 @@
 ---
 name: "createArray"
 type: "function"
-file: "tools/ui/src/lib/vendors/big-integer/BigInteger.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js"
+community: "build-sycl-2025"
 ---
 
 # createArray
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/big-integer/BigInteger.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

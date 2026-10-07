@@ -14,6 +14,7 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/hvx_sigmoid_f32_aa]] _calls_
+- [[nodes/sigmoid]] _calls_
 
 ## Used By
 

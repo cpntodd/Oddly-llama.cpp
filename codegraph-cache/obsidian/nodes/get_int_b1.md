@@ -13,7 +13,7 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/_abort]] _imports_
+- [[nodes/obj_traits]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/__nv_fp8_e4m3]] _imports_
 - [[nodes/quant_shape_to_byte_shape]] _imports_

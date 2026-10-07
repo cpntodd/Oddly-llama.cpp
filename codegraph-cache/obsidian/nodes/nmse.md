@@ -1,16 +1,12 @@
 ---
 name: "nmse"
 type: "function"
-file: "tests/test-kv-mean-center.cpp"
-community: "tools"
+file: "tests/test-backend-ops.cpp"
+community: "tests"
 ---
 
 # nmse
 
-**Type:** `function`  **File:** `tests/test-kv-mean-center.cpp`
+**Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/a]] _calls_
+**Community:** [[communities/tests]]

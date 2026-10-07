@@ -2,14 +2,14 @@
 name: "read_gguf_chat_template"
 type: "function"
 file: "tests/test-chat-auto-parser.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # read_gguf_chat_template
 
 **Type:** `function`  **File:** `tests/test-chat-auto-parser.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

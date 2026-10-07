@@ -1,15 +1,15 @@
 ---
 name: "getFunctionsSubs"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Algebra.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js"
+community: "build-sycl-2025"
 ---
 
 # getFunctionsSubs
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Algebra.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -19,30 +19,27 @@ community: "tools"
 - [[nodes/expand]] _calls_
 - [[nodes/variables]] _calls_
 - [[nodes/toString]] _calls_
-- [[nodes/sqrt]] _calls_
 - [[nodes/Polynomial]] _calls_
 - [[nodes/add]] _calls_
 - [[nodes/divide]] _calls_
-- [[nodes/isInt]] _calls_
 - [[nodes/Factors]] _calls_
 - [[nodes/multiply]] _calls_
-- [[nodes/isNaN]] _calls_
 - [[nodes/equals]] _calls_
-- [[nodes/negate]] _calls_
 - [[nodes/create]] _calls_
 - [[nodes/a]] _calls_
 - [[nodes/format]] _calls_
-- [[nodes/sign]] _calls_
 - [[nodes/evaluate]] _calls_
 - [[nodes/pop]] _calls_
 - [[nodes/subFunctions]] _calls_
 - [[nodes/toSymbol]] _calls_
 - [[nodes/reduce]] _calls_
-- [[nodes/round]] _calls_
 - [[nodes/fill]] _calls_
-- [[nodes/div]] _calls_
-- [[nodes/gcd]] _calls_
 - [[nodes/haveIntersection]] _calls_
+- [[nodes/block]] _calls_
+- [[nodes/groupTerms]] _calls_
+- [[nodes/fnTransform]] _calls_
+- [[nodes/slice]] _calls_
+- [[nodes/simplify]] _calls_
 
 ## Used By
 

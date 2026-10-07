@@ -1,12 +1,12 @@
 ---
 name: "ChatFormPickersHarness.svelte"
 type: "file"
-file: "tools/ui/tests/client/components/ChatFormPickersHarness.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/components/ChatFormPickersHarness.svelte"
+community: "build-sycl-2025"
 ---
 
 # ChatFormPickersHarness.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/client/components/ChatFormPickersHarness.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/components/ChatFormPickersHarness.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

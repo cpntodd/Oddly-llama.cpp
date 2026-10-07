@@ -1,15 +1,15 @@
 ---
 name: "extractJsonRpcMethods"
 type: "function"
-file: "tools/ui/src/lib/utils/request-helpers.ts"
-community: "src"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/request-helpers.ts"
+community: "tools"
 ---
 
 # extractJsonRpcMethods
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/request-helpers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/request-helpers.ts`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

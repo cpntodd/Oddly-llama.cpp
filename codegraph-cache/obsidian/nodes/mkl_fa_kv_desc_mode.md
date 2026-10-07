@@ -17,4 +17,4 @@ community: "ggml"
 - [[nodes/dequantize_V_f16]] _imports_
 - [[nodes/fattn-buffers.cpp]] _imports_
 - [[nodes/dequantize_row_q4_K_sycl_reorder]] _imports_
-- [[nodes/ggml_sycl_flash_attn_ext_vec]] _imports_
+- [[nodes/fattn.hpp]] _imports_

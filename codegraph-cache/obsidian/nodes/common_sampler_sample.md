@@ -2,14 +2,14 @@
 name: "common_sampler_sample"
 type: "function"
 file: "common/sampling.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_sampler_sample
 
 **Type:** `function`  **File:** `common/sampling.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -30,10 +30,11 @@ community: "tests"
 - [[nodes/post_decode]] _calls_
 - [[nodes/generate_response]] _calls_
 - [[nodes/main]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/is_valid_utf8]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_
+- [[nodes/flush_deferred]] _calls_

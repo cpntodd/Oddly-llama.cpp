@@ -2,14 +2,14 @@
 name: "ggml_time_init"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "tests"
+community: "common"
 ---
 
 # ggml_time_init
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

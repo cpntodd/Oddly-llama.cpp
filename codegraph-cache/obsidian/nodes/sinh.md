@@ -1,15 +1,15 @@
 ---
 name: "sinh"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # sinh
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -26,9 +26,6 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/over]] _calls_
-- [[nodes/derive]] _calls_
-- [[nodes/without]] _calls_
 - [[nodes/cosh]] _calls_
 - [[nodes/tanh]] _calls_
 - [[nodes/sign]] _calls_

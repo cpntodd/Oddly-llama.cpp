@@ -2,14 +2,14 @@
 name: "buildStructured"
 type: "function"
 file: "examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt"
-community: "ggml"
+community: "examples"
 ---
 
 # buildStructured
 
 **Type:** `function`  **File:** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/examples]]
 
 ## Used By
 

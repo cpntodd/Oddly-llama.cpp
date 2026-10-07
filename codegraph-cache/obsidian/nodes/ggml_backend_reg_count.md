@@ -2,14 +2,14 @@
 name: "ggml_backend_reg_count"
 type: "function"
 file: "ggml/src/ggml-backend-reg.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # ggml_backend_reg_count
 
 **Type:** `function`  **File:** `ggml/src/ggml-backend-reg.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

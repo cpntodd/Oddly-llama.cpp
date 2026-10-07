@@ -2,14 +2,14 @@
 name: "moe_mandatory"
 type: "function"
 file: "tests/test-llama-archs.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # moe_mandatory
 
 **Type:** `function`  **File:** `tests/test-llama-archs.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

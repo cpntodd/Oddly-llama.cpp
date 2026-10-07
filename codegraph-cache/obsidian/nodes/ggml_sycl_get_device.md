@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/get_current_device_id]] _calls_
 - [[nodes/crash]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/block]] _calls_
 - [[nodes/ggml_sycl_pool]] _calls_
 - [[nodes/alloc]] _calls_
@@ -30,9 +29,8 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_flash_attn_ext_onednn_supported]] _calls_
-- [[nodes/build_sdpa]] _calls_
 - [[nodes/get_dequantize_V]] _calls_
+- [[nodes/ggml_sycl_flash_attn_ext_onednn_supported]] _calls_
 - [[nodes/ggml_sycl_flash_attn_ext]] _calls_
 - [[nodes/launch_fattn_tile_switch_ncols1]] _calls_
 - [[nodes/launch_fattn_tile_switch_ncols2]] _calls_

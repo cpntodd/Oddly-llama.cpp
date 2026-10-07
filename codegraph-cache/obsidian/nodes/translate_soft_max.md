@@ -15,7 +15,5 @@ community: "ggml"
 
 - [[nodes/num_inputs_check]] _calls_
 - [[nodes/is_attention_sinks_input_shape]] _calls_
-- [[nodes/floor]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/create]] _calls_
 - [[nodes/rename_outputs_with_suffix]] _calls_

@@ -13,5 +13,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_init]] _imports_
 - [[nodes/if]] _imports_
+- [[nodes/ggml_sycl_init]] _imports_

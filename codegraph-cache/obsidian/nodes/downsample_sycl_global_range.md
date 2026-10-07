@@ -17,5 +17,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/calculate_offset]] _calls_
 - [[nodes/dequantize_row_nvfp4_sycl]] _calls_
+- [[nodes/calculate_offset]] _calls_

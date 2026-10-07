@@ -17,7 +17,7 @@ community: "ggml"
 - [[nodes/ggml_metal_library_get_pipeline_top_k]] _calls_
 - [[nodes/ggml_metal_get_buffer_id]] _calls_
 - [[nodes/ggml_nelements]] _calls_
-- [[nodes/ceil]] _calls_
+- [[nodes/swap]] _calls_
 - [[nodes/ggml_metal_library_get_pipeline_top_k_merge]] _calls_
 - [[nodes/ggml_metal_op_concurrency_reset]] _calls_
 

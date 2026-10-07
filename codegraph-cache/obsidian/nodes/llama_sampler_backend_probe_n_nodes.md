@@ -2,14 +2,14 @@
 name: "llama_sampler_backend_probe_n_nodes"
 type: "function"
 file: "src/llama-sampler.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # llama_sampler_backend_probe_n_nodes
 
 **Type:** `function`  **File:** `src/llama-sampler.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

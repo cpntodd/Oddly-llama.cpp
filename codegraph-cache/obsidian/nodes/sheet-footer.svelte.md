@@ -1,12 +1,12 @@
 ---
 name: "sheet-footer.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/ui/sheet/sheet-footer.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/sheet/sheet-footer.svelte"
+community: "build-sycl-2025"
 ---
 
 # sheet-footer.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/ui/sheet/sheet-footer.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/ui/sheet/sheet-footer.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

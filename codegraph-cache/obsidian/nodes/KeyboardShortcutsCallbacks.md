@@ -1,15 +1,15 @@
 ---
 name: "KeyboardShortcutsCallbacks"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-keyboard-shortcuts.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-keyboard-shortcuts.svelte.ts"
+community: "build-vulkan-gcc"
 ---
 
 # KeyboardShortcutsCallbacks
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-keyboard-shortcuts.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-keyboard-shortcuts.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 

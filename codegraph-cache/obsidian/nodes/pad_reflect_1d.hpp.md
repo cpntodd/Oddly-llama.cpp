@@ -10,7 +10,3 @@ community: "ggml"
 **Type:** `file`  **File:** `ggml/src/ggml-sycl/pad_reflect_1d.hpp`
 
 **Community:** [[communities/ggml]]
-
-## Used By
-
-- [[nodes/if]] _imports_

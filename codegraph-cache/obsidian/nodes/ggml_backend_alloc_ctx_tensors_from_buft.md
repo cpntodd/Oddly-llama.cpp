@@ -2,14 +2,14 @@
 name: "ggml_backend_alloc_ctx_tensors_from_buft"
 type: "function"
 file: "ggml/src/ggml-alloc.c"
-community: "ggml"
+community: "src"
 ---
 
 # ggml_backend_alloc_ctx_tensors_from_buft
 
 **Type:** `function`  **File:** `ggml/src/ggml-alloc.c`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

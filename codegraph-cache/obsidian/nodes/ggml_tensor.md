@@ -1,17 +1,12 @@
 ---
 name: "ggml_tensor"
 type: "class"
-file: "ggml/include/ggml-metal.h"
+file: "ggml/src/ggml-openvino/ggml-decoder.cpp"
 community: "ggml"
 ---
 
 # ggml_tensor
 
-**Type:** `class`  **File:** `ggml/include/ggml-metal.h`
+**Type:** `class`  **File:** `ggml/src/ggml-openvino/ggml-decoder.cpp`
 
 **Community:** [[communities/ggml]]
-
-## Depends On
-
-- [[nodes/ggml_graph_next_uid]] _imports_
-- [[nodes/ggml_backend_buft_alloc_buffer]] _imports_

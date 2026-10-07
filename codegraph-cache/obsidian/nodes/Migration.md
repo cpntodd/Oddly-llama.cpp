@@ -1,22 +1,16 @@
 ---
 name: "Migration"
 type: "class"
-file: "tools/ui/src/lib/services/migration.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/migration.service.ts"
+community: "build-vulkan-gcc"
 ---
 
 # Migration
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/migration.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/migration.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
-
-## Used By
-
-- [[nodes/initStores]] _imports_
-- [[nodes/ConversationsStore]] _imports_
-- [[nodes/seedConfig]] _imports_

@@ -18,7 +18,6 @@ community: "tools"
 - [[nodes/nx]] _calls_
 - [[nodes/serialize]] _calls_
 - [[nodes/deserialize]] _calls_
-- [[nodes/floor]] _calls_
 
 ## Used By
 

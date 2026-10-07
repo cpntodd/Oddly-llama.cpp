@@ -1,18 +1,18 @@
 ---
 name: "usage"
 type: "function"
-file: "tests/test-quantize-perf.cpp"
-community: "ggml"
+file: "tests/test-backend-ops.cpp"
+community: "build-intel-all"
 ---
 
 # usage
 
-**Type:** `function`  **File:** `tests/test-quantize-perf.cpp`
+**Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/build-intel-all]]
 
 ## Depends On
 
-- [[nodes/ggml_get_type_traits]] _calls_
-- [[nodes/ggml_get_type_traits_cpu]] _calls_
-- [[nodes/ggml_type_name]] _calls_
+- [[nodes/ggml_op_desc]] _calls_
+- [[nodes/string]] _calls_
+- [[nodes/format]] _calls_

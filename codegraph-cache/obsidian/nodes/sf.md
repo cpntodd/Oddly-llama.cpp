@@ -1,15 +1,15 @@
 ---
 name: "sf"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Algebra.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js"
+community: "build-sycl-2025"
 ---
 
 # sf
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Algebra.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -23,5 +23,4 @@ community: "tools"
 - [[nodes/divide]] _calls_
 - [[nodes/multiply]] _calls_
 - [[nodes/generateImage]] _calls_
-- [[nodes/neg]] _calls_
 - [[nodes/getImg]] _calls_

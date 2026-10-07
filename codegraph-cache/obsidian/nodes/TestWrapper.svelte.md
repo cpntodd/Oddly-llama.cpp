@@ -1,12 +1,12 @@
 ---
 name: "TestWrapper.svelte"
 type: "file"
-file: "tools/ui/tests/client/components/TestWrapper.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/components/TestWrapper.svelte"
+community: "build-sycl-2025"
 ---
 
 # TestWrapper.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/client/components/TestWrapper.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/components/TestWrapper.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -19,6 +19,7 @@ community: "ggml"
 - [[nodes/decltype]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/ggml_is_contiguous]] _calls_
+- [[nodes/view]] _calls_
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/is_same_shape]] _calls_
 - [[nodes/is_conv_state_writeback]] _calls_

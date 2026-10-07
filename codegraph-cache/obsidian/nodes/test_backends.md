@@ -2,14 +2,14 @@
 name: "test_backends"
 type: "function"
 file: "tests/test-llama-archs.cpp"
-community: "ggml"
+community: "tests"
 ---
 
 # test_backends
 
 **Type:** `function`  **File:** `tests/test-llama-archs.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
@@ -18,7 +18,6 @@ community: "ggml"
 - [[nodes/device_config]] _calls_
 - [[nodes/ggml_backend_dev_count]] _calls_
 - [[nodes/ggml_backend_dev_get]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/ggml_backend_dev_buffer_type]] _calls_
 - [[nodes/ggml_backend_cpu_buffer_type]] _calls_
 - [[nodes/llm_arch_all]] _calls_
@@ -33,7 +32,6 @@ community: "ggml"
 - [[nodes/llm_arch_supports_sm_tensor]] _calls_
 - [[nodes/llama_model_saver_supports_arch]] _calls_
 - [[nodes/llama_model_saver]] _calls_
-- [[nodes/save]] _calls_
 
 ## Used By
 

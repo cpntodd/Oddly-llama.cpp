@@ -1,15 +1,15 @@
 ---
 name: "UseToolsPanelReturn"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-tools-panel.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-tools-panel.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # UseToolsPanelReturn
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-tools-panel.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-tools-panel.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

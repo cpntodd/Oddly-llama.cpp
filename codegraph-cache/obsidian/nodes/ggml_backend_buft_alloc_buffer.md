@@ -36,7 +36,6 @@ community: "ggml"
 - [[nodes/buft_supported]] _calls_
 - [[nodes/ggml_gen_hadamard]] _calls_
 - [[nodes/needs_raw_logits]] _calls_
-- [[nodes/that]] _imports_
 - [[nodes/set_tensor_data]] _imports_
 - [[nodes/handcrafted_file_type]] _imports_
 - [[nodes/nmse]] _imports_
@@ -52,3 +51,4 @@ community: "ggml"
 - [[nodes/ggml_opt_dataset]] _imports_
 - [[nodes/ggml]] _imports_
 - [[nodes/ggml_arm_arch_features_type]] _imports_
+- [[nodes/ggml_backend_cpu_is_extra_buffer_type]] _imports_

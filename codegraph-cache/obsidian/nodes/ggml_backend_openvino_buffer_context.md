@@ -13,6 +13,7 @@ community: "ggml"
 
 ## Depends On
 
+- [[nodes/ggml-openvino.h]] _imports_
 - [[nodes/ggml-backend-impl.h]] _imports_
 - [[nodes/ggml_backend_buft_alloc_buffer]] _imports_
 - [[nodes/ggml_up32]] _imports_
@@ -27,7 +28,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/fs]] _imports_
-- [[nodes/is_inplace_op]] _imports_
 - [[nodes/ggml_backend_openvino_buffer_init_tensor]] _calls_
 - [[nodes/ggml_backend_openvino_buffer_clear]] _calls_

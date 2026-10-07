@@ -18,7 +18,6 @@ community: "ggml"
 - [[nodes/ggml_backend_meta_simple_tensor_container]] _calls_
 - [[nodes/ggml_init]] _calls_
 - [[nodes/ggml_backend_meta_buffer_context]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/getenv]] _calls_
 
 ## Used By

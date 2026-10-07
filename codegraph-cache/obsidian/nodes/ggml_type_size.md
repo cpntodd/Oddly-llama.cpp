@@ -18,10 +18,6 @@ community: "ggml"
 - [[nodes/set_input_kq_mask_impl]] _calls_
 - [[nodes/category_is_attn_v]] _calls_
 - [[nodes/gguf_ex_read_1]] _calls_
-- [[nodes/if]] _calls_
-- [[nodes/type_a]] _calls_
-- [[nodes/init_mul_mat_id_tensors]] _calls_
-- [[nodes/is_non_contiguous]] _calls_
 - [[nodes/expect_context_not_null]] _calls_
 - [[nodes/read_buffer_callback]] _calls_
 - [[nodes/get_random_gguf_context]] _calls_
@@ -43,3 +39,7 @@ community: "ggml"
 - [[nodes/ggml_zendnn_make_matmul_params]] _calls_
 - [[nodes/ggml_set_f32_nd]] _calls_
 - [[nodes/incr_ptr_aligned]] _calls_
+- [[nodes/ggml_threadpool_resume]] _calls_
+- [[nodes/forward_mul_mat_id]] _calls_
+- [[nodes/ggml_compute_forward_tri]] _calls_
+- [[nodes/rotate_pairs]] _calls_

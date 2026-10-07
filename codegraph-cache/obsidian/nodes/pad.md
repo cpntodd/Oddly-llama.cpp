@@ -1,23 +1,16 @@
 ---
 name: "pad"
 type: "function"
-file: "ggml/src/gguf.cpp"
-community: "ggml"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts"
+community: "build-sycl-2025"
 ---
 
 # pad
 
-**Type:** `function`  **File:** `ggml/src/gguf.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/agentic-stream.perf.svelte.test.ts`
 
-**Community:** [[communities/ggml]]
-
-## Depends On
-
-- [[nodes/write]] _calls_
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 
-- [[nodes/buf]] _calls_
-- [[nodes/file]] _calls_
-- [[nodes/gguf_write_out]] _calls_
-- [[nodes/ggml_get_type_traits]] _calls_
+- [[nodes/num]] _calls_

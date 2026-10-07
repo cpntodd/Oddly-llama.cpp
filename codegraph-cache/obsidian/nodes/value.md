@@ -26,6 +26,8 @@ community: "common"
 - [[nodes/findExifOrientation]] _calls_
 - [[nodes/load_hparams]] _calls_
 - [[nodes/media_type_from_ext]] _calls_
+- [[nodes/getJpegOrientationFromDataURL]] _calls_
+- [[nodes/findExifOrientation]] _calls_
 - [[nodes/has_value]] _calls_
 - [[nodes/smodel]] _calls_
 - [[nodes/canonical_tag]] _calls_
@@ -41,5 +43,3 @@ community: "common"
 - [[nodes/convert_tool_responses_gemma4]] _calls_
 - [[nodes/COMMON_JSON_VEC]] _calls_
 - [[nodes/COMMON_JSON_GET]] _calls_
-- [[nodes/common_params_parser_init]] _calls_
-- [[nodes/build_min_max_int]] _calls_

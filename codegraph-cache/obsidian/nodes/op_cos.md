@@ -2,18 +2,14 @@
 name: "op_cos"
 type: "function"
 file: "ggml/src/ggml-sycl/element_wise.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # op_cos
 
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/element_wise.cpp`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/cos]] _calls_
+**Community:** [[communities/ggml]]
 
 ## Used By
 

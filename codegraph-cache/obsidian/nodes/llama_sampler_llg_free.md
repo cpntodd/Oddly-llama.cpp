@@ -2,14 +2,14 @@
 name: "llama_sampler_llg_free"
 type: "function"
 file: "common/llguidance.cpp"
-community: "src"
+community: "tests"
 ---
 
 # llama_sampler_llg_free
 
 **Type:** `function`  **File:** `common/llguidance.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

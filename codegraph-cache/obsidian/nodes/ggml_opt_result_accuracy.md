@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/double]] _calls_
-- [[nodes/sqrt]] _calls_
 
 ## Used By
 

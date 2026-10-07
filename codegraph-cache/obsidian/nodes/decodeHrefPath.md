@@ -1,20 +1,19 @@
 ---
 name: "decodeHrefPath"
 type: "function"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/file-badge.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/file-badge.ts"
+community: "build-sycl-2025"
 ---
 
 # decodeHrefPath
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/plugins/rehype/file-badge.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/plugins/rehype/file-badge.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/slice]] _calls_
-- [[nodes/decodeFileLinkPath]] _calls_
 
 ## Used By
 

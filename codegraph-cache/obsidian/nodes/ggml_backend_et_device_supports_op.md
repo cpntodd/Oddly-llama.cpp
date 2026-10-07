@@ -17,6 +17,7 @@ community: "ggml"
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/ggml_get_unary_op]] _calls_
 - [[nodes/ggml_type_size]] _calls_
+- [[nodes/activations]] _calls_
 - [[nodes/et_ggml_is_row_contiguous]] _calls_
 - [[nodes/ggml_get_op_params_i32]] _calls_
 - [[nodes/ggml_is_contiguous_1]] _calls_

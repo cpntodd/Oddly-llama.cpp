@@ -1,16 +1,19 @@
 ---
 name: "type"
 type: "function"
-file: "tests/test-export-graph-ops.cpp"
-community: "ggml"
+file: "tests/test-backend-ops.cpp"
+community: "tests"
 ---
 
 # type
 
-**Type:** `function`  **File:** `tests/test-export-graph-ops.cpp`
+**Type:** `function`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 
+- [[nodes/ne]] _calls_
 - [[nodes/data]] _calls_
+- [[nodes/ggml_set_name]] _calls_
+- [[nodes/ggml_set_param]] _calls_

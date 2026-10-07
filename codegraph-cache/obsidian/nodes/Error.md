@@ -1,16 +1,16 @@
 ---
 name: "Error"
-type: "function"
-file: "examples/llama.android/lib/src/main/java/com/arm/aichat/InferenceEngine.kt"
-community: "examples"
+type: "class"
+file: "build-sycl-2025/tools/ui/ui-src/src/app.d.ts"
+community: "build-sycl-2025"
 ---
 
 # Error
 
-**Type:** `function`  **File:** `examples/llama.android/lib/src/main/java/com/arm/aichat/InferenceEngine.kt`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/app.d.ts`
 
-**Community:** [[communities/examples]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/State]] _calls_
+- [[nodes/types]] _imports_

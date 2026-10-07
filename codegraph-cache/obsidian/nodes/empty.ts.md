@@ -1,12 +1,12 @@
 ---
 name: "empty.ts"
 type: "file"
-file: "tools/ui/tests/stories/fixtures/empty.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/empty.ts"
+community: "build-sycl-2025"
 ---
 
 # empty.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/fixtures/empty.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/empty.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

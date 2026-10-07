@@ -21,7 +21,6 @@ community: "ggml"
 - [[nodes/clear]] _calls_
 - [[nodes/alloc]] _calls_
 - [[nodes/pop]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_cann_pool_buf]] _calls_
 - [[nodes/pool]] _calls_
 - [[nodes/ggml_cann_pool_vmm]] _calls_

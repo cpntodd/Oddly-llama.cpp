@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/float]] _calls_
-- [[nodes/exp]] _calls_
 - [[nodes/parallel_for]] _calls_
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/ggml_get_op_params_f32]] _calls_

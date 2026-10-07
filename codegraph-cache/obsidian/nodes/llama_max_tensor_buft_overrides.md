@@ -2,14 +2,14 @@
 name: "llama_max_tensor_buft_overrides"
 type: "function"
 file: "src/llama.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # llama_max_tensor_buft_overrides
 
 **Type:** `function`  **File:** `src/llama.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

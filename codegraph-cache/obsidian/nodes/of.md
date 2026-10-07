@@ -1,12 +1,12 @@
 ---
 name: "of"
 type: "class"
-file: "ggml/src/ggml-sycl/dpct/helper.hpp"
-community: "ggml"
+file: "common/speculative.cpp"
+community: "common"
 ---
 
 # of
 
-**Type:** `class`  **File:** `ggml/src/ggml-sycl/dpct/helper.hpp`
+**Type:** `class`  **File:** `common/speculative.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/common]]

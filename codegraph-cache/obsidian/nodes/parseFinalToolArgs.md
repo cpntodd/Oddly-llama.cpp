@@ -1,15 +1,15 @@
 ---
 name: "parseFinalToolArgs"
 type: "function"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/_shared.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/_shared.ts"
+community: "build-sycl-2025"
 ---
 
 # parseFinalToolArgs
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/_shared.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/_shared.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -18,12 +18,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/parseExecShellCommandMeta]] _imports_
 - [[nodes/parseToolArgs]] _calls_
-- [[nodes/parseEditFileMeta]] _imports_
-- [[nodes/parseGrepSearchMeta]] _imports_
-- [[nodes/parseRunJavascriptMeta]] _imports_
-- [[nodes/parseFileGlobSearchMeta]] _imports_
-- [[nodes/parseWriteFileMeta]] _imports_
-- [[nodes/parseReadFileMeta]] _imports_
-- [[nodes/makeSection]] _imports_

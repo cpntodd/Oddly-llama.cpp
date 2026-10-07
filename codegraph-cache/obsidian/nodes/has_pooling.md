@@ -2,14 +2,14 @@
 name: "has_pooling"
 type: "function"
 file: "examples/debug/debug.cpp"
-community: "src"
+community: "common"
 ---
 
 # has_pooling
 
 **Type:** `function`  **File:** `examples/debug/debug.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

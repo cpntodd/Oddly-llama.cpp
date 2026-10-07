@@ -14,3 +14,4 @@ community: "common"
 ## Used By
 
 - [[nodes/common_speculative_get_devices_str]] _calls_
+- [[nodes/flush_deferred]] _calls_

@@ -15,7 +15,6 @@ community: "tests"
 
 - [[nodes/read_templates]] _calls_
 - [[nodes/message_with_tool_calls]] _calls_
-- [[nodes/render]] _calls_
 - [[nodes/assert_contains]] _calls_
 - [[nodes/assert_not_contains]] _calls_
 

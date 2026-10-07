@@ -2,14 +2,18 @@
 name: "common_chat_continuation_parse"
 type: "function"
 file: "common/chat.cpp"
-community: "tools"
+community: "common"
 ---
 
 # common_chat_continuation_parse
 
 **Type:** `function`  **File:** `common/chat.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
+
+## Depends On
+
+- [[nodes/is_string]] _calls_
 
 ## Used By
 

@@ -1,12 +1,12 @@
 ---
 name: "SettingsChatToolsTab.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/settings/SettingsChat/SettingsChatToolsTab.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/settings/SettingsChat/SettingsChatToolsTab.svelte"
+community: "build-sycl-2025"
 ---
 
 # SettingsChatToolsTab.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/settings/SettingsChat/SettingsChatToolsTab.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/settings/SettingsChat/SettingsChatToolsTab.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

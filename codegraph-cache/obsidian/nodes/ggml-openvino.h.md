@@ -10,3 +10,9 @@ community: "ggml"
 **Type:** `file`  **File:** `ggml/include/ggml-openvino.h`
 
 **Community:** [[communities/ggml]]
+
+## Used By
+
+- [[nodes/fs]] _imports_
+- [[nodes/is_inplace_op]] _imports_
+- [[nodes/ggml_backend_openvino_buffer_context]] _imports_

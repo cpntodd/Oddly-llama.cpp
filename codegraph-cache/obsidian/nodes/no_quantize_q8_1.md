@@ -13,4 +13,4 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/_abort]] _imports_
+- [[nodes/obj_traits]] _imports_

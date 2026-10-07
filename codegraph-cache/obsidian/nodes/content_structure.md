@@ -2,14 +2,14 @@
 name: "content_structure"
 type: "class"
 file: "common/chat-peg-parser.h"
-community: "common"
+community: "tools"
 ---
 
 # content_structure
 
 **Type:** `class`  **File:** `common/chat-peg-parser.h`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

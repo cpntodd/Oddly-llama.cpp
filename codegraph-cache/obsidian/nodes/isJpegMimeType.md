@@ -1,17 +1,16 @@
 ---
 name: "isJpegMimeType"
 type: "function"
-file: "tools/ui/src/lib/utils/jpeg-orientation.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/jpeg-orientation.ts"
+community: "build-vulkan-gcc"
 ---
 
 # isJpegMimeType
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/jpeg-orientation.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/jpeg-orientation.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Used By
 
 - [[nodes/capImageDataURLSize]] _calls_
-- [[nodes/buildJpegDataURL]] _calls_

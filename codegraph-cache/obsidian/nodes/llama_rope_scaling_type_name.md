@@ -2,18 +2,14 @@
 name: "llama_rope_scaling_type_name"
 type: "function"
 file: "src/llama-model.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # llama_rope_scaling_type_name
 
 **Type:** `function`  **File:** `src/llama-model.cpp`
 
-**Community:** [[communities/ggml]]
-
-## Depends On
-
-- [[nodes/at]] _calls_
+**Community:** [[communities/src]]
 
 ## Used By
 

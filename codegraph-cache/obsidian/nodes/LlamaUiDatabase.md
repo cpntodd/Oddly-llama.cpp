@@ -1,13 +1,13 @@
 ---
 name: "LlamaUiDatabase"
 type: "class"
-file: "tools/ui/src/lib/services/database.service.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/database.service.ts"
 community: "tools"
 ---
 
 # LlamaUiDatabase
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/database.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/database.service.ts`
 
 **Community:** [[communities/tools]]
 

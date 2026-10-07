@@ -1,16 +1,12 @@
 ---
 name: "handleInfoClick"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-models-selector.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-models-selector.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # handleInfoClick
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-models-selector.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-models-selector.svelte.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/fetch]] _calls_
+**Community:** [[communities/build-sycl-2025]]

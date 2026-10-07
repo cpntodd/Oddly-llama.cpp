@@ -35,7 +35,14 @@ community: "common"
 - [[nodes/gbnf_char_class]] _calls_
 - [[nodes/serialize_parser_variant]] _calls_
 - [[nodes/main]] _calls_
-- [[nodes/decrement_compile_count]] _calls_
+- [[nodes/get_iterator]] _calls_
+- [[nodes/init_named_args]] _calls_
+- [[nodes/assume]] _calls_
+- [[nodes/for_each_codepoint]] _calls_
+- [[nodes/copy2]] _calls_
+- [[nodes/adjust_precision]] _calls_
+- [[nodes/get_arg]] _calls_
 - [[nodes/t2f32]] _calls_
 - [[nodes/atomic_fetch_add]] _calls_
+- [[nodes/decrement_compile_count]] _calls_
 - [[nodes/get_tensor_ov_name]] _calls_

@@ -1,12 +1,12 @@
 ---
 name: "McpServerForm.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/mcp/McpServerForm.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpServerForm.svelte"
+community: "build-sycl-2025"
 ---
 
 # McpServerForm.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/mcp/McpServerForm.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpServerForm.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

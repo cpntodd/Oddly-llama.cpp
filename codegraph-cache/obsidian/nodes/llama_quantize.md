@@ -15,8 +15,6 @@ community: "tools"
 
 - [[nodes/usage]] _calls_
 - [[nodes/llama_model_quantize_default_params]] _calls_
-- [[nodes/move]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/llama_backend_init]] _calls_
 - [[nodes/try_parse_ftype]] _calls_
 - [[nodes/llama_time_us]] _calls_

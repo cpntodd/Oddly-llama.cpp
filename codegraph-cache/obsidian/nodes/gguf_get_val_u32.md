@@ -19,7 +19,7 @@ community: "ggml"
 ## Used By
 
 - [[nodes/get_u32]] _calls_
-- [[nodes/common_speculative_type_from_name]] _calls_
 - [[nodes/common_imatrix_load]] _calls_
 - [[nodes/handcrafted_check_tensors]] _calls_
 - [[nodes/gguf_read_emplace_helper]] _calls_
+- [[nodes/common_speculative_type_from_name]] _calls_

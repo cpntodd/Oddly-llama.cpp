@@ -16,7 +16,6 @@ community: "common"
 - [[nodes/parse_primary_expression]] _calls_
 - [[nodes/parse_expression]] _calls_
 - [[nodes/is]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

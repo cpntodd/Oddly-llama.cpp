@@ -1,13 +1,13 @@
 ---
 name: "PreviewState"
 type: "class"
-file: "tools/ui/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts"
 community: "tools"
 ---
 
 # PreviewState
 
-**Type:** `class`  **File:** `tools/ui/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/content/MarkdownContent/markdown-handlers.ts`
 
 **Community:** [[communities/tools]]
 

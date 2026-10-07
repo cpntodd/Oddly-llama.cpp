@@ -1,5 +1,5 @@
 ---
-community_id: 332
+community_id: 5356
 label: "build-xcframework.sh"
 members: 1
 cohesion: 1.0

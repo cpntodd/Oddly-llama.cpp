@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/log2]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_backend_meta_graph_compute]] _calls_

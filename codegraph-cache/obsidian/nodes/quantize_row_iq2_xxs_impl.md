@@ -17,6 +17,7 @@ community: "ggml"
 - [[nodes/ggml_quantize_init]] _calls_
 - [[nodes/make_qp_quants]] _calls_
 - [[nodes/nearest_int]] _calls_
+- [[nodes/positive]] _calls_
 
 ## Used By
 

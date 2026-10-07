@@ -17,8 +17,6 @@ community: "ggml"
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/pool]] _calls_
 - [[nodes/ggml_cann_create_scalar]] _calls_
-- [[nodes/floor]] _calls_
-- [[nodes/log2]] _calls_
 - [[nodes/ggml_nelements]] _calls_
 - [[nodes/ggml_element_size]] _calls_
 - [[nodes/aclnn_mul]] _calls_

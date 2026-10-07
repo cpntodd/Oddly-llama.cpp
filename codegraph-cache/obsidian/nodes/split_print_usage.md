@@ -2,14 +2,14 @@
 name: "split_print_usage"
 type: "function"
 file: "tools/gguf-split/gguf-split.cpp"
-community: "tools"
+community: "ggml"
 ---
 
 # split_print_usage
 
 **Type:** `function`  **File:** `tools/gguf-split/gguf-split.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

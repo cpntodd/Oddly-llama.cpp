@@ -2,14 +2,14 @@
 name: "mtmd_helper_bitmap_init_from_file"
 type: "function"
 file: "tools/mtmd/mtmd-helper.cpp"
-community: "common"
+community: "tools"
 ---
 
 # mtmd_helper_bitmap_init_from_file
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd-helper.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

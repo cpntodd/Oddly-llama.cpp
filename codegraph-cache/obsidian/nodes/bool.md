@@ -2,14 +2,14 @@
 name: "bool"
 type: "function"
 file: "ggml/src/ggml-sycl/ggml-sycl.cpp"
-community: "tools"
+community: "common"
 ---
 
 # bool
 
 **Type:** `function`  **File:** `ggml/src/ggml-sycl/ggml-sycl.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
@@ -31,6 +31,7 @@ community: "tools"
 - [[nodes/entry_depth]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/join_path]] _calls_
+- [[nodes/main]] _calls_
 - [[nodes/ctx_type_to_graph_type]] _calls_
 - [[nodes/llama_set_abort_callback]] _calls_
 - [[nodes/parse_cpu_range]] _calls_
@@ -41,6 +42,8 @@ community: "tools"
 - [[nodes/handcrafted_check_kv]] _calls_
 - [[nodes/handcrafted_check_tensor_data]] _calls_
 - [[nodes/all_kv_in_other]] _calls_
+- [[nodes/main]] _calls_
+- [[nodes/init_named_args]] _calls_
 - [[nodes/ggml_compute_forward_tri_f32]] _calls_
 - [[nodes/dequantize_q1_0]] _calls_
 - [[nodes/dequantize_q1_0_t4]] _calls_

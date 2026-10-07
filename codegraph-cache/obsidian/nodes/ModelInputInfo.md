@@ -2,14 +2,14 @@
 name: "ModelInputInfo"
 type: "class"
 file: "ggml/src/ggml-openvino/openvino/decoder.h"
-community: "ggml"
+community: "src"
 ---
 
 # ModelInputInfo
 
 **Type:** `class`  **File:** `ggml/src/ggml-openvino/openvino/decoder.h`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 
@@ -20,5 +20,5 @@ community: "ggml"
 ## Used By
 
 - [[nodes/ggml_et_align_up]] _imports_
-- [[nodes/ModelParams]] _imports_
 - [[nodes/ov]] _imports_
+- [[nodes/ModelParams]] _imports_

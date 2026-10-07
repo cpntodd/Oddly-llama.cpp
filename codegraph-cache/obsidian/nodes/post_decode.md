@@ -36,12 +36,10 @@ community: "tools"
 - [[nodes/clear]] _calls_
 - [[nodes/llama_n_rs_seq]] _calls_
 - [[nodes/tokens]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/common_sampler_copy]] _calls_
 - [[nodes/common_speculative_accept]] _calls_
 - [[nodes/common_speculative_n_max]] _calls_
 - [[nodes/n_tokens]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

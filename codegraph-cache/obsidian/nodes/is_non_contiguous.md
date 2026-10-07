@@ -21,7 +21,6 @@ community: "tests"
 - [[nodes/test_generic_op]] _calls_
 - [[nodes/op]] _calls_
 - [[nodes/ne]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/data]] _calls_
 - [[nodes/ggml_set_name]] _calls_
 - [[nodes/max_nmse_err]] _calls_
@@ -43,3 +42,4 @@ community: "tests"
 - [[nodes/test_unary]] _calls_
 - [[nodes/test_relu_sqr]] _calls_
 - [[nodes/test_unary_mul]] _calls_
+- [[nodes/test_snake_fuse]] _calls_

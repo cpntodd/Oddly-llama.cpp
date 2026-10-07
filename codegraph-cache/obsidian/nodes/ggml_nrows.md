@@ -17,10 +17,6 @@ community: "ggml"
 - [[nodes/if]] _calls_
 - [[nodes/llama_sampler_top_p_free]] _calls_
 - [[nodes/llama_model_quantize_impl]] _calls_
-- [[nodes/init_set_rows_row_ids]] _calls_
-- [[nodes/blk]] _calls_
-- [[nodes/init_mul_mat_id_tensors]] _calls_
-- [[nodes/is_non_contiguous]] _calls_
 - [[nodes/gguf_read_emplace_helper]] _calls_
 - [[nodes/ggml_set_i32]] _calls_
 - [[nodes/ggml_set_f32]] _calls_
@@ -43,3 +39,7 @@ community: "ggml"
 - [[nodes/f32_to_f32]] _calls_
 - [[nodes/ggml_compute_forward_tri]] _calls_
 - [[nodes/rotate_pairs]] _calls_
+- [[nodes/ggml_conv_2d_dw_knl_f32]] _calls_
+- [[nodes/ggml_wrap_index]] _calls_
+- [[nodes/ggml_dsv4_hc_comb_norm_rows]] _calls_
+- [[nodes/ggml_compute_forward_opt_step_sgd_f32]] _calls_

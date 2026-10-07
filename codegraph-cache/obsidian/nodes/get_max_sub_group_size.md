@@ -18,5 +18,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/print_device_detail]] _calls_
 - [[nodes/is_native_atomic_supported]] _calls_
+- [[nodes/print_device_detail]] _calls_

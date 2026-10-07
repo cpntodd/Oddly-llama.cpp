@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/exp]] _calls_
-
 ## Used By
 
 - [[nodes/ggml_vec_soft_max_f32]] _calls_

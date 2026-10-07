@@ -1,16 +1,12 @@
 ---
 name: "chat-form-input-rich.d.ts"
 type: "file"
-file: "tools/ui/src/lib/types/chat-form-input-rich.d.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/chat-form-input-rich.d.ts"
+community: "build-sycl-2025"
 ---
 
 # chat-form-input-rich.d.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/types/chat-form-input-rich.d.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/chat-form-input-rich.d.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/badgeSourceLength]] _imports_
+**Community:** [[communities/build-sycl-2025]]

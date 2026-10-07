@@ -1,15 +1,15 @@
 ---
 name: "toFixed"
 type: "function"
-file: "tools/ui/src/lib/vendors/decimal.js/decimal.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js"
+community: "build-sycl-2025"
 ---
 
 # toFixed
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/decimal.js/decimal.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/decimal.js/decimal.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -21,10 +21,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/getProcessingDetails]] _calls_
-- [[nodes/getTechnicalDetails]] _calls_
-- [[nodes/formatFileSize]] _calls_
-- [[nodes/formatParameters]] _calls_
-- [[nodes/formatPerformanceTime]] _calls_
 - [[nodes/toExponential]] _calls_
-- [[nodes/num]] _calls_

@@ -36,11 +36,9 @@ community: "src"
 - [[nodes/map]] _imports_
 - [[nodes/jinja]] _imports_
 - [[nodes/empty]] _calls_
-- [[nodes/lcm]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/ggml_blck_size]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

@@ -2,14 +2,14 @@
 name: "test_caps"
 type: "function"
 file: "tests/test-jinja.cpp"
-community: "common"
+community: "tests"
 ---
 
 # test_caps
 
 **Type:** `function`  **File:** `tests/test-jinja.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

@@ -14,6 +14,7 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/parallel_for]] _calls_
+- [[nodes/get]] _calls_
 
 ## Used By
 

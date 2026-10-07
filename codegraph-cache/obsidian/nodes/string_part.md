@@ -2,14 +2,14 @@
 name: "string_part"
 type: "class"
 file: "common/jinja/string.h"
-community: "ggml"
+community: "common"
 ---
 
 # string_part
 
 **Type:** `class`  **File:** `common/jinja/string.h`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

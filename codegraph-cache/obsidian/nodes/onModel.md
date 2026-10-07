@@ -1,12 +1,12 @@
 ---
 name: "onModel"
 type: "function"
-file: "tools/ui/src/lib/stores/chat/index.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/index.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # onModel
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/chat/index.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/index.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

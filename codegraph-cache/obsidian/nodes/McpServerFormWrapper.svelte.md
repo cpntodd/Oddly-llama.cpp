@@ -1,16 +1,12 @@
 ---
 name: "McpServerFormWrapper.svelte"
 type: "file"
-file: "tools/ui/tests/client/components/McpServerFormWrapper.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/components/McpServerFormWrapper.svelte"
+community: "build-sycl-2025"
 ---
 
 # McpServerFormWrapper.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/client/components/McpServerFormWrapper.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/components/McpServerFormWrapper.svelte`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/bearerInput]] _imports_
+**Community:** [[communities/build-sycl-2025]]

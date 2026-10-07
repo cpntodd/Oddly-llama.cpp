@@ -1,25 +1,12 @@
 ---
 name: "a"
-type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Solve.js"
-community: "tools"
+type: "class"
+file: "build-sycl-2025/ggml/src/ggml-sycl/check_package_IntelSYCL/CMakeFiles/3.31.6/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+community: "build-sycl-2025"
 ---
 
 # a
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Solve.js`
+**Type:** `class`  **File:** `build-sycl-2025/ggml/src/ggml-sycl/check_package_IntelSYCL/CMakeFiles/3.31.6/CompilerIdCXX/CMakeCXXCompilerId.cpp`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/Equation]] _calls_
-
-## Used By
-
-- [[nodes/getFunctionsSubs]] _calls_
-- [[nodes/init_mul_mat_id_tensors]] _calls_
-- [[nodes/nmse]] _calls_
-- [[nodes/verify_failure]] _calls_
-- [[nodes/test_vec_dot_f32]] _calls_
-- [[nodes/ggml_metal_library_get_pipeline_im2col]] _calls_
+**Community:** [[communities/build-sycl-2025]]

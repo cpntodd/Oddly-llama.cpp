@@ -1,16 +1,12 @@
 ---
 name: "search.d.ts"
 type: "file"
-file: "tools/ui/src/lib/types/search.d.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/types/search.d.ts"
+community: "build-sycl-2025"
 ---
 
 # search.d.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/types/search.d.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/types/search.d.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/splitChunks]] _imports_
+**Community:** [[communities/build-sycl-2025]]

@@ -13,7 +13,6 @@ community: "tools"
 
 ## Depends On
 
-- [[nodes/at]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/bool]] _calls_
 - [[nodes/write]] _calls_
@@ -22,5 +21,4 @@ community: "tools"
 - [[nodes/read]] _calls_
 - [[nodes/parse]] _calls_
 - [[nodes/rpc_error_message]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/call_tool]] _calls_

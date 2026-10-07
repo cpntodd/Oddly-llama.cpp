@@ -20,7 +20,6 @@ community: "common"
 - [[nodes/handle_escape_sequence]] _calls_
 - [[nodes/common_parse_utf8_codepoint]] _calls_
 - [[nodes/parse]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/debug_indent]] _calls_
 - [[nodes/clear]] _calls_
 

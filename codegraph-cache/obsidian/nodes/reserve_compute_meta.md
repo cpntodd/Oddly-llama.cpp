@@ -2,14 +2,14 @@
 name: "reserve_compute_meta"
 type: "function"
 file: "tools/mtmd/clip.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # reserve_compute_meta
 
 **Type:** `function`  **File:** `tools/mtmd/clip.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 
@@ -20,7 +20,6 @@ community: "ggml"
 - [[nodes/ggml_graph_n_nodes]] _calls_
 - [[nodes/ggml_graph_node]] _calls_
 - [[nodes/ggml_backend_supports_op]] _calls_
-- [[nodes/back]] _calls_
 
 ## Used By
 

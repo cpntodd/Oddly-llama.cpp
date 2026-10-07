@@ -1,25 +1,16 @@
 ---
 name: "shutdown"
 type: "function"
-file: "examples/llama.android/lib/src/main/java/com/arm/aichat/internal/InferenceEngineImpl.kt"
-community: "tools"
+file: "build-intel-all/level-zero-sdk/third_party/spdlog_headers/spdlog/spdlog-inl.h"
+community: "build-intel-all"
 ---
 
 # shutdown
 
-**Type:** `function`  **File:** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/InferenceEngineImpl.kt`
+**Type:** `function`  **File:** `build-intel-all/level-zero-sdk/third_party/spdlog_headers/spdlog/spdlog-inl.h`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/init]] _calls_
-- [[nodes/systemInfo]] _calls_
+**Community:** [[communities/build-intel-all]]
 
 ## Used By
 
-- [[nodes/mcp_write_all]] _calls_
-- [[nodes/llama_server]] _calls_
-- [[nodes/params]] _calls_
-- [[nodes/media_type_from_ext]] _calls_
-- [[nodes/destroy]] _calls_
+- [[nodes/flush_every]] _calls_

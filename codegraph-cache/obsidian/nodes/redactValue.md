@@ -1,15 +1,15 @@
 ---
 name: "redactValue"
 type: "function"
-file: "tools/ui/src/lib/utils/redact.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/redact.ts"
+community: "build-sycl-2025"
 ---
 
 # redactValue
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/redact.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/redact.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -17,5 +17,4 @@ community: "tools"
 
 ## Used By
 
-- [[nodes/getAuthHeaders]] _imports_
 - [[nodes/sanitizeHeaders]] _calls_

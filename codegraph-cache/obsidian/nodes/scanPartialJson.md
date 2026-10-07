@@ -1,15 +1,15 @@
 ---
 name: "scanPartialJson"
 type: "function"
-file: "tools/ui/src/lib/utils/parse-partial-json-args.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/parse-partial-json-args.ts"
+community: "build-sycl-2025"
 ---
 
 # scanPartialJson
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/parse-partial-json-args.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/parse-partial-json-args.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

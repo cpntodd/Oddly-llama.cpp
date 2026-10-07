@@ -2,18 +2,17 @@
 name: "llama_model_save_to_file"
 type: "function"
 file: "src/llama.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # llama_model_save_to_file
 
 **Type:** `function`  **File:** `src/llama.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 
-- [[nodes/save]] _calls_
 - [[nodes/llm_chat_detect_template]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/clear]] _calls_

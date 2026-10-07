@@ -15,6 +15,7 @@ community: "ggml"
 
 - [[nodes/get_relative_thread_id]] _calls_
 - [[nodes/get_num_threads]] _calls_
+- [[nodes/rows]] _calls_
 - [[nodes/get_elements_per_work_unit]] _calls_
 - [[nodes/copy_row_cache_align]] _calls_
 - [[nodes/copy_f16_row]] _calls_

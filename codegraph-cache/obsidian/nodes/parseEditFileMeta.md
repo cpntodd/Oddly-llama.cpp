@@ -1,15 +1,15 @@
 ---
 name: "parseEditFileMeta"
 type: "function"
-file: "tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/edit-file.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/edit-file.ts"
+community: "build-sycl-2025"
 ---
 
 # parseEditFileMeta
 
-**Type:** `function`  **File:** `tools/ui/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/edit-file.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/ChatMessages/ChatMessage/ChatMessageToolCall/parsers/edit-file.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
@@ -19,9 +19,3 @@ community: "tools"
 - [[nodes/ServerResponse]] _imports_
 - [[nodes/parseToolArgs]] _calls_
 - [[nodes/pop]] _calls_
-- [[nodes/tryParseToolResultObject]] _calls_
-- [[nodes/isFinite]] _calls_
-
-## Used By
-
-- [[nodes/makeSection]] _imports_

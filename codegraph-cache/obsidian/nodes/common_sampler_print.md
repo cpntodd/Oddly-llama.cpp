@@ -2,14 +2,14 @@
 name: "common_sampler_print"
 type: "function"
 file: "common/sampling.cpp"
-community: "ggml"
+community: "tools"
 ---
 
 # common_sampler_print
 
 **Type:** `function`  **File:** `common/sampling.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

@@ -2,14 +2,14 @@
 name: "clip_free"
 type: "function"
 file: "tools/mtmd/clip.cpp"
-community: "src"
+community: "tools"
 ---
 
 # clip_free
 
 **Type:** `function`  **File:** `tools/mtmd/clip.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Used By
 

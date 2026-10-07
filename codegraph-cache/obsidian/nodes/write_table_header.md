@@ -2,14 +2,14 @@
 name: "write_table_header"
 type: "function"
 file: "examples/gen-docs/gen-docs.cpp"
-community: "common"
+community: "examples"
 ---
 
 # write_table_header
 
 **Type:** `function`  **File:** `examples/gen-docs/gen-docs.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/examples]]
 
 ## Used By
 

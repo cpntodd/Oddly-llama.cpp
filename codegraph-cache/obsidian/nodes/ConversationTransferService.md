@@ -1,21 +1,16 @@
 ---
 name: "ConversationTransferService"
 type: "class"
-file: "tools/ui/src/lib/services/conversation-transfer.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/conversation-transfer.service.ts"
+community: "build-vulkan-gcc"
 ---
 
 # ConversationTransferService
 
-**Type:** `class`  **File:** `tools/ui/src/lib/services/conversation-transfer.service.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/conversation-transfer.service.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
 - [[nodes/Keys]] _imports_
-
-## Used By
-
-- [[nodes/ConversationsStore]] _imports_
-- [[nodes/makeSession]] _imports_

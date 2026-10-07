@@ -16,7 +16,6 @@ community: "tools"
 - [[nodes/mtmd_context_params_default]] _calls_
 - [[nodes/getenv]] _calls_
 - [[nodes/reset]] _calls_
-- [[nodes/exit]] _calls_
 
 ## Used By
 

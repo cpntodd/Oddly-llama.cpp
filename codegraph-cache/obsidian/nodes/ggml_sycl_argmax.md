@@ -18,9 +18,9 @@ community: "ggml"
 - [[nodes/get_current_device_id]] _calls_
 - [[nodes/check_allow_gpu_index]] _calls_
 - [[nodes/get_device_info]] _calls_
-- [[nodes/exit]] _calls_
 - [[nodes/ggml_backend_buffer_is_sycl_split]] _calls_
 - [[nodes/ggml_sycl_set_peer_access]] _calls_
+- [[nodes/ggml_sycl_t2_restore_tensor]] _calls_
 - [[nodes/ggml_sycl_op_conv2d]] _calls_
 - [[nodes/ggml_sycl_op_conv2d_dw]] _calls_
 - [[nodes/ggml_sycl_conv_3d]] _calls_

@@ -14,7 +14,6 @@ community: "tools"
 ## Depends On
 
 - [[nodes/tokenize_cli_input]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/is_processing]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/launch_slots_with_parent_task]] _calls_

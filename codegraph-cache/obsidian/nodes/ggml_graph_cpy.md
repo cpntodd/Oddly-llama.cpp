@@ -19,5 +19,5 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/eval_grad]] _calls_
 - [[nodes/ggml_graph_dup]] _calls_
+- [[nodes/eval_grad]] _calls_

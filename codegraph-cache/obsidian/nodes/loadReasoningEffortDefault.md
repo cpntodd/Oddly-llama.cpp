@@ -1,13 +1,13 @@
 ---
 name: "loadReasoningEffortDefault"
 type: "function"
-file: "tools/ui/src/lib/stores/conversations/preferences.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/conversations/preferences.svelte.ts"
 community: "tools"
 ---
 
 # loadReasoningEffortDefault
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/conversations/preferences.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/conversations/preferences.svelte.ts`
 
 **Community:** [[communities/tools]]
 
@@ -20,4 +20,3 @@ community: "tools"
 ## Used By
 
 - [[nodes/saveReasoningEffortDefault]] _calls_
-- [[nodes/ConversationsStore]] _imports_

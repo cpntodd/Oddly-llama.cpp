@@ -2,14 +2,14 @@
 name: "greedy_ith"
 type: "function"
 file: "examples/rs-rollback/rs-rollback-multi.cpp"
-community: "src"
+community: "tests"
 ---
 
 # greedy_ith
 
 **Type:** `function`  **File:** `examples/rs-rollback/rs-rollback-multi.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

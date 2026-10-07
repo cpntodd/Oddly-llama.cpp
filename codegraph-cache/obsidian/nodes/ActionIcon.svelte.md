@@ -1,12 +1,12 @@
 ---
 name: "ActionIcon.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/actions/ActionIcon.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/actions/ActionIcon.svelte"
+community: "build-sycl-2025"
 ---
 
 # ActionIcon.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/actions/ActionIcon.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/actions/ActionIcon.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

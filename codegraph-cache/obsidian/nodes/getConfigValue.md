@@ -1,15 +1,15 @@
 ---
 name: "getConfigValue"
 type: "function"
-file: "tools/ui/src/lib/utils/config-helpers.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/config-helpers.ts"
+community: "build-sycl-2025"
 ---
 
 # getConfigValue
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/config-helpers.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/config-helpers.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

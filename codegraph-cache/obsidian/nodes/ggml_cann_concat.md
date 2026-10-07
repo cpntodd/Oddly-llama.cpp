@@ -14,7 +14,6 @@ community: "ggml"
 ## Depends On
 
 - [[nodes/ggml_get_op_params_i32]] _calls_
-- [[nodes/ceil]] _calls_
 - [[nodes/ggml_cann_create_scalar]] _calls_
 
 ## Used By

@@ -2,14 +2,14 @@
 name: "readline"
 type: "function"
 file: "common/console.cpp"
-community: "common"
+community: "tools"
 ---
 
 # readline
 
 **Type:** `function`  **File:** `common/console.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

@@ -1,12 +1,12 @@
 ---
 name: "mcp-servers-default.test.ts"
 type: "file"
-file: "tools/ui/tests/unit/mcp-servers-default.test.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-servers-default.test.ts"
+community: "build-sycl-2025"
 ---
 
 # mcp-servers-default.test.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/unit/mcp-servers-default.test.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/mcp-servers-default.test.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

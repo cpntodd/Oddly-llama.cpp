@@ -17,7 +17,7 @@ community: "tools"
 - [[nodes/KeyValuePair]] _imports_
 - [[nodes/print_usage]] _imports_
 - [[nodes/common_http_url]] _imports_
-- [[nodes/log_colors]] _imports_
+- [[nodes/log.comp.cpp]] _imports_
 - [[nodes/common_json_item]] _imports_
 - [[nodes/map]] _imports_
 - [[nodes/jinja]] _imports_

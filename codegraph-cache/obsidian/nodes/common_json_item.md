@@ -16,6 +16,7 @@ community: "conversion"
 - [[nodes/map]] _imports_
 - [[nodes/sycl]] _imports_
 - [[nodes/jinja]] _imports_
+- [[nodes/type_traits]] _imports_
 - [[nodes/fill_templated_filename]] _imports_
 
 ## Used By

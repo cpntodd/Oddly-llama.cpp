@@ -1,13 +1,13 @@
 ---
 name: "UseChatMessageEditContextOptions"
 type: "class"
-file: "tools/ui/src/lib/hooks/use-chat-message-edit-context.svelte.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-message-edit-context.svelte.ts"
 community: "tools"
 ---
 
 # UseChatMessageEditContextOptions
 
-**Type:** `class`  **File:** `tools/ui/src/lib/hooks/use-chat-message-edit-context.svelte.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-message-edit-context.svelte.ts`
 
 **Community:** [[communities/tools]]
 

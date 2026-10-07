@@ -14,17 +14,13 @@ community: "tools"
 ## Depends On
 
 - [[nodes/append]] _calls_
-- [[nodes/finalize]] _calls_
 - [[nodes/bool]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/now_seconds]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/clear]] _calls_
 - [[nodes/should_stop]] _calls_
 - [[nodes/chunk]] _calls_
-- [[nodes/unlock]] _calls_
 - [[nodes/data]] _calls_
-- [[nodes/store]] _calls_
 - [[nodes/stream_session_manager]] _calls_
 
 ## Used By

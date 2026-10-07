@@ -2,14 +2,14 @@
 name: "init_model"
 type: "function"
 file: "examples/convert-llama2c-to-ggml/convert-llama2c-to-ggml.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # init_model
 
 **Type:** `function`  **File:** `examples/convert-llama2c-to-ggml/convert-llama2c-to-ggml.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

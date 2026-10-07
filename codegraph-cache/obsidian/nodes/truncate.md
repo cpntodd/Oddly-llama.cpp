@@ -1,20 +1,15 @@
 ---
 name: "truncate"
 type: "function"
-file: "tools/ui/src/lib/vendors/big-integer/BigInteger.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js"
+community: "build-sycl-2025"
 ---
 
 # truncate
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/big-integer/BigInteger.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/big-integer/BigInteger.js`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/floor]] _calls_
-- [[nodes/ceil]] _calls_
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

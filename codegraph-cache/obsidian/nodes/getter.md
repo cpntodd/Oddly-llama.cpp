@@ -2,14 +2,14 @@
 name: "getter"
 type: "function"
 file: "src/llama-model-loader.cpp"
-community: "src"
+community: "ggml"
 ---
 
 # getter
 
 **Type:** `function`  **File:** `src/llama-model-loader.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/ggml]]
 
 ## Used By
 

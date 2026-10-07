@@ -1,19 +1,17 @@
 ---
 name: "deriveLiveStats"
 type: "function"
-file: "tools/ui/src/lib/stores/chat/context-stats.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/context-stats.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # deriveLiveStats
 
-**Type:** `function`  **File:** `tools/ui/src/lib/stores/chat/context-stats.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/stores/chat/context-stats.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
 - [[nodes/summarizeAssistantTimings]] _calls_
-- [[nodes/round]] _calls_
-- [[nodes/isModelLoaded]] _calls_
 - [[nodes/ContextStatsStore]] _calls_

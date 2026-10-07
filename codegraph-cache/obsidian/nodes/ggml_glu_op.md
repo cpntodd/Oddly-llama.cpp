@@ -1,12 +1,12 @@
 ---
 name: "ggml_glu_op"
 type: "class"
-file: "ggml/src/ggml-sycl/mmvq.hpp"
-community: "ggml"
+file: "tests/test-backend-ops.cpp"
+community: "tests"
 ---
 
 # ggml_glu_op
 
-**Type:** `class`  **File:** `ggml/src/ggml-sycl/mmvq.hpp`
+**Type:** `class`  **File:** `tests/test-backend-ops.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]

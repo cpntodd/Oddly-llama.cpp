@@ -17,7 +17,6 @@ community: "ggml"
 - [[nodes/gguf_remove_key]] _calls_
 - [[nodes/gguf_type_size]] _calls_
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/cast]] _calls_
 
 ## Used By

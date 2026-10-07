@@ -1,13 +1,13 @@
 ---
 name: "readFileAsUTF8"
 type: "function"
-file: "tools/ui/src/lib/utils/process-uploaded-files.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/process-uploaded-files.ts"
 community: "tools"
 ---
 
 # readFileAsUTF8
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/process-uploaded-files.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/process-uploaded-files.ts`
 
 **Community:** [[communities/tools]]
 

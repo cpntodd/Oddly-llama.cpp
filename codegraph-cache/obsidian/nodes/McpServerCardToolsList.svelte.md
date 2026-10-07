@@ -1,12 +1,12 @@
 ---
 name: "McpServerCardToolsList.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/mcp/McpServerCard/McpServerCardToolsList.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpServerCard/McpServerCardToolsList.svelte"
+community: "build-sycl-2025"
 ---
 
 # McpServerCardToolsList.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/mcp/McpServerCard/McpServerCardToolsList.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/mcp/McpServerCard/McpServerCardToolsList.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

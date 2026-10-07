@@ -2,14 +2,14 @@
 name: "llama_sampler_chain_copy_state"
 type: "function"
 file: "src/llama-sampler.cpp"
-community: "src"
+community: "tools"
 ---
 
 # llama_sampler_chain_copy_state
 
 **Type:** `function`  **File:** `src/llama-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

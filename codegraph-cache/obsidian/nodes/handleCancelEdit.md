@@ -1,18 +1,17 @@
 ---
 name: "handleCancelEdit"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-chat-message-edit-context.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-message-edit-context.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # handleCancelEdit
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-chat-message-edit-context.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-chat-message-edit-context.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/setChatMessageEditContext]] _calls_
 - [[nodes/getContent]] _calls_
 - [[nodes/getExtras]] _calls_

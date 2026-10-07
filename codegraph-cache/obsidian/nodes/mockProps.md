@@ -1,13 +1,13 @@
 ---
 name: "mockProps"
 type: "function"
-file: "tools/ui/tests/client/ui-settings-sync.svelte.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/ui-settings-sync.svelte.test.ts"
 community: "tools"
 ---
 
 # mockProps
 
-**Type:** `function`  **File:** `tools/ui/tests/client/ui-settings-sync.svelte.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/ui-settings-sync.svelte.test.ts`
 
 **Community:** [[communities/tools]]
 

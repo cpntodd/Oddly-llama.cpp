@@ -1,12 +1,12 @@
 ---
 name: "CollapsibleLazyBodyHarness.svelte"
 type: "file"
-file: "tools/ui/tests/client/components/CollapsibleLazyBodyHarness.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/components/CollapsibleLazyBodyHarness.svelte"
+community: "build-sycl-2025"
 ---
 
 # CollapsibleLazyBodyHarness.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/client/components/CollapsibleLazyBodyHarness.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/components/CollapsibleLazyBodyHarness.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

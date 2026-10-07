@@ -2,14 +2,14 @@
 name: "create_checkpoint"
 type: "function"
 file: "tools/server/server-context.cpp"
-community: "common"
+community: "tools"
 ---
 
 # create_checkpoint
 
 **Type:** `function`  **File:** `tools/server/server-context.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

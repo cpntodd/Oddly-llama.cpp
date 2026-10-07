@@ -1,21 +1,22 @@
 ---
 name: "start"
 type: "function"
-file: "common/console.cpp"
-community: "common"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-debounced-search.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # start
 
-**Type:** `function`  **File:** `common/console.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-debounced-search.svelte.ts`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/common_log_flush]] _calls_
-- [[nodes/draw_next_frame]] _calls_
+- [[nodes/cancel]] _calls_
+- [[nodes/run]] _calls_
+- [[nodes/isCurrent]] _calls_
 
 ## Used By
 
-- [[nodes/media_type_from_ext]] _calls_
+- [[nodes/cancel]] _calls_

@@ -21,7 +21,6 @@ community: "common"
 - [[nodes/is_statement]] _calls_
 - [[nodes/parse_any]] _calls_
 - [[nodes/expect_identifier]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/parse_call_expression]] _calls_
 
 ## Used By

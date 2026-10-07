@@ -2,14 +2,14 @@
 name: "llama_adapter_cvec"
 type: "class"
 file: "src/llama-adapter.h"
-community: "common"
+community: "ggml"
 ---
 
 # llama_adapter_cvec
 
 **Type:** `class`  **File:** `src/llama-adapter.h`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

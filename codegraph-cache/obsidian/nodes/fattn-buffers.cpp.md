@@ -13,6 +13,6 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/syclexp]] _imports_
 - [[nodes/mkl_fa_kv_desc_mode]] _imports_
 - [[nodes/dequantize_V_f16]] _imports_
+- [[nodes/syclexp]] _imports_

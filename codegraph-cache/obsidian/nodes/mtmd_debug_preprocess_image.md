@@ -2,18 +2,17 @@
 name: "mtmd_debug_preprocess_image"
 type: "function"
 file: "tools/mtmd/mtmd.cpp"
-community: "tools"
+community: "common"
 ---
 
 # mtmd_debug_preprocess_image
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/nx]] _calls_
 
 ## Used By

@@ -2,14 +2,14 @@
 name: "check_antiprompt"
 type: "function"
 file: "tools/mtmd/mtmd-cli.cpp"
-community: "tests"
+community: "common"
 ---
 
 # check_antiprompt
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd-cli.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

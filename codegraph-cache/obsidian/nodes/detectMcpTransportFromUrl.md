@@ -1,15 +1,15 @@
 ---
 name: "detectMcpTransportFromUrl"
 type: "function"
-file: "tools/ui/src/lib/utils/mcp.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/mcp.ts"
+community: "build-vulkan-gcc"
 ---
 
 # detectMcpTransportFromUrl
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/mcp.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/mcp.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 
@@ -18,7 +18,3 @@ community: "tools"
 - [[nodes/Keys]] _imports_
 - [[nodes/types]] _imports_
 - [[nodes/KeyValuePair]] _imports_
-
-## Used By
-
-- [[nodes/createConnectionErrorLog]] _calls_

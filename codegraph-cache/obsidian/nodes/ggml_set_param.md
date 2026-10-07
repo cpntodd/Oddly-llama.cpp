@@ -2,18 +2,21 @@
 name: "ggml_set_param"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "ggml"
+community: "tests"
 ---
 
 # ggml_set_param
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Used By
 
 - [[nodes/llama_set_param]] _calls_
+- [[nodes/helper_get_test_opt_pars]] _calls_
+- [[nodes/helper_get_regression_opt_pars]] _calls_
+- [[nodes/main]] _calls_
 - [[nodes/print_test_result_locked]] _calls_
 - [[nodes/type]] _calls_
 - [[nodes/op]] _calls_
@@ -24,6 +27,3 @@ community: "ggml"
 - [[nodes/pool_type]] _calls_
 - [[nodes/type_input]] _calls_
 - [[nodes/hsk]] _calls_
-- [[nodes/helper_get_test_opt_pars]] _calls_
-- [[nodes/helper_get_regression_opt_pars]] _calls_
-- [[nodes/main]] _calls_

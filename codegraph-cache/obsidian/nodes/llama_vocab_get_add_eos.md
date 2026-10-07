@@ -2,14 +2,14 @@
 name: "llama_vocab_get_add_eos"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "src"
+community: "common"
 ---
 
 # llama_vocab_get_add_eos
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 
@@ -21,7 +21,7 @@ community: "src"
 - [[nodes/is_valid_utf8]] _calls_
 - [[nodes/tokenize]] _calls_
 - [[nodes/llama_add_eos_token]] _calls_
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/common_chat_templates_source]] _calls_
 - [[nodes/main]] _calls_
 - [[nodes/main]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_

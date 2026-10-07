@@ -17,9 +17,9 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/if]] _calls_
-- [[nodes/next_power_of_2]] _calls_
-- [[nodes/ggml_sycl_group_norm]] _calls_
 - [[nodes/convert_f32]] _calls_
 - [[nodes/mkl_fa_make_desc]] _calls_
 - [[nodes/get_dequantize_V]] _calls_
+- [[nodes/if]] _calls_
+- [[nodes/next_power_of_2]] _calls_
+- [[nodes/ggml_sycl_group_norm]] _calls_

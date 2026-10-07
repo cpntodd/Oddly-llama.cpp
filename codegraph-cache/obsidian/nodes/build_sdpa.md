@@ -15,7 +15,6 @@ community: "ggml"
 
 - [[nodes/op]] _calls_
 - [[nodes/add_op]] _calls_
-- [[nodes/finalize]] _calls_
 - [[nodes/engine_dnnl]] _calls_
 - [[nodes/stream_dnnl]] _calls_
 - [[nodes/pool]] _calls_

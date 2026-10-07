@@ -2,14 +2,14 @@
 name: "spacemit_kernels"
 type: "class"
 file: "ggml/src/ggml-cpu/spacemit/rvv_kernels.cpp"
-community: "common"
+community: "ggml"
 ---
 
 # spacemit_kernels
 
 **Type:** `class`  **File:** `ggml/src/ggml-cpu/spacemit/rvv_kernels.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/ggml]]
 
 ## Depends On
 

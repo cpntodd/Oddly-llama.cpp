@@ -2,14 +2,14 @@
 name: "update_batch_info"
 type: "function"
 file: "tests/test-backend-sampler.cpp"
-community: "src"
+community: "tests"
 ---
 
 # update_batch_info
 
 **Type:** `function`  **File:** `tests/test-backend-sampler.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

@@ -1,12 +1,12 @@
 ---
 name: "gguf_init_params"
 type: "class"
-file: "tests/test-chat-auto-parser.cpp"
-community: "tests"
+file: "common/speculative.cpp"
+community: "common"
 ---
 
 # gguf_init_params
 
-**Type:** `class`  **File:** `tests/test-chat-auto-parser.cpp`
+**Type:** `class`  **File:** `common/speculative.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]

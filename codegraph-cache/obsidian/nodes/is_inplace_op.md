@@ -16,7 +16,7 @@ community: "ggml"
 - [[nodes/ModelParams]] _imports_
 - [[nodes/ggml_up32]] _imports_
 - [[nodes/class]] _imports_
-- [[nodes/ggml_backend_openvino_buffer_context]] _imports_
+- [[nodes/ggml-openvino.h]] _imports_
 - [[nodes/ggml-quants.h]] _imports_
 - [[nodes/ggml_graph_next_uid]] _imports_
 - [[nodes/ServerResponse]] _imports_

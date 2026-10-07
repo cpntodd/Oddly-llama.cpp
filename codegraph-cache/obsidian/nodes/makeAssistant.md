@@ -1,13 +1,13 @@
 ---
 name: "makeAssistant"
 type: "function"
-file: "tools/ui/tests/unit/partial-tool-call-cleanup.test.ts"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/partial-tool-call-cleanup.test.ts"
 community: "tools"
 ---
 
 # makeAssistant
 
-**Type:** `function`  **File:** `tools/ui/tests/unit/partial-tool-call-cleanup.test.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/partial-tool-call-cleanup.test.ts`
 
 **Community:** [[communities/tools]]
 

@@ -2,14 +2,14 @@
 name: "get_test_image_base64"
 type: "function"
 file: "tools/server/tests/unit/test_compat_anthropic.py"
-community: "ggml"
+community: "tools"
 ---
 
 # get_test_image_base64
 
 **Type:** `function`  **File:** `tools/server/tests/unit/test_compat_anthropic.py`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

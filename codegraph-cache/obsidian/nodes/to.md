@@ -1,16 +1,12 @@
 ---
 name: "to"
-type: "class"
-file: "examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt"
-community: "examples"
+type: "function"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Calculus.js"
+community: "build-sycl-2025"
 ---
 
 # to
 
-**Type:** `class`  **File:** `examples/llama.android/lib/src/main/java/com/arm/aichat/internal/gguf/GgufMetadataReaderImpl.kt`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Calculus.js`
 
-**Community:** [[communities/examples]]
-
-## Depends On
-
-- [[nodes/android.md]] _imports_
+**Community:** [[communities/build-sycl-2025]]

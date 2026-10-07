@@ -1,16 +1,12 @@
 ---
 name: "latex-protection.constants.ts"
 type: "file"
-file: "tools/ui/src/lib/constants/latex-protection.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/latex-protection.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # latex-protection.constants.ts
 
-**Type:** `file`  **File:** `tools/ui/src/lib/constants/latex-protection.constants.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/latex-protection.constants.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/here]] _imports_
+**Community:** [[communities/build-sycl-2025]]

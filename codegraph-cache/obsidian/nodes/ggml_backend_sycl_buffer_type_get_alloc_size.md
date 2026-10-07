@@ -16,3 +16,7 @@ community: "ggml"
 - [[nodes/ggml_nbytes]] _calls_
 - [[nodes/ggml_is_quantized]] _calls_
 - [[nodes/ggml_row_size]] _calls_
+- [[nodes/ggml_is_contiguous]] _calls_
+- [[nodes/ggml_sycl_t2_wants]] _calls_
+- [[nodes/max]] _calls_
+- [[nodes/ggml_sycl_t2_bytes]] _calls_

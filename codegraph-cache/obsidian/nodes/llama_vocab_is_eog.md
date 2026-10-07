@@ -2,14 +2,14 @@
 name: "llama_vocab_is_eog"
 type: "function"
 file: "src/llama-vocab.cpp"
-community: "tests"
+community: "common"
 ---
 
 # llama_vocab_is_eog
 
 **Type:** `function`  **File:** `src/llama-vocab.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Used By
 

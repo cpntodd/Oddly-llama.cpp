@@ -2,14 +2,14 @@
 name: "load_model"
 type: "function"
 file: "tests/test-backend-sampler.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # load_model
 
 **Type:** `function`  **File:** `tests/test-backend-sampler.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

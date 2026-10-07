@@ -1,12 +1,12 @@
 ---
 name: "KeyboardShortcutInfo.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/app/misc/KeyboardShortcutInfo.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/misc/KeyboardShortcutInfo.svelte"
+community: "build-sycl-2025"
 ---
 
 # KeyboardShortcutInfo.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/app/misc/KeyboardShortcutInfo.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/misc/KeyboardShortcutInfo.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

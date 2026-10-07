@@ -13,5 +13,5 @@ community: "common"
 
 ## Used By
 
-- [[nodes/common_speculative_get_devices_str]] _calls_
 - [[nodes/main]] _calls_
+- [[nodes/common_speculative_get_devices_str]] _calls_

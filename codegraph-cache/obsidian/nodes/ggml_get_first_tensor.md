@@ -2,14 +2,14 @@
 name: "ggml_get_first_tensor"
 type: "function"
 file: "ggml/src/ggml.c"
-community: "ggml"
+community: "tests"
 ---
 
 # ggml_get_first_tensor
 
 **Type:** `function`  **File:** `ggml/src/ggml.c`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/tests]]
 
 ## Used By
 
@@ -24,6 +24,14 @@ community: "ggml"
 - [[nodes/ggml_gen_hadamard]] _calls_
 - [[nodes/common_imatrix_load]] _calls_
 - [[nodes/print_tensor_info]] _calls_
+- [[nodes/get_cache_file_path]] _calls_
+- [[nodes/assign_names]] _calls_
+- [[nodes/check_max_size]] _calls_
+- [[nodes/get_random_gguf_context]] _calls_
+- [[nodes/same_tensor_data]] _calls_
+- [[nodes/ggml_backend_meta_buffer_type_alloc_buffer]] _calls_
+- [[nodes/ggml_get_max_tensor_size]] _calls_
+- [[nodes/free_buffers]] _calls_
 - [[nodes/print_test_result_locked]] _calls_
 - [[nodes/initialize_tensors]] _calls_
 - [[nodes/check_for_f16_tensor]] _calls_
@@ -35,11 +43,3 @@ community: "ggml"
 - [[nodes/ne]] _calls_
 - [[nodes/total_elements]] _calls_
 - [[nodes/tensor_range]] _calls_
-- [[nodes/n_cache_rows]] _calls_
-- [[nodes/blk]] _calls_
-- [[nodes/init_mul_mat_id_tensors]] _calls_
-- [[nodes/hsk]] _calls_
-- [[nodes/hp]] _calls_
-- [[nodes/get_cache_file_path]] _calls_
-- [[nodes/assign_names]] _calls_
-- [[nodes/check_max_size]] _calls_

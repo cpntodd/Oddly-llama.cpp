@@ -1,15 +1,15 @@
 ---
 name: "generateModalityErrorMessage"
 type: "function"
-file: "tools/ui/src/lib/utils/modality-file-validation.ts"
-community: "src"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/modality-file-validation.ts"
+community: "tools"
 ---
 
 # generateModalityErrorMessage
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/modality-file-validation.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/modality-file-validation.ts`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

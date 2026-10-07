@@ -1,17 +1,12 @@
 ---
 name: "textOffsetToRange"
 type: "function"
-file: "tools/ui/src/lib/utils/chat-form-input-rich-tokenizer.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/chat-form-input-rich-tokenizer.ts"
+community: "build-sycl-2025"
 ---
 
 # textOffsetToRange
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/chat-form-input-rich-tokenizer.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/chat-form-input-rich-tokenizer.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/clipboardEvent]] _calls_
-- [[nodes/caretContainer]] _calls_
+**Community:** [[communities/build-sycl-2025]]

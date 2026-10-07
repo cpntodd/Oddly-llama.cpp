@@ -2,14 +2,14 @@
 name: "common_models_handler_init"
 type: "function"
 file: "common/arg.cpp"
-community: "tests"
+community: "common"
 ---
 
 # common_models_handler_init
 
 **Type:** `function`  **File:** `common/arg.cpp`
 
-**Community:** [[communities/tests]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

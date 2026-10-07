@@ -2,14 +2,14 @@
 name: "add_token"
 type: "function"
 file: "tools/server/server-context.cpp"
-community: "common"
+community: "tools"
 ---
 
 # add_token
 
 **Type:** `function`  **File:** `tools/server/server-context.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

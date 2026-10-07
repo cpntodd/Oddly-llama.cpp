@@ -1,15 +1,15 @@
 ---
 name: "getPreviewText"
 type: "function"
-file: "tools/ui/src/lib/utils/text.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/text.ts"
+community: "build-sycl-2025"
 ---
 
 # getPreviewText
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/text.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/text.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

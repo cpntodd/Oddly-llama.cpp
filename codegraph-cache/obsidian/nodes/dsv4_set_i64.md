@@ -2,14 +2,14 @@
 name: "dsv4_set_i64"
 type: "function"
 file: "src/llama-graph.cpp"
-community: "src"
+community: "tools"
 ---
 
 # dsv4_set_i64
 
 **Type:** `function`  **File:** `src/llama-graph.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

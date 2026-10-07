@@ -26,10 +26,6 @@ community: "ggml"
 - [[nodes/ggml_backend_rpc_buffer_type]] _calls_
 - [[nodes/ggml_backend_rpc_init]] _calls_
 - [[nodes/ggml_backend_remoting_device_init]] _calls_
-- [[nodes/ggml_backend_sycl_buffer_type]] _calls_
-- [[nodes/ggml_backend_sycl_split_buffer_type]] _calls_
-- [[nodes/ggml_backend_sycl_host_buffer_type]] _calls_
-- [[nodes/ggml_backend_sycl_init]] _calls_
 - [[nodes/ggml_backend_webgpu_init]] _calls_
 - [[nodes/ggml_backend_cann_buffer_type]] _calls_
 - [[nodes/ggml_backend_cann_host_buffer_type]] _calls_
@@ -40,6 +36,10 @@ community: "ggml"
 - [[nodes/ggml_backend_metal_buffer_type_mapped]] _calls_
 - [[nodes/ggml_backend_metal_init]] _calls_
 - [[nodes/ggml_backend_blas_init]] _calls_
+- [[nodes/ggml_backend_sycl_buffer_type]] _calls_
+- [[nodes/ggml_backend_sycl_split_buffer_type]] _calls_
+- [[nodes/ggml_backend_sycl_host_buffer_type_for_device]] _calls_
+- [[nodes/ggml_backend_sycl_init]] _calls_
 - [[nodes/ggml_backend_openvino_buffer_type]] _calls_
 - [[nodes/ggml_backend_openvino_host_buffer_type]] _calls_
 - [[nodes/ggml_backend_openvino_init]] _calls_

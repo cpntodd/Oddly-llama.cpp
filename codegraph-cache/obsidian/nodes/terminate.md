@@ -22,3 +22,4 @@ community: "tools"
 - [[nodes/impl]] _calls_
 - [[nodes/timeout_thread]] _calls_
 - [[nodes/spawn]] _calls_
+- [[nodes/assert_fail]] _calls_

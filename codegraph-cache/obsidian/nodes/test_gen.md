@@ -2,14 +2,14 @@
 name: "test_gen"
 type: "function"
 file: "tools/llama-bench/llama-bench.cpp"
-community: "src"
+community: "common"
 ---
 
 # test_gen
 
 **Type:** `function`  **File:** `tools/llama-bench/llama-bench.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

@@ -14,7 +14,6 @@ community: "common"
 ## Depends On
 
 - [[nodes/empty]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/push_back]] _calls_
 - [[nodes/size]] _calls_
 

@@ -46,6 +46,6 @@ community: "ggml"
 
 ## Used By
 
+- [[nodes/compare_backend]] _calls_
 - [[nodes/print_device_opt_feature]] _calls_
 - [[nodes/ggml_backend_sycl_print_sycl_devices]] _calls_
-- [[nodes/compare_backend]] _calls_

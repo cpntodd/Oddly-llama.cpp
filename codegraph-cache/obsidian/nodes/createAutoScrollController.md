@@ -1,15 +1,15 @@
 ---
 name: "createAutoScrollController"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-auto-scroll.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-auto-scroll.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # createAutoScrollController
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-auto-scroll.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-auto-scroll.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

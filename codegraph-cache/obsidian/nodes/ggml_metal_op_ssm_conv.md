@@ -21,7 +21,6 @@ community: "ggml"
 - [[nodes/ggml_metal_op_concurrency_reset]] _calls_
 - [[nodes/ggml_metal_library_get_pipeline_ssm_conv_batched]] _calls_
 - [[nodes/ggml_metal_get_buffer_id]] _calls_
-- [[nodes/ceil]] _calls_
 - [[nodes/ggml_metal_library_get_pipeline_ssm_conv]] _calls_
 
 ## Used By

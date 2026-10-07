@@ -2,14 +2,14 @@
 name: "prompt_save"
 type: "function"
 file: "tools/server/server-context.cpp"
-community: "src"
+community: "tools"
 ---
 
 # prompt_save
 
 **Type:** `function`  **File:** `tools/server/server-context.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

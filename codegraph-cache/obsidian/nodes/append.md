@@ -27,6 +27,7 @@ community: "common"
 - [[nodes/string_replace_all]] _calls_
 - [[nodes/muse_glimmer_grid_size]] _calls_
 - [[nodes/join_path]] _calls_
+- [[nodes/getMdastNodeHash]] _calls_
 - [[nodes/replace_all]] _calls_
 - [[nodes/unicode_cpts_to_utf8]] _calls_
 - [[nodes/normalize]] _calls_
@@ -46,4 +47,3 @@ community: "common"
 - [[nodes/download]] _calls_
 - [[nodes/download]] _calls_
 - [[nodes/loadModelsFromDisk]] _calls_
-- [[nodes/loadDefaultModels]] _calls_

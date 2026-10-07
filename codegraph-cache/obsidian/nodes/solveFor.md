@@ -1,15 +1,15 @@
 ---
 name: "solveFor"
 type: "function"
-file: "tools/ui/src/lib/vendors/nerdamer-prime/Solve.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Solve.js"
+community: "build-sycl-2025"
 ---
 
 # solveFor
 
-**Type:** `function`  **File:** `tools/ui/src/lib/vendors/nerdamer-prime/Solve.js`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Solve.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 

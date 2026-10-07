@@ -1,12 +1,12 @@
 ---
 name: "components"
 type: "class"
-file: "tools/ui/src/lib/components/app/chat/index.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/index.ts"
+community: "build-sycl-2025"
 ---
 
 # components
 
-**Type:** `class`  **File:** `tools/ui/src/lib/components/app/chat/index.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/app/chat/index.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

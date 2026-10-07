@@ -13,6 +13,6 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/ggml_sycl_mad]] _calls_
 - [[nodes/dequantize_V_q8_0]] _calls_
+- [[nodes/ggml_sycl_mad]] _calls_
 - [[nodes/ggml_sycl_fattn_tile_get_nbatch_K]] _calls_

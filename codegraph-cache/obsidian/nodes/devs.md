@@ -13,5 +13,4 @@ community: "src"
 
 ## Depends On
 
-- [[nodes/move]] _calls_
 - [[nodes/split_mode]] _calls_

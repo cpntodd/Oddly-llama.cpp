@@ -1,13 +1,13 @@
 ---
 name: "darkImageResolver"
 type: "function"
-file: "tools/ui/pwa-assets.config.ts"
+file: "build-sycl-2025/tools/ui/ui-src/pwa-assets.config.ts"
 community: "tools"
 ---
 
 # darkImageResolver
 
-**Type:** `function`  **File:** `tools/ui/pwa-assets.config.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/pwa-assets.config.ts`
 
 **Community:** [[communities/tools]]
 

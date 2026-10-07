@@ -1,27 +1,16 @@
 ---
 name: "collect"
 type: "function"
-file: "common/chat.cpp"
-community: "common"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js"
+community: "build-sycl-2025"
 ---
 
 # collect
 
-**Type:** `function`  **File:** `common/chat.cpp`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/vendors/nerdamer-prime/Algebra.js`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/build-sycl-2025]]
 
 ## Depends On
 
-- [[nodes/at]] _calls_
-- [[nodes/push_back]] _calls_
-- [[nodes/size]] _calls_
-- [[nodes/value]] _calls_
-- [[nodes/collect_result]] _calls_
-- [[nodes/has_tool_calls]] _calls_
-- [[nodes/has_content]] _calls_
-
-## Used By
-
-- [[nodes/build]] _calls_
-- [[nodes/seqs]] _calls_
+- [[nodes/hasCP]] _calls_

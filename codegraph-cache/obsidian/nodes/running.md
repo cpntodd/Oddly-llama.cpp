@@ -14,7 +14,6 @@ community: "tools"
 ## Depends On
 
 - [[nodes/stream_session_manager]] _calls_
-- [[nodes/finalize]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/join]] _calls_
 - [[nodes/clear]] _calls_

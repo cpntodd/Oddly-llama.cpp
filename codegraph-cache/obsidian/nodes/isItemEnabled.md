@@ -1,12 +1,12 @@
 ---
 name: "isItemEnabled"
 type: "function"
-file: "tools/ui/src/lib/hooks/use-attachment-menu.svelte.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-attachment-menu.svelte.ts"
+community: "build-sycl-2025"
 ---
 
 # isItemEnabled
 
-**Type:** `function`  **File:** `tools/ui/src/lib/hooks/use-attachment-menu.svelte.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/hooks/use-attachment-menu.svelte.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

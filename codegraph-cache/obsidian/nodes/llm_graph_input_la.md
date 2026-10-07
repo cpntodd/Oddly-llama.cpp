@@ -2,14 +2,14 @@
 name: "llm_graph_input_la"
 type: "class"
 file: "src/models/minimax-01.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # llm_graph_input_la
 
 **Type:** `class`  **File:** `src/models/minimax-01.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

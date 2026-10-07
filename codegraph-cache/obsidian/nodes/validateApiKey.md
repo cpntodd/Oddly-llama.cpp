@@ -1,13 +1,13 @@
 ---
 name: "validateApiKey"
 type: "function"
-file: "tools/ui/src/lib/utils/api-key-validation.ts"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/utils/api-key-validation.ts"
 community: "tools"
 ---
 
 # validateApiKey
 
-**Type:** `function`  **File:** `tools/ui/src/lib/utils/api-key-validation.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/utils/api-key-validation.ts`
 
 **Community:** [[communities/tools]]
 
@@ -15,11 +15,4 @@ community: "tools"
 
 - [[nodes/Keys]] _imports_
 - [[nodes/index.ts]] _imports_
-- [[nodes/fetch]] _calls_
-
-## Used By
-
-- [[nodes/PageLoad]] _calls_
-- [[nodes/PageLoad]] _calls_
-- [[nodes/fakeFetch]] _imports_
-- [[nodes/is401]] _calls_
+- [[nodes/warn]] _calls_

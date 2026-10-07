@@ -13,9 +13,7 @@ community: "ggml"
 
 ## Depends On
 
-- [[nodes/ggml_backend_cpu_buffer_type]] _calls_
-- [[nodes/ggml_backend_reg_dev_get]] _calls_
-- [[nodes/ggml_backend_sycl_reg]] _calls_
+- [[nodes/ggml_backend_sycl_host_buffer_type_for_device]] _calls_
 - [[nodes/ggml_sycl_pool_leg]] _calls_
 - [[nodes/device]] _calls_
 - [[nodes/qptr]] _calls_
@@ -26,11 +24,6 @@ community: "ggml"
 - [[nodes/map]] _calls_
 - [[nodes/unmap]] _calls_
 - [[nodes/alloc]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/ggml_sycl_pool_host]] _calls_
 - [[nodes/ggml_sycl_fattn_kv_buffers]] _calls_
 - [[nodes/warp_reduce_sum]] _calls_
-
-## Used By
-
-- [[nodes/ggml_backend_sycl_device_get_host_buffer_type]] _calls_

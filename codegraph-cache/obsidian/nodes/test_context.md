@@ -2,14 +2,14 @@
 name: "test_context"
 type: "class"
 file: "tests/test-backend-sampler.cpp"
-community: "tools"
+community: "tests"
 ---
 
 # test_context
 
 **Type:** `class`  **File:** `tests/test-backend-sampler.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

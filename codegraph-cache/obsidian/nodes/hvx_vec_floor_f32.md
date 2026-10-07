@@ -11,10 +11,6 @@ community: "ggml"
 
 **Community:** [[communities/ggml]]
 
-## Depends On
-
-- [[nodes/sign]] _calls_
-
 ## Used By
 
 - [[nodes/hvx_vec_exp_f32]] _calls_

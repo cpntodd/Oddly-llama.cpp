@@ -1,19 +1,15 @@
 ---
 name: "processToolCallDelta"
 type: "function"
-file: "tools/ui/src/lib/services/chat.service.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/services/chat.service.ts"
+community: "build-sycl-2025"
 ---
 
 # processToolCallDelta
 
-**Type:** `function`  **File:** `tools/ui/src/lib/services/chat.service.ts`
+**Type:** `function`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/services/chat.service.ts`
 
-**Community:** [[communities/tools]]
-
-## Depends On
-
-- [[nodes/stringify]] _calls_
+**Community:** [[communities/build-sycl-2025]]
 
 ## Used By
 

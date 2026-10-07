@@ -1,12 +1,12 @@
 ---
 name: "vitest-setup-client.ts"
 type: "file"
-file: "tools/ui/vitest-setup-client.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/vitest-setup-client.ts"
+community: "build-sycl-2025"
 ---
 
 # vitest-setup-client.ts
 
-**Type:** `file`  **File:** `tools/ui/vitest-setup-client.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/vitest-setup-client.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

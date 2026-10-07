@@ -1,16 +1,12 @@
 ---
 name: "AgenticPerfWrapper.svelte"
 type: "file"
-file: "tools/ui/tests/client/components/AgenticPerfWrapper.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/client/components/AgenticPerfWrapper.svelte"
+community: "build-sycl-2025"
 ---
 
 # AgenticPerfWrapper.svelte
 
-**Type:** `file`  **File:** `tools/ui/tests/client/components/AgenticPerfWrapper.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/client/components/AgenticPerfWrapper.svelte`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/FixtureOpts]] _imports_
+**Community:** [[communities/build-sycl-2025]]

@@ -15,7 +15,6 @@ community: "tools"
 
 - [[nodes/shell_run]] _calls_
 - [[nodes/split_lines]] _calls_
-- [[nodes/back]] _calls_
 - [[nodes/find_entries]] _calls_
 - [[nodes/exec]] _calls_
 

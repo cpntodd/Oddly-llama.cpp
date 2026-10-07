@@ -18,6 +18,7 @@ community: "ggml"
 - [[nodes/getenv]] _calls_
 - [[nodes/ggml_get_op_params_i32]] _calls_
 - [[nodes/n_nodes]] _calls_
+- [[nodes/rows]] _calls_
 - [[nodes/layout]] _calls_
 - [[nodes/ggml_type_size]] _calls_
 - [[nodes/ggml_nelements]] _calls_

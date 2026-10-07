@@ -1,12 +1,12 @@
 ---
 name: "PwaMetaTags.svelte"
 type: "file"
-file: "tools/ui/src/lib/components/pwa/PwaMetaTags.svelte"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/components/pwa/PwaMetaTags.svelte"
+community: "build-sycl-2025"
 ---
 
 # PwaMetaTags.svelte
 
-**Type:** `file`  **File:** `tools/ui/src/lib/components/pwa/PwaMetaTags.svelte`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/components/pwa/PwaMetaTags.svelte`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

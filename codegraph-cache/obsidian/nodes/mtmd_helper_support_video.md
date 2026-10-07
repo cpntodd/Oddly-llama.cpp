@@ -2,14 +2,14 @@
 name: "mtmd_helper_support_video"
 type: "function"
 file: "tools/mtmd/mtmd-helper.cpp"
-community: "common"
+community: "tools"
 ---
 
 # mtmd_helper_support_video
 
 **Type:** `function`  **File:** `tools/mtmd/mtmd-helper.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tools]]
 
 ## Depends On
 

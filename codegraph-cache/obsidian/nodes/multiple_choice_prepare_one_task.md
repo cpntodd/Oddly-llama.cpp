@@ -2,14 +2,14 @@
 name: "multiple_choice_prepare_one_task"
 type: "function"
 file: "tools/perplexity/perplexity.cpp"
-community: "src"
+community: "common"
 ---
 
 # multiple_choice_prepare_one_task
 
 **Type:** `function`  **File:** `tools/perplexity/perplexity.cpp`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Used By
 

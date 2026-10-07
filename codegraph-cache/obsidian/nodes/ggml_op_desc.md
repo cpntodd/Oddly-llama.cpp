@@ -22,9 +22,6 @@ community: "ggml"
 ## Used By
 
 - [[nodes/common_debug_cb_eval]] _calls_
-- [[nodes/op_desc]] _calls_
-- [[nodes/matches_filter]] _calls_
-- [[nodes/usage]] _calls_
 - [[nodes/ggml_backend_sched_backend_from_buffer]] _calls_
 - [[nodes/ggml_backend_sched_print_assignments]] _calls_
 - [[nodes/ggml_gallocr_alloc_graph_impl]] _calls_
@@ -36,3 +33,6 @@ community: "ggml"
 - [[nodes/ggml_hexagon_dump_op_supp]] _calls_
 - [[nodes/op_remap_to_htp]] _calls_
 - [[nodes/ggml_backend_hexagon_device_supports_op]] _calls_
+- [[nodes/op_desc]] _calls_
+- [[nodes/matches_filter]] _calls_
+- [[nodes/usage]] _calls_

@@ -1,18 +1,12 @@
 ---
 name: "fragment"
 type: "class"
-file: "tools/ui/src/lib/constants/working-directory.constants.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/src/lib/constants/working-directory.constants.ts"
+community: "build-sycl-2025"
 ---
 
 # fragment
 
-**Type:** `class`  **File:** `tools/ui/src/lib/constants/working-directory.constants.ts`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/src/lib/constants/working-directory.constants.ts`
 
-**Community:** [[communities/tools]]
-
-## Used By
-
-- [[nodes/getAllSettings]] _imports_
-- [[nodes/CacheEntry]] _imports_
-- [[nodes/ldmatrix]] _calls_
+**Community:** [[communities/build-sycl-2025]]

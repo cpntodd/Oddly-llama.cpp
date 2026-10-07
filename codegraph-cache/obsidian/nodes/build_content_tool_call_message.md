@@ -2,14 +2,14 @@
 name: "build_content_tool_call_message"
 type: "function"
 file: "tests/test-chat-auto-parser.cpp"
-community: "common"
+community: "tests"
 ---
 
 # build_content_tool_call_message
 
 **Type:** `function`  **File:** `tests/test-chat-auto-parser.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

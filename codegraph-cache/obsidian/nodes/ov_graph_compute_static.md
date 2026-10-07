@@ -17,7 +17,6 @@ community: "ggml"
 - [[nodes/is_naive]] _calls_
 - [[nodes/ggml_time_us]] _calls_
 - [[nodes/get_is_prefill]] _calls_
-- [[nodes/at]] _calls_
 - [[nodes/value]] _calls_
 - [[nodes/print_input_tensor_info]] _calls_
 - [[nodes/print_output_tensor_info]] _calls_

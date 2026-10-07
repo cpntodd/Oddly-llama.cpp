@@ -2,14 +2,14 @@
 name: "server_mcp_server_config"
 type: "class"
 file: "tools/server/server-mcp.h"
-community: "src"
+community: "common"
 ---
 
 # server_mcp_server_config
 
 **Type:** `class`  **File:** `tools/server/server-mcp.h`
 
-**Community:** [[communities/src]]
+**Community:** [[communities/common]]
 
 ## Depends On
 

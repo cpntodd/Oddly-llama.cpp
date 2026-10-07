@@ -1,12 +1,12 @@
 ---
 name: "example.pdf"
 type: "file"
-file: "tools/ui/tests/stories/fixtures/assets/example.pdf"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/assets/example.pdf"
+community: "build-sycl-2025"
 ---
 
 # example.pdf
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/fixtures/assets/example.pdf`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/assets/example.pdf`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

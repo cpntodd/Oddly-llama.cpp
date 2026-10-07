@@ -15,7 +15,6 @@ community: "src"
 
 - [[nodes/get_size]] _calls_
 - [[nodes/push_back]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/empty]] _calls_
 - [[nodes/size]] _calls_
 
@@ -23,6 +22,6 @@ community: "src"
 
 - [[nodes/status]] _calls_
 - [[nodes/check_double_bos_eos]] _calls_
+- [[nodes/test_all]] _calls_
 - [[nodes/init_mul_mat_id_tensors]] _calls_
 - [[nodes/hsk]] _calls_
-- [[nodes/test_all]] _calls_

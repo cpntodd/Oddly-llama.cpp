@@ -2,14 +2,14 @@
 name: "type_to_gguf_type"
 type: "class"
 file: "ggml/src/gguf.cpp"
-community: "ggml"
+community: "conversion"
 ---
 
 # type_to_gguf_type
 
 **Type:** `class`  **File:** `ggml/src/gguf.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/conversion]]
 
 ## Depends On
 

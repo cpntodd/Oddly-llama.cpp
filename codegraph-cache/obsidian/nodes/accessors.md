@@ -1,15 +1,15 @@
 ---
 name: "accessors"
 type: "class"
-file: "tools/ui/eslint.config.js"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/eslint.config.js"
+community: "build-vulkan-gcc"
 ---
 
 # accessors
 
-**Type:** `class`  **File:** `tools/ui/eslint.config.js`
+**Type:** `class`  **File:** `build-sycl-2025/tools/ui/ui-src/eslint.config.js`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-vulkan-gcc]]
 
 ## Depends On
 

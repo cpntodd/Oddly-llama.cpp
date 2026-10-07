@@ -2,14 +2,14 @@
 name: "test_command7_parser_compare"
 type: "function"
 file: "tests/test-chat-peg-parser.cpp"
-community: "common"
+community: "tests"
 ---
 
 # test_command7_parser_compare
 
 **Type:** `function`  **File:** `tests/test-chat-peg-parser.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Depends On
 

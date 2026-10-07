@@ -1,12 +1,12 @@
 ---
 name: "pwa.spec.ts"
 type: "file"
-file: "tools/ui/tests/unit/pwa.spec.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/unit/pwa.spec.ts"
+community: "build-sycl-2025"
 ---
 
 # pwa.spec.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/unit/pwa.spec.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/unit/pwa.spec.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

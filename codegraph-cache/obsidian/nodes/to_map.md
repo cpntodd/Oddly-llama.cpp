@@ -2,14 +2,14 @@
 name: "to_map"
 type: "function"
 file: "common/jinja/caps.cpp"
-community: "common"
+community: "tests"
 ---
 
 # to_map
 
 **Type:** `function`  **File:** `common/jinja/caps.cpp`
 
-**Community:** [[communities/common]]
+**Community:** [[communities/tests]]
 
 ## Used By
 

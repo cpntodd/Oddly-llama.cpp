@@ -2,14 +2,14 @@
 name: "llama_max_devices"
 type: "function"
 file: "src/llama.cpp"
-community: "tools"
+community: "common"
 ---
 
 # llama_max_devices
 
 **Type:** `function`  **File:** `src/llama.cpp`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/common]]
 
 ## Used By
 

@@ -2,14 +2,14 @@
 name: "dspqueue_buffer"
 type: "class"
 file: "ggml/src/ggml-hexagon/htp-drv.cpp"
-community: "ggml"
+community: "src"
 ---
 
 # dspqueue_buffer
 
 **Type:** `class`  **File:** `ggml/src/ggml-hexagon/htp-drv.cpp`
 
-**Community:** [[communities/ggml]]
+**Community:** [[communities/src]]
 
 ## Depends On
 

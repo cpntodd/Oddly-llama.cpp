@@ -13,6 +13,7 @@ community: "common"
 
 ## Depends On
 
+- [[nodes/is_string]] _calls_
 - [[nodes/value]] _calls_
 
 ## Used By

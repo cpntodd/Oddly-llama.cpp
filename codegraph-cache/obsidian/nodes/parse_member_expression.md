@@ -17,7 +17,6 @@ community: "common"
 - [[nodes/parse_member_expression_arguments]] _calls_
 - [[nodes/expect]] _calls_
 - [[nodes/parse_primary_expression]] _calls_
-- [[nodes/move]] _calls_
 
 ## Used By
 

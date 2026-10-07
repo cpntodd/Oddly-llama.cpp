@@ -1,12 +1,12 @@
 ---
 name: "data-analysis.ts"
 type: "file"
-file: "tools/ui/tests/stories/fixtures/data-analysis.ts"
-community: "tools"
+file: "build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/data-analysis.ts"
+community: "build-sycl-2025"
 ---
 
 # data-analysis.ts
 
-**Type:** `file`  **File:** `tools/ui/tests/stories/fixtures/data-analysis.ts`
+**Type:** `file`  **File:** `build-sycl-2025/tools/ui/ui-src/tests/stories/fixtures/data-analysis.ts`
 
-**Community:** [[communities/tools]]
+**Community:** [[communities/build-sycl-2025]]

@@ -13,6 +13,6 @@ community: "ggml"
 
 ## Used By
 
-- [[nodes/if]] _calls_
 - [[nodes/get_device_backend_and_type]] _calls_
 - [[nodes/hmx_flash_attn_ext]] _calls_
+- [[nodes/if]] _calls_

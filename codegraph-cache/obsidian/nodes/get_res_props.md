@@ -21,7 +21,6 @@ community: "tools"
 - [[nodes/error]] _calls_
 - [[nodes/format_error_response]] _calls_
 - [[nodes/is_sleeping]] _calls_
-- [[nodes/move]] _calls_
 - [[nodes/next]] _calls_
 - [[nodes/should_stop]] _calls_
 - [[nodes/llama_vocab_fim_pre]] _calls_
@@ -29,7 +28,7 @@ community: "tools"
 - [[nodes/llama_vocab_fim_mid]] _calls_
 - [[nodes/string_format]] _calls_
 - [[nodes/parse]] _calls_
-- [[nodes/at]] _calls_
+- [[nodes/is_string]] _calls_
 - [[nodes/json_value]] _calls_
 - [[nodes/size]] _calls_
 - [[nodes/server_chat_convert_responses_to_chatcmpl]] _calls_
@@ -43,3 +42,4 @@ community: "tools"
 - [[nodes/tokens_to_str]] _calls_
 - [[nodes/server_task]] _calls_
 - [[nodes/fs_validate_filename]] _calls_
+- [[nodes/process_mtmd_prompt]] _calls_
